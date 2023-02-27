@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Vibriowatch'
+copyright = '2023, Avril Coghlan'
+author = 'Avril Coghlan'
 
 release = '0.1'
 version = '0.1.0'
