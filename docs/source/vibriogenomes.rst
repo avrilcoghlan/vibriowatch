@@ -14,7 +14,7 @@ The *Vibrio cholerae* genome was first sequenced by `Heidelberg et al 2000`_. Th
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. image:: Picture17.png
-  :width: 500
+  :width: 300
 
 It's worth bearing in mind that N16961 is the reference strain, but there may be a wide variety of genomic variation in the *V. cholerae population* worldwide. Some interesting examples have already been reported. `Johnson et al 2015`_ reported a *V. cholerae* isolate that has the two chromosomes fused into one big chromosome. `Okada et al 2015`_ reported an isolate with a third replicon of nearly one Megabase so that its genome size was five Megabase. As we sequence more and more genomes of *V. cholorae* isolates, we are likely to see more and more genomic variation.
 
@@ -25,7 +25,9 @@ It's worth bearing in mind that N16961 is the reference strain, but there may be
 What genomic data is available for Vibrio cholerae
 --------------------------------------------------
 
-Bla bla
+Since the year 2000, genome sequencing technologies have greatly improved, and this has meant that many different *V. cholerae* isolates have had their genomes sequenced. An example of this with a key paper by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae* isolates that had been collected over nearly 100 years. These isolates included both clinical and environmental isolates from many different countries. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 Contact
 -------
