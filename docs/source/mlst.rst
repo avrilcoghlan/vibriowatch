@@ -13,6 +13,8 @@ What is known about Vibrio cholerae lineages
 
 A key early paper on *V. cholerae* genomes was that by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae*.
 
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
 Here is a phylogenetic tree that I made (using Vibriowatch) of these 23 isolates:
 
 .. image:: Picture18.png
