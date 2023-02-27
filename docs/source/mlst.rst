@@ -25,21 +25,19 @@ In the tree of the 23 isolates, you can see that the isolates causing the curren
 Carry out MLST analysis of your isolate
 ---------------------------------------
 
-Vibriowatch uses the *Vibrio cholerae* MLST (multi-locus sequence typing) scheme of `Octavia et al 2013`_, which is based on seven housekeeping genes.
+Vibriowatch uses the *Vibrio cholerae* MLST (multi-locus sequence typing) scheme of `Octavia et al 2013`_, a commonly used MLST scheme for *V. cholerae*, which is based on seven housekeeping genes (*adk*, *gyrB*, *mdh*, *metE*, *pntA*, *purM*, *pyrC*).
+If two isolates have identical sequences at these seven genes, they will have the same sequence type; but if they differ by at least one base (ie. one 'single nucleotide polymorphism' or 'SNP') in their sequences at the seven genes, they will have a different sequence type. 
 
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
 
-The MLST information is very fast for Vibriowatch to calculate, and can give you a quick idea of whether your isolate belongs to the current pandemic ('7PET') lineage of *V. cholerae*.
+For example, here are the MLST sequence types of the 23 isolates sequenced by `Chun et al 2009`_ (see above):
 
-To view MLST information for your isolate's genome, you can look at the top of the 'report page' for your isolate in Vibriowatch.
-An example of the top of a report page is shown here:
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-.. image:: Picture15.png
-  :width: 500
-  
-In the example above, the isolate is classified as MLST sequence type ST69, based on its sequence at the seven housekeeping genes (ie. *adk*, *gyrB*, *mdh*, *metE*, *pntA*, *purM*, *pyrC*). The allele at each gene in the MLST scheme is given, e.g. this isolate has allele 7 of gene *adk*. 
+.. image:: Picture25.png
+  :width: 650
 
-ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*, so this suggests that this isolate belongs to the pandemic lineage. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515 (see `Cheney et al 2021`_). Note that it is possible that the pandemic lineage also contains other rare STs. Therefore, if your isolate is not ST69 or ST515, it is still possible that it your isolate belogns to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage`_).
+You can see that isolates MO10, B33, MJ-1236, CIRS_101, N16961 and RC9, which belong to the current pandemic lineage (7PET lineage), all have MLST sequence type ST69. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515 (see `Cheney et al 2021`_). 
 
 .. _Cheney et al 2021: https://pubmed.ncbi.nlm.nih.gov/34427512/
 
@@ -50,6 +48,16 @@ STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
 
 Sometimes you will see that the sequence type of an isolate does not start with 'ST', but instead with a '*' symbol. This means that it is a novel sequence type that has not been included in the *V. cholerae* MLST scheme.
+
+As you can see, MLST information can give you a quick idea of whether your isolate might belong to the current pandemic ('7PET') lineage of *V. cholerae*.
+To view MLST information for your isolate's genome, you can look at the top of the 'report page' for your isolate in Vibriowatch.
+An example of the top of a report page is shown here:
+
+.. image:: Picture15.png
+  :width: 500
+  
+In the example above, the isolate is classified as MLST sequence type ST69, based on its sequence at the seven housekeeping genes (ie. *adk*, *gyrB*, *mdh*, *metE*, *pntA*, *purM*, *pyrC*). The allele at each gene in the MLST scheme is given, e.g. this isolate has allele 7 of gene *adk*. 
+ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*, so this suggests that this isolate belongs to the pandemic lineage. Note that it is possible that the pandemic lineage also contains other rare STs as well as ST69 and ST515. Therefore, if you isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage`_).
 
 Compare your isolate to Vibriowatch's reference genomes
 -------------------------------------------------------
