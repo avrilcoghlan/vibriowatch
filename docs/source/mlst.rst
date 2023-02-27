@@ -3,9 +3,15 @@
 
 In this section, we will describe how you can:
 
+* `What is known about Vibrio cholerae lineages`_.
 * `Carry out MLST analysis of your isolate`_.
 * `Compare your isolate to Vibriowatch's reference genomes`_.
 * `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage`_.
+
+What is known about Vibrio cholerae lineages
+--------------------------------------------
+
+Bla bla bla
 
 Carry out MLST analysis of your isolate
 ---------------------------------------
