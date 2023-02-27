@@ -6,6 +6,7 @@ In this section, we will describe:
 * `The Vibrio cholerae reference genome`_.
 * `What genomic data is available for Vibrio cholerae`_.
 * `Pathogenwatch and Vibriowatch`_.
+* `How many V. cholerae genomes are in Vibriowatch`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -57,7 +58,46 @@ Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which 
 
 .. _Avican et al 2021: https://pubmed.ncbi.nlm.nih.gov/34078900/
 
-You can see that there are several species (e.g. *Steptococcus pneumoniae*) that include a large fraction of the genomes added so far. This reflects the fact that the research communities studying those species have found Pathogenwatch to be an extremely useful website for disseminating and analysing genome data for their species. We are convinced that Pathogenwatch is also an extremely useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 4700 *V. cholerae* genomes into Pathogenwatch, that is, its *V. cholerae* component Vibriowatch. But as we mentioned, there are many 1000s of genomes already available, and our goal is to upload as many as possible in the near future.
+You can see that there are several species (e.g. *Steptococcus pneumoniae*) that include a large fraction of the genomes added so far. This reflects the fact that the research communities studying those species have found Pathogenwatch to be an extremely useful website for disseminating and analysing genome data for their species. 
+
+How many V. cholerae genomes are in Vibriowatch
+-----------------------------------------------
+
+We are convinced that Pathogenwatch is a useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 4700 *V. cholerae* genomes into Pathogenwatch (as of February 2023), that is, its *V. cholerae* component Vibriowatch. But as we mentioned, there are many 1000s of genomes already available, and our goal is to upload as many as possible in the near future. You can see a list of the *V. cholerae* genomes uploaded into Pathogenwatch by visiting the `Pathogenwatch`_ website. 
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+Note that you can also find the full list of genomes in your private Vibriowatch account by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture21.png
+  :width: 150
+  
+If you click on 'Public Genomes' in this menu, it will give you the list of all the genomes in Pathogenwatch. To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
+
+.. image:: Picture22.png
+  :width: 150
+  
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
+
+.. image:: Picture23.png
+  :width: 650
+
+If you click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 4700 isolates were collected:
+
+.. image:: Picture24.png
+  :width: 650
+
+For example, you can see 207 were collected from Mexico, 198 from Haiti, and 262 from China, and so on. 
+
+The approximately 4700 isolates were collected between 1916 and 2020. 
+As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map will be updated, and we hope to cover a larger time span. 
+
+In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website, both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
 
 Contact
 -------
