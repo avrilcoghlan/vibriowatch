@@ -11,7 +11,14 @@ In this section, we will describe how you can:
 What is known about Vibrio cholerae lineages
 --------------------------------------------
 
-Bla bla bla
+A key early paper on *V. cholerae* genomes was that by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae*.
+
+Here is a phylogenetic tree that I made (using Vibriowatch) of these 23 isolates:
+
+.. image:: Picture18.png
+  :width: 650
+  
+In the tree of the 23 isolates, you can see that the isolates causing the current global pandemic, or 'seventh pandemic', all belong to a particular clade highlighted with the red box here. These seventh pandemic (7PET) lineage isolates belong to a larger clade which has been named the 'phylocore group 1 clade' or 'PG1' clade, which has a sister clade called the 'phylocore group 2' clade or 'PG2' clade. The phylocore group clades are distantly related to the other isolates sequenced, which are also all distantly related to each other.
 
 Carry out MLST analysis of your isolate
 ---------------------------------------
