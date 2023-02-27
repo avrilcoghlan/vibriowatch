@@ -41,9 +41,9 @@ Of course, these 22 key papers do not include all papers that have published *V.
 
 Clearly, there is a huge amount of genomic data available for *V. cholerae*. Our goal in the VibrioWatch project is to make all this data available and useful for clinicians, epidemiologists and researchers studying *V. cholerae*.
 
-.._NCBI database: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=666
+.. _NCBI database: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=666
 
-.._ENA database: https://www.ebi.ac.uk/ena/browser/advanced-search
+.. _ENA database: https://www.ebi.ac.uk/ena/browser/advanced-search
 
 Pathogenwatch and Vibriowatch
 -----------------------------
