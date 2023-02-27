@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+Vibriowatch
+===========
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Vibriowatch is a database with genomes and metadata for *Vibrio cholerae*, with bioinformatics tools.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://vibriowatch.readthedocs.io/en/latest/
+
