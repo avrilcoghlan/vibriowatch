@@ -10,6 +10,7 @@ In this section, we will describe:
 * `Where in the world were the isolates in Vibriowatch collected`_.
 * `How to search for an isolate in Vibriowatch and see its report page`_.
 * `How to make a collection of isolates in Vibriowatch`_.
+* `Exploring the timeline for a collection of isolates`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -152,7 +153,7 @@ A search bar will now appear at the top left:
 If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
 
 .. image:: Picture28.png
-  :width: 750
+  :width: 850
   
 Note that sometimes if there is a hyphen or dash in the name of an isolate, you might not find the isolate if is stored in a slightly different format in Vibriowatch. For example, HCUF_01 is stored as 'HCUF01' in Vibriowatch, so you won't find it if you search for 'HCUF_01' or 'HCUF-01', but you can find it if you search for part of the name, e.g. 'HCUF'. 
   
@@ -175,10 +176,12 @@ As mentioned above, a key early paper on *V. cholerae* genomics was by `Chun et 
 
 The 23 isolates sequenced by `Chun et al 2009`_ were: MO10, B33, MJ-1236, CIRS-101, N16961, RC9, NCTC_8457, MAK757, BX330286, 2740-80, O395, V52, 12129(1), MZO-3, AM-19226, TMA21, 623-39, MZO-2, 1587, V51, RC385, VL426, and TM11079-80. 
 
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
 To make a collection in Vibriowatch for these isolates, we can search for the isolates one-by-one (in the same way that we searched for HCUF-01 above). To include the isolate in the collection, when we find the isolate, we tick the box on the left of the isolate's name: 
 
 .. image:: Picture29.png
-  :width: 750
+  :width: 850
   
 When you have searched for and ticked the boxes for all 23 of the genomes sequenced by `Chun et al 2009`_, you will see a purple button the top right saying '23 Selected Genomes':
   
@@ -188,13 +191,48 @@ When you have searched for and ticked the boxes for all 23 of the genomes sequen
 If you click on this purple button you will see another purple button saying 'Sign in to create collection':
   
 .. image:: Picture31.png
-  :width: 750
+  :width: 450
   
 You will need to now sign into the Pathogenwatch/Vibriowatch website.
 To make a collection on the Pathogenwatch/Vibriowatch website, it's necessary
 to make an account first, for example, using your email address as your login. 
 
+Once you have logged in, if you now click on the purple button saying '23 Selected Genomes', you will see a purple button 'Create collection'. You will need to fill in a title and brief description of the collection, and a PubMed id. if you like:
 
+.. image:: Picture32.png
+  :width: 650
+  
+The collection will only be visible in your private Vibriowatch account, so only you will be able to view it.
+Now click on the 'Create now' purple button to create the collection.
+
+Vibriowatch will now build a tree for the collection, which may take a little while if your collection has hundreds of isolates, but will
+be very fast for the 23 isolates of `Chun et al 2009`_.
+
+You will now see a map showing where the isolates in the collection were collected (at the top), and a timeline of when they were collected (at the bottom):
+
+.. image:: Picture33.png
+  :width: 650
+  
+Exploring the timeline for a collection of isolates
+---------------------------------------------------
+
+By default, the timeline for a collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
+
+.. image:: Picture34.png
+  :width: 150
+  
+You will see a menu appear with settings for the timeline. 
+
+.. image:: Picture35.png
+  :width: 150
+  
+To change from day of collection to year of collection, click on 'Day' in the settings menu, and choose 'Year'. You will now see the timeline in terms of year of collection of the isolates. You can see that the isolates were collected between 1930 and 2004.
+
+If you hover your mouse over the box representing a particular isolate, you will see the year of collection of that isolate pop up over the box representing the isolate:
+
+.. image:: Picture36.png
+  :width: 650
+  
 Contact
 -------
 
