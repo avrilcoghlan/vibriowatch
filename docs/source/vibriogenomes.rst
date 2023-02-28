@@ -11,6 +11,7 @@ In this section, we will describe:
 * `How to search for an isolate in Vibriowatch and see its report page`_.
 * `How to make a collection of isolates in Vibriowatch`_.
 * `Exploring the timeline for a collection of isolates`_.
+* `Exploring the tree for a collection of isolates`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -221,7 +222,7 @@ By default, the timeline for a collection of isolates shows the day of collectio
 .. image:: Picture34.png
   :width: 50
   
-You will see a menu appear with settings for the timeline. 
+You will see a menus appear with settings for the timeline:
 
 .. image:: Picture35.png
   :width: 350
@@ -233,6 +234,29 @@ If you hover your mouse over the box representing a particular isolate, you will
 .. image:: Picture36.png
   :width: 850
   
+Exploring the tree for a collection of isolates
+-----------------------------------------------
+
+As mentioned above, Vibriowatch builds a tree for each collection of isolates. You should see a big purple button 'View tree' in the middle of the map of isolates for your collection. If you click on the purple button, you will see the tree of your isolates on the left panel, the map of your isolates on the right panel, and the timeline for your isolates below that:
+
+.. image:: Picture37.png
+  :width: 850
+  
+By default, the isolate names are not shown on the tree. To show the isolate names on the tree, click on the small 'Settings' symbol at the top right of the tree panel:
+
+.. image:: Picture34.png
+  :width: 50
+  
+ You will see some menus appear with settings for the tree:
+
+.. image:: Picture38.png
+  :width: 350
+
+To show the isolate names on the tree, click on the 'Nodes and labels' menu that appeared, and slide the 'Show leaf labels' slider to the right. You should now see the isolate names appear on the tree. To see the whole of your tree, you may have to zoom out by rolling the rollerball on your mouse away from you:
+
+.. image:: Picture39.png
+  :width: 650
+
 Contact
 -------
 
