@@ -93,7 +93,46 @@ ST69 is one of the STs (sequence types) often seen for the current pandemic ('7P
 Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage
 ----------------------------------------------------------------------------------
 
-Bla bla
+To figure out whether your isolate belongs to the pandemic lineage, you can make a Vibriowatch collection containing both your isolate and the isolates of `Chun et al 2009`_. To do this, go to your list of Vibriowatch collections, and click on 'List Genomes' beside your `Chun et al 2009`_ collection:
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture45.png
+  :width: 850
+  
+This will list all 23 isolates in your `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the boxes beside the 23 isolates sequenced by `Chun et al 2009`_.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Next, search for your isolate of interest, that is, the one for which you want to find out whether it belongs to the current
+pandemic lineage (7PET lineage). As an example, let's take isolate HCUF_O1, an isolate collected in Haiti in 2010 and sequenced by `Hasan et al 2012`_. We can search for this isolate in Vibriowatch, and tick the box beside its name to select it. Then we will have 24 isolates selected, and we can make a new collection containing these 24 isolates (you could call it something like 'Chun et al plus HCUF-01'). 
+
+.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
+
+Vibriowatch will make a tree for these 24 isolates, which should look like this:
+
+.. image:: Picture48.png
+  :width: 650
+  
+You can see that HCUF-01 is placed in the clade of the tree containing the 7PET lineage isolates (MO10, B33, MJ1236, CIRS101, N16961, RC9). Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
+
+.. _CDC: https://www.cdc.gov/cholera/haiti/index.html
+
+As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and ATCC 25872, Vibriowatch will build a tree that should look something like this:
+
+.. image:: Picture49.png
+  :width: 650
+
+.. Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+This shows that ATCC 25872 does not group together with the 7PET lineage isolates, but instead with isolate V52, an isolate collected from a relatively small outbreak in Sudan in 1968. This strongly suggests that ATCC 25872 does not belong to the current pandemic lineage (7PET lineage). This is consistent with the fact that the outbreak in former Czechoslovakia in 1965 was relatively small (`Aldova et al 1968`_). If we display the MLST sequence types on the tree in Vibriowatch, we can see that ATCC 25872 and V52 belong to the same MLST sequence type, ST68:
+
+.. image:: Picture50.png
+  :width: 650
+  
+In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
 
 Acknowledgements
 ----------------
