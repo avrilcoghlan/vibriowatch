@@ -152,7 +152,9 @@ A search bar will now appear at the top left:
 If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
 
 .. image:: Picture28.png
-  :width: 650
+  :width: 750
+  
+Note that sometimes if there is a hyphen or dash in the name of an isolate, you might not find the isolate if is stored in a slightly different format in Vibriowatch. For example, HCUF_01 is stored as 'HCUF01' in Vibriowatch, so you won't find it if you search for 'HCUF_01' or 'HCUF-01', but you can find it if you search for part of the name, e.g. 'HCUF'. 
   
 You can click on the isolate's name (link 'HCUF01') to go to its 'report page'. 
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
@@ -163,6 +165,35 @@ This shows the top of the report page for HCUF-01:
 
 How to make a collection of isolates in Vibriowatch
 ---------------------------------------------------
+
+A nice feature of Pathogenwatch/Vibriowatch is that it is possible to make a 'collection' of isolates, and Vibriowatch will
+build a tree for the isolates in the collection, and let you display their metadata, as well as results of some bioinformatics analyses, on the tree.
+
+As mentioned above, a key early paper on *V. cholerae* genomics was by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae* isolates. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+The 23 isolates sequenced by `Chun et al 2009`_ were: MO10, B33, MJ-1236, CIRS-101, N16961, RC9, NCTC_8457, MAK757, BX330286, 2740-80, O395, V52, 12129(1), MZO-3, AM-19226, TMA21, 623-39, MZO-2, 1587, V51, RC385, VL426, and TM11079-80. 
+
+To make a collection in Vibriowatch for these isolates, we can search for the isolates one-by-one (in the same way that we searched for HCUF-01 above). To include the isolate in the collection, when we find the isolate, we tick the box on the left of the isolate's name: 
+
+.. image:: Picture29.png
+  :width: 750
+  
+When you have searched for and ticked the boxes for all 23 of the genomes sequenced by `Chun et al 2009`_, you will see a purple button the top right saying '23 Selected Genomes':
+  
+.. image:: Picture30.png
+  :width: 150
+  
+If you click on this purple button you will see another purple button saying 'Sign in to create collection':
+  
+.. image:: Picture31.png
+  :width: 750
+  
+You will need to now sign into the Pathogenwatch/Vibriowatch website.
+To make a collection on the Pathogenwatch/Vibriowatch website, it's necessary
+to make an account first, for example, using your email address as your login. 
+
 
 Contact
 -------
