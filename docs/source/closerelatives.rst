@@ -47,24 +47,24 @@ To see a list of the 138 closely related isolates in that cluster, you can click
 To see the cluster of the 138 closely related isolates, click on the big purple 'View cluster' button. This will bring up a webpage showing the cgMLST cluster on the left and a map of the isolates in it on the right:
 
 .. image:: Picture57.png
-  :width: 650
+  :width: 850
   
 You can see from the map that HCUF_01 and other isolates from Haiti are closely related to isolates from the Dominican Republic (Haiti's neighbour), Mexico, but also India and Nepal. 
 
 If you click on the circle representing Haiti on the map, it will highlight the Haitian isolates in the cgMLST cluster and the timeline below, and youc an see the Haitian isolates are all in one big 'blob' of closely related isolates in the cgMLST cluster, and were collected in 2010 and 2012:
 
 .. image:: Picture60.png
-  :width: 650
+  :width: 850
 
 If you click on the circle representing India on the map, it will highlight the India isolates in the cgMLST cluster and the timeline below, and you can see that the Indian isolates were mostly from 2011 and some of them are at the very bottom of the cgMLST cluster (relatively distant from HCUF_01):
 
 .. image:: Picture58.png
-  :width: 650
+  :width: 850
   
 However, if you click on the circle representing Nepal on the map, it will highlight the Nepalese isolates in the cgMLST in the cgMLST cluster and timeline, and you can see the Nepalese isolates were mostly from 2010 and some of them are in the same big 'blob' of closely related Haitian isolates as HCUF_01:
 
 .. image:: Picture59.png
-  :width: 650
+  :width: 850
 
 This suggests that HCUF_01 and other isolates from the Haiti 2010 epidemic were closely related to isolates from Nepal and India. This agrees with extensive analyses that have been since published on the origin of the Haiti epidemic in 2010, which led to the hypothesis that *V. cholerae* was carried from Nepal to Haiti (reviewed in `Orata et al 2014`_).
 
