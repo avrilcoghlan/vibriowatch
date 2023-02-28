@@ -30,7 +30,7 @@ Among the 23 isolate sequenced by `Chun et al 2009`_, there were quite a lot of 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. image:: Picture46.png
-  :width: 450
+  :width: 350
   
 The 7PET, Gulf Coast and MX-2 lineages belong to the PG-1 clade previously described by `Chun et al 2009`_, while the Classical lienage belongs to the PG-2 clade described by `Chun et al 2009`_.
 
