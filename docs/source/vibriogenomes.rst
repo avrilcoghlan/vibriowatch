@@ -191,7 +191,7 @@ When you have searched for and ticked the boxes for all 23 of the genomes sequen
 If you click on this purple button you will see another purple button saying 'Sign in to create collection':
   
 .. image:: Picture31.png
-  :width: 450
+  :width: 250
   
 You will need to now sign into the Pathogenwatch/Vibriowatch website.
 To make a collection on the Pathogenwatch/Vibriowatch website, it's necessary
@@ -200,7 +200,7 @@ to make an account first, for example, using your email address as your login.
 Once you have logged in, if you now click on the purple button saying '23 Selected Genomes', you will see a purple button 'Create collection'. You will need to fill in a title and brief description of the collection, and a PubMed id. if you like:
 
 .. image:: Picture32.png
-  :width: 650
+  :width: 350
   
 The collection will only be visible in your private Vibriowatch account, so only you will be able to view it.
 Now click on the 'Create now' purple button to create the collection.
@@ -211,7 +211,7 @@ be very fast for the 23 isolates of `Chun et al 2009`_.
 You will now see a map showing where the isolates in the collection were collected (at the top), and a timeline of when they were collected (at the bottom):
 
 .. image:: Picture33.png
-  :width: 650
+  :width: 850
   
 Exploring the timeline for a collection of isolates
 ---------------------------------------------------
@@ -219,19 +219,19 @@ Exploring the timeline for a collection of isolates
 By default, the timeline for a collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
 
 .. image:: Picture34.png
-  :width: 150
+  :width: 50
   
 You will see a menu appear with settings for the timeline. 
 
 .. image:: Picture35.png
-  :width: 150
+  :width: 350
   
 To change from day of collection to year of collection, click on 'Day' in the settings menu, and choose 'Year'. You will now see the timeline in terms of year of collection of the isolates. You can see that the isolates were collected between 1930 and 2004.
 
 If you hover your mouse over the box representing a particular isolate, you will see the year of collection of that isolate pop up over the box representing the isolate:
 
 .. image:: Picture36.png
-  :width: 650
+  :width: 850
   
 Contact
 -------
