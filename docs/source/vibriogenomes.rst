@@ -100,7 +100,7 @@ To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appe
 Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
 
 .. image:: Picture23.png
-  :width: 650
+  :width: 850
 
 Where in the world were the isolates in Vibriowatch collected
 -------------------------------------------------------------
@@ -109,7 +109,7 @@ Once you have got the list of the approximately 4700 *V. cholerae* isolates in V
 if you now click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 4700 isolates were collected:
 
 .. image:: Picture24.png
-  :width: 650
+  :width: 850
 
 For example, you can see 207 were collected from Mexico, 198 from Haiti, and 262 from China, and so on. 
 
@@ -146,7 +146,7 @@ To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appe
 Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
 
 .. image:: Picture23.png
-  :width: 650
+  :width: 850
   
 A search bar will now appear at the top left: 
 
