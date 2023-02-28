@@ -12,6 +12,7 @@ In this section, we will describe:
 * `How to make a collection of isolates in Vibriowatch`_.
 * `Exploring the timeline for a collection of isolates`_.
 * `Exploring the tree for a collection of isolates`_.
+* `Displaying metadata on the tree for a collection of isolates`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -209,6 +210,8 @@ Now click on the 'Create now' purple button to create the collection.
 Vibriowatch will now build a tree for the collection, which may take a little while if your collection has hundreds of isolates, but will
 be very fast for the 23 isolates of `Chun et al 2009`_.
 
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
 You will now see a map showing where the isolates in the collection were collected (at the top), and a timeline of when they were collected (at the bottom):
 
 .. image:: Picture33.png
@@ -256,6 +259,36 @@ To show the isolate names on the tree, click on the 'Nodes and labels' menu that
 
 .. image:: Picture39.png
   :width: 650
+
+Displaying metadata on the tree for a collection of isolates
+------------------------------------------------------------
+
+Instead of showing the isolate name beside the leaves (tips) of the tree, you can instead show some of the curated metadata that was uploaded to Vibriowatch with the genome sequences.
+
+To do this, click on the button saying 'Timeline' below the tree, and instead select 'Metadata' from the menu that appears:
+
+.. image:: Picture40.png
+  :width: 250
+
+Now instead of the map, below the tree you will see a panel with curated metadata:
+
+.. image:: Picture41.png
+  :width: 850
+
+You can click on a column that you want to display beside the tree instead of the isolate names, e.g. 'serogroup_phenotype' to show the experimentally determined serogroups:
+
+.. image:: Picture42.png
+  :width: 850
+
+You will now see the serogroups displayed beside the leaves of the tree in the tree panel:
+
+.. image:: Picture43.png
+  :width: 650
+
+We can see that the isolates collected by `Chun et al 2009`_ had a variety of serogroups, including O1, O139, O37, O39, etc.
+Some of the isolates were just assigned serogroup 'non O1', so it was only determined that they were not O1, but their exact serogroup was not determined. Isolates belonging to the current pandemic lineage (7PET lineage) have been found to be serogroup O1, or sometimes O139. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 Contact
 -------
