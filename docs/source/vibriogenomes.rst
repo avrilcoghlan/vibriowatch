@@ -7,6 +7,7 @@ In this section, we will describe:
 * `What genomic data is available for Vibrio cholerae`_.
 * `Pathogenwatch and Vibriowatch`_.
 * `How many V. cholerae genomes are in Vibriowatch`_.
+* `How to search for an isolate in Vibriowatch`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -104,6 +105,43 @@ The approximately 4700 isolates were collected between 1916 and 2020.
 As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map will be updated, and we hope to cover a larger time span. 
 
 In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website, both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
+
+How to search for an isolate in Vibriowatch
+-------------------------------------------
+
+You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
+For example, isolate HCUF_O1 is an isolate collected in Haiti in 2010, sequenced by `Hasan et al 2012`_. 
+
+.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
+
+You can search for isolate HCUF_01 in Vibriowatch by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture10.png
+  :width: 150
+  
+If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
+
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
+
+.. image:: Picture23.png
+  :width: 650
+  
+A search bar will now appear at the top left: 
+
+.. image:: Picture22.png
+  :width: 150
+  
+If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
+
+.. image:: Picture28.png
+  :width: 650
+  
+You can click on the isolate's name (link 'HCUF01') to go to its report page. 
 
 Contact
 -------
