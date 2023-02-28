@@ -123,7 +123,7 @@ As another example, let's take isolate ATCC 25872, which was collected from an o
 .. image:: Picture49.png
   :width: 650
 
-.. Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
+.. _Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
