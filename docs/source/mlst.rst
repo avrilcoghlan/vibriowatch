@@ -72,7 +72,7 @@ You can see that isolates MO10, B33, MJ-1236, CIRS_101, N16961 and RC9, which be
 
 .. _Cheney et al 2021: https://pubmed.ncbi.nlm.nih.gov/34427512/
 
-STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked to other lineages that cause relatively small outbreaks, are ST75, which includes the 'Gulf Coast' lineage (see `Luo et al 2016`_); and ST68, which has caused outbreaks in Sudan and former Czechoslovakia (see `Octavia et al 2013`_). 
+STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked to other lineages that cause relatively small outbreaks, are ST75, which includes the 'Gulf Coast' lineage (see `Luo et al 2016`_); and ST68, which has caused outbreaks in Sudan and former Czechoslovakia (Dorman & Thomson 2023, in press; see also `Octavia et al 2013`_). 
 
 .. _Luo et al 2016: https://pubmed.ncbi.nlm.nih.gov/26920786/
 
