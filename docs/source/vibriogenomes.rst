@@ -269,7 +269,7 @@ Instead of showing the isolate name beside the leaves (tips) of the tree, you ca
 To do this, click on the button saying 'Timeline' below the tree, and instead select 'Metadata' from the menu that appears:
 
 .. image:: Picture40.png
-  :width: 50
+  :width: 100
 
 Now instead of the map, below the tree you will see a panel with curated metadata:
 
