@@ -66,7 +66,7 @@ Note that you can produce such a figure yourself, by looking at the collection t
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. image:: Picture47.png
-  :width: 650
+  :width: 450
   
 You can see that isolates MO10, B33, MJ-1236, CIRS_101, N16961 and RC9, which belong to the current pandemic lineage (7PET lineage), all have MLST sequence type ST69. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515 (see `Cheney et al 2021`_). 
 
