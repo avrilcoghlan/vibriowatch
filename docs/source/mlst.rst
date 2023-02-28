@@ -22,6 +22,25 @@ Here is a phylogenetic tree that I made (using Vibriowatch) of these 23 isolates
   
 In the tree of the 23 isolates, you can see that the isolates causing the current global pandemic, or 'seventh pandemic', all belong to a particular clade highlighted with the red box here. These seventh pandemic (7PET) lineage isolates belong to a larger clade which has been named the 'phylocore group 1 clade' or 'PG1' clade, which has a sister clade called the 'phylocore group 2' clade or 'PG2' clade. The phylocore group clades are distantly related to the other isolates sequenced, which are also all distantly related to each other.
 
+Among the 23 isolate sequenced by `Chun et al 2009`_, there were quite a lot of isolates that did not belong to the current pandemic lineage (7PET lineage), or even to the larger 'phylocore group' clade, e.g. isolates 12129(1), MZO-3, AM-19226, etc. Some of these isolates that did not belong to the pandemic lineage were environmental isolates, but some were clinical isolates. The pandemic lineage of *V. cholerae* is a highly infectious lineage and causes severe diarrhoea. These other clinical isolates such as isolate MZO-3 that did not belong to the 7PET lineage very probably they were not very infectious, and very probably only caused mild diarrhoea. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+`Chun et al 2009`_ did not assign names to lineages outside the 'phylocore group' clade, but other researchers have done so. For example, `Domman et al 2017`_ analysed the genome sequences of 665 *Vibrio cholerae* isolates from across the world, and named 11 *V. cholerae* lineages found in the Americas (figure adapted from `Domman et al 2017`_):
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. image:: Picture46.png
+  :width: 650
+  
+The 7PET, Gulf Coast and MX-2 lineages belong to the PG-1 clade previously described by `Chun et al 2009`_, while the Classical lienage belongs to the PG-2 clade described by `Chun et al 2009`_.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Some of the lineages named by `Domman et al 2017`_ are distantly related to the current pandemic lineage (7PET lineage), e.g. lineages ELA-5, MX-1, ELA-4, etc. There are probably many more *V. cholerae* lineages that are distantly related to the current pandemic lineage that will be discovered when researchers sequence genomes of more and more diverse *V. cholerae* isolates from different locations and environmental niches. Indeed, some isolates have already been sequenced that are very diverged from any of the lineages named so far, and these likely represent examples of yet-unnamed *V. cholerae* lineages. 
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
 Carry out MLST analysis of your isolate
 ---------------------------------------
 
