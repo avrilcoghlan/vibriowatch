@@ -310,7 +310,7 @@ collection, it will bring up buttons showing a bin (which if you click on it, wi
 see a list of genomes in the collection, and a button saying 'view collection' to see the tree and map for that collection:
 
 .. image:: Picture45.png
-  :width: 650
+  :width: 850
 
 Contact
 -------
