@@ -244,8 +244,8 @@ As mentioned above, Vibriowatch builds a tree for each collection of isolates. Y
   
 By default, the isolate names are not shown on the tree. To show the isolate names on the tree, click on the small 'Settings' symbol at the top right of the tree panel:
 
-.. image:: Picture35.png
-  :width: 350
+.. image:: Picture34.png
+  :width: 50
   
 You will see some menus appear with settings for the tree:
 
