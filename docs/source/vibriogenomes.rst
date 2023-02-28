@@ -7,7 +7,9 @@ In this section, we will describe:
 * `What genomic data is available for Vibrio cholerae`_.
 * `Pathogenwatch and Vibriowatch`_.
 * `How many V. cholerae genomes are in Vibriowatch`_.
-* `How to search for an isolate in Vibriowatch`_.
+* `Where in the world were the isolates in Vibriowatch collected`_.
+* `How to search for an isolate in Vibriowatch and see its report page`_.
+* `How to make a collection of isolates in Vibriowatch`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -84,7 +86,9 @@ This will bring up a menu:
 .. image:: Picture21.png
   :width: 150
   
-If you click on 'Public Genomes' in this menu, it will give you the list of all the genomes in Pathogenwatch. To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
+If you click on 'Public Genomes' in this menu, it will give you the list of all the genomes in Pathogenwatch. 
+
+To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
 
 .. image:: Picture22.png
   :width: 150
@@ -94,7 +98,11 @@ Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now se
 .. image:: Picture23.png
   :width: 650
 
-If you click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 4700 isolates were collected:
+Where in the world were the isolates in Vibriowatch collected
+-------------------------------------------------------------
+
+Once you have got the list of the approximately 4700 *V. cholerae* isolates in Vibriowatch (see above), 
+if you now click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 4700 isolates were collected:
 
 .. image:: Picture24.png
   :width: 650
@@ -106,8 +114,8 @@ As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map wi
 
 In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website, both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
 
-How to search for an isolate in Vibriowatch
--------------------------------------------
+How to search for an isolate in Vibriowatch and see its report page
+-------------------------------------------------------------------
 
 You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
 For example, isolate HCUF_O1 is an isolate collected in Haiti in 2010, sequenced by `Hasan et al 2012`_. 
@@ -126,6 +134,11 @@ This will bring up a menu:
   
 If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
 
+To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
+
+.. image:: Picture22.png
+  :width: 150
+  
 Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
 
 .. image:: Picture23.png
@@ -141,7 +154,15 @@ If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
 .. image:: Picture28.png
   :width: 650
   
-You can click on the isolate's name (link 'HCUF01') to go to its report page. 
+You can click on the isolate's name (link 'HCUF01') to go to its 'report page'. 
+The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
+This shows the top of the report page for HCUF-01:
+
+.. image:: Picture26.png
+  :width: 650
+
+How to make a collection of isolates in Vibriowatch
+---------------------------------------------------
 
 Contact
 -------
