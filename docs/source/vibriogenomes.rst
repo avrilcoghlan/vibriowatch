@@ -13,6 +13,7 @@ In this section, we will describe:
 * `Exploring the timeline for a collection of isolates`_.
 * `Exploring the tree for a collection of isolates`_.
 * `Displaying metadata on the tree for a collection of isolates`_.
+* `Finding your list of collections in Vibriowatch`_.
 
 The Vibrio cholerae reference genome
 ------------------------------------
@@ -268,7 +269,7 @@ Instead of showing the isolate name beside the leaves (tips) of the tree, you ca
 To do this, click on the button saying 'Timeline' below the tree, and instead select 'Metadata' from the menu that appears:
 
 .. image:: Picture40.png
-  :width: 250
+  :width: 50
 
 Now instead of the map, below the tree you will see a panel with curated metadata:
 
@@ -283,12 +284,33 @@ You can click on a column that you want to display beside the tree instead of th
 You will now see the serogroups displayed beside the leaves of the tree in the tree panel:
 
 .. image:: Picture43.png
-  :width: 650
+  :width: 450
 
 We can see that the isolates collected by `Chun et al 2009`_ had a variety of serogroups, including O1, O139, O37, O39, etc.
 Some of the isolates were just assigned serogroup 'non O1', so it was only determined that they were not O1, but their exact serogroup was not determined. Isolates belonging to the current pandemic lineage (7PET lineage) have been found to be serogroup O1, or sometimes O139. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Finding your list of collections in Vibriowatch
+-----------------------------------------------
+
+If you want to find a collection that you previously made in Vibriowatch, you can see a list of all your collections
+by clicking on the three horizontal bars at the top left of the Vibriowatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture44.png
+  :width: 150
+  
+If you click on 'My collections' in this menu, it will bring up a list of all your collections. If you move your mouse over a particular
+collection, it will bring up buttons showing a bin (which if you click on it, will delete the collection), a button saying 'list genomes' to 
+see a list of genomes in the collection, and a button saying 'view collection' to see the tree and map for that collection:
+
+.. image:: Picture45.png
+  :width: 650
 
 Contact
 -------
