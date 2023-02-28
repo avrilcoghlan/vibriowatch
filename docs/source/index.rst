@@ -21,17 +21,6 @@ That is, in this tutorial, we will describe how users can use Vibriowatch to:
 * predict antimicrobial resistance genes.
 * predict plasmids.
 
-Contents
---------
-
-.. toctree::
-
-   vibriogenomes
-   assemblies
-   mlst
-   closerelatives
-   virulenceAMR
-
 Acknowledgements
 ----------------
 
@@ -52,6 +41,16 @@ Contact
 
 I will be grateful if you will send me (Avril Coghlan) corrections or suggestions for improvements to my email address alc@sanger.ac.uk
 
+Contents
+--------
 
+.. toctree::
+
+   vibriogenomes
+   assemblies
+   mlst
+   closerelatives
+   virulenceAMR
+   
 
 
