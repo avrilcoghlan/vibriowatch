@@ -146,7 +146,7 @@ since the branch length is relatively short to isolate HCUF-01, we can be more c
 HCUF-01 correctly:
 
 .. image:: Picture62.png
-  :width: 650
+  :width: 350
 
 Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
 
