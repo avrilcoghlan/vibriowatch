@@ -106,7 +106,16 @@ Note that it is possible that the pandemic lineage also contains other rare STs 
 Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage
 ----------------------------------------------------------------------------------
 
-To figure out whether your isolate belongs to the pandemic lineage, you can make a Vibriowatch collection containing both your isolate and the isolates of `Chun et al 2009`_. To do this, go to your list of Vibriowatch collections, and click on 'List Genomes' beside your `Chun et al 2009`_ collection:
+As mentioned above, if your isolate has sequence type ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely belongs to the current
+pandemic lineage (7PET lineage). On the other hand, if your isolate is not ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely
+belongs to some other *V. cholerae* lineage. However, this information from MLST is just based on seven housekeeping genes, so to be more
+confident of these inferences, it's a good idea to build a phylogenetic tree containing your isolate, as well as contextual isolates from 
+known *V. cholerae* lineages. To do this, you can build a Vibriowatch collection containing your isolate and some contextual isolates.
+
+.. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
+
+For example, to figure out whether your isolate belongs to the pandemic lineage, you can make a Vibriowatch collection containing both your isolate and the isolates of `Chun et al 2009`_ (which include isolates from the current pandemic lineage, as well as isolates from other *V. cholerae* lineages). 
+To do this, go to your list of Vibriowatch collections, and click on 'List Genomes' beside your `Chun et al 2009`_ collection:
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -122,7 +131,7 @@ pandemic lineage (7PET lineage). As an example, let's take isolate HCUF_O1, an i
 
 .. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
 
-Vibriowatch will make a tree for these 24 isolates, which should look like this:
+Vibriowatch will make a tree for these 24 isolates, which is a neighbour-joining tree, and which should look something like this:
 
 .. image:: Picture48.png
   :width: 650
