@@ -138,7 +138,17 @@ Vibriowatch will make a tree for these 24 isolates, which is a neighbour-joining
 .. image:: Picture48.png
   :width: 650
   
-You can see that HCUF-01 is placed in the clade of the tree containing the 7PET lineage isolates (MO10, B33, MJ1236, CIRS101, N16961, RC9). Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
+You can see that HCUF-01 is placed in the clade of the tree containing the 7PET lineage isolates (MO10, B33, MJ1236, CIRS101, N16961, RC9). 
+If you zoom in on the clade containing the 7PET lineage isolates, you will see that the branch length from the common ancestor of all the 7PET isolates
+in the tree (shown with a red arrow) to isolate HCUF-01 is a relatively short branch length. If there are long branches in a phylogenetic tree,
+sometimes it is difficult for the tree-building algorithm (tree-building method) to correctly place isolates in the tree. However, in this case,
+since the branch length is relatively short to isolate HCUF-01, we can be more confident that the tree-building algorithm has placed isolate
+HCUF-01 correctly:
+
+.. image:: Picture62.png
+  :width: 650
+
+Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
 
 .. _CDC: https://www.cdc.gov/cholera/haiti/index.html
 
