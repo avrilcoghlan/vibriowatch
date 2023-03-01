@@ -241,7 +241,8 @@ If you hover your mouse over the box representing a particular isolate, you will
 Exploring the tree for a collection of isolates
 -----------------------------------------------
 
-As mentioned above, Vibriowatch builds a tree for each collection of isolates. You should see a big purple button 'View tree' in the middle of the map of isolates for your collection. If you click on the purple button, you will see the tree of your isolates on the left panel, the map of your isolates on the right panel, and the timeline for your isolates below that:
+As mentioned above, Vibriowatch builds a tree for each collection of isolates. This tree is built using the neighbour-joining
+algorithm, a relatively fast and reliable method for building phylogenetic trees. You should see a big purple button 'View tree' in the middle of the map of isolates for your collection. If you click on the purple button, you will see the tree of your isolates on the left panel, the map of your isolates on the right panel, and the timeline for your isolates below that:
 
 .. image:: Picture37.png
   :width: 850
