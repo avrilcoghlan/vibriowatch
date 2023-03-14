@@ -82,7 +82,12 @@ As this is quite few closely related isolates, we can mouse over the barchart be
 .. image:: Picture54.png
   :width: 650
   
-If we click on the big purple 'List genomes' button below the barchart, we can see the list of 4 closely related isolates:
+If you click on the far right bar in the barchart where (when you hover your mouse over it) it says 'cluster of 6 at threshold of 50', it will now show you the cluster of 6 isolates at a threshold of 50:
+
+.. image:: Picture63.png
+  :width: 650
+  
+If we click on the big purple 'List genomes' button below the barchart, we can see the list of 6 closely related isolates:
 
 .. image:: Picture55.png
   :width: 650
