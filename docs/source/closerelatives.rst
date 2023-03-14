@@ -87,7 +87,7 @@ If you click on the far right bar in the barchart where (when you hover your mou
 .. image:: Picture63.png
   :width: 650
   
-If we click on the big purple 'List genomes' button below the barchart, we can see the list of 6 closely related isolates:
+If we go back to the cluster of 4 related isolates, and then we click on the big purple 'List genomes' button below the barchart, we can see the list of 4 closely related isolates:
 
 .. image:: Picture55.png
   :width: 650
