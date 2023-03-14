@@ -93,6 +93,8 @@ If we click on the big purple 'List genomes' button below the barchart, we can s
   :width: 650
   
 You can see that these 4 closely related isolates (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102) all belong to MLST sequence type ST68. In fact, they belong to the same *V. cholerae* lineage, which previously caused relatively small outbreaks in former Czechoslovakia and Sudan, and has recently been named in the 'Sudanese lineage' (Dorman & Thomson 2023, in press).
+
+Note that occasionally you may find that the barchart with closely related isolates is greyed out, even though when you mouse over it you may see a message saying something like 'cluster of 1869 at threshold of 19'. The reason that the barchart is greyed out, and that you can't click on it to see the cgMLT cluster, is that the cluster is too large for Vibriowatch to display.
   
 Build a phylogenetic tree of their isolate and its closest relatives
 --------------------------------------------------------------------
