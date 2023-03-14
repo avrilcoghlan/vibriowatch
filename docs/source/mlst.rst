@@ -152,6 +152,8 @@ Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that
 
 .. _CDC: https://www.cdc.gov/cholera/haiti/index.html
 
+At the bottom left, we can see a scale-bar saying “415”, which tells us how much genetic distance is represented by a certain branch-length in the tree. The lengths of the branches between isolate HCUF-01 and its common ancestor with the 7PET isolates (ie. from HCUF-01 to the red arrow) is a fraction of the length of this scale-bar; we can roughly guess by eye that this is a genetic distance of <50, which is pretty small. 
+
 As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and ATCC 25872, Vibriowatch will build a tree that should look something like this:
 
 .. image:: Picture49.png
@@ -167,6 +169,10 @@ This shows that ATCC 25872 does not group together with the 7PET lineage isolate
   :width: 650
   
 In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
+
+As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`__.
+
+.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
 
 Acknowledgements
 ----------------
