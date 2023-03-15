@@ -192,11 +192,15 @@ Similarly, you can select the "Literature link" column of the metadata table to 
 .. image:: Picture84.png
   :width: 450
   
-This tells us that the isolates were published by `CDC 2010`_, `Reimer et al 2011`_.
+This tells us that the isolates were published by `CDC 2010`_, `Reimer et al 2011`_, `Hendriksen et al 2011`_, `Hasan et al 2012`_
 
 .. _CDC 2010: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
 .. _Reimer et al 2011: https://pubmed.ncbi.nlm.nih.gov/22099115/ 
+
+.. _Hendriksen et al 2011: https://pubmed.ncbi.nlm.nih.gov/21862630/
+
+.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
 
 In a similar way, you can select the "AMR phenotype" column in the metadata table, to show antimicrobial resistance phenotypic information (from lab. tests) beside the tree: 
 
