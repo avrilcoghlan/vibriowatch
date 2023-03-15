@@ -77,8 +77,9 @@ This suggests that HCUF_01 and other isolates from the Haiti 2010 epidemic were 
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-* `Use cgMLST to find close relatives of your isolate: example 2`_.
- 
+Use cgMLST to find close relatives of your isolate: example 2
+-------------------------------------------------------------
+
 As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you search for ATCC 25872 in Vibriowatch, you will see on its report page that it belongs to a cgMLST cluster of size 4 when a threshold of 10 SNPs is used:
 
 .. _Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
@@ -103,7 +104,8 @@ If we now click on the big purple 'List genomes' button below the barchart, we c
   
 You can see that these 6 closely related isolates (1322-69, ATCC 25872, 150136_S4, 150137_S6, FDAARGOS_102 and V52) all belong to MLST sequence type ST68. In fact, they belong to the same *V. cholerae* lineage, which previously caused relatively small outbreaks in former Czechoslovakia and Sudan, and has recently been named in the 'Sudanese lineage' (Dorman & Thomson 2023, in press).
 
-* `Use cgMLST to find close relatives of your isolate: example 3`_.
+Use cgMLST to find close relatives of your isolate: example 3
+-------------------------------------------------------------
 
 Sometimes an isolate might not have any close relatives when we look at the cgMLST results. An example is isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_. We see that it is in a cluster of size 1 with just itself, and that changing the threshold doesn't increase the cgMLST cluster size:
 
@@ -112,7 +114,8 @@ Sometimes an isolate might not have any close relatives when we look at the cgML
 .. image:: Picture80.png
   :width: 650
 
-* `Use cgMLST to find close relatives of your isolate: example 4`_.
+Use cgMLST to find close relatives of your isolate: example 4
+-------------------------------------------------------------
 
 Note that occasionally you may find that the barchart with closely related isolates is greyed out, even though when you mouse over it you may see a message saying something like 'cluster of 1869 at threshold of 19'. The reason that the barchart is greyed out, and that you can't click on it to see the cgMLT cluster, is that the cluster is too large for Vibriowatch to display. 
 
