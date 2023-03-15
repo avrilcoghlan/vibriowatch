@@ -177,6 +177,51 @@ We can see that near the root of the tree (ie. near N16961) there are several is
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
+One thing you might be interested in is to ask: what is the closest relative of HCUF-01 in the tree? If you zoom in on the tree, you can find a part of the tree containing HCUF-01 and its closest relatives according to the tree. You can see the scale-bar at the bottom left shows a distance of 1, which is a very short genetic distance. Therefore, all the isolates in this part of the tree are very closely related:
+
+.. image:: Picture82.png
+  :width: 450
+ 
+You can then display the country on this tree, by clicking on the 'Timeline' menu and choosing 'Metadata', and selecting the 'Isolation' column, which shows that most of very close relatives of HCUF-01 are from Haiti, but a couple were from the Dominican Republic or Nepal:
+
+.. image:: Picture83.png
+  :width: 450
+  
+Similarly, you can select the "Literature link" column of the metadata table to show the PubMed reference for the papers that published each isolate:
+
+.. image:: Picture84.png
+  :width: 450
+  
+  This showed that the closely related isolates were published by `CDC 2010`_, `Reimer et al 2011`_, `Hendriksen et al 2011`_, `Hasan et al 2012`_, `Sealfon et al 2012`_, `Azarian et al 2014`_, `Weill et al 2017`_:
+
+.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
+
+.. _Reimer et al 2011: https://pubmed.ncbi.nlm.nih.gov/22099115/ 
+
+.. _Azarian et al 2014: https://pubmed.ncbi.nlm.nih.gov/25538191/ 
+
+.. _CDC 2010: https://pubmed.ncbi.nlm.nih.gov/21085088/
+
+.. _Weill et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123067/
+
+.. _Sealfon et al 2012: https://pubmed.ncbi.nlm.nih.gov/22963323/
+
+.. _Hendriksen et al 2011: https://pubmed.ncbi.nlm.nih.gov/21862630/
+  
+In a similar way, you can select the "AMR phenotype" column in the metadata table, to show antimicrobial resistance phenotypic information (from lab. tests) beside the tree: 
+
+.. image:: Picture85.png
+  :width: 450
+  
+We see that many of the closely related isolates had trimethoprim (see symbol "TMP" beside the tree); sulfamethoxazole ("SMZ"), trimethoprim and sulfamethoxazole ("SXT"), nalidixic acid ("NAL"), furazolidone ("FZD"), and intermediate resitance to ciprofloxacin ("(CIP)"). 
+
+Similarly, you can the "serotype phenotype" column of the metadata table to plot the lab. serotype for the related isolates:
+
+.. image:: Picture86.png
+  :width: 450
+  
+This revealed that the closely related isolates had serotype Ogawa.
+  
 Build a phylogenetic tree of their isolate and its closest relatives: example 2
 -------------------------------------------------------------------------------
 
