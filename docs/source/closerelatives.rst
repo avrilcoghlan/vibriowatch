@@ -3,11 +3,15 @@ Finding closely related isolates
 
 In this section, we will describe how you can:
 
-* `Use cgMLST to find close relatives of your isolate`_.
-* `Build a phylogenetic tree of their isolate and its closest relatives`_.
+* `Use cgMLST to find close relatives of your isolate: example 1`_.
+* `Use cgMLST to find close relatives of your isolate: example 2`_.
+* `Use cgMLST to find close relatives of your isolate: example 3`_.
+* `Use cgMLST to find close relatives of your isolate: example 4`_.
+* `Build a phylogenetic tree of their isolate and its closest relatives: example 1`_.
+* `Build a phylogenetic tree of their isolate and its closest relatives: example 2`_.
 
-Use cgMLST to find close relatives of your isolate
---------------------------------------------------
+Use cgMLST to find close relatives of your isolate: example 1
+-------------------------------------------------------------
 
 Since the MLST scheme of `Octavia et al 2013`_ was based on just seven genes, more recently `Liang et al 2020`_ have created a 'core genome MLST' (cgMLST) scheme for *V. cholorae*. This is based on 2443 core genes, that is genes that are present in almost all *V. cholorae* isolates sequenced by 2020. In VibrioWatch, we use this core genome MLST scheme to place isolates into clusters of closely related isolates. 
 
@@ -72,6 +76,8 @@ However, if you click on the circle representing Nepal on the map, it will highl
 This suggests that HCUF_01 and other isolates from the Haiti 2010 epidemic were closely related to isolates from Nepal and India. This agrees with extensive analyses that have been since published on the origin of the Haiti epidemic in 2010, which led to the hypothesis that *V. cholerae* was carried from Nepal to Haiti (reviewed in `Orata et al 2014`_).
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
+
+* `Use cgMLST to find close relatives of your isolate: example 2`_.
  
 As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you search for ATCC 25872 in Vibriowatch, you will see on its report page that it belongs to a cgMLST cluster of size 4 when a threshold of 10 SNPs is used:
 
@@ -90,17 +96,37 @@ If you click on the far right bar in the barchart where (when you hover your mou
 .. image:: Picture63.png
   :width: 650
   
-If we go back to the cluster of 4 related isolates, and then we click on the big purple 'List genomes' button below the barchart, we can see the list of 4 closely related isolates:
+If we now click on the big purple 'List genomes' button below the barchart, we can see the list of 6 closely related isolates:
 
-.. image:: Picture55.png
+.. image:: Picture79.png
   :width: 650
   
-You can see that these 4 closely related isolates (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102) all belong to MLST sequence type ST68. In fact, they belong to the same *V. cholerae* lineage, which previously caused relatively small outbreaks in former Czechoslovakia and Sudan, and has recently been named in the 'Sudanese lineage' (Dorman & Thomson 2023, in press).
+You can see that these 6 closely related isolates (1322-69, ATCC 25872, 150136_S4, 150137_S6, FDAARGOS_102 and V52) all belong to MLST sequence type ST68. In fact, they belong to the same *V. cholerae* lineage, which previously caused relatively small outbreaks in former Czechoslovakia and Sudan, and has recently been named in the 'Sudanese lineage' (Dorman & Thomson 2023, in press).
 
-Note that occasionally you may find that the barchart with closely related isolates is greyed out, even though when you mouse over it you may see a message saying something like 'cluster of 1869 at threshold of 19'. The reason that the barchart is greyed out, and that you can't click on it to see the cgMLT cluster, is that the cluster is too large for Vibriowatch to display.
+* `Use cgMLST to find close relatives of your isolate: example 3`_.
+
+Sometimes an isolate might not have any close relatives when we look at the cgMLST results. An example is isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_. We see that it is in a cluster of size 1 with just itself, and that changing the threshold doesn't increase the cgMLST cluster size:
+
+.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
+
+.. image:: Picture80.png
+  :width: 650
+
+* `Use cgMLST to find close relatives of your isolate: example 4`_.
+
+Note that occasionally you may find that the barchart with closely related isolates is greyed out, even though when you mouse over it you may see a message saying something like 'cluster of 1869 at threshold of 19'. The reason that the barchart is greyed out, and that you can't click on it to see the cgMLT cluster, is that the cluster is too large for Vibriowatch to display. 
+
+An example is isolate NALMLE08, collected by `Baddam et al 2020`_ in Bangladesh in 2018:
+
+.. _Baddam et al 2020: https://pubmed.ncbi.nlm.nih.gov/32047137/
+
+.. image:: Picture81.png
+  :width: 650
   
-Build a phylogenetic tree of their isolate and its closest relatives
---------------------------------------------------------------------
+We see that NALMLE08 is in a cgMLST cluster of 1008 members using a threshold of 10. If we mouse over the barchart, we can see it is in a cgMLST cluster of 1701 members at a threshold of 14, but that bar is greyed out, as a cgMLST cluster of 1701 members is too big to display.
+  
+Build a phylogenetic tree of their isolate and its closest relatives: example 1
+-------------------------------------------------------------------------------
 
 Once we have found closely related isolates using cgMLST (see above), you can build a phylogenetic tree of your isolate of interest, and its close relatives. To ensure that your phylogenetic tree is rooted correctly, it is a good idea to use a relatively distantly related isolate as the 'outgroup' for your tree.
 
@@ -148,7 +174,10 @@ We can see that near the root of the tree (ie. near N16961) there are several is
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-Let's look at another example: the case of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102). We know that these all belong to the MLST sequence type ST68. We can therefore use the *V. cholerae* isolate N16961, which has MLST sequence type ST69, as the outgroup, as it is relatively distantly related to ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102).
+Build a phylogenetic tree of their isolate and its closest relatives: example 2
+-------------------------------------------------------------------------------
+
+Let's look at another example: the case of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102) in the cgMLST cluster of size 4. We know that these all belong to the MLST sequence type ST68. We can therefore use the *V. cholerae* isolate N16961, which has MLST sequence type ST69, as the outgroup, as it is relatively distantly related to ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102).
 
 You can therefore build a collection of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102), and N16961. When you do this, you should get a tree that looks something like this:
 
