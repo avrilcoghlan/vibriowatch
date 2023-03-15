@@ -6,9 +6,9 @@ In this section, we will describe how you can:
 * `What is known about Vibrio cholerae lineages`_.
 * `What is MLST`_.
 * `How to view MLST information for your isolate`_.
-* `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of HCUF_01`_.
-* `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of ATCC 25872`_.
-* `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of GXFL1-4`_.
+* `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_.
+* `Build a tree to check if your isolate belongs to the pandemic lineage: example 2`_.
+* `Build a tree to check if your isolate belongs to the pandemic lineage: example 3`_.
 
 What is known about Vibrio cholerae lineages
 --------------------------------------------
@@ -107,8 +107,8 @@ This isolate has the same alleles as the isolate above at the *adk*, *gyrB*, *md
 
 Note that it is possible that the pandemic lineage also contains other rare STs as well as ST69 and ST515. Therefore, if you isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage`_).
 
-Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of HCUF_01
-------------------------------------------------------------------------------------------------------
+Build a tree to check if your isolate belongs to the pandemic lineage: example 1
+--------------------------------------------------------------------------------
 
 As mentioned above, if your isolate has sequence type ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely belongs to the current
 pandemic lineage (7PET lineage). On the other hand, if your isolate is not ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely
@@ -156,8 +156,8 @@ Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that
 
 At the bottom left, we can see a scale-bar saying “415”, which tells us how much genetic distance is represented by a certain branch-length in the tree. The lengths of the branches between isolate HCUF-01 and its common ancestor with the 7PET isolates (ie. from HCUF-01 to the red arrow) is a fraction of the length of this scale-bar; we can roughly guess by eye that this is a genetic distance of <50, which is pretty small. 
 
-Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of ATCC 25872
----------------------------------------------------------------------------------------------------------
+Build a tree to check if your isolate belongs to the pandemic lineage: example 2
+--------------------------------------------------------------------------------
 
 As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and ATCC 25872, Vibriowatch will build a tree that should look something like this:
 
@@ -175,8 +175,8 @@ This shows that ATCC 25872 does not group together with the 7PET lineage isolate
   
 In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
 
-Build a phylogenetic tree to check if your isolate belongs to the pandemic lineage: example of GXFL1-4
-------------------------------------------------------------------------------------------------------
+Build a tree to check if your isolate belongs to the pandemic lineage: example 3
+--------------------------------------------------------------------------------
 
 As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_. If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and GXFL1-4, Vibriowatch builds a tree looking something like this:
 
