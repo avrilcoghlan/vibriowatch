@@ -170,9 +170,25 @@ This shows that ATCC 25872 does not group together with the 7PET lineage isolate
   
 In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
 
-As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_.
+As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_. If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and GXFL1-4, Vibriowatch builds a tree looking something like this:
 
 .. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture64.png
+  :width: 650
+  
+We see that GXFL1-4 is not placed with the 7PET isolates in the tree, but instead is on a long branch near isolates 1587, MZO-2, 623-39, and TMA-21. However, the branch-lengths to isolate GXFL1-4 is very long. That is, the branch-lengths from its common ancestor with isolates 1587, MZO-2, 623-39 and TMA-1 (the common ancestor node indicated with a red arrow) is very long. As mentioned above, if there is a very long branch in a tree to an isolate (indicating a large genetic distance between it and other isolates), the tree-building algorithm may have had trouble correctly placing it in a tree. This means that we can be less confident that isolate GXFL1-4 was correctly placed in this tree. 
+
+We can see that the scale bar at the bottom of the tree says "3237". The length of the branch from isolate GXFL1-4 to its common ancestor with isolates 1587, MZO-2, 623-39 and TMA-1 (the ancestral node indicated with a red arrow) is many times the lengths of this scale-bar. We could roughly guess that it is about eight times the length of the scale-bar, or >20000, which is a pretty large genetic distance. 
+
+We can also show the MLST sequence types on the tree, by changing the "Timeline" menu to "Typing", and then clicking on "ST" in the "Typing" menu in Vibriowatch. This showed that the MLST sequence type for isolate GXFL1-4 is ST1092, and that the nearby isolates 1587, MZO-2, 623-39 and TMA-1 are different sequence types (ST748, ST28, ST32 and ST79):
+
+.. image:: Picture65.png
+  :width: 650
+  
+Because the MLST sequence type of isolate GXFL1-4 is different from those of the 1587, MZO-2, 623-39 and TMA-1 isolates that are nearby in the tree, this also decreases our confidence that isolate GXFL1-4 is correctly placed in the phylogenetic tree. Thus, given the long branch-lengths to isolate GXFL1-4 in the tree, and the dissimilarity in its MLST sequence types to nearby isolates in the tree, we are not confident that isolate GXFL1-4 is correctly placed in the phylogenetic tree. It is not placed with the 7PET isolates, but we cannot tell which other isolates it is closely related to, based on the tree.
 
 Acknowledgements
 ----------------
