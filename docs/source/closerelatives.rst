@@ -192,22 +192,6 @@ Similarly, you can select the "Literature link" column of the metadata table to 
 .. image:: Picture84.png
   :width: 450
   
-  This showed that the closely related isolates were published by `CDC 2010`_, `Reimer et al 2011`_, `Hendriksen et al 2011`_, `Hasan et al 2012`_, `Sealfon et al 2012`_, `Azarian et al 2014`_, `Weill et al 2017`_:
-
-.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
-
-.. _Reimer et al 2011: https://pubmed.ncbi.nlm.nih.gov/22099115/ 
-
-.. _Azarian et al 2014: https://pubmed.ncbi.nlm.nih.gov/25538191/ 
-
-.. _CDC 2010: https://pubmed.ncbi.nlm.nih.gov/21085088/
-
-.. _Weill et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123067/
-
-.. _Sealfon et al 2012: https://pubmed.ncbi.nlm.nih.gov/22963323/
-
-.. _Hendriksen et al 2011: https://pubmed.ncbi.nlm.nih.gov/21862630/
-  
 In a similar way, you can select the "AMR phenotype" column in the metadata table, to show antimicrobial resistance phenotypic information (from lab. tests) beside the tree: 
 
 .. image:: Picture85.png
