@@ -161,14 +161,16 @@ Build a tree to check if your isolate belongs to the pandemic lineage: example 2
 
 As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you make a collection consisting of the 23 isolates from `Chun et al 2009`_ and ATCC 25872, Vibriowatch will build a tree that should look something like this:
 
-.. image:: Picture49.png
+.. image:: Picture78.png
   :width: 650
 
 .. _Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-This shows that ATCC 25872 does not group together with the 7PET lineage isolates, but instead with isolate V52, an isolate collected from a relatively small outbreak in Sudan in 1968. This strongly suggests that ATCC 25872 does not belong to the current pandemic lineage (7PET lineage). This is consistent with the fact that the outbreak in former Czechoslovakia in 1965 was relatively small (`Aldova et al 1968`_). If we display the MLST sequence types on the tree in Vibriowatch, we can see that ATCC 25872 and V52 belong to the same MLST sequence type, ST68:
+This shows that ATCC 25872 does not group together with the 7PET lineage isolates, but instead with isolate V52, an isolate collected from a relatively small outbreak in Sudan in 1968. The branch length from ATCC 25872 to the common ancestor of ATCC 25872 and V52 is very short (the ancestor node indicated with the red arrow) is very short (too short to see any horizontal branch in this picture). This indicates that ATCC 25872 and V52 are very closely related. 
+
+This strongly suggests that ATCC 25872 does not belong to the current pandemic lineage (7PET lineage). This is consistent with the fact that the outbreak in former Czechoslovakia in 1965 was relatively small (`Aldova et al 1968`_). If we display the MLST sequence types on the tree in Vibriowatch, we can see that ATCC 25872 and V52 belong to the same MLST sequence type, ST68:
 
 .. image:: Picture50.png
   :width: 650
