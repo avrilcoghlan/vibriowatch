@@ -42,7 +42,10 @@ This means that when a threshold of 4 base differences (4 SNPs) is used to defin
 .. image:: Picture52.png
   :width: 650
   
-To see a list of the 138 closely related isolates in that cluster, you can click on the big purple 'List genomes' button. 
+To see a list of the 138 closely related isolates in that cluster, you can click on the big purple 'List genomes' button. This will give a list of the 138 isolates (just showing the top of the list here):
+
+.. image:: Picture66.png
+  :width: 650
 
 To see the cluster of the 138 closely related isolates, click on the big purple 'View cluster' button. This will bring up a webpage showing the cgMLST cluster on the left and a map of the isolates in it on the right:
 
@@ -101,7 +104,51 @@ Build a phylogenetic tree of their isolate and its closest relatives
 
 Once we have found closely related isolates using cgMLST (see above), you can build a phylogenetic tree of your isolate of interest, and its close relatives. To ensure that your phylogenetic tree is rooted correctly, it is a good idea to use a relatively distantly related isolate as the 'outgroup' for your tree.
 
-For example, in the case of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102), we know that these all belong to the MLST sequence type ST68. We can therefore use the *V. cholerae* isolate N16961, which has MLST sequence type ST69, as the outgroup, as it is relatively distantly related to ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102).
+For example, in the case of the cgMLST cluster of HCUF-01 and its 138 close relatives that we found using cgMLST, we can get a list of the 138 isolates by pressing the big purple 'List genomes' button (see above). If we then click on the box to the left of the column heading 'Name', it will select all 138 close relatives (which includes HCUF-01):
+
+.. image:: Picture67.png
+  :width: 650
+  
+We can see in this table that HCUF-01 and the other 137 close relatives in the cgMLST cluster are all sequence type ST69, which is one of the sequence types often seen in isolates from the current pandemic lineage (7PET lineage). We know that HCUF-01 should be closely related to all the other members of this cgMLST cluster. We can therefore use *V. cholerae* isolate N16961, which is the 'reference' 7PET isolate, and was collected in Bangladesh in 1975, as the outgroup in our tree, as although it is 7PET, it should be relatively distantly related to HCUF-01 and its 137 close relatives. If you type 'N16961' in the search box at the top left of the Vibriowatch webpage, you will find MAK757, and can tick the box to select it too:
+
+.. image:: Picture71.png
+  :width: 650
+  
+If you then click on the purple '139 Selected Genomes' button at the top right, you can make a collection of the 138 close relatives plus N16961 (the outgroup). This will build a tree in Vibriowatch, which should look something like this, which the N16961 outgroup on a very long branch at the bottom of the tree:
+
+.. image:: Picture72.png
+  :width: 650
+
+You can see that the scalebar at the bottom of the tree says '6', which is a very short genetic distance, indicating that all these isolates are  closely related. If you zoom in on the bottom of the tree, you will see something like this, displaying the isolate names on the tree tips:
+
+.. image:: Picture73.png
+  :width: 650
+  
+To display the locations where the isolates were collected on the tree tips, instead of the isolate names, we can click on the 'Timeline' menu, and select 'Metadata', and then choose 'Isolation' in the Metadata menu. You should now see the locations displayed on the tree tips:
+
+.. image:: Picture74.png
+  :width: 650
+
+You can see that there are several clades of closely related isolates from Mexico, and from Haiti. To make the tree a bit easier to view, you can zoom in on these clades and collapse them. For example, if you zoom in on the Mexico isolates, and right-click your mouse on the ancestral node of the Mexico isolates, a menu should appear, and then you can select 'Collapse subtree' in that menu:
+
+.. image:: Picture75.png
+  :width: 650
+
+The collapsed part of the tree containing the Mexico isolates is now represented by a single round node, and if you hover your mouse over it, you should see '30' appear, meaning that it represents 30 isolates (from Mexico):
+
+.. image:: Picture76.png
+  :width: 650
+  
+If we also collapse a few clades that just contain isolates from Haiti, the tree is much easier to view, and should look something like this:
+
+.. image:: Picture77.png
+  :width: 650
+
+We can see that near the root of the tree (ie. near N16961) there are several isolates from India. The Haitian isolates in the tree are extremely closely related to isolates from Nepal (which appear near the top of the tree). This agrees with analyses published on the origin of the Haiti epidemic in 2010, which support the hypothesis that *V. cholerae* was carried from Nepal to Haiti (reviewed in `Orata et al 2014`_). Note that there are also isolates from Dominican Republic and Mexico that are very closely related to the Haitian isolates; these isolates were due to outbreaks in Dominican Republic and Mexico that occurred when travellers went from Haiti to those nearby countries.
+
+.. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
+
+Let's look at another example: the case of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102). We know that these all belong to the MLST sequence type ST68. We can therefore use the *V. cholerae* isolate N16961, which has MLST sequence type ST69, as the outgroup, as it is relatively distantly related to ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102).
 
 You can therefore build a collection of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102), and N16961. When you do this, you should get a tree that looks something like this:
 
