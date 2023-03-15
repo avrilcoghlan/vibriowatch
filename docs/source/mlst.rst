@@ -170,7 +170,7 @@ This shows that ATCC 25872 does not group together with the 7PET lineage isolate
   
 In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
 
-As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`__.
+As another example, let's take isolate GXFL1-4, which was sequenced from prawns by `Zhou et al 2022`_.
 
 .. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
 
