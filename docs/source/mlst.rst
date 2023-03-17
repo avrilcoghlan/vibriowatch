@@ -1,14 +1,57 @@
 *Vibrio cholerae* lineage information
 =====================================
 
-In this section, we will describe how you can:
+This section will cover:
 
+* `Short guide for those in a hurry: does my isolate belong to the current pandemic lineage`_.
 * `What is known about Vibrio cholerae lineages`_.
 * `What is MLST`_.
 * `How to view MLST information for your isolate`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 2`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 3`_.
+
+Short guide for those in a hurry: does my isolate belong to the current pandemic lineage
+----------------------------------------------------------------------------------------
+
+The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the '7PET lineage' of *Vibrio cholerae*. 
+
+A quick way to find out whether your isolate likely belongs to the 7PET lineage is to look at MLST (multi-locus sequence typing) results for your isolate in Vibriowatch. 
+
+
+Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the species of your isolates are, e.g.:
+
+.. image:: Picture7.png
+  :width: 650
+  
+Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), the Pathogenwatch website will make a 'report page' for your isolate with information such as the MLST sequence types of your isolate. 
+
+To view the report pages for your isolates, you need to click on the 'View genomes' link in the middle of the piechart:
+
+.. image:: Picture7.png
+  :width: 650
+  
+This will bring up a list of your isolates in Vibriowatch, looking something like this:
+
+.. image:: Picture8.png
+  :width: 650
+  
+To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
+
+The top of the 'report page' for your isolate will look something like this:
+
+.. image:: Picture15.png
+  :width: 500
+  
+In the example above, the isolate is classified as MLST sequence type ST69.
+
+ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515.
+
+If your isolate is ST69 or ST515, it very likely belongs to the pandemic lineage. 
+
+Note that if your isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage but has a very rare sequence type for the pandemic lineage.
+
+If you found this useful, you may want to read through the rest of the tutorial to find out more details. 
 
 What is known about Vibrio cholerae lineages
 --------------------------------------------
