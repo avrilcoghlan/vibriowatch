@@ -3,7 +3,7 @@ Assemblies and assembly quality
 
 This section will cover:
 
-* `Short guide for those in a hurry: is my isolate *V. cholerae*?`_.
+* `Short guide for those in a hurry: is my isolate Vibrio cholerae`_.
 * `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
 * `Upload an assembly for an isolate`_.
@@ -13,8 +13,8 @@ This section will cover:
 * `Download the assembly for your isolate`_.
 * `Run CheckM to check if the assembly for your isolated is contaminated`_.
 
-Short guide for those in a hurry: is my isolate *V. cholerae*?
---------------------------------------------------------------
+Short guide for those in a hurry: is my isolate Vibrio cholerae
+---------------------------------------------------------------
 
 Bla bla.
 
