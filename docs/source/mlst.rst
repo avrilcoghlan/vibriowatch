@@ -22,10 +22,8 @@ Once you have sequencing reads or a genome assembly for your isolate to Vibriowa
 
 .. image:: Picture7.png
   :width: 650
-  
-Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), the Pathogenwatch website will make a 'report page' for your isolate with information such as the MLST sequence types of your isolate. 
 
-To view the report pages for your isolates, you need to click on the 'View genomes' link in the middle of the piechart.
+To view the report pages for your isolates, which will tell you their MLST sequence types, you need to click on the 'View genomes' link in the middle of the piechart.
   
 This will bring up a list of your isolates in Vibriowatch, looking something like this:
 
