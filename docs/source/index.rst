@@ -20,7 +20,7 @@ A brief overview of this tutorial: we'll introduce the *Vibrio cholerae* referen
 
 .. _PathogenWatch: https://pathogen.watch/
 
-Vibriowatch is funded by the `Bill and Melinda Gates Foundation`_ and has been developed as a collaboration between the `Thomson group at the Wellcome Sanger Institute`_ and the `Centre for Genomic Pathogen Surveillance`_).
+Vibriowatch is funded by the `Bill and Melinda Gates Foundation`_ and is a collaboration between the `Thomson group at the Wellcome Sanger Institute`_ and the `Centre for Genomic Pathogen Surveillance`_).
 
 .. _Bill and Melinda Gates Foundation : https://www.gatesfoundation.org/
 
