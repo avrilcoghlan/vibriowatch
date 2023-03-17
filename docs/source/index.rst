@@ -19,7 +19,7 @@ Given raw genome sequencing reads, or a genome assembly for a bacterial isolate,
 
 4. Is my isolate predicted to produce cholera toxin (Ctx)? 
 
-5. Is my isolate closely related to other sequenced Vibrio cholerae isolates>? <https://vibriowatch.readthedocs.io/en/latest/closerelatives.html#short-guide-for-those-in-a-hurry-is-my-isolate-closely-related-to-other-sequenced-vibrio-cholerae-isolates>`_
+5. `Is my isolate closely related to other sequenced Vibrio cholerae isolates>? <https://vibriowatch.readthedocs.io/en/latest/closerelatives.html#short-guide-for-those-in-a-hurry-is-my-isolate-closely-related-to-other-sequenced-vibrio-cholerae-isolates>`_
 
 A brief overview of this tutorial: we'll introduce the *Vibrio cholerae* reference genome, and explain what other genomic data is available for *V. cholerae*. We'll introduce `PathogenWatch`_ and its *V. cholerae* component Vibriowatch. We'll then explain how you can upload your own sequencing reads or genome assembly to Vibriowatch, and analyses that you can carry out using Vibriowatch on your genome, as well as the genomes that we have already uploaded into Vibriowatch. These analyses include: identifying the species of isolate(s); viewing assembly statistics; MLST and cgMLST analysis; building phylogenetic trees; and predicting virulence genes, antimicrobial resistance genes, and plasmids.
 
