@@ -10,11 +10,16 @@ Vibriowatch is a `PathogenWatch`_ database for *V. cholerae*. Vibriowatch contai
 Vibriowatch is aimed for use by clinicians and public health workers studying cholera outbreaks, as well as for research biologists investigating *V. cholerae* genomic variation and evolution.
 
 Given raw genome sequencing reads, or a genome assembly for a bacterial isolate, key questions that can be answered using Vibriowatch include: 
-#. is my isolate *V. cholerae*? 
-#. if so, does my isolate belong to the current pandemic lineage ('7PET lineage') of *V. cholerae*? 
-#. what is the predicted antimicrobial resistance profile of my isolate? 
-#. is my isolate predicted to produce cholera toxin (Ctx)? 
-#. is my isolate closely related to other sequenced *V. cholerae* isolates, and if so, which?
+
+1. is my isolate *V. cholerae*?.
+
+2. if so, does my isolate belong to the current pandemic lineage ('7PET lineage') of *V. cholerae*? 
+
+3. what is the predicted antimicrobial resistance profile of my isolate? 
+
+4. is my isolate predicted to produce cholera toxin (Ctx)? 
+
+5. is my isolate closely related to other sequenced *V. cholerae* isolates, and if so, which?
 
 A brief overview of this tutorial: we'll introduce the *Vibrio cholerae* reference genome, and explain what other genomic data is available for *V. cholerae*. We'll introduce `PathogenWatch`_ and its *V. cholerae* component Vibriowatch. We'll then explain how you can upload your own sequencing reads or genome assembly to Vibriowatch, and analyses that you can carry out using Vibriowatch on your genome, as well as the genomes that we have already uploaded into Vibriowatch. These analyses include: identifying the species of isolate(s); viewing assembly statistics; MLST and cgMLST analysis; building phylogenetic trees; and predicting virulence genes, antimicrobial resistance genes, and plasmids.
 
