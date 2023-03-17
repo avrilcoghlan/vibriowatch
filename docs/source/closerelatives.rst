@@ -1,14 +1,52 @@
 Finding closely related isolates
 ================================
 
-In this section, we will describe how you can:
+This section will cover:
 
+* `Short guide for those in a hurry: is my isolate closely related to other sequenced Vibrio cholerae isolates?`_.
 * `Use cgMLST to find close relatives of your isolate: example 1`_.
 * `Use cgMLST to find close relatives of your isolate: example 2`_.
 * `Use cgMLST to find close relatives of your isolate: example 3`_.
 * `Use cgMLST to find close relatives of your isolate: example 4`_.
 * `Build a phylogenetic tree of their isolate and its closest relatives: example 1`_.
 * `Build a phylogenetic tree of their isolate and its closest relatives: example 2`_.
+
+Short guide for those in a hurry: is my isolate closely related to other sequenced Vibrio cholerae isolates?
+------------------------------------------------------------------------------------------------------------
+
+A good way to find out whether your isolate is closely related to other sequenced *V. cholerae* isolates is to look at cgMLST (core genome multi-locus sequence typing) results for your isolates in Vibriowatch.
+
+Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the species of your isolates are, e.g.:
+
+.. image:: Picture7.png
+  :width: 650
+
+To view the report pages for your isolates, which will show you their cgMLST analysis results, 
+you need to click on the 'View genomes' link in the middle of the piechart.
+  
+This will bring up a list of your isolates in Vibriowatch, looking something like this:
+
+.. image:: Picture8.png
+  :width: 650
+  
+To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
+
+If you scroll down the report page for an isolate, you will come to the 'core genome clustering' (cgMLST) section.
+
+For example, here is cgMLST part of the report page for an isolate HCUF_01:
+
+.. image:: Picture27.png
+  :width: 650
+  
+This shows that HCUF_01 belongs to a 'cluster' of 1049 closely related isolates. 
+
+These are the most closely related isolates among all the sequenced *V. cholerae* genomes that are in Vibriowatch (about 5000 genomes so far).
+
+In this case, the cluster was defined using a threshold of 10 base differences (10 SNPs) between isolates, ie.
+all the isolates in this cluster differ from each other by 10 or fewer SNPs in a
+set of 2443 'core' *V. cholerae* genes.
+
+If you found this useful, you may want to read through the rest of the tutorial to find out more details. 
 
 Use cgMLST to find close relatives of your isolate: example 1
 -------------------------------------------------------------
