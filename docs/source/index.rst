@@ -11,9 +11,7 @@ Vibriowatch is aimed for use by clinicians and public health workers studying ch
 
 Given raw genome sequencing reads, or a genome assembly for a bacterial isolate, key questions that can be answered using Vibriowatch include: 
 
-1. Is my isolate *V. cholerae*? `Is my isolate Vibrio cholerae?<assemblies.rst#Short guide for those in a hurry: is my isolate Vibrio cholerae>`  
-
-2a. `Is my isolate Vibrio cholerae <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_
+1. `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_
 
 2. If so, does my isolate belong to the current pandemic lineage ('7PET lineage') of *V. cholerae*? 
 
