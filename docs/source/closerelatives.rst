@@ -3,7 +3,7 @@ Finding closely related isolates
 
 This section will cover:
 
-* `Short guide for those in a hurry: is my isolate closely related to other sequenced Vibrio cholerae isolates?`_.
+* `Short guide for those in a hurry: is my isolate closely related to other sequenced Vibrio cholerae isolates?`_
 * `Use cgMLST to find close relatives of your isolate: example 1`_.
 * `Use cgMLST to find close relatives of your isolate: example 2`_.
 * `Use cgMLST to find close relatives of your isolate: example 3`_.
