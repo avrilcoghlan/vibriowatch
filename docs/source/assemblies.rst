@@ -1,8 +1,9 @@
 Assemblies and assembly quality
 ===============================
 
-In this section, we will describe how you can:
+This section will cover:
 
+* `Short guide for those in a hurry: is my isolate *V. cholerae*?`_.
 * `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
 * `Upload an assembly for an isolate`_.
@@ -12,16 +13,19 @@ In this section, we will describe how you can:
 * `Download the assembly for your isolate`_.
 * `Run CheckM to check if the assembly for your isolated is contaminated`_.
 
-If you have fastq files of reads for an isolate, you can upload them to Vibriowatch to make an assembly for your isolate.
+Short guide for those in a hurry: is my isolate *V. cholerae*?
+--------------------------------------------------------------
 
-Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch.
-
-When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
+Bla bla.
 
 Check if your fastq files of reads are suitable for Vibriowatch
 ---------------------------------------------------------------
 
 If you have fastq files of reads for your isolate, you can upload the fastq files to Vibriowatch to make an assembly.
+
+Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch (see `Upload an assembly for an isolate`_). 
+
+When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
 
 The maximum file size that Vibriowatch can accept for a zipped fastq file (that is, zipped with file names ending in .gz) is 500 Mbyte.
 
