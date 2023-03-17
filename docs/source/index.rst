@@ -11,7 +11,7 @@ Vibriowatch is aimed for use by clinicians and public health workers studying ch
 
 Given raw genome sequencing reads, or a genome assembly for a bacterial isolate, key questions that can be answered using Vibriowatch include: 
 
-1. is my isolate *V. cholerae*?.
+1. is my isolate *V. cholerae*?
 
 2. if so, does my isolate belong to the current pandemic lineage ('7PET lineage') of *V. cholerae*? 
 
