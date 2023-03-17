@@ -46,9 +46,9 @@ In this case, the cluster was defined using a threshold of 10 base differences (
 all the isolates in this cluster differ from each other by 10 or fewer SNPs in a
 set of 2443 'core' *V. cholerae* genes.
 
-If you move your mouse over the far left of the barchart below, you may see that if a stricter threshold is used to define a cluster (e.g. 5 SNPs), then your isolate belongs to a smaller cluster of close relatives.
+If you move your mouse over the far left of the barchart below, you may see that if a stricter threshold is used to define a cluster (e.g. 4 SNPs), then your isolate belongs to a smaller cluster of close relatives.
 
-For example, for isolate HCUF-01, if we move our mouse over the far left bar in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4':
+For example, for isolate HCUF-01, if we move our mouse over the far left bar in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4' (ie. using a threshold of 4 SNPs):
 
 .. image:: Picture51.png
   :width: 650
