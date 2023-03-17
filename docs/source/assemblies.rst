@@ -16,12 +16,53 @@ This section will cover:
 Short guide for those in a hurry: is my isolate Vibrio cholerae
 ---------------------------------------------------------------
 
-Bla bla.
+You can upload either raw Illumina sequencing reads, or an assembly to Vibriowatch. 
+
+They will be stored in your private Vibriowatch account and only visible to you.
+
+To upload files of raw reads to Vibriowatch, your files of reads must have file-names ending in '_R1.fastq.gz' and '_R2.fastq.gz'.
+
+To upload an assembly file to Vibriowatch, your assembly file must have a file-name ending in '.fa' or '.fasta' or '.fna'.
+
+You can upload your raw reads or assembly to Vibriowatch by going to the `Pathogenwatch`_ website.
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+On the Pathogenwatch website, click on 'Upload' at the top right of the website:
+
+.. image:: Picture1.png
+  :width: 650
+  
+To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+
+This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ' for reads or 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
+
+.. image:: Picture2.png
+  :width: 500
+
+Next click on the '+' button at the bottom right of the screen to upload your raw reads or assembly:
+
+.. image:: Picture3.png
+  :width: 500
+  
+If raw reads, select all the zipped fastq files that you want to upload, for example, if you want to upload fastq files for 9 isolates:
+
+.. image:: Picture4.png
+  :width: 200
+  
+If assemblies, select all the fasta files that you want to upload, with one assembly file (FASTA file) per isolate.
+
+As soon as some of the genomes have uploaded or assembled from raw reads, a piechart will show which species they are, for example:
+
+.. image:: Picture7.png
+  :width: 650
+  
+In this example seven isolates were identified as *Vibrio cholerae*. 
 
 Check if your fastq files of reads are suitable for Vibriowatch
 ---------------------------------------------------------------
 
-If you have fastq files of reads for your isolate, you can upload the fastq files to Vibriowatch to make an assembly.
+If you have fastq files of Illumina sequencing reads for your isolate, you can upload the fastq files to Vibriowatch to make an assembly.
 
 Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch (see `Upload an assembly for an isolate`_). 
 
