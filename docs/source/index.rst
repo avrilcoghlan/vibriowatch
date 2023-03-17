@@ -13,7 +13,7 @@ Given raw genome sequencing reads, or a genome assembly for a bacterial isolate,
 
 1. Is my isolate *V. cholerae*? `Is my isolate Vibrio cholerae?<assemblies.rst#Short guide for those in a hurry: is my isolate Vibrio cholerae>`  
 
-2a. `yahoo <http://www.yahoo.com>`_
+2a. `Is my isolate Vibrio cholerae <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_
 
 2. If so, does my isolate belong to the current pandemic lineage ('7PET lineage') of *V. cholerae*? 
 
