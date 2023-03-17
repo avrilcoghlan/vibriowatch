@@ -46,6 +46,22 @@ In this case, the cluster was defined using a threshold of 10 base differences (
 all the isolates in this cluster differ from each other by 10 or fewer SNPs in a
 set of 2443 'core' *V. cholerae* genes.
 
+If you move your mouse over the far left of the barchart below, you may see that if a stricter threshold is used to define a cluster (e.g. 5 SNPs), then your isolate belongs to a smaller cluster of close relatives.
+
+For example, for isolate HCUF-01, if we move our mouse over the far left bar in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4':
+
+.. image:: Picture51.png
+  :width: 650
+  
+Clicking on that bar in the barchart will bring up the smaller cgMLST cluster of 138 isolates.
+
+If you now click on the big purple 'LIST GENOMES' button below the cgMLST cluster, it will give you a list of the genomes that are in the cluster.
+
+For example, here is part of the list of isolates in the cluster of 138 isolates that includes HCUF-01 and its 137 closest relatives:
+
+.. image:: Picture88.png
+  :width: 650
+
 If you found this useful, you may want to read through the rest of the tutorial to find out more details. 
 
 Use cgMLST to find close relatives of your isolate: example 1
