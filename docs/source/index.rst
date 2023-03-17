@@ -48,7 +48,9 @@ Contents
    assemblies
    mlst
    closerelatives
-   virulenceAMR
+   virulence
+   AMR
+   plasmids
    acknowledgements
    
 
