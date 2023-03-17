@@ -59,6 +59,8 @@ As soon as some of the genomes have uploaded or assembled from raw reads, a piec
   
 In this example seven isolates were identified as *Vibrio cholerae*. 
 
+If you found this useful, you may want to read through the rest of the tutorial to find out more details. 
+
 Check if your fastq files of reads are suitable for Vibriowatch
 ---------------------------------------------------------------
 
