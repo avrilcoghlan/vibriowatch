@@ -19,7 +19,7 @@ Given raw genome sequencing reads, or a genome assembly for a bacterial isolate,
 
 5. `Is my isolate closely related to other sequenced Vibrio cholerae isolates? <https://vibriowatch.readthedocs.io/en/latest/closerelatives.html#short-guide-for-those-in-a-hurry-is-my-isolate-closely-related-to-other-sequenced-vibrio-cholerae-isolates>`_
 
-In this tutorial we'll introduce the *V. cholerae* reference genome and other genomic data available for *V. cholerae*; as well as Pathogenwatch and its *V. cholerae* component Vibriowatch. Then we'll then explain how you can upload your own sequencing reads or genome assembly to Vibriowatch, and bioinformatics analyses of your own isolates and/or *V. cholerae* genomes that are already in Vibriowatch, that you can carry out using Vibriowatch. The full table of contents is below, or to the left. 
+In this tutorial we'll introduce the *V. cholerae* genomic data; explain how you can upload your own sequencing reads or genome assembly to Vibriowatch; and tell you about bioinformatics analyses you can carry out in Vibriowatch of your isolates and existing *V. cholerae* genomes in Vibriowatch. The table of contents is below, or to the left. 
 
 .. _PathogenWatch: https://pathogen.watch/
 
