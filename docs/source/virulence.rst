@@ -64,7 +64,11 @@ If you found this useful, you may want to read through the rest of the tutorial 
 Predicting additional virulence genes in your isolate
 -----------------------------------------------------
 
-It is well described that certain 'virulence genes' can make *Vibrio cholerae* more virulent, causing more severe disease. The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin and also the `tcpA`_ gene which encodes the toxin coregulated pilus, which is important for colonisation of the host. The `ctxA`_ and `ctxB`_ genes are almost always found in isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
+It is well described that certain 'virulence genes' can make *Vibrio cholerae* more virulent, causing more severe disease (see
+`Ramamurthy et al 2020`_ for a review of virulence in *V. cholerae*). 
+The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin and also the `tcpA`_ gene which encodes the toxin coregulated pilus, which is important for colonisation of the host. The `ctxA`_ and `ctxB`_ genes are almost always found in isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
+
+.. _Ramamurthy et al 2020: https://pubmed.ncbi.nlm.nih.gov/33102256/
 
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
 other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_:
@@ -145,6 +149,30 @@ part of a large regulatory network involved in regulating virulence in *V. chole
 .. _rpoS: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS02845
 
 .. _Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
+
+Here is an example of the virulence section of the report page from another isolate, isolate GXFL1-4, which was isolated from prawns by `Zhou et al 2022`_:
+
+.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
+
+.. image:: Picture91.png
+  :width: 650
+  
+And here is its section on virulence clusters:
+
+.. image:: Picture92.png
+  :width: 650
+  
+It's interesting to note that this isolate, which does not belong to the current pandemic lineage (7PET lineage), is missing the key genes necessary for virulence in human hosts, `ctxA`_ and `ctxB`_, and `tcpA`_. Therefore, it would be very unlikely to cause severe cholera in humans, and would probably only produce mild diarrhoea. Interestingly, this isolate is predicted to have the cholix toxin gene, `chxA`_, which is rare in the current pandemic lineage (7PET lineage) but may perhaps be important to interactions between *V. cholerae* and crustaceans (see `Jorgensen et al 2008`_).
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+
+.. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
+
+.. _chxA: https://biocyc.org/gene?orgid=GCF_000969265&id=VAB027_RS11625
+
+.. _Jorgensen et al 2008: https://pubmed.ncbi.nlm.nih.gov/18276581/
 
 Predicting virulence clusters in your isolate
 ---------------------------------------------
