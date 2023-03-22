@@ -144,7 +144,7 @@ part of a large regulatory network involved in regulating virulence in *V. chole
 
 .. _rpoS: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS02845
 
-.._Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
+.. _Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
 
 Predicting virulence clusters in your isolate
 ---------------------------------------------
@@ -187,7 +187,7 @@ The **Lux operon** of *Vibrio cholerae* is involved in luminescence (see `Grim e
 
 .. _Grim et al 2008: https://pubmed.ncbi.nlm.nih.gov/18065611/
 
-.._Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
+.. _Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
 
 Contact
 -------
