@@ -4,7 +4,8 @@ Predicting virulence genes
 This section will cover:
 
 * `Short guide for those in a hurry: does my isolate express cholera toxin`_.
-* `Predict virulence genes in your isolate`_.
+* `Predicting additional virulence genes in your isolate`_.
+* `Predicting virulence clusters in your isolate`_.
 
 Short guide for those in a hurry: does my isolate express cholera toxin
 -----------------------------------------------------------------------
@@ -46,6 +47,16 @@ Because this isolate probably has `ctxA`_, it probably produces cholera toxin, s
 
 (Note: there is currently a problem predicting gene *ctxB* in Vibriowatch, which we are currently working on fixing.)
 
+Sometimes you may see a '~' symbol beside 'ctxB', indicating that there was a partial match to the `ctxB`_ gene. 
+This could either mean that the `ctxB`_ gene is truncated in this isolate, or that there are one or more SNPs in `ctxB`_ in this isolate. 
+The `ctxB`_ gene is known to have several circulating SNPs in the *V. cholerae* species (see `Lee et al 2021`_). 
+
+.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+.. _Lee et al 2021: https://pubmed.ncbi.nlm.nih.gov/34566903/
+
 If you found this useful, you may want to read through the rest of the tutorial to find out more details.
 
 Predicting additional virulence genes in your isolate
@@ -79,7 +90,7 @@ Let's look again at the section of the report page on 'Virulence Genes' for isol
   :width: 650
   
 The ticks show that the intestinal colonisation gene  `ompU`_, regulatory gene,
-`rpoS`_, and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, and `zot`_ genes are present. There is a '~' symbol for the `ctxB`_ gene, indicating that there was a partial match to it. This could either mean that the `ctxB`_ gene is truncated in this isolate, or that there are one or more SNPs in `ctxB`_ in this isolate. 
+`rpoS`_, and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, and `zot`_ genes are present. 
 
 .. _ompU: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS03340
 
@@ -99,13 +110,8 @@ The ticks show that the intestinal colonisation gene  `ompU`_, regulatory gene,
 
 .. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
 
-It seems that this isolate has `ctxA`_ and likely has `ctxB`_, and that there is one or more SNP in its `ctxB`_ gene, since `ctxB`_ is known to have several circulating SNPs in the *V. cholerae* species (see `Lee et al 2021`_). Because this isolate probably has both `ctxA`_ and `ctxB`_, it probably produces cholera toxin, so will give rise to severe cholera.
-
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
-
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
-
-.. _Lee et al 2021: https://pubmed.ncbi.nlm.nih.gov/34566903/
+Predicting virulence clusters in your isolate
+---------------------------------------------
 
 Below the Virulence gene list, there are also some virulence gene clusters listed, such as the TCP cluster, where the TCP cluster includes genes *tcpABCDEFHIJNQRST*, the Lux operon includes genes *luxOPQSU*, the RTX operon includes *rtxABCD*, and the MSHA pilus includes *mshABCDEFGHIJKMN*. 
 The TCP cluster contains the important virulence gene `tcpA`_ and is part of the 'Vibrio Pathogenicity Island-1' (VPI-1), a genomic island often found in isolates of *V. cholerae* that belong to the current pandemic lineage (7PET lineage).
