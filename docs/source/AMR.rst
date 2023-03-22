@@ -42,7 +42,7 @@ resistance genes *catB9* and *floR*, predicted to give resistance
 to chloramphenicol; resistance gene *varG*, predicted to give resistance to beta lactam class antibiotics including carbapenems, cephalosporins,
 and ampicillin; and resistance gene *dfrA1*, predicted to give resistance to trimethoprim.
 
-HCUF-01 also has some variants predicted to give antimicrobial resistance: variants *nfsA*(R169C) and *nfsB*(Q5'*'), predicted to give resistance
+HCUF-01 also has some variants predicted to give antimicrobial resistance: variants *nfsA*(R169C) and *nfsB*(Q5STOP), predicted to give resistance
 to nitrofurans (e.g. nitrofurantoin, furazolidone); and variants *gyrA*(S83I) and *parC*(S85L), predicted to give resistance to quinolones (e.g. ciprofloxacin, nalidixic acid). 
   
 If you found this useful, you may want to read through the rest of the tutorial to find out more details.
