@@ -15,7 +15,7 @@ Given raw genome sequencing reads, or a genome assembly for a bacterial isolate,
 
 3. What is the predicted antimicrobial resistance profile of my isolate? 
 
-4. `Is my isolate predicted to produce cholera toxin (Ctx)? >https://vibriowatch.readthedocs.io/en/latest/virulence.html#short-guide-for-those-in-a-hurry-does-my-isolate-express-cholera-toxin>`_
+4. `Is my isolate predicted to produce cholera toxin (Ctx)? <https://vibriowatch.readthedocs.io/en/latest/virulence.html#short-guide-for-those-in-a-hurry-does-my-isolate-express-cholera-toxin>`_
 
 5. `Is my isolate closely related to other sequenced Vibrio cholerae isolates? <https://vibriowatch.readthedocs.io/en/latest/closerelatives.html#short-guide-for-those-in-a-hurry-is-my-isolate-closely-related-to-other-sequenced-vibrio-cholerae-isolates>`_
 
