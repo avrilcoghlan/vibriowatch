@@ -57,6 +57,8 @@ The `ctxB`_ gene is known to have several circulating SNPs in the *V. cholerae* 
 
 .. _Lee et al 2021: https://pubmed.ncbi.nlm.nih.gov/34566903/
 
+If an isolate lacks the `ctxA`_ and `ctxB`_ genes, it is predicted to not produce cholera toxin and as a result will not cause severe cholera, probably only relatively mild diarrhoea. 
+
 If you found this useful, you may want to read through the rest of the tutorial to find out more details.
 
 Predicting additional virulence genes in your isolate
@@ -65,7 +67,7 @@ Predicting additional virulence genes in your isolate
 It is well described that certain 'virulence genes' can make *Vibrio cholerae* more virulent, causing more severe disease. The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin and also the `tcpA`_ gene which encodes the toxin coregulated pilus, which is important for colonisation of the host. The `ctxA`_ and `ctxB`_ genes are almost always found in isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
 
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
-other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_ and `rtxA`_. 
+other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_:
 
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
@@ -83,18 +85,43 @@ other virulence genes of lesser importance, such as additonal toxin genes `zot`_
 
 .. _rtxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07295
 
+.. _chxA: https://biocyc.org/gene?orgid=GCF_000969265&id=VAB027_RS11625
+
+.. _vasX: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS13930
+
+.. _stn: https://pubmed.ncbi.nlm.nih.gov/8246823/
+
 Vibriowatch uses a tool called ‘VISTA’, based on BLAST, to identify virulence genes in *V. cholerae* genomes.
 Let's look again at the section of the report page on 'Virulence Genes' for isolate HCUF-01: 
 
 .. image:: Picture89.png
   :width: 650
   
-The ticks show that the intestinal colonisation gene  `ompU`_, regulatory gene,
-`rpoS`_, and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, and `zot`_ genes are present. 
+The ticks show that the intestinal colonisation genes  `ompU`_, `acfA`_, `acfB`_, `acfC`_ and `acfD`_; virulence regulatory gene `toxR`_;
+sigma factor gene `rpoS`_; mucinase `tagA`_; haemagglutinin `hapA`_; neuraminidase/sialidase `nanH`_; 
+and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, `zot`_, and `vasX`_ genes are present.
+The genes `hlyA`_, `toxR`_, `ace`_, `makA`_, `zot`_, and `vasX`_ encode toxins that are not as potent as that encoded by `ctxA`_ and `ctxB`_,
+ie. these toxins do not cause very severe diarrhoea. We see a '~' symbol beside 'acfC', which means that the `acfC`_ gene may be partial or contain SNPs.
 
 .. _ompU: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS03340
 
+.. _acfA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04360
+
+.. _acfB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04340
+
+.. _acfC: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04345
+
+.. _acfD: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04365
+
+.. _toxR: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS05040
+
 .. _rpoS: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS02845
+
+.. _tagA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04245
+
+.. _hapA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS18255
+
+.. _nanH: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS08940
 
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
@@ -108,21 +135,59 @@ The ticks show that the intestinal colonisation gene  `ompU`_, regulatory gene,
 
 .. _zot: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07335
 
+.. _vasX: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS13930
+
 .. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+
+The sigma factor gene `rpoS`_ has many roles, but is 
+part of a large regulatory network involved in regulating virulence in *V. cholerae* (see `Dorman and Dorman 2018`_).
+
+.. _rpoS: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS02845
+
+.._Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
 
 Predicting virulence clusters in your isolate
 ---------------------------------------------
 
-Below the Virulence gene list, there are also some virulence gene clusters listed, such as the TCP cluster, where the TCP cluster includes genes *tcpABCDEFHIJNQRST*, the Lux operon includes genes *luxOPQSU*, the RTX operon includes *rtxABCD*, and the MSHA pilus includes *mshABCDEFGHIJKMN*. 
-The TCP cluster contains the important virulence gene `tcpA`_ and is part of the 'Vibrio Pathogenicity Island-1' (VPI-1), a genomic island often found in isolates of *V. cholerae* that belong to the current pandemic lineage (7PET lineage).
+Below the Virulence gene list, there are also some virulence gene clusters listed, such as the TCP cluster, where the TCP cluster includes genes *tcpABCDEFHIJNQRST*, the Lux operon includes genes *luxOPQSU*, the RTX operon includes *rtxABCD*, and the MSHA pilus includes *mshABCDEFGHIJKMN*.
+For example, here is the 'Virulence clusters' section for isolate HCUF-01:
+
+.. image:: Picture90.png
+  :width: 650
+
+The **TCP cluster** contains the important virulence gene `tcpA`_ and is part of the 'Vibrio Pathogenicity Island-1' (VPI-1), a genomic island often found in isolates of *V. cholerae* that belong to the current pandemic lineage (7PET lineage). 
+`tcpA`_ is a key virulence factor for intestinal adherence/colonisation, and if an isolate lacks 
+`tcpA`_, it likely will not cause severe cholera, probably only relatively mild diarrhoea. 
+The TCP cluster also contains the key virulence regulator `toxT`_ (also known as *tcpN*). We see a '~' symbol beside 'tcpI', which means that the `tcpI`_ gene may be partial or contain SNPs.
 
 .. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
-In the example above, the isolate has a partial hit to `rtxA`_ in the RTX operon, which as for `ctxB`_ gene (see above), may either mean that the `rtxA`_ gene is truncated in this isolate, or that there are one or more SNPs in the `rtxA`_ gene in this isolate.
+.. _toxT: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04330
+
+.. _tcpI: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04265
+
+The **RTX operon** *rtxABCD* includes gene `rtxA`_, which encodes a toxin known as 'repeats-in-toxin'. 
 
 .. _rtxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07295
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+The **MSH operon** includes the key gene *mshA*, which encodes the key structural unit of the MSHA pilus.
+The role of the MSHA pilus in virulence is possibly indirect. 
+The MSHA pilus is involved in attachment to biofilms and surfaces, and is likely important for *V. cholerae* to form biofilm on
+some surfaces in the environment (see `Watnick et al 1999`_). Furthermore, ingesting water
+containing *V. cholerae* biofilms may enhance acute cholera infection, for example, based on evidence from infant mouse models of cholera
+(see `Tamayo et al 2010`_). 
+
+.. _mshA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS02175
+
+.. _Watnick et al 1999: https://pubmed.ncbi.nlm.nih.gov/10348878/
+
+.. _Tamayo et al 2010: https://pubmed.ncbi.nlm.nih.gov/20515927/
+
+The **Lux operon** of *Vibrio cholerae* is involved in luminescence (see `Grim et al 2008`_), and is also part of a large regulatory network involved in regulating virulence in *V. cholerae* (see `Dorman and Dorman 2018`_). 
+
+.. _Grim et al 2008: https://pubmed.ncbi.nlm.nih.gov/18065611/
+
+.._Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
 
 Contact
 -------
