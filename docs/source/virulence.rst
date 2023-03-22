@@ -3,12 +3,12 @@ Predicting virulence genes
 
 This section will cover:
 
-* `Short guide for those in a hurry: does my isolate express cholera toxin`_.
+* `Short guide for those in a hurry: is my isolate predicted to produce cholera toxin`_.
 * `Predicting additional virulence genes in your isolate`_.
 * `Predicting virulence clusters in your isolate`_.
 
-Short guide for those in a hurry: does my isolate express cholera toxin
------------------------------------------------------------------------
+Short guide for those in a hurry: is my isolate predicted to produce cholera toxin
+----------------------------------------------------------------------------------
 
 Cholera toxin (CT) is a toxin usually produced by *Vibrio cholerae* of the current pandemic lineage (7PET lineage),
 and is a protein that causes profuse, watery diarrhoea.
