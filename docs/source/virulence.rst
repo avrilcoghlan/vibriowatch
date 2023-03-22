@@ -1,14 +1,58 @@
 Predicting virulence genes
 ==========================
 
-In this section, we will describe how you can:
+This section will cover:
 
+* `Short guide for those in a hurry: does my isolate express cholera toxin`_.
 * `Predict virulence genes in your isolate`_.
 
-Predict virulence genes in your isolate
----------------------------------------
+Short guide for those in a hurry: does my isolate express cholera toxin
+-----------------------------------------------------------------------
+
+Cholera toxin (CT) is a toxin usually produced by *Vibrio cholerae* of the current pandemic lineage (7PET lineage),
+and is a protein that causes profuse, watery diarrhoea.
+
+Cholera toxin is encoded by the `ctxA`_ and `ctxB`_ genes.
+
+A quick way to find out whether your isolate likely expresses cholera toxin is to look at the predicted virulence genes for your isolate in Vibriowatch.
+
+Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the species of your isolates are, e.g.:
+
+.. image:: Picture7.png
+  :width: 650
+
+To view the report pages for your isolates, which will tell you their predicted virulence genes, you need
+to click on the 'View genomes' link in the middle of the piechart.
+  
+This will bring up a list of your isolates in Vibriowatch, looking something like this:
+
+.. image:: Picture8.png
+  :width: 650
+  
+To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
+
+If you scroll down the 'report page' for your isolate, you will find a section with the heading 'Virulence Genes'. 
+
+For example, here is 'Virulence Genes' part of 
+the report page for an isolate HCUF-01:
+
+.. image:: Picture89.png
+  :width: 650
+
+The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present. 
+Because this isolate probably has `ctxA`_, it probably produces cholera toxin, so will give rise to severe cholera.
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+(Note: there is currently a problem predicting gene *ctxB* in Vibriowatch, which we are currently working on fixing.)
+
+If you found this useful, you may want to read through the rest of the tutorial to find out more details.
+
+Predicting additional virulence genes in your isolate
+-----------------------------------------------------
 
 It is well described that certain 'virulence genes' can make *Vibrio cholerae* more virulent, causing more severe disease. The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin and also the `tcpA`_ gene which encodes the toxin coregulated pilus, which is important for colonisation of the host. The `ctxA`_ and `ctxB`_ genes are almost always found in isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
+
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
 other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_ and `rtxA`_. 
 
@@ -29,9 +73,9 @@ other virulence genes of lesser importance, such as additonal toxin genes `zot`_
 .. _rtxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07295
 
 Vibriowatch uses a tool called ‘VISTA’, based on BLAST, to identify virulence genes in *V. cholerae* genomes.
-The predicted virulence genes are shown on the report page for a genome. This is an example of the section of a report page on virulence:
+Let's look again at the section of the report page on 'Virulence Genes' for isolate HCUF-01: 
 
-.. image:: Picture87.png
+.. image:: Picture89.png
   :width: 650
   
 The ticks show that the intestinal colonisation gene  `ompU`_, regulatory gene,
