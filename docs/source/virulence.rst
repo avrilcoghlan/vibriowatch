@@ -6,6 +6,7 @@ This section will cover:
 * `Short guide for those in a hurry: is my isolate predicted to produce cholera toxin`_.
 * `Predicting additional virulence genes in your isolate`_.
 * `Predicting virulence clusters in your isolate`_.
+* `Displaying virulence gene presence/absence on the tree for a collection of isolates`_.
 
 Short guide for those in a hurry: is my isolate predicted to produce cholera toxin
 ----------------------------------------------------------------------------------
@@ -71,7 +72,7 @@ The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_
 .. _Ramamurthy et al 2020: https://pubmed.ncbi.nlm.nih.gov/33102256/
 
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
-other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_:
+other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_.
 
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
@@ -216,6 +217,42 @@ The **Lux operon** of *Vibrio cholerae* is involved in luminescence (see `Grim e
 .. _Grim et al 2008: https://pubmed.ncbi.nlm.nih.gov/18065611/
 
 .. _Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
+
+Displaying virulence gene presence/absence on the tree for a collection of isolates
+-----------------------------------------------------------------------------------
+
+If you make a collection of isolates in Vibriowatch, you can display the presence/absence of a particular virulence gene
+(e.g. `ctxA`_) beside the tree.
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+For example, if you look at the public Vibriowatch `collection for the paper by Chun et al 2009`_ (see `here`_ for the paper in PubMed), if
+you turn on the leaf labels you will see a picture of the tree with the isolate names beside the tips of the tree:
+
+.. _collection for the paper by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
+
+.. _here: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture93.png
+  :width: 650
+  
+To show virulence gene presence/absence beside the tree, click on the 'Timeline' menu below the tree, and choose 'Virulence' instead
+of 'Timeline'. Then click on the column heading 'ctxA' to show the presence/absence of the `ctxA`_ gene and you should see the nodes
+of the tree light up as red if they have the `ctxA`_ gene, orange if they have a partial match to the `ctxA`_ gene, and colourless if
+they don't have a match to `ctxA`_:
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+.. image:: Picture94.png
+  :width: 650
+  
+We can see that the `ctxA`_ gene, which encodes part of the cholera toxin, is present (or found at least partially) in the isolates in
+the current pandemic lineage (7PET lineage), i.e. isolates M010, B33, MJ1236, CIRS101, N16961, and RC9; as well as in some closely 
+related 'pre-7PET' lineage isolates (isolates MAK757 and BX330286). However, interestingly,
+the `ctxA`_  is also present too in some isolates that are not in current pandemic lineage (7PET lineage), such as the isolates 
+V52 and O395. Indeed, some isolates such as V52 that do not belong to the current pandemic lineage have been found to produce cholera toxin.
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
 Contact
 -------
