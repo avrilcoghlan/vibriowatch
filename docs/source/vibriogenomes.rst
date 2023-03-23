@@ -39,7 +39,7 @@ Since then, many more *V. cholerae* genomes have been sequenced. This plot shows
 
 Together these 22 key papers have published 3254 *V. cholerae* genomes, of which 84% belonged to the current pandemic lineage (7PET lineage). All of these genome data has been useful to clinicians and epidemiologists to try and understand the spread of *V. cholerae* around the world and also to scientists and epidemiologists interested in *V. cholerae* genome evolution, for example, the spread of antibiotic resistance genes, and the presence or absence of virulence genes. 
 
-Of course, these 22 key papers do not include all papers that have published *V. cholerae* genomes. In fact, if you look at the `NCBI database`_ or `ENA database`_, you will be able to find about 5700 *V. cholerae* genome assemblies. These will include some genomes that were published in papers that I have not listed here, but also some genomes that have not yet been published. Furthermore, if you look in the ENA database, you will see about 14,500  *V. cholerae* sequence runs, which are unassembled reads for *V. cholerae* isolates. This reflects the fact that many researchers in the past have not assembled reads into assemblies but simply aligned the reads to the reference genome. 
+Of course, these 22 key papers do not include all papers that have published *V. cholerae* genomes. In fact, if you look at the `NCBI database`_ or `ENA database`_, you will be able to find about 5700 *V. cholerae* genome assemblies. These will include some genomes that were published in papers that we have not listed here, but also some genomes that have not yet been published. Furthermore, if you look in the ENA database, you will see about 14,500  *V. cholerae* sequence runs, which are unassembled reads for *V. cholerae* isolates. This reflects the fact that many researchers in the past have not assembled reads into assemblies but simply aligned the reads to the reference genome. 
 
 Clearly, there is a huge amount of genomic data available for *V. cholerae*. Our goal in the VibrioWatch project is to make all this data available and useful for clinicians, epidemiologists and researchers studying *V. cholerae*.
 
@@ -50,7 +50,9 @@ Clearly, there is a huge amount of genomic data available for *V. cholerae*. Our
 Pathogenwatch and Vibriowatch
 -----------------------------
 
-Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which we call **VibrioWatch**. `Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the Centre for Genomic Pathogen Surveillance, a collaboration between the University of Oxford and the Wellcome Sanger Institute. So far, Pathogenwatch includes almost 250,000 genomes for bacterial pathogens of humans that cause worldwide problems. This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
+Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which we call **VibrioWatch**.
+
+`Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the Centre for Genomic Pathogen Surveillance. So far, Pathogenwatch includes almost 250,000 genomes for bacterial pathogens of humans that cause worldwide problems. This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
 
 .. image:: Picture20.png
   :width: 500
@@ -64,7 +66,7 @@ You can see that there are several species (e.g. *Steptococcus pneumoniae*) that
 How many V. cholerae genomes are in Vibriowatch?
 ------------------------------------------------
 
-We are convinced that Pathogenwatch is a useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 4700 *V. cholerae* genomes into Pathogenwatch (as of February 2023), that is, its *V. cholerae* component Vibriowatch. 
+We are convinced that Pathogenwatch is a useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 4700 *V. cholerae* genomes into Pathogenwatch (as of February 2023), that is, into its *V. cholerae* component Vibriowatch. 
 But as we mentioned above, there are many 1000s of genomes already available, and our goal is to upload as many more as possible in the near future. 
 
 As well as the genome sequences for the approximately 4700 genomes, we have also uploaded metadata for those genomes that we have manually curated
@@ -74,7 +76,7 @@ You can see a list of the *V. cholerae* genomes uploaded into Pathogenwatch by v
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-Note that you can also find the full list of genomes in your private Vibriowatch account by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+You can find the full list of *V. cholerae* genomes by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
 
 .. image:: Picture9.png
   :width: 150
@@ -110,7 +112,8 @@ For example, you can see 207 were collected from Mexico, 198 from Haiti, and 262
 The approximately 4700 isolates were collected between 1916 and 2020. 
 As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map will be updated, and we hope to cover a larger time span. 
 
-In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website, both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
+In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website.
+These analyses will be both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
 
 Contact
 -------
