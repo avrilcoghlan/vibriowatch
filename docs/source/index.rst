@@ -13,7 +13,7 @@ Given raw genome sequencing reads, or a genome assembly for a bacterial isolate,
 
 2. `Does my isolate belong to the current pandemic lineage of Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/mlst.html#short-guide-for-those-in-a-hurry-does-my-isolate-belong-to-the-current-pandemic-lineage>`_
 
-3. What is the predicted antimicrobial resistance profile of my isolate? 
+3. `What is the predicted antimicrobial resistance profile of my isolate? <https://vibriowatch.readthedocs.io/en/latest/AMR.html#short-guide-for-those-in-a-hurry-what-is-the-predicted-antimicrobial-resistance-profile-of-my-isolate>`_
 
 4. `Is my isolate predicted to produce cholera toxin (Ctx)? <https://vibriowatch.readthedocs.io/en/latest/virulence.html#short-guide-for-those-in-a-hurry-is-my-isolate-predicted-to-produce-cholera-toxin>`_
 
