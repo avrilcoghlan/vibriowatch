@@ -56,7 +56,7 @@ Antimicrobials recommended for treating cholera
 -----------------------------------------------
 
 The main treatment for cholera is to give fluids and salt either orally as oral rehydration salts, or
-by injection (see `CDC`_, `Somboonwit et al 2017`_). However, in some situations antimicrobial treatment is given. 
+by injection (see `CDC`_, `Somboonwit et al 2017`_). However, in some particular situations antimicrobial treatment is given to certain patients. 
 By clearing the bacteria earlier than the patients own immune system, antimicrobials could reduce the duration and severity
 of the illness, and reduce onward transmission to other people (see `Leibovici-Weissman et al 2014`_, `Hseuh and Waters 2019`_).
 
@@ -81,7 +81,7 @@ advantages over ciprofloxacin or erthyromycin.
 
 The `CDC`_ (in the USA) currently recommends that, in severe cases, or
 for all pregnant women and patients with comorbidities (e.g., severe acute malnutrition, HIV infection),
-cholera can be treated with either doxycycline. If resistance to doxycycline is documented in the country with the cholera
+cholera can be treated with doxycycline. If resistance to doxycycline is documented in the country with the cholera
 outbreak, azithromycin and ciprofloxacin are alternative options. 
 That is, the choice of which antimicrobial to use
 will depend on previous knowledge of local drug resistance.
@@ -126,7 +126,8 @@ chloramphenicol, furazolidone, trimethoprim-sulfamethoxazole, and nalidixic acid
 .. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
 
 The emergence of antimicrobial resistance genes and variants in *V. cholerae* since the 1960s
-is illustrated in this beautiful figure from `Das et al 2020`_, showing that *V. cholerae* has
+is illustrated in this beautiful figure from `Das et al 2020`_, showing that the current pandemic
+lineage (7PET lineage) of *V. cholerae* has
 acquired resistances to almost all the commonly used antimicrobials over time:
 
 .. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
@@ -145,7 +146,7 @@ A key use of genomic data for *Vibrio cholerae* is to predict antimicrobial resi
 It is possible to predict which antimicrobials the *V. cholerae* causing a 
 particular outbreak or epidemic are likely to be susceptible to, and to which they are likely to be resistant. 
 This can help a clinican or public health microbiologist to get some
-early warning of whether there is a possibility that of resistance to antimicrobials in the *V. cholerae*
+early warning of whether there is a possibility of resistance to particular antimicrobials in the *V. cholerae*
 causing the outbreak. 
 
 One should bear in mind that the predictions of antimicrobial resistance based
@@ -163,11 +164,13 @@ We can predict resistance to many different antimicrobial classes such as beta-l
 ampicillin, ceftriaxone), aminoglycosides (e.g. streptomycin), fluoroquinolones (e.g. ciprofloxacin) and 
 other quinolones (e.g. nalidixic acid), chloramphenicol, and sulfonamides (e.g. sulfisoxazole). 
 
-Vibriowatch uses a tool called 'PAARSNP' based on BLAST, to identify antimicrobial resistance (AMR) genes in V. cholerae genomes.
+Vibriowatch uses a tool called 'PAARSNP' based on BLAST, to identify antimicrobial resistance genes and variants in *V. cholerae* genomes.
 In general, it is possible to make reasonably accurate predictions of antimicrobial resistance profile for a *V. cholerae* isolate
 based on its genomic data (see `Weill et al 2017`_). However, one exception is the *catB9* gene, which is predicted to cause
 resistance to chloramphenicol, but which in *V. cholerae* isolates from the current pandemic lineage (7PET lineage) appears to be
-a silent (unexpressed) gene (see `Weill et al 2017`_).
+a silent (unexpressed) gene (see `Weill et al 2017`_). Therefore, even if a *catB9* gene is present in a particular isolate belonging
+to the current pandemic lineage (7PET lineage), that isolate may not be resistant to chloramphenicol (unless it has other genes/variants
+causing chloramphenicol resistance).
 
 .. _Weill et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123067/
 
@@ -205,7 +208,7 @@ country in this collection that have the *sul2* gene.
 In a similar way you can look at the presence/absence of variants that are predicted to cause antimicrobial resistances.
 For example, if you change 'Genes' to 'Variants' (in the menu that originally said 'Timeline'), and then select
 the column saying 'Q5' under 'Furazolidone', you will see which isolates are predicted to be resistant to furazolidone due to
-a mutation in the *nfsB* gene that changes amino acid Q at posiiton 5 to a STOP codon:
+a mutation in the *nfsB* gene that changes amino acid Q at position 5 in the protein to a STOP codon:
 
 .. image:: Picture98.png
   :width: 800
