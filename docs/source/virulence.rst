@@ -12,7 +12,7 @@ Short guide for those in a hurry: is my isolate predicted to produce cholera tox
 -----------------------------------------------------------------------------------
 
 Cholera toxin (CT) is a toxin usually produced by *Vibrio cholerae* of the current pandemic lineage (7PET lineage),
-and is a protein that causes profuse, watery diarrhoea.
+and is a protein that induces profuse, watery diarrhoea.
 
 Cholera toxin is encoded by the `ctxA`_ and `ctxB`_ genes.
 
@@ -113,9 +113,9 @@ Let's look again at the section of the report page on 'Virulence Genes' for isol
 .. image:: Picture89.png
   :width: 650
   
-The ticks show that the intestinal colonisation genes  `ompU`_, `acfA`_, `acfB`_, `acfC`_ and `acfD`_; virulence regulatory gene `toxR`_;
+The ticks show that this isolate has the intestinal colonisation genes  `ompU`_, `acfA`_, `acfB`_, `acfC`_ and `acfD`_; virulence regulatory gene `toxR`_;
 sigma factor gene `rpoS`_; mucinase `tagA`_; haemagglutinin `hapA`_; neuraminidase/sialidase `nanH`_; 
-and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, `zot`_, and `vasX`_ genes are present.
+and toxin genes `ctxA`_, `hlyA`_, `toxR`_, `ace`_, `makA`_, `zot`_, and `vasX`_.
 The genes `hlyA`_, `toxR`_, `ace`_, `makA`_, `zot`_, and `vasX`_ encode toxins that are not as potent as that encoded by `ctxA`_ and `ctxB`_,
 ie. these toxins do not cause very severe diarrhoea. We see a '~' symbol beside 'acfC', which means that the `acfC`_ gene may be partial or contain SNPs.
 
@@ -169,18 +169,11 @@ Here is an example of the virulence section of the report page from another isol
 .. image:: Picture91.png
   :width: 650
   
-And here is its section on virulence clusters:
-
-.. image:: Picture92.png
-  :width: 650
-  
-It's interesting to note that this isolate, which does not belong to the current pandemic lineage (7PET lineage), is missing the key genes necessary for virulence in human hosts, `ctxA`_ and `ctxB`_, and `tcpA`_. Therefore, it would be very unlikely to cause severe cholera in humans, and would probably only produce mild diarrhoea. Interestingly, this isolate is predicted to have the cholix toxin gene, `chxA`_, which is rare in the current pandemic lineage (7PET lineage) but may perhaps be important to interactions between *V. cholerae* and crustaceans (see `Jorgensen et al 2008`_).
+It's interesting to note that this isolate, which does not belong to the current pandemic lineage (7PET lineage), is missing thecholera toxin genes, `ctxA`_ and `ctxB`_. Interestingly, this isolate is predicted to have the cholix toxin gene, `chxA`_, which is rare in the current pandemic lineage (7PET lineage) but may perhaps be important to interactions between *V. cholerae* and crustaceans (see `Jorgensen et al 2008`_).
 
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
 .. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
-
-.. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
 .. _chxA: https://biocyc.org/gene?orgid=GCF_000969265&id=VAB027_RS11625
 
@@ -189,16 +182,18 @@ It's interesting to note that this isolate, which does not belong to the current
 Predicting virulence clusters in your isolate
 ---------------------------------------------
 
-Below the Virulence gene list, there are also some virulence gene clusters listed, such as the TCP cluster, where the TCP cluster includes genes *tcpABCDEFHIJNQRST*, the Lux operon includes genes *luxOPQSU*, the RTX operon includes *rtxABCD*, and the MSHA pilus includes *mshABCDEFGHIJKMN*.
+Below the Virulence gene list, there are also some virulence gene clusters listed, such as the TCP cluster, which includes genes *tcpABCDEFHIJNQRST*; the Lux operon, which includes genes *luxOPQSU*; the RTX operon, which includes *rtxABCD*; and the MSHA pilus operon, which includes *mshABCDEFGHIJKMN*.
 For example, here is the 'Virulence clusters' section for isolate HCUF-01:
 
 .. image:: Picture90.png
   :width: 650
 
-The **TCP cluster** contains the important virulence gene `tcpA`_ and is part of the 'Vibrio Pathogenicity Island-1' (VPI-1), a genomic island often found in isolates of *V. cholerae* that belong to the current pandemic lineage (7PET lineage). 
+The **TCP cluster** contains the important virulence gene `tcpA`_, which is key for colonisation of the human host.
+The TCP cluster is part of the 'Vibrio Pathogenicity Island-1' (VPI-1), a genomic island often found in isolates of *V. cholerae* that belong to the current pandemic lineage (7PET lineage). 
 `tcpA`_ is a key virulence factor for intestinal adherence/colonisation, and if an isolate lacks 
 `tcpA`_, it likely will not cause severe cholera, probably only relatively mild diarrhoea. 
-The TCP cluster also contains the key virulence regulator `toxT`_ (also known as *tcpN*). We see a '~' symbol beside 'tcpI', which means that the `tcpI`_ gene may be partial or contain SNPs.
+The TCP cluster also contains the key virulence regulator `toxT`_ (also known as *tcpN*). In the
+case of the 'Virulence clusters' section for isolate HCUF-01, we see a '~' symbol beside 'tcpI', which means that the `tcpI`_ gene may be partial or contain SNPs.
 
 .. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
@@ -228,6 +223,21 @@ The **Lux operon** of *Vibrio cholerae* is involved in luminescence (see `Grim e
 .. _Grim et al 2008: https://pubmed.ncbi.nlm.nih.gov/18065611/
 
 .. _Dorman and Dorman 2018: https://pubmed.ncbi.nlm.nih.gov/30473684/
+
+As another example, here is the section on virulence clusters for isolate GXFL1-4, which was collected from prawns by `Zhou et al 2022`_:
+
+.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/:
+
+.. image:: Picture92.png
+  :width: 650
+  
+This isolate is missing the key virulence gene `tcpA`_. Thus, it is missing the key genes necessary for virulence in human hosts, `ctxA`_ and `ctxB`_ (see above), and `tcpA`_. Therefore, it would be very unlikely to cause severe cholera in humans, and would probably only produce mild diarrhoea. 
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+
+.. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
 Displaying virulence gene presence/absence on the tree for a collection of isolates
 -----------------------------------------------------------------------------------
