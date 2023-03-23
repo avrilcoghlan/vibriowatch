@@ -3,14 +3,14 @@ Predicting plasmids
 
 This section will cover:
 
-* `Are there plasmids in Vibrio cholerae`_.
+* `Are there plasmids in Vibrio cholerae?`_.
 * `Predicting plasmids in your isolate`_.
 
-Are there plasmids in Vibrio cholerae
--------------------------------------
+Are there plasmids in Vibrio cholerae?
+--------------------------------------
 
 Plasmids can be an interesting and important feature of *Vibrio cholerae* genomes, particularly because
-antibiotic resistance genes are carried by the IncC/A-type plasmids in some isolates from the current
+antibiotic resistance genes are carried by IncC/A-type plasmids in some isolates from the current
 pandemic lineage (7PET). For example, the multi-drug resistant (MDR) phenotype seen in *V. cholerae* in
 Yemen, starting in 2019, was due to spread of an IncC-type plasmid carrying antibiotic resistance genes
 (`Lassalle et al 2022`_).
@@ -23,7 +23,7 @@ Many plasmids have been identified in environmental isolates of *Vibrio cholerae
 (note that most of these isolates probably do not belong to the current pandemic lineage), as well 
 as in isolates of the current pandemic lineage (7PET lineage) (see `De et al 2021`_). Some of these
 *V. cholerae* plasmids have been given names (e.g. 'pVC1', 'pVC2', 'pSDH-1', 'pSDH-2', 'p3iANG', etc.).
-Classes of plasmids seen in *V. cholerae* include ColE1-like plasmids and Inc-A/C family plasmids (`De et al 2021`_).
+Some of the classes of plasmids seen in *V. cholerae* are ColE1-like plasmids and Inc-A/C family plasmids (`De et al 2021`_).
 
 .. _De et al 2021: https://www.frontiersin.org/articles/10.3389/fitd.2021.691604/full
 
@@ -35,15 +35,15 @@ If no plasmids are predicted in the genome of an isolate, you will see this in t
 section of its report page:
 
 .. image:: Picture99.png
-  :width: 650
+  :width: 450
   
-An example of an isolate with a plasmid is RC9, which was isolated in Kenya in 1985.
+An example of an isolate with a predicted plasmid is RC9, which was isolated in Kenya in 1985.
 Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
 
 .. image:: Picture100.png
   :width: 650
   
-This shows that this isolate is predicted to have a IncC-type plasmid.
+This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
 
 Contact
 -------
