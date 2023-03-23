@@ -195,7 +195,7 @@ they don't have a match to *sul2*:
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
 
 .. image:: Picture97.png
-  :width: 650
+  :width: 800
   
 We can see that the *sul2* gene is present in the isolates in
 the current pandemic lineage (7PET lineage), i.e. isolates M010, B33, MJ1236, CIRS101, and RC9, but is not found
@@ -208,7 +208,7 @@ the column saying 'Q5' under 'Furazolidone', you will see which isolates are pre
 a mutation in the *nfsB* gene that changes amino acid Q at posiiton 5 to a STOP codon:
 
 .. image:: Picture98.png
-  :width: 650
+  :width: 800
   
 We can see that this variant is present in several isolates from the current pandemic lineage (7PET lineage), namely, B33, MJ1236, and
 CIRS101. Again, in the map on the right, we see where these variants were found around the world, and the frequency of the variant
