@@ -3,7 +3,7 @@ Predicting plasmids
 
 This section will cover:
 
-* `Are there plasmids in Vibrio cholerae?`_.
+* `Are there plasmids in Vibrio cholerae?`_
 * `Predicting plasmids in your isolate`_.
 
 Are there plasmids in Vibrio cholerae?
