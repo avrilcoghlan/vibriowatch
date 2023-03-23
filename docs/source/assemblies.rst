@@ -11,7 +11,7 @@ This section will cover:
 * `View the Vibriowatch report page for your isolate`_.
 * `View the assembly statistics for your isolate`_.
 * `Download the assembly for your isolate`_.
-* `Run CheckM to check if the assembly for your isolated is contaminated`_.
+* `Run CheckM to check if the assembly for your isolate is contaminated`_.
 
 Short guide for those in a hurry: is my isolate Vibrio cholerae?
 ----------------------------------------------------------------
@@ -20,7 +20,7 @@ You can upload either raw Illumina sequencing reads, or an assembly to Vibriowat
 
 They will be stored in your private Vibriowatch account and only visible to you.
 
-To upload files of raw reads to Vibriowatch, your files of reads must have file-names ending in '_R1.fastq.gz' and '_R2.fastq.gz'.
+To upload files of raw Illumina reads to Vibriowatch, your files of reads must have file-names ending in '_R1.fastq.gz' and '_R2.fastq.gz'.
 
 To upload an assembly file to Vibriowatch, your assembly file must have a file-name ending in '.fa' or '.fasta' or '.fna'.
 
@@ -35,7 +35,8 @@ On the Pathogenwatch website, click on 'Upload' at the top right of the website:
   
 To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
 
-This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ' for reads or 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
+This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ' for reads,
+or 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
 
 .. image:: Picture2.png
   :width: 500
@@ -68,13 +69,20 @@ If you have fastq files of Illumina sequencing reads for your isolate, you can u
 
 Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch (see `Upload an assembly for an isolate`_). 
 
+At present, Vibriowatch can only make assemblies for Illumina reads.
+If you have sequenced reads using a different sequencing technology than Illumina (e.g. Oxford Nanopore), and are not sure how
+to make an assembly, please contact us.
+
 When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
 
 The maximum file size that Vibriowatch can accept for a zipped fastq file (that is, zipped with file names ending in .gz) is 500 Mbyte.
 
 Usually you will have a pair of zipped fastq files for an isolate, with the forward and reverse reads respectively, called something like sample1_R1.fastq.gz and sample1_R2.fastq.gz.
 
-If you have these files on a computer running Linux, you can find their sizes in Megabytes by typing in the terminal window:
+If you have these files on a computer running Linux, you can find their sizes in Megabytes by typing in the terminal window
+(Note: these are Linux commands; for a simple Linux tutorial see `here`_):
+
+.. _here: http://www.ee.surrey.ac.uk/Teaching/Unix
 
 .. code-block:: console
 
@@ -141,7 +149,7 @@ As soon as some of the genomes have been assembled, the piechart will show which
 .. image:: Picture6.png
   :width: 650
   
-We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly. We will explain all of these analyses later in the tutorial:
+We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly. We will explain these analyses later in the tutorial:
 
 #. Species identification.
 #. AMR gene analysis.
@@ -237,9 +245,9 @@ As a very rough 'rule of thumb', we would consider that an assembly size of betw
 
 If your assembly has a genome size or GC content far outside these ranges, it would probably be a good idea to investigate whether your assembly likely contains contamination from another species' DNA (see below).
 
-Other commonly used measures of assembly quality are the number of contigs and the number of non-ATCG characters. We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs, and contains :math:`<` 50,000 non-ATCG characters. If the assembly for your isolate has more contigs, or more ATCG characters, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
+Another commonly used measures of assembly quality is the number of contigs. We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. If the assembly for your isolate has more contigs, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
 
-In the example above, the genome for the isolate has 62 contigs and 695 non-ATCG characters, so is relatively good quality.
+In the example above, the genome for the isolate has 62 contigs, so is relatively good quality.
 
 Download the assembly for your isolate
 --------------------------------------
@@ -268,14 +276,14 @@ Tick the boxes for the isolates whose assemblies you want to download, e.g. isol
   
 At the top right of the screen, you will see something like '7 Selected Genomes' appear in a purple button (see above). To download the assemblies, click on the purple '7 Selected Genomes' button, and choose 'Download data' from the menu that appears, and then choose 'FASTA files' from the next menu that appears. This will give you a file 'genomes.zip' containing the assemblies (e.g. 7 assemblies in this example). When you unzip that file, you will find assembly files inside it, called something like '1_S1_L001.fasta', '2_S2_L001.fasta', and so on.
   
-Run CheckM to check if the assembly for your isolated is contaminated
----------------------------------------------------------------------
+Run CheckM to check if the assembly for your isolate is contaminated
+--------------------------------------------------------------------
 
 If you suspect that the assembly for your isolate may be contaminated with DNA from another species, for example because it has an unusual genome size and/or GC content for *V. cholerae*, you could try running a 'contamination scan' software such as CheckM by `Parks et al 2015`_.  
 
 .. _Parks et al 2015: https://pubmed.ncbi.nlm.nih.gov/25977477/
 
-CheckM is part of Vibriowatch, and to run it you will need to install it on a computer that runs Linux. The latest version of CheckM is version 2. You can find instructions on how to install it on the `CheckM github page`_.  
+CheckM is not part of Vibriowatch, and to run it you will need to install it on a computer that runs Linux. The latest version of CheckM is version 2. You can find instructions on how to install it on the `CheckM github page`_.  
 
 .. _CheckM github page: https://github.com/Ecogenomics/CheckM/wiki
 
