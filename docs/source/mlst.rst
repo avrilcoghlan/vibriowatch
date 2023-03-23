@@ -3,22 +3,22 @@
 
 This section will cover:
 
-* `Short guide for those in a hurry: does my isolate belong to the current pandemic lineage`_.
-* `What is known about Vibrio cholerae lineages`_.
-* `What is MLST`_.
+* `Short guide for those in a hurry: does my isolate belong to the current pandemic lineage?`_.
+* `What is known about Vibrio cholerae lineages?`_.
+* `What is MLST?`_.
 * `How to view MLST information for your isolate`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 2`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 3`_.
 
-Short guide for those in a hurry: does my isolate belong to the current pandemic lineage
-----------------------------------------------------------------------------------------
+Short guide for those in a hurry: does my isolate belong to the current pandemic lineage?
+-----------------------------------------------------------------------------------------
 
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the '7PET lineage' of *Vibrio cholerae*. 
 
 A quick way to find out whether your isolate likely belongs to the 7PET lineage is to look at MLST (multi-locus sequence typing) results for your isolate in Vibriowatch. 
 
-Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the species of your isolates are, e.g.:
+Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the identified species of your isolates, e.g.:
 
 .. image:: Picture7.png
   :width: 650
@@ -47,8 +47,8 @@ Note that if your isolate is not ST69 or ST515, it is still possible that it you
 
 If you found this useful, you may want to read through the rest of the tutorial to find out more details. 
 
-What is known about Vibrio cholerae lineages
---------------------------------------------
+What is known about Vibrio cholerae lineages?
+---------------------------------------------
 
 A key early paper on *V. cholerae* genomes was that by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae*.
 
@@ -63,7 +63,7 @@ In the tree of the 23 isolates, you can see that the isolates causing the curren
 
 The phylocore group 1 clade has a sister clade called the 'phylocore group 2' clade or 'PG2' clade. The phylocore group clades are distantly related to the other isolates sequenced, which are also all distantly related to each other.
 
-Among the 23 isolate sequenced by `Chun et al 2009`_, there were quite a lot of isolates that did not belong to the current pandemic lineage (7PET lineage), or even to the larger 'phylocore group' clade, e.g. isolates 12129(1), MZO-3, AM-19226, etc. Some of these isolates that did not belong to the pandemic lineage were environmental isolates, but some were clinical isolates. The pandemic lineage of *V. cholerae* is a highly infectious lineage and causes severe diarrhoea. These other clinical isolates such as isolate MZO-3 that did not belong to the 7PET lineage very probably they were not very infectious, and very probably only caused mild diarrhoea. 
+Among the 23 isolate sequenced by `Chun et al 2009`_, there were quite a lot of isolates that did not belong to the current pandemic lineage (7PET lineage), or even to the larger 'phylocore group' clade, e.g. isolates 12129(1), MZO-3, AM-19226, etc. Some of these isolates that did not belong to the pandemic lineage were environmental isolates, but some were clinical isolates. The pandemic lineage of *V. cholerae* is a highly infectious lineage and causes severe diarrhoea. These other clinical isolates which did not belong to the 7PET lineage, such as isolate MZO-3, were probably not very infectious and probably only caused mild diarrhoea. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -84,8 +84,8 @@ Some of the lineages named by `Domman et al 2017`_ are distantly related to the 
 
 The best way to figure out whether your isolate belongs to a *V. cholerae* lineage that has already been named is to carry out a phylogenetic analysis. For example, below we will explain how to use a phylogenetic analysis to figure out whether your *V. cholerae* isolate belongs to the current pandemic lineage (7PET lineage). 
 
-What is MLST
-------------
+What is MLST?
+-------------
 
 Carrying out a phylogenetic analysis to figure out whether your isolate belongs to a named *V. cholerae* lineage (e.g. to the 7PET lineage) takes some time and effort, but is a relatively accurate way to determine the lineage of an isolate.
 
@@ -103,9 +103,10 @@ For example, here are the MLST sequence types of the 23 isolates sequenced by `C
 .. image:: Picture25.png
   :width: 650
   
-Note that you can produce such a figure yourself, by looking at the collection that you made for the `Chun et al 2009`_  isolates, clicking on the 'Timeline' menu below the tree, and choosing 'Typing' instead of 'Timeline', and then selecting the column 'ST' to show the MLST sequence type beside the leaves of the tree (remember also to change the tree display settings so that 'Show leaf labels' is turned on):
+Note that you can produce such a figure yourself, by looking at `our collection for the Chun et al 2009 isolates`_, 
+clicking on the 'Timeline' menu below the tree, and choosing 'Typing' instead of 'Timeline', and then selecting the column 'ST' to show the MLST sequence type beside the leaves of the tree (remember also to change the tree display settings so that 'Show leaf labels' is turned on):
 
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+.. _our collection for the Chun et al 2009 isolates: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
 
 .. image:: Picture47.png
   :width: 450
@@ -120,7 +121,7 @@ STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked
 
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
 
-Sometimes you will see that the sequence type of an isolate does not start with 'ST', but instead with a '*' symbol. This means that it is a novel sequence type that has not been included in the *V. cholerae* MLST scheme.
+Sometimes you will see that the sequence type of an isolate does not start with 'ST', but instead with an asterisk symbol. This means that it is a novel sequence type that has not been included in the *V. cholerae* MLST scheme.
 
 How to view MLST information for your isolate
 ---------------------------------------------
@@ -156,16 +157,20 @@ known *V. cholerae* lineages. To do this, you can build a Vibriowatch collection
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
 
 For example, to figure out whether your isolate belongs to the pandemic lineage, you can make a Vibriowatch collection containing both your isolate and the isolates of `Chun et al 2009`_ (which include isolates from the current pandemic lineage, as well as isolates from other *V. cholerae* lineages). 
-To do this, go to your list of Vibriowatch collections, and click on 'List Genomes' beside your `Chun et al 2009`_ collection:
+To do this, go to `the list of genomes in our collection for Chun et al 2009`_:
 
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+.. _the list of genomes in our collection for Chun et al 2009: https://pathogen.watch/genomes/all?collection=2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009&organismId=666
 
-.. image:: Picture45.png
+.. image:: Picture105.png
   :width: 850
   
-This will list all 23 isolates in your `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the boxes beside the 23 isolates sequenced by `Chun et al 2009`_.
+This will list all 23 isolates in your `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the box beside the
+column heading 'Name', to select all 23 isolates sequenced by `Chun et al 2009`_.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture106.png
+  :width: 850
 
 Next, search for your isolate of interest, that is, the one for which you want to find out whether it belongs to the current
 pandemic lineage (7PET lineage). As an example, let's take isolate HCUF_O1, an isolate collected in Haiti in 2010 and sequenced by `Hasan et al 2012`_. We can search for this isolate in Vibriowatch, and tick the box beside its name to select it. Then we will have 24 isolates selected, and we can make a new collection containing these 24 isolates (you could call it something like 'Chun et al plus HCUF-01'). 
@@ -226,7 +231,7 @@ As another example, let's take isolate GXFL1-4, which was sequenced from prawns 
 .. image:: Picture64.png
   :width: 650
   
-We see that GXFL1-4 is not placed with the 7PET isolates in the tree, but instead is on a long branch near isolates 1587, MZO-2, 623-39, and TMA-21. However, the branch-lengths to isolate GXFL1-4 is very long. That is, the branch-lengths from its common ancestor with isolates 1587, MZO-2, 623-39 and TMA-1 (the common ancestor node indicated with a red arrow) is very long. As mentioned above, if there is a very long branch in a tree to an isolate (indicating a large genetic distance between it and other isolates), the tree-building algorithm may have had trouble correctly placing it in a tree. This means that we can be less confident that isolate GXFL1-4 was correctly placed in this tree. 
+We see that GXFL1-4 is not placed with the 7PET isolates in the tree, but instead is on a long branch near isolates 1587, MZO-2, 623-39, and TMA-21. However, the branch-length to isolate GXFL1-4 is very long. That is, the branch-lengths from its common ancestor with isolates 1587, MZO-2, 623-39 and TMA-1 (the common ancestor node indicated with a red arrow) is very long. As mentioned above, if there is a very long branch in a tree to an isolate (indicating a large genetic distance between it and other isolates), the tree-building algorithm may have had trouble correctly placing it in a tree. This means that we can be less confident that isolate GXFL1-4 was correctly placed in this tree. 
 
 We can see that the scale bar at the bottom of the tree says "3237". The length of the branch from isolate GXFL1-4 to its common ancestor with isolates 1587, MZO-2, 623-39 and TMA-1 (the ancestral node indicated with a red arrow) is many times the lengths of this scale-bar. We could roughly guess that it is about eight times the length of the scale-bar, or >20000, which is a pretty large genetic distance. 
 
