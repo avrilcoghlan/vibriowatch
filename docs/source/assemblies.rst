@@ -252,7 +252,7 @@ In the example above, the genome for the isolate has 62 contigs, so is relativel
 Download the assembly for your isolate
 --------------------------------------
 
-If you have uploaded reads for your isolate to Vibriowatch, and Vibriowatch has made an assembly for your isolate, you can then download the assembly to your computer. This is useful to do if you want to do further analysis of your isolate's assembly outside Vibriowatch (e.g. running CheckM; see `Run CheckM to check if the assembly for your isolated is contaminated`_). 
+If you have uploaded reads for your isolate to Vibriowatch, and Vibriowatch has made an assembly for your isolate, you can then download the assembly to your computer. This is useful to do if you want to do further analysis of your isolate's assembly outside Vibriowatch (e.g. running CheckM; see `Run CheckM to check if the assembly for your isolate is contaminated`_). 
 
 To find the list of assemblies that you have made using Vibriowatch, you can click on the three horizontal small horizontal bars at the top left of the Vibriowatch website:
 
