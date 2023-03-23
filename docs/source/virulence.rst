@@ -226,7 +226,7 @@ The **Lux operon** of *Vibrio cholerae* is involved in luminescence (see `Grim e
 
 As another example, here is the section on virulence clusters for isolate GXFL1-4, which was collected from prawns by `Zhou et al 2022`_:
 
-.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/:
+.. _Zhou et al 2022: https://pubmed.ncbi.nlm.nih.gov/35664858/
 
 .. image:: Picture92.png
   :width: 650
