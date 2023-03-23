@@ -5,10 +5,11 @@ In this section, we will describe:
 
 * `How to search for an isolate in Vibriowatch and see its report page`_.
 * `How to make a collection of isolates in Vibriowatch`_.
+* `Finding your list of collections in Vibriowatch`_.
+* `Public collections in Vibriowatch`_.
 * `Exploring the timeline for a collection of isolates`_.
 * `Exploring the tree for a collection of isolates`_.
 * `Displaying metadata on the tree for a collection of isolates`_.
-* `Finding your list of collections in Vibriowatch`_.
 
 How to search for an isolate in Vibriowatch and see its report page
 -------------------------------------------------------------------
@@ -40,11 +41,7 @@ Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now se
 .. image:: Picture23.png
   :width: 850
   
-A search bar will now appear at the top left: 
-
-.. image:: Picture22.png
-  :width: 150
-  
+A search bar will now appear at the top left.
 If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
 
 .. image:: Picture28.png
@@ -110,6 +107,67 @@ You will now see a map showing where the isolates in the collection were collect
 .. image:: Picture33.png
   :width: 850
   
+If you make a collection of isolates in Vibriowatch, it will be visible only to yourself in your private Vibriowatch account, and nobody
+else can see it.
+
+Finding your list of collections in Vibriowatch
+-----------------------------------------------
+
+If you want to find a collection that you previously made in Vibriowatch, you can see a list of all your collections
+by clicking on the three horizontal bars at the top left of the Vibriowatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture44.png
+  :width: 150
+  
+If you click on 'My collections' in this menu, it will bring up a list of all your collections. If you move your mouse over a particular
+collection, it will bring up buttons showing a bin (which if you click on it, will delete the collection), a button saying 'LIST GENOMES' to 
+see a list of genomes in the collection, and a button saying 'VIEW COLLECTION' to see the tree and map for that collection:
+
+.. image:: Picture45.png
+  :width: 850
+
+Public collections in Vibriowatch
+---------------------------------
+
+We have made many public collections of *V. cholerae* isolates in Vibriowatch. Each collection contains the isolates sequenced in
+a particular published paper. 
+For example, we have made a public collection for isolates sequenced by `Chun et al 2009`_.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+To see the list of all the public collections, click on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture101.png
+  :width: 150
+  
+If you click on 'Public Collections' in the menu, you will then see a list of all the publicly visible collections in Pathogenwatch.
+
+To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears on the left, and then select 'Vibrio':
+
+.. image:: Picture102.png
+  :width: 150
+  
+You will now see a list of the approximately 40 public collections for *V. cholerae* that we have made (just showing the top of the list here):
+
+.. image:: Picture103.png
+  :width: 850
+  
+If you hover your mouse over a collection, you can click on the 'LIST GENOMES' button to see a list of genomes for that collection,
+or the 'VIEW COLLECTION' button to see the tree for the collection, or the 'PUBMED' button to see the original paper in PubMed:
+
+.. image:: Picture104.png
+  :width: 850
+
 Exploring the timeline for a collection of isolates
 ---------------------------------------------------
 
@@ -123,7 +181,10 @@ You will see a menus appear with settings for the timeline:
 .. image:: Picture35.png
   :width: 350
   
-To change from day of collection to year of collection, click on 'Day' in the settings menu, and choose 'Year'. You will now see the timeline in terms of year of collection of the isolates. You can see that the isolates were collected between 1930 and 2004.
+To change from day of collection to year of collection, click on 'Day' in the settings menu, and choose 'Year'. You will now see the timeline in terms of year of collection of the isolates. For the collection containing isolates sequenced by `Chun et al 2009`_,
+you can see that the isolates were collected between 1930 and 2004.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 If you hover your mouse over the box representing a particular isolate, you will see the year of collection of that isolate pop up over the box representing the isolate:
 
@@ -183,31 +244,11 @@ You will now see the serogroups displayed beside the leaves of the tree in the t
 .. image:: Picture43.png
   :width: 450
 
-We can see that the isolates collected by `Chun et al 2009`_ had a variety of serogroups, including O1, O139, O37, O39, etc.
+For the collection containing isolates sequenced by `Chun et al 2009`_,
+we can see that the isolates collected by `Chun et al 2009`_ had a variety of serogroups, including O1, O139, O37, O39, etc.
 Some of the isolates were just assigned serogroup 'non O1', so it was only determined that they were not O1, but their exact serogroup was not determined. Isolates belonging to the current pandemic lineage (7PET lineage) have been found to be serogroup O1, or sometimes O139. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-Finding your list of collections in Vibriowatch
------------------------------------------------
-
-If you want to find a collection that you previously made in Vibriowatch, you can see a list of all your collections
-by clicking on the three horizontal bars at the top left of the Vibriowatch website:
-
-.. image:: Picture9.png
-  :width: 150
-  
-This will bring up a menu:
-
-.. image:: Picture44.png
-  :width: 150
-  
-If you click on 'My collections' in this menu, it will bring up a list of all your collections. If you move your mouse over a particular
-collection, it will bring up buttons showing a bin (which if you click on it, will delete the collection), a button saying 'list genomes' to 
-see a list of genomes in the collection, and a button saying 'view collection' to see the tree and map for that collection:
-
-.. image:: Picture45.png
-  :width: 850
 
 Contact
 -------
