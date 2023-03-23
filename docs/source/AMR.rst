@@ -56,9 +56,9 @@ Antimicrobials recommended for treating cholera
 -----------------------------------------------
 
 The main treatment for cholera is to give fluids and salt either orally as oral rehydration salts, or
-by injection (see `CDC`_, `Somboonwit et al 2017`_). However, in some particular situations antimicrobial treatment is given to certain patients. 
-By clearing the bacteria earlier than the patients own immune system, antimicrobials could reduce the duration and severity
-of the illness, and reduce onward transmission to other people (see `Leibovici-Weissman et al 2014`_, `Hseuh and Waters 2019`_).
+by injection (see `CDC`_, `Somboonwit et al 2017`_). However, in some particular situations, antimicrobial treatment is sometimes given to patients. 
+Antimicrobials can reduce the duration and severity
+of the cholera illness, and also reduce onward transmission to other people (see `Leibovici-Weissman et al 2014`_, `Hseuh and Waters 2019`_).
 
 .. _CDC: https://www.cdc.gov/cholera/treatment/antibiotic-treatment.html
 
