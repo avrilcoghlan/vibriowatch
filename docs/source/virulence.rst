@@ -67,9 +67,20 @@ Predicting additional virulence genes in your isolate
 
 It is well described that certain 'virulence genes' can make *Vibrio cholerae* more virulent, causing more severe disease (see
 `Ramamurthy et al 2020`_ for a review of virulence in *V. cholerae*). 
-The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin and also the `tcpA`_ gene which encodes the toxin coregulated pilus, which is important for colonisation of the host. The `ctxA`_ and `ctxB`_ genes are almost always found in isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
+The most important virulence genes for *V. cholerae* are the `ctxA`_ and `ctxB`_ genes, which encode the cholera toxin (CT)
+and also the `tcpA`_ gene which encodes the toxin co-regulated pilus (TCP), which is important for colonisation of the host.
+Cholera toxin disrupts the normal ion transport in the gut epithelium, causing massive water influx into the intestine, which
+leads to severe diarrhoea. 
+The `ctxA`_ and `ctxB`_ and `tcpA`_ genes are common in 
+isolates belonging to the current pandemic lineage (7PET lineage), but are occasionally found in isolates of other lineages too. 
 
 .. _Ramamurthy et al 2020: https://pubmed.ncbi.nlm.nih.gov/33102256/
+
+.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+
+.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+
+.. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
 other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_.
