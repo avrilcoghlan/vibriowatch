@@ -280,8 +280,8 @@ Similarly, you can the "serotype phenotype" column of the metadata table to plot
   
 This revealed that the closely related isolates had serotype Ogawa.
   
-Build a phylogenetic tree of your isolates and its closest relatives: example 2
--------------------------------------------------------------------------------
+Build a phylogenetic tree of your isolate and its closest relatives: example 2
+------------------------------------------------------------------------------
 
 Let's look at another example: the case of isolate ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102) in the cgMLST cluster of size 4. We know that these all belong to the MLST sequence type ST68. We can therefore use the *V. cholerae* isolate N16961, which has MLST sequence type ST69, as the outgroup, as it is relatively distantly related to ATCC 25872 and its close relatives (ATCC 25872, 150136_S4, 150137_S6 and FDAARGOS_102).
 
