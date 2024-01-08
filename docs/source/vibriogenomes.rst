@@ -101,19 +101,19 @@ Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now se
 Where in the world were the isolates in Vibriowatch collected?
 --------------------------------------------------------------
 
-Once you have got the list of the approximately 4700 *V. cholerae* isolates in Vibriowatch (see above), 
-if you now click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 4700 isolates were collected:
+Once you have got the list of the approximately 6000 *V. cholerae* isolates in Vibriowatch (see above), 
+if you now click on 'Map' (instead of 'List') at the top of the page, it will show a map of where these approximately 6000 isolates were collected:
 
 .. image:: Picture24.png
   :width: 850
 
-For example, you can see 207 were collected from Mexico, 198 from Haiti, and 262 from China, and so on. 
+For example, you can see 219 were collected from Mexico, 308 from Haiti, and 310 from China, and so on. 
 
-The approximately 4700 isolates were collected between 1916 and 2020. 
+The approximately 6000 isolates were collected between 1916 and 2023. 
 As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map will be updated, and we hope to cover a larger time span. 
 
 In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website.
-These analyses will be both of the approximately 4700 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
+These analyses will be both of the approximately 6000 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
 
 Contact
 -------
