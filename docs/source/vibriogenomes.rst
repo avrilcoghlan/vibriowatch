@@ -52,7 +52,7 @@ Pathogenwatch and Vibriowatch
 
 Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which we call **VibrioWatch**.
 
-`Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the Centre for Genomic Pathogen Surveillance. So far, Pathogenwatch includes almost 322,000 genomes for bacterial pathogens of humans that cause worldwide problems. This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
+`Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the Centre for Genomic Pathogen Surveillance. So far, Pathogenwatch includes almost 322,000 genomes for pathogens that cause worldwide problems. This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
 
 .. image:: Picture20.png
   :width: 500
