@@ -66,10 +66,10 @@ You can see that there are several species (e.g. *Steptococcus pneumoniae*) that
 How many V. cholerae genomes are in Vibriowatch?
 ------------------------------------------------
 
-We are convinced that Pathogenwatch is a useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 4700 *V. cholerae* genomes into Pathogenwatch (as of February 2023), that is, into its *V. cholerae* component Vibriowatch. 
+We are convinced that Pathogenwatch is a useful website for *V. cholerae*, and so we have started uploading *V. cholerae* genomes to Pathogenwatch. So far, we have put about 6000 *V. cholerae* genomes into Pathogenwatch (as of January 2024), that is, into its *V. cholerae* component Vibriowatch. 
 But as we mentioned above, there are many 1000s of genomes already available, and our goal is to upload as many more as possible in the near future. 
 
-As well as the genome sequences for the approximately 4700 genomes, we have also uploaded metadata for those genomes that we have manually curated
+As well as the genome sequences for the approximately 6000 genomes, we have also uploaded metadata for those genomes that we have manually curated
 from the papers that published the genomes. This metadata includes strain name(s); assembly accession in databases (e.g. NCBI or ENA databases); PubMed id. of the paper; and phenotypic data for biotype, serogroup, serotype, and antimicrobial resistance. 
 
 You can see a list of the *V. cholerae* genomes uploaded into Pathogenwatch by visiting the `Pathogenwatch`_ website. 
@@ -93,7 +93,7 @@ To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appe
 .. image:: Picture22.png
   :width: 150
   
-Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
 
 .. image:: Picture23.png
   :width: 850
