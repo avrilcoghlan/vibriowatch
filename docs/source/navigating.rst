@@ -36,7 +36,7 @@ To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appe
 .. image:: Picture22.png
   :width: 150
   
-Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 4700 *V. cholerae* genomes (just showing the top of the list here):
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
 
 .. image:: Picture23.png
   :width: 850
