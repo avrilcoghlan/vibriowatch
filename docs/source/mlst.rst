@@ -290,7 +290,24 @@ Under the MLST information for your isolate, you will see the PopPUNK informatio
 In this example the PopPUNK cluster of the isolate is VC1 (*V. cholerae Cluster 1*), which corresponds to 7PET, the current pandemic lineage. This tells us that
 the isolate belongs to the 7PET lineage. 
 
+Here is a second example, for another isolate:
 
+.. image:: Picture108.png
+  :width: 100
+
+In this case the isolate belongs to PopPUNK cluster VC1128, so it doesn't belong to the current pandemic lineage (7PET lineage). Looking at the list of PopPUNK clusters that correspond to previously named lineages
+(see above), VC1128 does not belong to a previously named lineage so is an unnamed lineage.
+
+If your isolate is classified as PopPUNK as belonging to PopPUNK cluster VC1870, then this
+means that PopPUNK has assigned your isolate to a novel lineage that is not currently in the
+PopPUNK database. 
+
+Note however that if you sequenced your isolate using Oxford Nanopore Technology (ONT), due to sequencing errors
+it is sometimes the case that PopPUNK assigns an isolate to a novel cluster, even though that isolate
+does in fact belong to a known PopPUNK cluster. This is because sequencing errors make it difficult for
+PopPUNK to accurately assign an isolate to a cluster. Therefore, if your isolate was sequenced using
+ONT data, and the PopPUNK results suggest that it belongs to a PopPUNK novel cluster, it is still possible
+that your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_). 
 
 Build a tree to check if your isolate belongs to the pandemic lineage: example 1
 --------------------------------------------------------------------------------
