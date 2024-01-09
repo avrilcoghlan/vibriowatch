@@ -165,7 +165,7 @@ You can see view the PopPUNK information for your isolate on the report page for
 Under the MLST information for your isolate, you will see the PopPUNK information for your isolate, which will look something like this:
 
 .. image:: Picture107.png
-  :width: 250
+  :width: 100
 
 In this example the PopPUNK cluster of the isolate is VC1 (*V. cholerae Cluster 1*), which corresponds to 7PET, the current pandemic lineage. This tells us that
 the isolate belongs to the 7PET lineage. 
