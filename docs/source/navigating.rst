@@ -157,7 +157,7 @@ To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appe
 .. image:: Picture102.png
   :width: 150
   
-You will now see a list of the approximately 40 public collections for *V. cholerae* that we have made (just showing the top of the list here):
+You will now see a list of the approximately 60 public collections for *V. cholerae* that we have made (just showing the top of the list here):
 
 .. image:: Picture103.png
   :width: 850
