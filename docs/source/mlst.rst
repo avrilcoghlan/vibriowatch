@@ -48,7 +48,7 @@ the MLST sequence type from ONT data, so your isolate may belong to the pandemic
 
 A second approach for figuring out whether your isolate belongs to the pandemic lineage (7PET lineage) or not, is to look at the
 PopPUNK cluster of your isolate. PopPUNK is a tool for classifying bacterial isolates into lineages. Under the MLST information on the
-report page for your isolate, you will see the PopPUNK information, which will something like this:
+report page for your isolate, you will see the PopPUNK information, which will look something like this:
 
 .. image:: Picture107.png
   :width: 100
@@ -90,15 +90,25 @@ Among the 23 isolate sequenced by `Chun et al 2009`_, there were quite a lot of 
 .. image:: Picture46.png
   :width: 350
   
-The 7PET, Gulf Coast and MX-2 lineages belong to the PG-1 clade previously described by `Chun et al 2009`_, while the Classical lienage belongs to the PG-2 clade described by `Chun et al 2009`_.
+The 7PET, Gulf Coast and MX-2 lineages belong to the PG-1 clade previously described by `Chun et al 2009`_, while the Classical lineage belongs to the PG-2 clade described by `Chun et al 2009`_.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 Some of the lineages named by `Domman et al 2017`_ are distantly related to the current pandemic lineage (7PET lineage), e.g. lineages ELA-5, MX-1, ELA-4, etc. There are probably many more *V. cholerae* lineages that are distantly related to the current pandemic lineage that will be discovered when researchers sequence genomes of more and more diverse *V. cholerae* isolates from different locations and environmental niches. Indeed, some isolates have already been sequenced that are very diverged from any of the lineages named so far, and these likely represent examples of yet-unnamed *V. cholerae* lineages. 
+In addition, new lineages are being named over time in the literature.
+For example, `Dorman et al 2020`_ identified for lineages A1, A2, A3, A4 in *V. cholerae* from Argentina.
+Furthermore, `Dorman and Thomson 2023`_ described the Sudan lineage, and 
+`Wang et al 2020`_ described lineages L3b (closely related to Gulf Coast) and L9.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-The best way to figure out whether your isolate belongs to a *V. cholerae* lineage that has already been named is to carry out a phylogenetic analysis. For example, below we will explain how to use a phylogenetic analysis to figure out whether your *V. cholerae* isolate belongs to the current pandemic lineage (7PET lineage). 
+.. _Dorman et al 2020: https://pubmed.ncbi.nlm.nih.gov/33004800/
+
+.. _Dorman and Thomson 2023: https://pubmed.ncbi.nlm.nih.gov/37043377/
+
+.. _Wang et al 2020: https://pubmed.ncbi.nlm.nih.gov/32069325/
+
+The best way to figure out whether your isolate belongs to a *V. cholerae* lineage that has already been named is to carry out a phylogenetic analysis. For example, below we will explain how to use a phylogenetic analysis to figure out whether your *V. cholerae* isolate belongs to the current pandemic lineage (7PET lineage). However, two quicker ways to figure out whether your isolate likely belongs to previously named *V. cholerae* lineages are to use either MLST or PopPUNK analyses, as we will describe below.
 
 What is MLST?
 -------------
