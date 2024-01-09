@@ -167,7 +167,7 @@ Under the MLST information for your isolate, you will see the PopPUNK informatio
 .. image:: Picture107.png
   :width: 250
 
-In this example the PopPUNK cluster of the isolate is VC1, which corresponds to 7PET, the current pandemic lineage. This tells us that
+In this example the PopPUNK cluster of the isolate is VC1 (*V. cholerae Cluster 1*), which corresponds to 7PET, the current pandemic lineage. This tells us that
 the isolate belongs to the 7PET lineage. 
 
 Here is a table of correspondences between previously named *V. cholerae* lineages and *V. cholerae* PopPUNK clusters in our PopPUNK database:
@@ -198,6 +198,64 @@ Here is a table of correspondences between previously named *V. cholerae* lineag
 | 49         | MX-1                  |
 +------------+-----------------------+
 | 61         | part of L9            |
++------------+-----------------------+
+| 75         | part of ELA-1         |
++------------+-----------------------+
+| 76         | part of ELA-1         |
++------------+-----------------------+
+| 106        | part of L3b           |
++------------+-----------------------+
+| 128        | part of L9            |
++------------+-----------------------+
+| 166        | A1                    |
++------------+-----------------------+
+| 263        | Sudan                 |
++------------+-----------------------+
+| 276        | A3                    |
++------------+-----------------------+
+| 351        | A2                    |
++------------+-----------------------+
+| 352        | A4                    |
++------------+-----------------------+
+| 363        | part of ELA-2         |
++------------+-----------------------+
+| 364        | ELA-4                 |
++------------+-----------------------+
+| 381        | L9                    |
++------------+-----------------------+
+| 382        | MX-3                  |
++------------+-----------------------+
+| 589        | part of ELA-5         |
++------------+-----------------------+
+| 604        | part of L9            |
++------------+-----------------------+
+| 776        | part of L3b           |
++------------+-----------------------+
+| 786        | part of ELA-2         |
++------------+-----------------------+
+| 871        | part of ELA-2         |
++------------+-----------------------+
+| 883        | part of L3b           |
++------------+-----------------------+
+| 900        | part of ELA-5         |
++------------+-----------------------+
+| 1053       | part of L9            |
++------------+-----------------------+
+| 1173       | part of L3b           |
++------------+-----------------------+
+| 1348       | part of L3b           |
++------------+-----------------------+
+| 1510       | part of L3b           |
++------------+-----------------------+
+| 1511       | part of L3b           |
++------------+-----------------------+
+| 1515       | part of L3b           |
++------------+-----------------------+
+| 1534       | part of ELA-2         |
++------------+-----------------------+
+| 1645       | part of ELA-2         |
++------------+-----------------------+
+| 1757       | part of ELA-2         |
 +------------+-----------------------+
 
 Build a tree to check if your isolate belongs to the pandemic lineage: example 1
