@@ -312,11 +312,15 @@ that your isolate belongs to the pandemic lineage; you will need to build a phyl
 Build a tree to check if your isolate belongs to the pandemic lineage: example 1
 --------------------------------------------------------------------------------
 
-As mentioned above, if your isolate has sequence type ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely belongs to the current
-pandemic lineage (7PET lineage). On the other hand, if your isolate is not ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, it likely
+As mentioned above, if your isolate has sequence type ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme, and/or belongs to
+the VC1 PopPUNK cluster, then it likely belongs to the current
+pandemic lineage (7PET lineage). On the other hand, if your isolate is not ST69 or ST515 in the `Octavia et al 2013`_ MLST scheme,
+and it does not belong to the VC1 PopPUNK cluster, it likely
 belongs to some other *V. cholerae* lineage. However, this information from MLST is just based on seven housekeeping genes, so to be more
 confident of these inferences, it's a good idea to build a phylogenetic tree containing your isolate, as well as contextual isolates from 
-known *V. cholerae* lineages. To do this, you can build a Vibriowatch collection containing your isolate and some contextual isolates.
+known *V. cholerae* lineages. This is particularly the case if your isolate was sequenced using Oxford Nanopore Technology (ONT),
+as sequencing errors in ONT data make it difficult to accurately infer lineage using MLST or PopPUNK.
+To do this, you can build a Vibriowatch collection containing your isolate and some contextual isolates.
 
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
 
@@ -374,14 +378,17 @@ As another example, let's take isolate ATCC 25872, which was collected from an o
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-This shows that ATCC 25872 does not group together with the 7PET lineage isolates, but instead with isolate V52, an isolate collected from a relatively small outbreak in Sudan in 1968. The branch length from ATCC 25872 to the common ancestor of ATCC 25872 and V52 is very short (the ancestor node indicated with the red arrow) is very short (too short to see any horizontal branch in this picture). This indicates that ATCC 25872 and V52 are very closely related. 
+This shows that ATCC 25872 does not group together with the 7PET lineage isolates, but instead with isolate V52, an isolate collected from a relatively small outbreak in Sudan in 1968. The branch length from ATCC 25872 to the common ancestor of ATCC 25872 and V52 
+(the ancestor node indicated with the red arrow) is very short (too short to see any horizontal branch in this picture). This indicates that ATCC 25872 and V52 are very closely related. 
 
 This strongly suggests that ATCC 25872 does not belong to the current pandemic lineage (7PET lineage). This is consistent with the fact that the outbreak in former Czechoslovakia in 1965 was relatively small (`Aldova et al 1968`_). If we display the MLST sequence types on the tree in Vibriowatch, we can see that ATCC 25872 and V52 belong to the same MLST sequence type, ST68:
 
 .. image:: Picture50.png
   :width: 650
   
-In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudanese lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (Dorman & Thomson 2023, in press).
+In fact, recent phylogenetic analysis suggests that ATCC 25872 and V52 belong to the same *V. cholerae* lineage, which has been named the 'Sudan lineage' of *V. cholerae* and lies within the 'phylocore group 2' clade of *V. cholerae* (`Dorman and Thomson 2023`_).
+
+.. _Dorman and Thomson 2023: https://pubmed.ncbi.nlm.nih.gov/37043377/
 
 Build a tree to check if your isolate belongs to the pandemic lineage: example 3
 --------------------------------------------------------------------------------
