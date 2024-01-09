@@ -141,11 +141,13 @@ You can see that isolates MO10, B33, MJ-1236, CIRS_101, N16961 and RC9, which be
 
 .. _Cheney et al 2021: https://pubmed.ncbi.nlm.nih.gov/34427512/
 
-STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked to other lineages that cause relatively small outbreaks, are ST75, which includes the 'Gulf Coast' lineage (see `Luo et al 2016`_); and ST68, which has caused outbreaks in Sudan and former Czechoslovakia (Dorman & Thomson 2023, in press; see also `Octavia et al 2013`_). 
+STs of *V. cholerae* that are not linked to the pandemic lineage, but are linked to other lineages that cause relatively small outbreaks, are ST75, which includes the 'Gulf Coast' lineage (see `Luo et al 2016`_); and ST68, which has caused outbreaks in Sudan and former Czechoslovakia (`Dorman and Thomson 2023`_; see also `Octavia et al 2013`_). 
 
 .. _Luo et al 2016: https://pubmed.ncbi.nlm.nih.gov/26920786/
 
 .. _Octavia et al 2013: https://pubmed.ncbi.nlm.nih.gov/23776471/
+
+.. _Dorman and Thomson 2023: https://pubmed.ncbi.nlm.nih.gov/37043377/
 
 Sometimes you will see that the sequence type of an isolate does not start with 'ST', but instead with an asterisk symbol. This means that it is a novel sequence type that has not been included in the *V. cholerae* MLST scheme.
 
@@ -169,10 +171,11 @@ Here is another example of the top of the 'report page' for a different isolate 
 
 This isolate has the same alleles as the isolate above at the *adk*, *gyrB*, *mdh*, *pntA*, *purM* and *pyrC* genes, but has allele 206 of *metE*. Because of that, it is classified as a different sequence type (ST515) than the isolate above (which is ST69). Like ST69, ST515 is another sequence type that is often seen for the current pandemic lineage (7PET lineage).
 
-Note that it is possible that the pandemic lineage also contains other rare STs as well as ST69 and ST515. Therefore, if you isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_).
+Note that it is possible that the pandemic lineage also contains other rare STs as well as ST69 and ST515. Therefore, if you isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_). In addition, if your isolate was sequenced using Oxford Nanopore Techology (ONT), due to sequencing errors
+it is sometimes difficult to infer the MLST sequence type, and building a phylogenetic tree can be a more accurate way to figure out the lineage of your isolate.
 
-How to view PopPUNK information for your isolate
-------------------------------------------------
+What is PopPUNK?
+----------------
 
 As discussed above, MLST classification for *V. cholerae* is based on just 7 genes, which is a tiny fraction of the genome. 
 To give a more accurate classification of the *V. cholerae* lineage of an isolate, we have developed a `PopPUNK`_ database for *V. cholerae*. 
@@ -182,19 +185,10 @@ PopPUNK is a cutting-edge software for bacterial lineage assignment, which was d
 
 .. _Lees et al 2019: https://pubmed.ncbi.nlm.nih.gov/30679308/
 
-To build a PopPUNK database for *V. cholerae* based on the assemblies in Vibriowatch, first PopPUNK estimated core distances between each pair
-of assemblies, based on k-mer distances. Then it identified clusters of closely related isolates, by finding clusters of isolates for which the
-core distances between isolates was relatively small. We found that these clusters of closely related isolates corresponded to previously named
-*V. cholerae* isolates such as 7PET (the current pandemic lineage), MX-2, Classical, and so on.
-
-You can see view the PopPUNK information for your isolate on the report page for the isolate in Vibriowatch.
-Under the MLST information for your isolate, you will see the PopPUNK information for your isolate, which will look something like this:
-
-.. image:: Picture107.png
-  :width: 100
-
-In this example the PopPUNK cluster of the isolate is VC1 (*V. cholerae Cluster 1*), which corresponds to 7PET, the current pandemic lineage. This tells us that
-the isolate belongs to the 7PET lineage. 
+To build a PopPUNK database for *V. cholerae* based on the assemblies in Vibriowatch, we first used PopPUNK to estimate core distances between each pair
+of isolates. Then we used PopPUNK to identify clusters of closely related isolates, by finding clusters of isolates for which the
+core distances between isolates were relatively small. We found that these PopPUNK clusters of closely related isolates corresponded well to previously named
+*V. cholerae* lineages such as 7PET (the current pandemic lineage), MX-2, Classical, and so on.
 
 Here is a table of correspondences between previously named *V. cholerae* lineages and *V. cholerae* PopPUNK clusters in our PopPUNK database:
 
@@ -283,6 +277,20 @@ Here is a table of correspondences between previously named *V. cholerae* lineag
 +------------+-----------------------+
 | 1757       | part of ELA-2         |
 +------------+-----------------------+
+
+How to view PopPUNK information for your isolate
+------------------------------------------------
+
+You can see view the PopPUNK information for your isolate on the report page for the isolate in Vibriowatch.
+Under the MLST information for your isolate, you will see the PopPUNK information for your isolate, which will look something like this:
+
+.. image:: Picture107.png
+  :width: 100
+
+In this example the PopPUNK cluster of the isolate is VC1 (*V. cholerae Cluster 1*), which corresponds to 7PET, the current pandemic lineage. This tells us that
+the isolate belongs to the 7PET lineage. 
+
+
 
 Build a tree to check if your isolate belongs to the pandemic lineage: example 1
 --------------------------------------------------------------------------------
