@@ -145,6 +145,61 @@ This isolate has the same alleles as the isolate above at the *adk*, *gyrB*, *md
 
 Note that it is possible that the pandemic lineage also contains other rare STs as well as ST69 and ST515. Therefore, if you isolate is not ST69 or ST515, it is still possible that it your isolate belongs to the pandemic lineage; you will need to build a phylogenetic tree to find out (see `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_).
 
+How to view PopPUNK information for your isolate
+------------------------------------------------
+
+As discussed above, MLST classification for *V. cholerae* is based on just 7 genes, which is a tiny fraction of the genome. 
+To give a more accurate classification of the *V. cholerae* lineage of an isolate, we have developed a `PopPUNK`_ database for *V. cholerae*. 
+PopPUNK is a cutting-edge software for bacterial lineage assignment, which was developed by `Lees et al 2019`_.
+
+.. _PopPUNK: https://poppunk.readthedocs.io/en/latest/
+
+.. _Lees et al 2019: https://pubmed.ncbi.nlm.nih.gov/30679308/
+
+To build a PopPUNK database for *V. cholerae* based on the assemblies in Vibriowatch, first PopPUNK estimated core distances between each pair
+of assemblies, based on k-mer distances. Then it identified clusters of closely related isolates, by finding clusters of isolates for which the
+core distances between isolates was relatively small. We found that these clusters of closely related isolates corresponded to previously named
+*V. cholerae* isolates such as 7PET (the current pandemic lineage), MX-2, Classical, and so on.
+
+You can see view the PopPUNK information for your isolate on the report page for the isolate in Vibriowatch.
+Under the MLST information for your isolate, you will see the PopPUNK information for your isolate, which will look something like this:
+
+.. image:: Picture107.png
+  :width: 250
+
+In this example the PopPUNK cluster of the isolate is VC1, which corresponds to 7PET, the current pandemic lineage. This tells us that
+the isolate belongs to the 7PET lineage. 
+
+Here is a table of correspondences between previously named *V. cholerae* lineages and *V. cholerae* PopPUNK clusters in our PopPUNK database:
+
++------------+-----------------------+
+| Cluster(s) | Lineage               |
++============+=======================+
+| 1          | 7PET                  |
++------------+-----------------------+
+| 2          | part of L3b           |
++------------+-----------------------+
+| 7          | part of L3b           |
++------------+-----------------------+
+| 9          | MX-2 / part of L3b    |
++------------+-----------------------+
+| 13         | Gulf Coast            |
++------------+-----------------------+
+| 18         | Classical             |
++------------+-----------------------+
+| 21         | part of L3b           |
++------------+-----------------------+
+| 25         | ELA-3 / part of L9    |
++------------+-----------------------+
+| 39         | part of L3b           |
++------------+-----------------------+
+| 48         | part of L3b           |
++------------+-----------------------+
+| 49         | MX-1                  |
++------------+-----------------------+
+| 61         | part of L9            |
++------------+-----------------------+
+
 Build a tree to check if your isolate belongs to the pandemic lineage: example 1
 --------------------------------------------------------------------------------
 
