@@ -82,7 +82,7 @@ Usually you will have a pair of zipped fastq files for an isolate, with the forw
 If you have these files on a computer running Linux, you can find their sizes in Megabytes by typing in the terminal window
 (Note: these are Linux commands; for a simple Linux tutorial see `here`_):
 
-.. _here: http://www.ee.surrey.ac.uk/Teaching/Unix
+.. _here: https://swcarpentry.github.io/shell-novice/
 
 .. code-block:: console
 
@@ -283,21 +283,21 @@ If you suspect that the assembly for your isolate may be contaminated with DNA f
 
 .. _Parks et al 2015: https://pubmed.ncbi.nlm.nih.gov/25977477/
 
-CheckM is not part of Vibriowatch, and to run it you will need to install it on a computer that runs Linux. The latest version of CheckM is version 2. You can find instructions on how to install it on the `CheckM github page`_.  
+CheckM is not part of Vibriowatch, and to run it you will need to install it on a computer that runs Linux. The latest version of CheckM is version 2, called CheckM2. You can find instructions on how to install it on the `CheckM2 github page`_.  
 
-.. _CheckM github page: https://github.com/Ecogenomics/CheckM/wiki
+.. _CheckM2 github page: https://github.com/chklovski/CheckM2
 
-To run CheckM on the assembly for your isolate, you will need to copy the assembly for that isolate to a computer that runs Linux and has CheckM installed. 
+To run CheckM2 on the assembly for your isolate, you will need to copy the assembly for that isolate to a computer that runs Linux and has CheckM2 installed. 
 
-You can run CheckM on several isolates at once, for example, to run CheckM on the assemblies for 7 isolates, you need to type on the Linux command line:
+You can run CheckM2 on several isolates at once, for example, to run CheckM2 on the assemblies for 7 isolates, you need to type on the Linux command line:
 
 .. code-block:: console
 
    $ checkM2 predict --threads 8 -x fasta --input folder_with_fasta --output checkm2_output
    
-where 'folder_with_fasta' is the path to the directory where you have put the fasta files for the 7 assemblies, and 'checkm2_output' is the name you want CheckM to give to the directory where it puts its output files.
+where 'folder_with_fasta' is the path to the directory where you have put the fasta files for the 7 assemblies, and 'checkm2_output' is the name you want CheckM2 to give to the directory where it puts its output files.
 
-When CheckM has finished running, the output folder will contain a report called 'checkm2.collated.report', which will look something like this:
+When CheckM2 has finished running, the output folder will contain a report called 'checkm2.collated.report', which will look something like this:
 
 .. image:: Picture14.png
   :width: 650
