@@ -42,13 +42,12 @@ This shows that HCUF_01 belongs to a 'cluster' of 1049 closely related isolates.
 
 These are the most closely related isolates among all the sequenced *V. cholerae* genomes that are in Vibriowatch (about 5000 genomes so far).
 
-In this case, the cluster was defined using a threshold of 10 base differences (10 SNPs) between isolates, ie.
-all the isolates in this cluster differ from each other by 10 or fewer SNPs in a
-set of 2443 'core' *V. cholerae* genes.
+In this case, the cluster was defined using a threshold of 10 allelic differences between isolates, ie.
+all the isolates in this cluster have different alleles at 10 or fewer of the 2443 'core' *V. cholerae* genes.
 
-If you move your mouse over the far left of the barchart below, you may see that if a stricter threshold is used to define a cluster (e.g. 4 SNPs), then your isolate belongs to a smaller cluster of close relatives.
+If you move your mouse over the far left of the barchart below, you may see that if a stricter threshold is used to define a cluster (e.g. 4 allelic differences), then your isolate belongs to a smaller cluster of close relatives.
 
-For example, for isolate HCUF-01, if we move our mouse over the far left bar in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4' (ie. using a threshold of 4 SNPs):
+For example, for isolate HCUF-01, if we move our mouse over the far left bar in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4' (ie. using a threshold of 4 allelic differences):
 
 .. image:: Picture51.png
   :width: 650
@@ -88,14 +87,14 @@ If you scroll down the report page for HCUF_01, you will come to the 'core genom
 .. image:: Picture27.png
   :width: 650
   
-This shows that HCUF_01 belongs to a cgMLST cluster of 1049 isolates, when a threshold of 10 base differences (10 SNPs) is used to define clusters (ie. when any two isolates that differ by 10 or fewer SNPs in the 2443 core genes are put into the same cgMLST cluster). 
+This shows that HCUF_01 belongs to a cgMLST cluster of 1049 isolates, when a threshold of 10 allelic differences is used to define clusters (ie. when any two isolates that differ in their sequence at 10 or fewer of the 2443 core genes, are put into the same cgMLST cluster). 
 
-Since 1049 is a large number of related isolates, we can see if we can reduce the number of close relatives by using a stricter threshold for the allowed number of SNPs. If we mouse over the bars in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4':
+Since 1049 is a large number of related isolates, we can see if we can reduce the number of close relatives by using a stricter threshold for the allowed number of allelic differences. If we mouse over the bars in the barchart, we can see that above the smallest bar it says 'cluster of 138 at threshold of 4':
 
 .. image:: Picture51.png
   :width: 650
   
-This means that when a threshold of 4 base differences (4 SNPs) is used to define clusters (ie. when any two isolates that differ by 4 or fewer SNPs in the 2443 core genes are put into the same cgMLST cluster), then HCUF_01 is put into a cgMLST cluster with 138 closely related isolates. If you click on that bar in the barchart, you will see that cluster of 138 isolates, including HCUF_01:
+This means that when a threshold of 4 allelic differences is used to define clusters (ie. when any two isolates that differ in their sequence at 4 or fewer of the 2443 core genes, are put into the same cgMLST cluster), then HCUF_01 is put into a cgMLST cluster with 138 closely related isolates. If you click on that bar in the barchart, you will see that cluster of 138 isolates, including HCUF_01:
 
 .. image:: Picture52.png
   :width: 650
@@ -132,17 +131,34 @@ This suggests that HCUF_01 and other isolates from the Haiti 2010 epidemic were 
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
+Note that cgMLST uses a threshold based on the number of allelic differences between isolates.
+The number of allelic differences between isolates is different from the number of SNPs between isolates.
+For example, we could have 3 different isolates A, B, and C, that have 3 different alleles at one particular core gene,
+and be identical in sequence to each other at all of the other 2442 core genes.
+Isolates A and B may differ from each other due to a SNP at position 10 of the gene, so there is one SNP difference and one allelic
+difference between A and B. However, isolate C may have the same base as isolate A at position 10 of the gene, but
+differ from isolates A and B by a SNP difference at position 20 of the gene. So isolate C would have one SNP difference (at position 20)
+and one allelic difference from isolate A, but would have two SNP differences (at positions 10 and 20) and one allelic
+difference from isolate B. 
+
+In their paper in which they described their cgMLST scheme for *V. cholerae*, `Liang et al 2020`_ said that usually isolates from the
+same outbreak of pandemic (7PET lineage) cholera can be identified by using a threshold of (approximately) 7 allelic differences, while usually isolates from the same *V. cholerae*
+lineage (e.g. Gulf Coast, MX-2, etc.) can be usually identified by using a threshold of (approximately) 133 allelic differences. This is consistent with
+the threshold of 4 allelic differences (which is pretty close to 7 allelic differences) that we used above to identify isolates from the Haiti outbreak. 
+
+.. _Liang et al 2020: https://pubmed.ncbi.nlm.nih.gov/32540931/
+
 Use cgMLST to find close relatives of your isolate: example 2
 -------------------------------------------------------------
 
-As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you search for ATCC 25872 in Vibriowatch, you will see on its report page that it belongs to a cgMLST cluster of size 4 when a threshold of 10 SNPs is used:
+As another example, let's take isolate ATCC 25872, which was collected from an outbreak in former Czechoslovakia in 1965 (`Aldova et al 1968`_). If you search for ATCC 25872 in Vibriowatch, you will see on its report page that it belongs to a cgMLST cluster of size 4 when a threshold of 10 allelic differences is used:
 
 .. _Aldova et al 1968: https://pubmed.ncbi.nlm.nih.gov/5640984/
 
 .. image:: Picture53.png
   :width: 650
   
-As this is quite few closely related isolates, we can mouse over the barchart below, and find that it belongs to a cluster of 6 isolates if a threshold of 50 SNPs is used:
+As this is quite few closely related isolates, we can mouse over the barchart below, and find that it belongs to a cluster of 6 isolates if a threshold of 50 allelic differences is used:
 
 .. image:: Picture54.png
   :width: 650
