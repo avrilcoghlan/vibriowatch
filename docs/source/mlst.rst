@@ -413,6 +413,13 @@ We can also show the MLST sequence types on the tree, by changing the "Timeline"
   
 Because the MLST sequence type of isolate GXFL1-4 is different from those of the 1587, MZO-2, 623-39 and TMA-1 isolates that are nearby in the tree, this also decreases our confidence that isolate GXFL1-4 is correctly placed in the phylogenetic tree. Thus, given the long branch-lengths to isolate GXFL1-4 in the tree, and the dissimilarity in its MLST sequence types to nearby isolates in the tree, we are not confident that isolate GXFL1-4 is correctly placed in the phylogenetic tree. It is not placed with the 7PET isolates, but we cannot tell which other isolates it is closely related to, based on the tree.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
