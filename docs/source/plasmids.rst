@@ -45,6 +45,13 @@ Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
   
 This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
