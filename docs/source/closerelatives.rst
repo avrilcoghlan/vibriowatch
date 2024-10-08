@@ -308,6 +308,13 @@ You can therefore build a collection of isolate ATCC 25872 and its close relativ
   
 You can see that ATCC 25872 is a little more closely related to FDAARGOS_102 than to 150136_S4 or 150137_S6. Therefore, the closest relative of ATCC 25872 in the current version of Vibriowatch appears to be FDAARGOS_102, an isolate collected in India in 1963.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
