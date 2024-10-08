@@ -23,6 +23,10 @@ In this tutorial we'll introduce the *V. cholerae* genomic data; explain how you
 
 .. _PathogenWatch: https://pathogen.watch/
 
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Vibriowatch is funded by the `Bill and Melinda Gates Foundation`_ and is a collaboration between the `Thomson group at the Wellcome Sanger Institute`_ and the `Centre for Genomic Pathogen Surveillance`_).
 
 .. _Bill and Melinda Gates Foundation : https://www.gatesfoundation.org/
