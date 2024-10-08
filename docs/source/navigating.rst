@@ -250,6 +250,13 @@ Some of the isolates were just assigned serogroup 'non O1', so it was only deter
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
