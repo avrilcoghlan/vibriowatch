@@ -115,6 +115,13 @@ As we put more and more genomes into Pathogenwatch for *V. cholerae*, the map wi
 In the next sections, we will explain some analyses that can be carried out on the VibrioWatch website.
 These analyses will be both of the approximately 6000 genomes already uploaded, but also of genomes that you upload yourself into your private space in the VibrioWatch website.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
