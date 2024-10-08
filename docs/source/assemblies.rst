@@ -304,6 +304,13 @@ When CheckM2 has finished running, the output folder will contain a report calle
   
 In this example, the 'checkm2.collated.report' file shows that isolates 1, 2, 3, 5, 7 and 8 had very little contamination (<0.05% of each of those assemblies was classified as contamination). However, 29.5% of the assembly for isolate 4 was classified by CheckM as contamination, which is quite high. This means that we can use Vibriowatch to do some analyses of the assembly for isolate 4 (e.g. predicting virulence genes), but need to bear in mind that the assembly is probably partially contaminated with some DNA from another species, so that might introduce some errors into the results.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
