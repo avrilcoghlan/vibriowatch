@@ -35,6 +35,13 @@ Vibriowatch is funded by the `Bill and Melinda Gates Foundation`_ and is a colla
 
 .. _Centre for Genomic Pathogen Surveillance : https://www.pathogensurveillance.net/
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
