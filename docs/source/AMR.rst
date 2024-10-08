@@ -217,6 +217,13 @@ We can see that this variant is present in several isolates from the current pan
 CIRS101. Again, in the map on the right, we see where these variants were found around the world, and the frequency of the variant
 in each country sampled in this collection.
 
+CholeraBook
+-----------
+
+If you would like to learn more about cholera genomics, you may also be interested in our `Online Cholera Genomics Course (CholeraBook)`_.
+
+.. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
