@@ -1,7 +1,7 @@
 Vibriowatch
 =========== 
 
-**Vibriowatch** is a `PathogenWatch`_ database for *V. cholerae*. Vibriowatch contains `>6000` published *V. cholerae* genomes, and manually-curated metadata from the literature such as place, date and source of isolation; and phenotypic data such as serogroup and antimicrobial resistance. 
+**Vibriowatch** is a `PathogenWatch`_ database for *V. cholerae*. Vibriowatch contains `>6000` published *V. cholerae* genomes, and manually-curated metadata from the literature such as place, date and source of isolation; and phenotypic data such as serogroup and antimicrobial resistance. To use Vibriowatch, you need to go to the `PathogenWatch`_ website (Vibriowatch is the *V. cholerae* part of Pathogenwatch).
 
 .. _PathogenWatch: https://pathogen.watch/
 
