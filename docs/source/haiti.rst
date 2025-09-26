@@ -225,6 +225,61 @@ button at the top right of the screen:
 .. image:: Picture118.png
   :width: 850
 
+We have now selected the H22 isolate to add to the collection. Next let's select the isolates from the public Vibriowatch
+collection that we have included in Vibriowatch that contains isolates sequenced by `Chun et al 2009`_. These include
+diverse *V. cholerae* genomes from across the species.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+To find the public Vibriowatch collection with the isolates of `Chun et al 2009`_, click 
+on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture101.png
+  :width: 150
+  
+If you click on 'Public Collections' in the menu, you will then see a list of all the publicly visible collections in Pathogenwatch.
+
+To just see only collections with *V. cholerae* genomes, click on 'Genus' in the menu that now appears on the left, and then select 'Vibrio':
+
+.. image:: Picture102.png
+  :width: 150
+
+To just see only public collections with *V. cholerae* genomes (not private collections that you have made yourself), click on 'Acccess' in the menu on the left, and then select 'public':
+
+You will now see a list of the approximately 60 public collections for *V. cholerae* that we have made (just showing the top of the list here):
+
+.. image:: Picture103.png
+  :width: 850
+
+To search for the public Vibriowatch collection with the isolates of `Chun et al 2009`_, type "Chun" in the search bar on the left and
+you should see the collection for the isolates of `Chun et al 2009`_ appear:
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture119.png
+  :width: 550
+
+If you hover your mouse over the white space under the description of the collection, you can click on the 'LIST GENOMES' button to see a list of genomes for that collection:
+
+.. image:: Picture104.png
+  :width: 850
+
+In fact, we have made a public collection for the isolates from `Chun et al 2009`_, and you can view the public collection for Chun et al by clicking
+on the 'VIEW COLLECTION' button under the Chun et al collection in the list of public collections. Alternatively you can click on the link 
+in this sentence to see `our public Vibriowatch collection for Chun et al`_. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. _our public Vibriowatch collection for Chun et al: https://pathogen.watch/collection/qg0gc5vpdn1u-vibriowatch-collection-chun-et-al-2009
+
+
 
 
 
