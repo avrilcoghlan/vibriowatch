@@ -51,22 +51,48 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. Is H22 predicted to have antimicrobial resistance?
 #. Is H22 predicted to have plasmids?
 
-First, let's find the H22 genome in 
+Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
+genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
+everyone can see. 
 
-Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
-If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
-section of its report page:
+First, let's find the H22 genome in Vibriowatch.
 
-.. image:: Picture99.png
-  :width: 450
+You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
+
+You can search for isolate H22 in Vibriowatch by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 150
   
-An example of an isolate with a predicted plasmid is RC9, which was isolated in Kenya in 1985.
-Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
+This will bring up a menu:
 
-.. image:: Picture100.png
+.. image:: Picture10.png
+  :width: 150
+  
+If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
+
+To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
+
+.. image:: Picture22.png
+  :width: 150
+  
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
+
+.. image:: Picture23.png
+  :width: 850
+  
+A search bar will now appear at the top left.
+If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
+
+.. image:: Picture114.png
+  :width: 850
+    
+You can click on the isolate's name (link 'H22') to go to its 'report page'. 
+The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
+This shows the top of the report page for H22:
+
+.. image:: Picture115.png
   :width: 650
-  
-This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae?
 -----------------------------------------------------------
