@@ -89,7 +89,7 @@ You will need to now sign into the Pathogenwatch/Vibriowatch website.
 To make a collection on the Pathogenwatch/Vibriowatch website, it's necessary
 to make an account first, for example, using your email address as your login. 
 
-Once you have logged in, if you now click on the purple button saying '23 Selected Genomes', you will see a purple button 'Create collection'. You will need to fill in a title and brief description of the collection, and a PubMed id. if you like:
+Once you have logged in, if you now click on the purple button saying '23 Selected Genomes', you will see a purple button 'Create collection'. You will need to fill in a title (e.g. "My collection of Chun et al's genomes") and brief description of the collection, and a PubMed id (optional). if you like:
 
 .. image:: Picture32.png
   :width: 350
@@ -98,8 +98,7 @@ The collection will only be visible in your private Vibriowatch account, so only
 Now click on the 'Create now' purple button to create the collection.
 
 Vibriowatch will now build the collection (including a phylogenetic tree for the collection), which may take a little while.
-You may not see anything happen immediately, as sometimes Vibriowatch takes a few minutes to create a collection. What you can do is to go away and make yourself a cup of tea or do something else for 5 minutes. Then come back, and go to the `Pathogenwatch`_ homepage again and this time, if you click at the 
-symbol of three horizontal bars at the top left of the Pathogenwatch website:
+You may not see anything happen immediately, as sometimes Vibriowatch takes a few minutes to create a collection. What you can do is to go away and make yourself a cup of tea or do something else for 5 minutes. Then come back, and go to the `Pathogenwatch`_ homepage again and this time, if you click at the symbol of three horizontal bars at the top left of the Pathogenwatch website:
 
 .. _Pathogenwatch: https://pathogen.watch
 
@@ -108,15 +107,23 @@ symbol of three horizontal bars at the top left of the Pathogenwatch website:
   
 This will bring up a menu:
 
-.. image:: Picture10.png
+.. image:: Picture109.png
   :width: 150
   
-And this time click on 'My collections' in the menu.
+And this time click on 'My collections' in the menu. This should show you a list of the collections that you have made in your private Pathogenwatch account. One of these should be the collection that you have just made, e.g. "My collection of Chun et al's genomes". 
 
-You will now see a map showing where the isolates in the collection were collected (at the top), and a timeline of when they were collected (at the bottom):
+.. image:: Picture110.png
+  :width: 150
 
-.. image:: Picture33.png
-  :width: 850
+If you move your mouse over the list of collections, when you move your mouse over the white space below the name of your new collection (e.g. "My collection of Chun et al's genomes"), you should see buttons pop up that say "LIST GENOMES" and "VIEW COLLECTION":
+
+.. image:: Picture111.png
+  :width: 150
+
+If you click on the "VIEW COLLECTION" button just below the name of your new collection, this should bring you to a page for the collection. This should show a phylogenetic tree of the isolates on the left, a map on the right showing where the isolates were collected, and a timeline of when they were collected below the map and tree:
+
+.. image:: Picture112.png
+  :width: 150
   
 If you make a collection of isolates in Vibriowatch, it will be visible only to yourself in your private Vibriowatch account, and nobody
 else can see it.
