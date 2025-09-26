@@ -97,10 +97,21 @@ Once you have logged in, if you now click on the purple button saying '23 Select
 The collection will only be visible in your private Vibriowatch account, so only you will be able to view it.
 Now click on the 'Create now' purple button to create the collection.
 
-Vibriowatch will now build a tree for the collection, which may take a little while if your collection has hundreds of isolates, but will
-be very fast for the 23 isolates of `Chun et al 2009`_.
+Vibriowatch will now build the collection (including a phylogenetic tree for the collection), which may take a little while.
+You may not see anything happen immediately, as sometimes Vibriowatch takes a few minutes to create a collection. What you can do is to go away and make yourself a cup of tea or do something else for 5 minutes. Then come back, and go to the `Pathogenwatch`_ homepage again and this time, if you click at the 
+symbol of three horizontal bars at the top left of the Pathogenwatch website:
 
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+.. _Pathogenwatch: https://pathogen.watch
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture10.png
+  :width: 150
+  
+And this time click on 'My collections' in the menu.
 
 You will now see a map showing where the isolates in the collection were collected (at the top), and a timeline of when they were collected (at the bottom):
 
