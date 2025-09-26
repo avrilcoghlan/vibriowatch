@@ -194,7 +194,7 @@ in this sentence to see `our public Vibriowatch collection for Chun et al`_.
 Exploring the timeline for a collection of isolates
 ---------------------------------------------------
 
-When you are looking at a particular Vibriowatch collection (e.g. `our public Vibriowatch collection for Chun et al`_), the timeline in the bottom panel for the collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
+When you are looking at a particular Vibriowatch collection (e.g. one of your own private collection, or `our public Vibriowatch collection for Chun et al`_), the timeline in the bottom panel for the collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
 
 .. _our public Vibriowatch collection for Chun et al: https://pathogen.watch/collection/qg0gc5vpdn1u-vibriowatch-collection-chun-et-al-2009
 
@@ -219,8 +219,9 @@ If you hover your mouse over the box representing a particular isolate, you will
 Exploring the tree for a collection of isolates
 -----------------------------------------------
 
-As mentioned above, Vibriowatch builds a tree for each collection of isolates. This tree is built using the neighbour-joining
-algorithm, a relatively fast and reliable method for building phylogenetic trees. You should see a big purple button 'View tree' in the middle of the map of isolates for your collection. If you click on the purple button, you will see the tree of your isolates on the left panel, the map of your isolates on the right panel, and the timeline for your isolates below that:
+When you are looking at a particular Vibriowatch collection (e.g. one of your own private collection, or `our public Vibriowatch collection for Chun et al`_), you will
+see a phylogenetic tree for the isolates in the right-hand panel. This tree is built using the neighbour-joining
+algorithm, a relatively fast and reliable method for building phylogenetic trees:
 
 .. image:: Picture37.png
   :width: 850
