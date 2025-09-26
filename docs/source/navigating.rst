@@ -192,9 +192,9 @@ in this sentence to see `our public Vibriowatch collection for Chun et al`_.
 Exploring the timeline for a collection of isolates
 ---------------------------------------------------
 
+When you are looking at a particular Vibriowatch collection (e.g. `our public Vibriowatch collection for Chun et al`_), the timeline in the bottom panel for the collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
 
-
-By default, the timeline for a collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
+.. _our public Vibriowatch collection for Chun et al: https://pathogen.watch/collection/qg0gc5vpdn1u-vibriowatch-collection-chun-et-al-2009
 
 .. image:: Picture34.png
   :width: 50
