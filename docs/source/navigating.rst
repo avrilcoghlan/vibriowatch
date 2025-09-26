@@ -115,7 +115,9 @@ And this time click on 'My collections' in the menu. This should show you a list
 .. image:: Picture110.png
   :width: 350
 
-If you move your mouse over the list of collections, when you move your mouse over the white space below the name of your new collection (e.g. "My collection of Chun et al's genomes"), you should see buttons pop up that say "LIST GENOMES" and "VIEW COLLECTION". If you click on the "VIEW COLLECTION" button just below the name of your new collection, this should bring you to a page for the collection. This should show a phylogenetic tree of the isolates on the left, a map on the right showing where the isolates were collected, and a timeline of when they were collected below the map and tree:
+If you move your mouse over the list of collections, when you move your mouse over the white space below the name of your new collection (e.g. "My collection of Chun et al's genomes"), you should see buttons pop up that say "LIST GENOMES" and "VIEW COLLECTION". If you click on the "VIEW COLLECTION" button just below the name of your new collection, this should bring you to a page for the collection. 
+
+You should see a big purple button 'View tree' in the middle of the map of isolates for your collection. If you click on the purple button, you will see the tree of your isolates in the left panel, the map of where your isolates were collected in the right panel, and the timeline for when your isolates were collected below that:
 
 .. image:: Picture112.png
   :width: 850
