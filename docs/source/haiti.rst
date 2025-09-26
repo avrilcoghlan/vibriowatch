@@ -7,14 +7,13 @@ This section will cover:
 * `The H22 genome`_.
 * `Finding the H22 genome in Vibriowatch`_.
 * `Assembly quality of the H22 genome`_.
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)`_.
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)`_.
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogenetic tree)`_.
-* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
-* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 * `Is H22 predicted to produce cholera toxin?`_
 * `Is H22 predicted to have antimicrobial resistance?`_
 * `Is H22 predicted to have plasmids?`_
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)`_.
+* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
+* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 
 The Haiti 2022 outbreak
 -----------------------
@@ -28,8 +27,7 @@ was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_).
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
-No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. As a result, the Haitian government
-was keen for Haiti be declared 'cholera-free'. However, unfortunately in October of 2022 a new cholera outbreak 
+No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
 occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
 cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
 
@@ -48,12 +46,12 @@ they named isolate 'H22'.
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
 
-#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
-#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
-#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 #. Is H22 predicted to produce cholera toxin?
 #. Is H22 predicted to have antimicrobial resistance?
 #. Is H22 predicted to have plasmids?
+#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
+#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
+#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
@@ -126,6 +124,15 @@ Another commonly used measures of assembly quality is the number of contigs. We 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. If the assembly for your isolate has more contigs, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
 The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
+Is H22 predicted to produce cholera toxin?
+------------------------------------------
+
+Is H22 predicted to have antimicrobial resistance?
+--------------------------------------------------
+
+Is H22 predicted to have plasmids?
+----------------------------------
+
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)
 ------------------------------------------------------------------------
 
@@ -142,11 +149,7 @@ H22 at the top of its report page (see under the heading "MLST"):
 
 We can see that isolate H22 is classified as MLST sequence type ST69.
 
-ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515. If an isolate is ST69 or ST515, it very likely belongs to the pandemic lineage. 
-
-Note that if an isolate is not ST69 or ST515, it is still possible that it the isolate belongs to the pandemic lineage but has a very rare sequence type for the pandemic lineage. Also, if the isolate was sequenced using Oxford Nanopore Technology (ONT), then sometimes it is difficult to accurately identify
-the MLST sequence type from ONT data (because ONT data can have many sequencing errors), so your isolate may belong to the 
-pandemic lineage but it may be difficult to determine this using MLST information.
+ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515. If an isolate is ST69 or ST515, it very likely belongs to the pandemic lineage. This suggests H22 belongs to the 7PET lineage.
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)
 ---------------------------------------------------------------------------
@@ -159,168 +162,13 @@ Vibriowatch genome report page for isolate H22, we can see the PopPUNK informati
   :width: 600
 
 You can see that isolate H22 belongs to the PopPUNK lineage 1 (also known as VC1), which corresponds to the current pandemic lineage (7PET lineage).
-Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belongs to the current pandemic lineage. 
-
-Note that if the PopPUNK cluster of your isolate is not VC1 (but instead another VC number), 
-there is still a small possibility that your isolate belongs to the pandemic lineage.
-In particular, if your isolate was sequenced using Oxford Nanopore Technology (ONT), it is often difficult for PopPUNK
-to accurately identify the PopPUNK cluster (because there are often sequencing errors in ONT data), 
-so your isolate may belong to the pandemic lineage but it may be difficult to determine this using PopPUNK.
-
-Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogenetic tree)
----------------------------------------------------------------------------------------
-
-As mentioned above, since isolate H22 has MLST sequence type ST69 or ST515, and/or belongs to
-the VC1 PopPUNK cluster, then it likely belongs to the current pandemic lineage (7PET lineage). 
-
-However, this information from MLST and PopPUNK is just based on a fraction of the whole genome data (in the case of MLST, it's just
-based on 7 genes!), so to be more confident of these inferences, it's a good idea to also build a phylogenetic tree containing isolate H22, as well as contextual isolates from 
-known *V. cholerae* lineages. Note that if you were analysing an isolate for which MLST and PopPUNK were not very useful in identifying the lineage, then it would be 
-especially important to identify the lineage by building a phylogenetic tree.
-
-So, let's try to confirm that H22 belongs to the 7PET lineage, by building a Vibriowatch collection containing H22 and some contextual isolates of known lineages. 
-Vibriowatch will build a tree for the collection for us.
-
-To figure out whether isolate H22 belongs to the pandemic lineage, we can make a Vibriowatch collection containing both isolate H22 and the isolates of `Chun et al 2009`_.
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-Go make a collection, you need to be logged into the Pathogenwatch website.
-
-First we need to select the isolates that we want to put in the collection. To include H22 in the collection, first we search for H22
-on the Vibriowatch website. You can search for isolate H22 in Vibriowatch by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
-
-.. image:: Picture9.png
-  :width: 150
-  
-This will bring up a menu:
-
-.. image:: Picture10.png
-  :width: 150
-  
-If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
-
-To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
-
-.. image:: Picture22.png
-  :width: 150
-  
-Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
-
-.. image:: Picture23.png
-  :width: 850
-  
-A search bar will now appear at the top left.
-If you type 'H22' in the search bar, it will find isolate H22:
-
-.. image:: Picture117.png
-  :width: 850
-
-Note that you should see "0 selected genomes" in a purple button at the top right of the screen. (If you see
-"X selected genomes" where X is not 0, then click on the purple button and click on the "Clear all" button that appears).
-
-Now select the H22 isolate by clicking on the box to the left of its name, and you should see "1 selected genomes" appear in the purple
-button at the top right of the screen:
-
-.. image:: Picture118.png
-  :width: 850
-
-We have now selected the H22 isolate to add to the collection. Next let's select the isolates from the public Vibriowatch
-collection that we have included in Vibriowatch that contains isolates sequenced by `Chun et al 2009`_. These include
-diverse *V. cholerae* genomes from across the species, including isolates from the current pandemic lineage, as well as 
-isolates from other *V. cholerae* lineages. 
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-To find the public Vibriowatch collection with the isolates of `Chun et al 2009`_, click 
-on the three small horizontal bars at the top left of the Pathogenwatch website:
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-.. image:: Picture9.png
-  :width: 150
-  
-This will bring up a menu:
-
-.. image:: Picture101.png
-  :width: 150
-  
-If you click on 'Public Collections' in the menu, you will then see a list of all the publicly visible collections in Pathogenwatch.
-
-To just see only collections with *V. cholerae* genomes, click on 'Genus' in the menu that now appears on the left, and then select 'Vibrio':
-
-.. image:: Picture102.png
-  :width: 150
-
-To just see only public collections with *V. cholerae* genomes (not private collections that you have made yourself), click on 'Acccess' in the menu on the left, and then select 'public':
-
-You will now see a list of the approximately 60 public collections for *V. cholerae* that we have made (just showing the top of the list here):
-
-.. image:: Picture103.png
-  :width: 850
-
-To search for the public Vibriowatch collection with the isolates of `Chun et al 2009`_, type "Chun" in the search bar on the left and
-you should see the collection for the isolates of `Chun et al 2009`_ appear:
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-.. image:: Picture119.png
-  :width: 550
-
-If you hover your mouse over the white space under the description of the collection, you can click on the 'LIST GENOMES' button to see a list of genomes for the Chun et al collection:
-
-.. image:: Picture120.png
-  :width: 850
-
-This will list all 23 isolates in the public `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the box beside the
-column heading 'Name', to select all 23 isolates sequenced by `Chun et al 2009`_.
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-.. image:: Picture106.png
-  :width: 850
-
-Next, search for your isolate of interest, that is, the one for which you want to find out whether it belongs to the current
-pandemic lineage (7PET lineage). As an example, let's take isolate HCUF_O1, an isolate collected in Haiti in 2010 and sequenced by `Hasan et al 2012`_. We can search for this isolate in Vibriowatch, and tick the box beside its name to select it. Then we will have 24 isolates selected, and we can make a new collection containing these 24 isolates (you could call it something like 'Chun et al plus HCUF-01'). 
-
-.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
-
-Vibriowatch will make a tree for these 24 isolates, which is a neighbour-joining tree, and which should look something like this:
-
-.. image:: Picture48.png
-  :width: 650
-  
-You can see that HCUF-01 is placed in the clade of the tree containing the 7PET lineage isolates (MO10, B33, MJ1236, CIRS101, N16961, RC9). 
-If you zoom in on the clade containing the 7PET lineage isolates, you will see that the branch length from the common ancestor of all the 7PET isolates
-in the tree (shown with a red arrow) to isolate HCUF-01 is a relatively short branch length. If there are long branches in a phylogenetic tree,
-sometimes it is difficult for the tree-building algorithm (tree-building method) to correctly place isolates in the tree. However, in this case,
-since the branch length is relatively short to isolate HCUF-01, we can be more confident that the tree-building algorithm has placed isolate
-HCUF-01 correctly:
-
-.. image:: Picture62.png
-  :width: 350
-
-Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
-
-.. _CDC: https://www.cdc.gov/cholera/haiti/index.html
-
-At the bottom left, we can see a scale-bar saying “415”, which tells us how much genetic distance is represented by a certain branch-length in the tree. The lengths of the branches between isolate HCUF-01 and its common ancestor with the 7PET isolates (ie. from HCUF-01 to the red arrow) is a fraction of the length of this scale-bar; we can roughly guess by eye that this is a genetic distance of <50, which is pretty small. 
-
+Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belongs to the current pandemic lineage.
 
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
-
-Is H22 predicted to produce cholera toxin?
-------------------------------------------
-
-Is H22 predicted to have antimicrobial resistance?
---------------------------------------------------
-
-Is H22 predicted to have plasmids?
-----------------------------------
 
 CholeraBook
 -----------
