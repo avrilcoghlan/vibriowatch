@@ -1,7 +1,7 @@
 Worked example - Haiti 2022
 ===========================
 
-This section will cover:
+This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example:
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
