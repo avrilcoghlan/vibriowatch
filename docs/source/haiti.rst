@@ -5,6 +5,12 @@ This section will cover:
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
+* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
+* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
+* `Is H22 predicted to produce cholera toxin?`_
+* `Is H22 predicted to have antimicrobial resistance?`_
+* `Is H22 predicted to have plasmids?`_
 
 The Haiti 2022 outbreak
 -----------------------
@@ -38,8 +44,14 @@ they named isolate 'H22'.
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
 
+#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
+#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
+#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
+#. Is H22 predicted to produce cholera toxin?
+#. Is H22 predicted to have antimicrobial resistance?
+#. Is H22 predicted to have plasmids?
 
-
+First, let's find the H22 genome in 
 
 Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
 If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
@@ -55,6 +67,24 @@ Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
   :width: 650
   
 This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
+
+Does H22 belong to the pandemic lineage of Vibrio cholerae?
+-----------------------------------------------------------
+
+What are the closest relatives of H22 among published Vibrio cholerae genomes?
+------------------------------------------------------------------------------
+
+What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
+--------------------------------------------------------------------------------------
+
+Is H22 predicted to produce cholera toxin?
+------------------------------------------
+
+Is H22 predicted to have antimicrobial resistance?
+--------------------------------------------------
+
+Is H22 predicted to have plasmids?
+----------------------------------
 
 CholeraBook
 -----------
