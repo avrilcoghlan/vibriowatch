@@ -236,7 +236,12 @@ You will see some menus appear with settings for the tree:
 .. image:: Picture38.png
   :width: 550
 
-To show the isolate names on the tree, click on the 'Nodes and labels' menu that appeared, and slide the 'Show leaf labels' slider to the right. You should now see the isolate names appear on the tree. You can click on the 'X' in the corner of the menu to hide that menu.
+To show the isolate names on the tree, click on the 'Nodes and labels' menu that appeared, and slide the 'Show leaf labels' slider to the right:
+
+.. image:: Picture113.png
+  :width: 550
+
+You should now see the isolate names appear on the tree. You can click on the 'X' in the corner of the menu to hide that menu.
 
 To see the whole of your tree, you may have to zoom out by rolling the rollerball on your mouse away from you:
 
