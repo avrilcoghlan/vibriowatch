@@ -5,6 +5,8 @@ This section will cover:
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
+* `Finding the H22 genome in Vibriowatch`_.
+* `Assembly quality of the H22 genome`_.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)`_.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)`_.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogenetic tree)`_.
@@ -57,6 +59,9 @@ Let's analyse the H22 genome in Vibriowatch to answer some of these questions. T
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
 
+Finding the H22 genome in Vibriowatch
+-------------------------------------
+
 First, let's find the H22 genome in Vibriowatch.
 
 You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
@@ -95,6 +100,9 @@ This shows the top of the report page for H22:
 
 .. image:: Picture115.png
   :width: 600
+
+Assembly quality of the H22 genome
+----------------------------------
 
 Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
 reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
