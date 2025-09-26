@@ -165,7 +165,7 @@ This will bring up a menu:
   
 If you click on 'Public Collections' in the menu, you will then see a list of all the publicly visible collections in Pathogenwatch.
 
-To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears on the left, and then select 'Vibrio':
+To just see only collections with *V. cholerae* genomes, click on 'Genus' in the menu that now appears on the left, and then select 'Vibrio':
 
 .. image:: Picture102.png
   :width: 150
