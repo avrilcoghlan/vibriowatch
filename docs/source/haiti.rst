@@ -114,14 +114,10 @@ We can see that the assembly for the H22 isolate has a genome size of about 4.0 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. However, note that this an extremely rough rule of thumb, and may need to be revised in future when more is known about the diversity found in the species *Vibrio cholerae*.
-
-If your assembly has a genome size or GC content far outside these ranges, it would probably be a good idea to investigate whether your assembly likely contains contamination from another species' DNA (see my documentation `using CheckM to detect contamination`_).
-
-.. _using CheckM to detect contamination: https://vibriowatch.readthedocs.io/en/latest/assemblies.html#run-checkm-to-check-if-the-assembly-for-your-isolate-is-contaminated
+As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
 
 Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
-We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. If the assembly for your isolate has more contigs, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
+We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
 The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
 Is H22 predicted to produce cholera toxin?
