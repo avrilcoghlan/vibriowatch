@@ -220,7 +220,7 @@ Exploring the tree for a collection of isolates
 -----------------------------------------------
 
 When you are looking at a particular Vibriowatch collection (e.g. one of your own private collections, or `our public Vibriowatch collection for Chun et al`_), you will
-see a phylogenetic tree for the isolates in the right-hand panel. This tree is built using the neighbour-joining
+see a phylogenetic tree for the isolates in the left-hand panel. This tree is built using the neighbour-joining
 algorithm, a relatively fast and reliable method for building phylogenetic trees:
 
 .. image:: Picture37.png
