@@ -3,32 +3,43 @@ Worked example - Haiti 2022
 
 This section will cover:
 
-* `Are there plasmids in Vibrio cholerae?`_
-* `Predicting plasmids in your isolate`_.
+* `The Haiti 2022 outbreak`_
+* `The H22 genome`_.
 
-Are there plasmids in Vibrio cholerae?
---------------------------------------
+The Haiti 2022 outbreak
+-----------------------
 
-Plasmids can be an interesting and important feature of *Vibrio cholerae* genomes, particularly because
-antibiotic resistance genes are carried by IncC/A-type plasmids in some isolates from the current
-pandemic lineage (7PET). For example, the multi-drug resistant (MDR) phenotype seen in *V. cholerae* in
-Yemen, starting in 2019, was due to spread of an IncC-type plasmid carrying antibiotic resistance genes
-(`Lassalle et al 2022`_).
-Therefore, understanding of evolution and spread of plasmids and other mobile elements in *V. cholerae*,
-particularly in the current pandemic lineage (7PET lineage) is an important topic of research. 
+You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
+Later that year, in October 2010, a huge cholera outbreak begain in Haiti, that lasted up until 2019, and included
+more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
+by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
+was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
 
-.. _Lassalle et al 2022: https://www.biorxiv.org/content/10.1101/2022.08.24.504966v1
+.. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-Many plasmids have been identified in environmental isolates of *Vibrio cholerae* 
-(note that most of these isolates probably do not belong to the current pandemic lineage), as well 
-as in isolates of the current pandemic lineage (7PET lineage) (see `De et al 2021`_). Some of these
-*V. cholerae* plasmids have been given names (e.g. 'pVC1', 'pVC2', 'pSDH-1', 'pSDH-2', 'p3iANG', etc.).
-Some of the classes of plasmids seen in *V. cholerae* are ColE1-like plasmids and Inc-A/C family plasmids (`De et al 2021`_).
+By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
+No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. As a result, the Haitian government
+was keen for Haiti be declared 'cholera-free'. However, unfortunately in October of 2022 a new cholera outbreak 
+occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
+cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
 
-.. _De et al 2021: https://www.frontiersin.org/articles/10.3389/fitd.2021.691604/full
+An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
+Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
+or in the environment (e.g. in rivers or lakes)?
 
-Predicting plasmids in your isolate
------------------------------------
+The H22 genome
+--------------
+
+Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
+they named isolate 'H22'. 
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
+to public health, and answer questions about the origins of the Haiti 2022 outbreak:
+
+
+
 
 Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
 If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
