@@ -39,7 +39,7 @@ Since then, many more *V. cholerae* genomes have been sequenced. This plot shows
 
 Together these 22 key papers have published 3254 *V. cholerae* genomes, of which 84% belonged to the current pandemic lineage (7PET lineage). All of these genome data has been useful to clinicians and epidemiologists to try and understand the spread of *V. cholerae* around the world and also to scientists and epidemiologists interested in *V. cholerae* genome evolution, for example, the spread of antibiotic resistance genes, and the presence or absence of virulence genes. 
 
-Of course, these 22 key papers do not include all papers that have published *V. cholerae* genomes. In fact, if you look at the `NCBI database`_ or `ENA database`_, you will be able to find about 6600 *V. cholerae* genome assemblies (as of early 2024; there are probably loads more by now!). These will include some genomes that were published in papers that we have not listed here, but also some genomes that have not yet been published in papers. Furthermore, if you look in the ENA database, you will see about 14,000 *V. cholerae* sequence runs (again, as of early 2024 - there are probably many more by now!), which are unassembled reads for *V. cholerae* isolates. This reflects the fact that many researchers in the past have not assembled reads into genome assemblies, but simply aligned the raw reads to the reference genome. 
+Of course, these 22 key papers do not include all papers that have published *V. cholerae* genomes. In fact, if you look at the `NCBI database`_ or `ENA database`_, you will be able to find about 6600 *V. cholerae* genome assemblies (I last checked this in early 2024; there are probably loads more by now!). These will include some genomes that were published in papers that we have not listed here, but also some genomes that have not yet been published in papers. Furthermore, if you look in the ENA database, you will see about 14,000 *V. cholerae* sequence runs (again, this number is from early 2024), which are unassembled reads for *V. cholerae* isolates. This reflects the fact that many researchers in the past have not assembled reads into genome assemblies, but simply aligned the raw reads to the reference genome. 
 
 Clearly, there is a huge amount of genomic data available for *V. cholerae*. Our goal in the VibrioWatch project is to make all this data available and useful for clinicians, epidemiologists and researchers studying *V. cholerae*.
 
@@ -52,7 +52,7 @@ Pathogenwatch and Vibriowatch
 
 Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which we call **VibrioWatch**.
 
-`Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the Centre for Genomic Pathogen Surveillance. So far, Pathogenwatch includes almost 322,000 genomes for pathogens that cause worldwide problems. This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
+`Pathogenwatch`_ is a website that can be used as a global platform for genomic surveillance of pathogens of humans. It has been developed by the `Centre for Genomic Pathogen Surveillance`_ at Oxford University. So far, Pathogenwatch includes almost 322,000 genomes for pathogens that cause worldwide problems (as of early 2023). This is a phylogenetic tree (tree adapted from `Avican et al 2021`_) of some major bacterial pathogens of humans, showing the number of genomes (as of January 2023) that are in Pathogenwatch so far for those species:
 
 .. image:: Picture20.png
   :width: 500
@@ -60,6 +60,8 @@ Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which 
 .. _Pathogenwatch: https://pathogen.watch/
 
 .. _Avican et al 2021: https://pubmed.ncbi.nlm.nih.gov/34078900/
+
+.. _Center for Genomic Pathogen Surveillance: https://www.pathogensurveillance.net/
 
 You can see that there are several species (e.g. *Steptococcus pneumoniae*) that include a large fraction of the genomes added so far. This reflects the fact that the research communities studying those species have found Pathogenwatch to be an extremely useful website for disseminating and analysing genome data for their species. 
 
