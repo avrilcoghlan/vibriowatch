@@ -84,7 +84,7 @@ Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now se
   :width: 850
   
 A search bar will now appear at the top left.
-If you type 'HCUF' in the search bar, it will find isolate HCUF_01:
+If you type 'H22' in the search bar, it will find isolate H22:
 
 .. image:: Picture114.png
   :width: 850
@@ -165,14 +165,59 @@ Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogeneti
 As mentioned above, since isolate H22 has MLST sequence type ST69 or ST515, and/or belongs to
 the VC1 PopPUNK cluster, then it likely belongs to the current pandemic lineage (7PET lineage). 
 
-However, this information from MLST and PopPUNK is just based on a fraction of the whole genome data, so to be more
-confident of these inferences, it's a good idea to also build a phylogenetic tree containing isolate H22, as well as contextual isolates from 
-known *V. cholerae* lineages. Note that if you were analysing an isolate for which MLST and PopPUNK were not useful in identifying the lineage, then it would be important to
-identify the lineage by building a phylogenetic tree.
+However, this information from MLST and PopPUNK is just based on a fraction of the whole genome data (in the case of MLST, it's just
+based on 7 genes!), so to be more confident of these inferences, it's a good idea to also build a phylogenetic tree containing isolate H22, as well as contextual isolates from 
+known *V. cholerae* lineages. Note that if you were analysing an isolate for which MLST and PopPUNK were not very useful in identifying the lineage, then it would be 
+especially important to identify the lineage by building a phylogenetic tree.
 
 So, let's try to confirm that H22 belongs to the 7PET lineage, by building a Vibriowatch collection containing H22 and some contextual isolates of known lineages. 
+Vibriowatch will build a tree for the collection for us.
 
 To figure out whether isolate H22 belongs to the pandemic lineage, we can make a Vibriowatch collection containing both isolate H22 and the isolates of `Chun et al 2009`_.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Go make a collection, you need to be logged into the Pathogenwatch website.
+
+First we need to select the isolates that we want to put in the collection. To include H22 in the collection, first we search for H22
+on the Vibriowatch website. You can search for isolate H22 in Vibriowatch by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture10.png
+  :width: 150
+  
+If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
+
+To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
+
+.. image:: Picture22.png
+  :width: 150
+  
+Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
+
+.. image:: Picture23.png
+  :width: 850
+  
+A search bar will now appear at the top left.
+If you type 'H22' in the search bar, it will find isolate H22:
+
+.. image:: Picture117.png
+  :width: 850
+
+Note that you should see "0 selected genomes" in a purple button at the top right of the screen. (If you see
+"X selected genomes" where X is not 0, then click on the purple button and click on the "Clear all" button that appears).
+
+Now select the H22 isolate by clicking on the box to the left of its name, and you should see "1 selected genomes" appear in the purple
+button at the top right of the screen:
+
+.. image:: Picture118.png
+  :width: 850
+
+
 
 
 (which include isolates from the current pandemic lineage, as well as isolates from other *V. cholerae* lineages). 
