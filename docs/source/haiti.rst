@@ -5,7 +5,9 @@ This section will cover:
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogenetic tree)`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 * `Is H22 predicted to produce cholera toxin?`_
@@ -116,8 +118,8 @@ Another commonly used measures of assembly quality is the number of contigs. We 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. If the assembly for your isolate has more contigs, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
 The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
-Does H22 belong to the pandemic lineage of Vibrio cholerae?
------------------------------------------------------------
+Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)
+------------------------------------------------------------------------
 
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". 
 The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
@@ -138,6 +140,9 @@ Note that if an isolate is not ST69 or ST515, it is still possible that it the i
 the MLST sequence type from ONT data (because ONT data can have many sequencing errors), so your isolate may belong to the 
 pandemic lineage but it may be difficult to determine this using MLST information.
 
+Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)
+---------------------------------------------------------------------------
+
 A second approach for figuring out whether your isolate belongs to the pandemic lineage (7PET lineage) or not, is to look at the
 PopPUNK cluster of your isolate. PopPUNK is a tool for classifying bacterial isolates into lineages. At the top of the
 Vibriowatch genome report page for isolate H22, we can see the PopPUNK information under the heading "Lineage":
@@ -154,6 +159,63 @@ In particular, if your isolate was sequenced using Oxford Nanopore Technology (O
 to accurately identify the PopPUNK cluster (because there are often sequencing errors in ONT data), 
 so your isolate may belong to the pandemic lineage but it may be difficult to determine this using PopPUNK.
 
+Does H22 belong to the pandemic lineage of Vibrio cholerae? (using a phylogenetic tree)
+---------------------------------------------------------------------------------------
+
+As mentioned above, since isolate H22 has MLST sequence type ST69 or ST515, and/or belongs to
+the VC1 PopPUNK cluster, then it likely belongs to the current pandemic lineage (7PET lineage). 
+
+However, this information from MLST and PopPUNK is just based on a fraction of the whole genome data, so to be more
+confident of these inferences, it's a good idea to also build a phylogenetic tree containing isolate H22, as well as contextual isolates from 
+known *V. cholerae* lineages. Note that if you were analysing an isolate for which MLST and PopPUNK were not useful in identifying the lineage, then it would be important to
+identify the lineage by building a phylogenetic tree.
+
+So, let's try to confirm that H22 belongs to the 7PET lineage, by building a Vibriowatch collection containing H22 and some contextual isolates of known lineages. 
+
+To figure out whether isolate H22 belongs to the pandemic lineage, we can make a Vibriowatch collection containing both isolate H22 and the isolates of `Chun et al 2009`_.
+
+
+(which include isolates from the current pandemic lineage, as well as isolates from other *V. cholerae* lineages). 
+To do this, go to `the list of genomes in our collection for Chun et al 2009`_:
+
+.. _the list of genomes in our collection for Chun et al 2009: https://pathogen.watch/genomes/all?collection=2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009&organismId=666
+
+.. image:: Picture105.png
+  :width: 850
+  
+This will list all 23 isolates in your `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the box beside the
+column heading 'Name', to select all 23 isolates sequenced by `Chun et al 2009`_.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. image:: Picture106.png
+  :width: 850
+
+Next, search for your isolate of interest, that is, the one for which you want to find out whether it belongs to the current
+pandemic lineage (7PET lineage). As an example, let's take isolate HCUF_O1, an isolate collected in Haiti in 2010 and sequenced by `Hasan et al 2012`_. We can search for this isolate in Vibriowatch, and tick the box beside its name to select it. Then we will have 24 isolates selected, and we can make a new collection containing these 24 isolates (you could call it something like 'Chun et al plus HCUF-01'). 
+
+.. _Hasan et al 2012: https://pubmed.ncbi.nlm.nih.gov/22711841/
+
+Vibriowatch will make a tree for these 24 isolates, which is a neighbour-joining tree, and which should look something like this:
+
+.. image:: Picture48.png
+  :width: 650
+  
+You can see that HCUF-01 is placed in the clade of the tree containing the 7PET lineage isolates (MO10, B33, MJ1236, CIRS101, N16961, RC9). 
+If you zoom in on the clade containing the 7PET lineage isolates, you will see that the branch length from the common ancestor of all the 7PET isolates
+in the tree (shown with a red arrow) to isolate HCUF-01 is a relatively short branch length. If there are long branches in a phylogenetic tree,
+sometimes it is difficult for the tree-building algorithm (tree-building method) to correctly place isolates in the tree. However, in this case,
+since the branch length is relatively short to isolate HCUF-01, we can be more confident that the tree-building algorithm has placed isolate
+HCUF-01 correctly:
+
+.. image:: Picture62.png
+  :width: 350
+
+Therefore, this strongly suggests that HCUF-01 belongs to the 7PET lineage, that is, that it belongs to the current pandemic lineage. This is consistent with the fact that the cholera outbreak in Haiti in 2010 developed into a huge epidemic with >820,000 cases and about 10,000 deaths (source: `CDC`_).
+
+.. _CDC: https://www.cdc.gov/cholera/haiti/index.html
+
+At the bottom left, we can see a scale-bar saying “415”, which tells us how much genetic distance is represented by a certain branch-length in the tree. The lengths of the branches between isolate HCUF-01 and its common ancestor with the 7PET isolates (ie. from HCUF-01 to the red arrow) is a fraction of the length of this scale-bar; we can roughly guess by eye that this is a genetic distance of <50, which is pretty small. 
 
 
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
