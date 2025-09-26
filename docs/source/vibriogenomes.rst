@@ -61,7 +61,7 @@ Next we'll tell you about Pathogenwatch, and its *V. cholerae* component, which 
 
 .. _Avican et al 2021: https://pubmed.ncbi.nlm.nih.gov/34078900/
 
-.. _Center for Genomic Pathogen Surveillance: https://www.pathogensurveillance.net/
+.. _Centre for Genomic Pathogen Surveillance: https://www.pathogensurveillance.net/
 
 You can see that there are several species (e.g. *Steptococcus pneumoniae*) that include a large fraction of the genomes added so far. This reflects the fact that the research communities studying those species have found Pathogenwatch to be an extremely useful website for disseminating and analysing genome data for their species. 
 
