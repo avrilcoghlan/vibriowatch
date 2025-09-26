@@ -94,6 +94,14 @@ This shows the top of the report page for H22:
 .. image:: Picture115.png
   :width: 650
 
+Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
+reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
+to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
+looks like this:
+
+.. image:: Picture116.png
+  :width: 650
+
 Does H22 belong to the pandemic lineage of Vibrio cholerae?
 -----------------------------------------------------------
 
