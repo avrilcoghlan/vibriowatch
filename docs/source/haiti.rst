@@ -108,7 +108,7 @@ to the bottom of the genome report page for H22. You should see a section with t
 looks like this:
 
 .. image:: Picture116.png
-  :width: 350
+  :width: 550
 
 We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_).
 
