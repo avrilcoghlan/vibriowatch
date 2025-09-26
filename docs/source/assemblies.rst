@@ -172,9 +172,21 @@ Upload an assembly for an isolate
 
 If you already have an assembly for an isolate, you can upload your assembly to Vibriowatch.
 
-The steps are very similar to uploading reads (see `Upload reads to Vibriowatch, to make an assembly`_), except that on the webpage saying 'What would you like to upload?', you need to click on 'Single genome FASTAs' (instead of 'FASTQ').
+The steps are very similar to uploading reads (see `Upload reads to Vibriowatch, to make an assembly`_), except that on the webpage saying 'What would you like to upload?', you need to click on 'Single genome FASTAs' (instead of 'FASTQ'):
 
-Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Upload reads to Vibriowatch, to make an assembly`_).
+.. image:: Picture2.png
+  :width: 500
+
+Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Upload reads to Vibriowatch, to make an assembly`_):
+
+#. Species identification.
+#. AMR gene analysis.
+#. cgMLST.
+#. Core gene summary.
+#. Predicting plasmids using Inctyper.
+#. MLST.
+#. Assembly statistics.
+#. Predicting virulence genes using 'Vista'.
 
 Verify that your isolate is Vibrio cholerae
 -------------------------------------------
