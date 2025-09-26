@@ -227,7 +227,8 @@ button at the top right of the screen:
 
 We have now selected the H22 isolate to add to the collection. Next let's select the isolates from the public Vibriowatch
 collection that we have included in Vibriowatch that contains isolates sequenced by `Chun et al 2009`_. These include
-diverse *V. cholerae* genomes from across the species.
+diverse *V. cholerae* genomes from across the species, including isolates from the current pandemic lineage, as well as 
+isolates from other *V. cholerae* lineages. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -266,32 +267,12 @@ you should see the collection for the isolates of `Chun et al 2009`_ appear:
 .. image:: Picture119.png
   :width: 550
 
-If you hover your mouse over the white space under the description of the collection, you can click on the 'LIST GENOMES' button to see a list of genomes for that collection:
+If you hover your mouse over the white space under the description of the collection, you can click on the 'LIST GENOMES' button to see a list of genomes for the Chun et al collection:
 
-.. image:: Picture104.png
+.. image:: Picture120.png
   :width: 850
 
-In fact, we have made a public collection for the isolates from `Chun et al 2009`_, and you can view the public collection for Chun et al by clicking
-on the 'VIEW COLLECTION' button under the Chun et al collection in the list of public collections. Alternatively you can click on the link 
-in this sentence to see `our public Vibriowatch collection for Chun et al`_. 
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-.. _our public Vibriowatch collection for Chun et al: https://pathogen.watch/collection/qg0gc5vpdn1u-vibriowatch-collection-chun-et-al-2009
-
-
-
-
-
-(which include isolates from the current pandemic lineage, as well as isolates from other *V. cholerae* lineages). 
-To do this, go to `the list of genomes in our collection for Chun et al 2009`_:
-
-.. _the list of genomes in our collection for Chun et al 2009: https://pathogen.watch/genomes/all?collection=2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009&organismId=666
-
-.. image:: Picture105.png
-  :width: 850
-  
-This will list all 23 isolates in your `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the box beside the
+This will list all 23 isolates in the public `Chun et al 2009`_ collection. Make sure that you have no isolates selected at present (the purple button at the top right of the webpage should say '0 selected genomes'; if it does not, click on it, and then click on 'Clear all'). Then tick the box beside the
 column heading 'Name', to select all 23 isolates sequenced by `Chun et al 2009`_.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
