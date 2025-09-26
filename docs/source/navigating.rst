@@ -113,12 +113,12 @@ This will bring up a menu:
 And this time click on 'My collections' in the menu. This should show you a list of the collections that you have made in your private Pathogenwatch account. One of these should be the collection that you have just made, e.g. "My collection of Chun et al's genomes". 
 
 .. image:: Picture110.png
-  :width: 150
+  :width: 550
 
 If you move your mouse over the list of collections, when you move your mouse over the white space below the name of your new collection (e.g. "My collection of Chun et al's genomes"), you should see buttons pop up that say "LIST GENOMES" and "VIEW COLLECTION". If you click on the "VIEW COLLECTION" button just below the name of your new collection, this should bring you to a page for the collection. This should show a phylogenetic tree of the isolates on the left, a map on the right showing where the isolates were collected, and a timeline of when they were collected below the map and tree:
 
 .. image:: Picture112.png
-  :width: 150
+  :width: 850
   
 If you make a collection of isolates in Vibriowatch, it will be visible only to yourself in your private Vibriowatch account, and nobody
 else can see it.
