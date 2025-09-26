@@ -10,6 +10,7 @@ This section is a worked example of using Vibriowatch to analyse cholera genomic
 * `Is H22 predicted to produce cholera toxin?`_
 * `Is H22 predicted to have antimicrobial resistance?`_
 * `Is H22 predicted to have plasmids?`_
+* `What is the predicted serogroup of the H22 isolate?`_
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)`_.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (using PopPUNK)`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
@@ -126,6 +127,9 @@ Is H22 predicted to have antimicrobial resistance?
 
 Is H22 predicted to have plasmids?
 ----------------------------------
+
+What is the predicted serogroup of the H22 isolate?
+---------------------------------------------------
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)
 ------------------------------------------------------------------------
