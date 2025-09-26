@@ -181,8 +181,18 @@ or the 'VIEW COLLECTION' button to see the tree for the collection, or the 'PUBM
 .. image:: Picture104.png
   :width: 850
 
+In fact, we have made a public collection for the isolates from `Chun et al 2009`_, and you can view the public collection for Chun et al by clicking
+on the 'VIEW COLLECTION' button under the Chun et al collection in the list of public collections. Alternatively you can click on the link 
+in this sentence to see `our public Vibriowatch collection for Chun et al`_. 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. _our public Vibriowatch collection for Chun et al: https://pathogen.watch/collection/qg0gc5vpdn1u-vibriowatch-collection-chun-et-al-2009
+
 Exploring the timeline for a collection of isolates
 ---------------------------------------------------
+
+
 
 By default, the timeline for a collection of isolates shows the day of collection. To see instead the year of collection, click on this small 'Settings' symbol at the top right of the timeline panel: 
 
