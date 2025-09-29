@@ -131,7 +131,7 @@ Is H22 predicted to have plasmids?
 To find out whether the H22 isolate is predicted to carry plasmids, we can look at the "Plasmid Inc types" section of the genome report page for H22:
 
 .. image:: Picture123.png
-  :width: 250
+  :width: 350
 
 We see that there are no predicted plasmids in H22.
 
