@@ -112,6 +112,20 @@ You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted t
 Is H22 predicted to have antimicrobial resistance?
 --------------------------------------------------
 
+The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
+children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
+antimicrobial resistance to these recommended antimicrobials would be a concern.
+
+To find out whether the H22 isolate carries antimicrobial resistance (AMR), we can look at the "AMR" section of the genome report page for H22:
+
+.. image:: Picture122.png
+  :width: 550
+
+You can see that the H22 isolate is not predicted to have resistance genes or mutations to azithromycin or doxycycline, but is predicted to
+have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA*_S83I and *parC*_S85L (causing a substitution
+from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
+
+
 Is H22 predicted to have plasmids?
 ----------------------------------
 
