@@ -53,7 +53,7 @@ For example, this links to the `collection for the isolates sequenced by Chun et
 At the top right of the webpage for a collection, you will see a small "Downloads" button:
 
 .. image:: Picture143.png
-  :width: 100
+  :width: 50
 
 If you click on this "Downloads" button, you will have the be able to choose to download data for the collection, such as:
 
