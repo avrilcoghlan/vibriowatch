@@ -13,10 +13,10 @@ Downloading data for a set of isolates
 
 You can download data for a set of isolates by first creating a list of the isolates you are interested in.
 
-For example, this links to a `list of all publicly available *V. cholerae* isolates in Vibriowatch`_.
+For example, this links to a `list of all publicly available isolates in Vibriowatch`_.
 If you click on the list you will see a list like this (showing the top of the list):
 
-.. _list of all publicly available *V. cholerae* isolates in Vibriowatch: https://pathogen.watch/genomes/all?access=public&genusId=662
+.. _list of all publicly available isolates in Vibriowatch: https://pathogen.watch/genomes/all?access=public&genusId=662
 
 .. image:: Picture141.png
   :width: 600
