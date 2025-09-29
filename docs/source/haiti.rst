@@ -33,7 +33,8 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 
 An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
-or in the environment (e.g. in rivers or lakes)?
+or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
+part of the world, such as Africa or Asia? 
 
 The H22 genome
 --------------
@@ -310,13 +311,24 @@ indicating that all the isolates in this small clade are from Haiti:
   :width: 800
 
 To now make a pretty plot with the isolates collected in different years in Haiti highlighted, it is easiest
-to do this using `Microreact`_. This gives us a nice plot like this:
+to do this using `Microreact`_, by downloading the metadata and tree files to your computer, and then uploading
+them into Microreact. This gives us a nice tree like this:
 
 .. image:: Picture140.png
   :width: 900
 
 .. _Microreact: https://microreact.org/
 
+We can see from this tree that the H22 isolate (indicated with a blue dot) is closely related to isolates
+collected from Haiti in 2014 (yellow dots), 2015 (purple dots) and 2017 (red dots). 
+
+Taken together, these results suggest that the *V. cholerae* that caused the Haiti 2022 outbreak
+was very closely related to the *V. cholerae* that caused the Haiti 2010-2019 epidemic. This suggests
+that the same clone of *V. cholerae* likely persisted in Haiti between 2019 and 2022, either in 
+humans (e.g. asymptomatic or unreported cases) or in the environment (e.g. in rivers or lakes). 
+However, another possibility, which we cannot discard (as we don't have evidence to disprove it), is that at some point during the Haiti 2010-2019
+epidemic, cholera spread from Haiti to a nearby country in the Caribbean, and persisted undetected in that nearby country,
+and that in 2022 it spread back to Haiti again.
 
 CholeraBook
 -----------
