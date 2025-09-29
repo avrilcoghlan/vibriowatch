@@ -252,6 +252,39 @@ in the Vibriowatch database are isolates collected in Haiti in the years 2013, 2
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
 
+To investigate the origins of the Haiti 2022 outbreak, we can make a phylogenetic tree of the H22 isolate and its
+close relatives. As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
+section of the H22 genome report page:
+
+.. image:: Picture124.png
+  :width: 600
+
+This network shows 1326 isolates that are closely related, one of which is H22. To build a phylogenetic tree of these
+1326 isolates, we can build a "collection" for the isolates in Vibriowatch, and the collection will include a phylogenetic tree.
+
+To build a collection for the 1326 isolates in the network, you can click on the big purple "LIST GENOMES" button to list all
+1326 genomes. This will bring up a list of all the genomes; here is just the first few:
+
+.. image:: Picture133.png
+  :width: 600
+
+To make a collection for all these isolates, first check that the purple button at the top right of the screen says
+"0 Selected Genomes". If it says "X Selected Genomes", and X is not zero, then click on the button, and then click on 
+"Clear all" in the menu that appears.
+
+Then select all 1326 isolates by clicking on the box beside "Name" at the top of the list of isolates. This should
+result in ticks in all the boxes beside all the isolates:
+
+.. image:: Picture134.png
+  :width: 600
+
+Now click on the purple button saying "1326 Selected Genomes" at the top right of the webpage.
+You can now click on that button to make a collection (see `How To Make a Collection of Isolates in Vibriowatch`_ for more details).
+
+.. _How To Make a Collection of Isolates in Vibriowatch: https://github.com/avrilcoghlan/vibriowatch/edit/main/docs/source/navigating.rst#how-to-make-a-collection-of-isolates-in-vibriowatch
+
+
+
 CholeraBook
 -----------
 
