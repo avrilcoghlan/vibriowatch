@@ -178,7 +178,7 @@ section of the H22 genome report page:
 .. image:: Picture124.png
   :width: 600
 
-You can see a network showing blobs representing sequenced isolates, where H22 is shown as a purple blob, and other
+You can see a network showing blobs representing sequenced isolates, where H22 is shown as a purple blob (and labelled "H22"), and other
 closely related isolates are shown by grey blobs. The edges (lines) in the network show relationships between related isolates,
 where the length of an edge between two isolates (two blobs) represents the number of genetic differences between them.
 Isolates that are closer to H22 in the network have less genetic differences in their DNA from H22, and so are assumed 
@@ -193,8 +193,61 @@ This will bring you to a new view, in which you can see the network in the top l
 were collected in the top right panel, and a timeline of when the isolates were collected below.
 
 .. image:: Picture125.png
-  :width: 600
+  :width: 800
 
+You can see again that the purple blob representing H22 (which is labelled "H22") is in the top part of the network. To select
+the top part of the network, in the top left panel that contains the network, you can click on the
+"Controls" button in the top right of the panel:
+
+.. image:: Picture126.png
+  :width: 250
+
+Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
+
+.. image:: Picture127.png
+  :width: 250
+
+Then using the rollerball on your mouse, zoom in on the part of the network that contains H22, to see H22 and its most
+closely related isolates:
+
+.. image:: Picture128.png
+  :width: 250
+
+Then draw a shape around H22 and its most closely related isolates, by using your mouse to click at points around the
+region containing H22 and its closest relatives:
+
+.. image:: Picture129.png
+  :width: 800
+
+You will see that it now only shows H22 and its closest isolates (that lie inside the shape you have drawn) in the network
+panel at the top right. The map in the top left panel now only shows one dot. If you move your mouse into the map panel,
+and use the rollerball on your mouse to zoom out, you will find that this dot is in the country of Haiti, so the closest
+relatives of H22 were all collected from Haiti:
+
+.. image:: Picture130.png
+  :width: 800
+
+To find out when these close relatives were collected, we need to look at their years of collection. By default, the
+dates in the timeline panel at the bottom of the screen are given as days and months. To instead show the years,
+click on the "Controls" button at the top right of the timeline panel:
+
+.. image:: Picture126.png
+  :width: 250
+
+Now change "Day" to "Year" in the menu that appears.
+
+.. image:: Picture131.png
+  :width: 350
+
+Then click on the "X" at the corner of the menu to close that menu. You will now see that the timeline panel
+with the years when the most closely related isolates were collected:
+
+.. image:: Picture132.png
+  :width: 800
+
+In the timeline you can see one square at the right hand end, above "2022"; this is the isolate H22, which was collected in 2022.
+You can also see squares above the years 2013, 2014, 2015 and 2017, indicating that the closest relatives of H22
+in the Vibriowatch database are isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
