@@ -19,13 +19,13 @@ If you click on the list you will see a list like this (showing the top of the l
 .. _list of all publicly available isolates in Vibriowatch: https://pathogen.watch/genomes/all?access=public&genusId=662
 
 .. image:: Picture141.png
-  :width: 600
+  :width: 800
 
 If you are interested in downloading the data for the top 5 isolates, you can click the boxes
 beside their names:
 
 .. image:: Picture142.png
-  :width: 600
+  :width: 800
 
 Then if you click on the purple button saying "5 Selected Genomes" at the top right of the webpage, you can click on
 "Download data", and this will allow you to download data for those 5 genomes, such as:
