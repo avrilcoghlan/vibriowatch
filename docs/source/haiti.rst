@@ -200,7 +200,7 @@ the top part of the network, in the top left panel that contains the network, yo
 "Controls" button in the top right of the panel:
 
 .. image:: Picture126.png
-  :width: 100
+  :width: 50
 
 Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
 
@@ -232,7 +232,7 @@ dates in the timeline panel at the bottom of the screen are given as days and mo
 click on the "Controls" button at the top right of the timeline panel:
 
 .. image:: Picture126.png
-  :width: 100
+  :width: 50
 
 Now change "Day" to "Year" in the menu that appears.
 
