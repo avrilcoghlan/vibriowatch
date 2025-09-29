@@ -3,11 +3,47 @@ Downloading data from Vibriowatch
 
 This section will cover:
 
-* `Are there plasmids in Vibrio cholerae?`_
-* `Predicting plasmids in your isolate`_.
+* `Downloading data for a set of isolates`_.
+* `Downloading data for a collection`_.
+* `Bulk downloads of all Vibriowatch data`_.
+* `Plotting Vibriowatch trees and data in Microreact`_.
 
-Are there plasmids in Vibrio cholerae?
+Downloading data for a set of isolates
 --------------------------------------
+
+You can download data for a set of isolates by first creating a list of the isolates you are interested in.
+
+For example, this links to a `list of all publicly available *V. cholerae* isolates in Vibriowatch`_.
+If you click on the list you will see a list like this (showing the top of the list):
+
+.. _list of all publicly available *V. cholerae* isolates in Vibriowatch: https://pathogen.watch/genomes/all?access=public&genusId=662
+
+.. image:: Picture141.png
+  :width: 600
+
+If you are interested in downloading the data for the top 5 isolates, you can click the boxes
+beside their names:
+
+.. image:: Picture142.png
+  :width: 600
+
+Then if you click on the purple button saying "5 Selected Genomes" at the top right of the webpage, you can click on
+"Download data", and this will allow you to download data for those 5 genomes, such as:
+
+* fasta files of the genomes
+* metadata for the genomes (e.g. place and date of collection
+* AMR predictions - this says whether each isolate is predicted to be resistant (or not) to a set of antimicrobials
+* AMR genes/mutations - this says whether each isolate has any of a set of known *V. cholerae* AMR genes and mutations
+* Inctyper - this says whether each isolate is predicted to have plasmids
+* MLST 
+* stats - genome assembly statistics (e.g. N50)
+* lineage - this is based on PopPUNK
+* virulence - this says whether each isolate has any of a set of known *V. cholerae* virulence genes
+
+Downloading data for a collection
+---------------------------------
+
+
 
 Plasmids can be an interesting and important feature of *Vibrio cholerae* genomes, particularly because
 antibiotic resistance genes are carried by IncC/A-type plasmids in some isolates from the current
