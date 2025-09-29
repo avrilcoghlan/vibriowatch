@@ -125,9 +125,15 @@ You can see that the H22 isolate is not predicted to have resistance genes or mu
 have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA_S83I* and *parC_S85L* mutations (causing a substitution
 from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
 
-
 Is H22 predicted to have plasmids?
 ----------------------------------
+
+To find out whether the H22 isolate is predicted to carry plasmids, we can look at the "Plasmid Inc types" section of the genome report page for H22:
+
+.. image:: Picture123.png
+  :width: 250
+
+We see that there are no predicted plasmids in H22.
 
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
