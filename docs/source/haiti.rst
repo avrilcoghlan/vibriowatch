@@ -128,7 +128,8 @@ from S to I at position 83 of the GyrA protein, and a substitution from S to L a
 Is H22 predicted to have plasmids?
 ----------------------------------
 
-To find out whether the H22 isolate is predicted to carry plasmids, we can look at the "Plasmid Inc types" section of the genome report page for H22:
+Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
+To find out whether the H22 isolate is predicted to carry a plasmid, we can look at the "Plasmid Inc types" section of the genome report page for H22:
 
 .. image:: Picture123.png
   :width: 350
@@ -137,6 +138,16 @@ We see that there are no predicted plasmids in H22.
 
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
+
+The current pandemic lineage (7PET lineage) of *V. cholerae* has the O1 serogroup (or occasionally, for some isolates, the O139 serogroup).
+
+To find out the predicted serogroup for H22, we can look at the top of the report page for H22:
+
+.. image:: Picture115.png
+  :width: 600
+
+Under "Genotypes", you can see that the predicted serogroup is O1. Note that this doesn't mean that H22 definitely belongs to the 7PET lineage,
+as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogroup O1. 
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (using MLST)
 ------------------------------------------------------------------------
