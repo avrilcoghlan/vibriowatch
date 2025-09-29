@@ -64,7 +64,7 @@ Finding the H22 genome in Vibriowatch
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
 
-.. _H22's genome report page: https://pathogen.watch/genomes/all?searchText=H22
+.. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
 .. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
