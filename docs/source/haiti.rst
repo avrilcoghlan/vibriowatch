@@ -178,6 +178,23 @@ section of the H22 genome report page:
 .. image:: Picture124.png
   :width: 600
 
+You can see a network showing blobs representing sequenced isolates, where H22 is shown as a purple blob, and other
+closely related isolates are shown by grey blobs. The edges (lines) in the network show relationships between related isolates,
+where the length of an edge between two isolates (two blobs) represents the number of genetic differences between them.
+Isolates that are closer to H22 in the network have less genetic differences in their DNA from H22, and so are assumed 
+to be more closely evolutionarily related to H22.
+
+You can see that at the top of the network it says "Cluster of 1326 at a threshold of 10", so these are 1326
+isolates that are closely related and differ from each other by 10 or less mutations in the DNA of their core genome
+regions ("core genome regions" are regions of the genome shared by almost all *V. cholerae* isolates).
+
+To examine the network a bit more closely, you can click on the big purple "VIEW CLUSTER" button.
+This will bring you to a new view, in which you can see the network in the top left panel, a map of where the isolates
+were collected in the top right panel, and a timeline of when the isolates were collected below.
+
+.. image:: Picture125.png
+  :width: 600
+
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
