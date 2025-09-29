@@ -283,6 +283,32 @@ You can now click on that button to make a collection (see `How To Make a Collec
 
 .. _How To Make a Collection of Isolates in Vibriowatch: https://github.com/avrilcoghlan/vibriowatch/edit/main/docs/source/navigating.rst#how-to-make-a-collection-of-isolates-in-vibriowatch
 
+Then you will see a tree of the 1326 genomes:
+
+.. image:: Picture135.png
+  :width: 600
+
+You can find the H22 isolate in the tree by typing "H22" in the search box at the top of the page, where it says "FILTER NAME":
+
+.. image:: Picture136.png
+  :width: 600
+
+You can see that the H22 isolate is part of a small clade (group) of isolates that are on quite a long branch. If you
+move your mouse over the ancestral node of this clade, you will see the number "111" appear, indicating that there
+are 111 isolates in that small clade (group) of isolates.
+
+.. image:: Picture137.png
+  :width: 600
+
+If you right-click on the ancestral node of that small clade, and then choose "View subtree" in the menu that appears, it will
+show you just the part of the tree corresponding to that small clade:
+
+.. image:: Picture138.png
+  :width: 600
+
+You can delete "H22" from the search box at the top of the webpage to deselect H22 in the tree. 
+
+Then to show the
 
 
 CholeraBook
