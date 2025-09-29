@@ -60,6 +60,7 @@ Contents
    virulence
    AMR
    plasmids
+   downloads
    haiti
    acknowledgements
    
