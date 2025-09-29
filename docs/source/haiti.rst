@@ -301,14 +301,13 @@ are 111 isolates in that small clade (group) of isolates.
   :width: 600
 
 If you right-click on the ancestral node of that small clade, and then choose "View subtree" in the menu that appears, it will
-show you just the part of the tree corresponding to that small clade:
+show you just the part of the tree corresponding to that small clade.
+You can then delete "H22" from the search box at the top, to deselect the H22 isolate. You will now see that on the right, there
+is only one dot on the map, and if you use the rollerball on your mouse to scroll out, you will see it corresponds to Haiti,
+indicating that all the isolates in this small clade are from Haiti:
 
 .. image:: Picture138.png
-  :width: 600
-
-You can delete "H22" from the search box at the top of the webpage to deselect H22 in the tree. 
-
-Then to show the
+  :width: 800
 
 
 CholeraBook
