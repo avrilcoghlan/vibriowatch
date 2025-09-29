@@ -311,13 +311,15 @@ indicating that all the isolates in this small clade are from Haiti:
   :width: 800
 
 To now make a pretty plot with the isolates collected in different years in Haiti highlighted, it is easiest
-to do this using `Microreact`_, by downloading the metadata and tree files to your computer, and then uploading
+to do this using `Microreact`_ (see `Plotting the tree and data for a Vibriowatch collection in Microreact`_), by downloading the metadata and tree files to your computer, and then uploading
 them into Microreact. This gives us a nice tree like this:
 
 .. image:: Picture140.png
   :width: 900
 
 .. _Microreact: https://microreact.org/
+
+.. _Plotting the tree and data for a Vibriowatch collection in Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
 
 We can see from this tree that the H22 isolate (indicated with a blue dot) is closely related to isolates
 collected from Haiti in 2014 (yellow dots), 2015 (purple dots) and 2017 (red dots). 
