@@ -63,8 +63,8 @@ Some of the classes of plasmids seen in *V. cholerae* are ColE1-like plasmids an
 
 .. _De et al 2021: https://www.frontiersin.org/articles/10.3389/fitd.2021.691604/full
 
-Predicting plasmids in your isolate
------------------------------------
+Bulk downloads of all Vibriowatch data
+--------------------------------------
 
 Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
 If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
@@ -80,6 +80,9 @@ Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
   :width: 650
   
 This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
+
+Plotting Vibriowatch trees and data in Microreact
+-------------------------------------------------
 
 CholeraBook
 -----------
