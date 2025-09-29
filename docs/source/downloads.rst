@@ -82,7 +82,7 @@ For example, this links to the `collection for the isolates sequenced by Chun et
 At the top right of the webpage for a collection, you will see a small "Downloads" button:
 
 .. image:: Picture143.png
-  :width: 100
+  :width: 50
 
 If you click on this "Downloads" button, you will have the be able to choose to download data for the collection, 
 and you can choose to download the tree as a .nwk format file, the metadata table, and the virulence gene predictions.
@@ -124,7 +124,7 @@ on the map are coloured according to country where the isolates were collected:
 If you want to plot additional variables beside the tree, you can click on the "Controls" button at the top right of the tree panel:
 
 .. image:: Picture147.png
-  :width: 100
+  :width: 50
 
 If you click on "Metadata blocks" in the menu that appears, you can click on "Serotype phenotype" and "Serogroup phenotype" and "ctxA" and "ctxB", to plot the serotype (e.g. Inaba/Ogawa) and
 serogroup (e.g. O1/O139/O37/etc.) phenotypes and presence/absence of *ctxA* and *ctxB* genes beside the tree, and then press "X" at the top of the menu to close the menu. You can also
