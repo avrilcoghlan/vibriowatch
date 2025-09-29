@@ -5,8 +5,8 @@ This section will cover:
 
 * `Downloading data for a set of isolates`_.
 * `Downloading data for a collection`_.
+* `Plotting the tree and data for a Vibriowatch collection in Microreact`_.
 * `Bulk downloads of all Vibriowatch data`_.
-* `Plotting Vibriowatch trees and data in Microreact`_.
 
 Downloading data for a set of isolates
 --------------------------------------
@@ -31,58 +31,113 @@ Then if you click on the purple button saying "5 Selected Genomes" at the top ri
 "Download data", and this will allow you to download data for those 5 genomes, such as:
 
 * fasta files of the genomes
-* metadata for the genomes (e.g. place and date of collection
+* metadata for the genomes (e.g. place and date of collection)
 * AMR predictions - this says whether each isolate is predicted to be resistant (or not) to a set of antimicrobials
 * AMR genes/mutations - this says whether each isolate has any of a set of known *V. cholerae* AMR genes and mutations
 * Inctyper - this says whether each isolate is predicted to have plasmids
 * MLST 
 * stats - genome assembly statistics (e.g. N50)
 * lineage - this is based on PopPUNK
-* virulence - this says whether each isolate has any of a set of known *V. cholerae* virulence genes
+* virulence predictions from the Vista tool - this says whether each isolate has any of a set of known *V. cholerae* virulence genes
+* etc.
 
 Downloading data for a collection
 ---------------------------------
 
+You can also download data for a "collection" from Vibriowatch.
 
+For example, this links to the `collection for the isolates sequenced by Chun et al 2009`_. 
 
-Plasmids can be an interesting and important feature of *Vibrio cholerae* genomes, particularly because
-antibiotic resistance genes are carried by IncC/A-type plasmids in some isolates from the current
-pandemic lineage (7PET). For example, the multi-drug resistant (MDR) phenotype seen in *V. cholerae* in
-Yemen, starting in 2019, was due to spread of an IncC-type plasmid carrying antibiotic resistance genes
-(`Lassalle et al 2022`_).
-Therefore, understanding of evolution and spread of plasmids and other mobile elements in *V. cholerae*,
-particularly in the current pandemic lineage (7PET lineage) is an important topic of research. 
+.. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
 
-.. _Lassalle et al 2022: https://www.biorxiv.org/content/10.1101/2022.08.24.504966v1
+At the top right of the webpage for a collection, you will see a small "Downloads" button:
 
-Many plasmids have been identified in environmental isolates of *Vibrio cholerae* 
-(note that most of these isolates probably do not belong to the current pandemic lineage), as well 
-as in isolates of the current pandemic lineage (7PET lineage) (see `De et al 2021`_). Some of these
-*V. cholerae* plasmids have been given names (e.g. 'pVC1', 'pVC2', 'pSDH-1', 'pSDH-2', 'p3iANG', etc.).
-Some of the classes of plasmids seen in *V. cholerae* are ColE1-like plasmids and Inc-A/C family plasmids (`De et al 2021`_).
+.. image:: Picture143.png
+  :width: 100
 
-.. _De et al 2021: https://www.frontiersin.org/articles/10.3389/fitd.2021.691604/full
+If you click on this "Downloads" button, you will have the be able to choose to download data for the collection, such as:
+
+* virulence predictions from the Vista tool - this says whether each isolate has any of a set of known *V. cholerae* virulence genes
+* metadata for the genomes (e.g. place and date of collection)
+* typing for the genomes, e.g. MLST and PopPUNK for identifying lineages, and IncTyper (for plasmid predictions)
+* stats - genome assembly statistics (e.g. N50)
+* AMR predictions - this says whether each isolate is predicted to be resistant (or not) to a set of antimicrobials
+* AMR genes/mutations - this says whether each isolate has any of a set of known *V. cholerae* AMR genes and mutations
+* a phylogenetic tree, e.g. in Newick (.nwk) format
+
+Plotting the tree and data for a Vibriowatch collection in Microreact
+---------------------------------------------------------------------
+
+`Microreact`_ is a very nice tool that allows easy and pretty plotting of phylogenetic tree data, as well as metadata and other computed data (e.g. AMR and virulence predictions) beside the tree.
+
+.. _Microreact: https://microreact.org/
+
+It's possible to download all the metadata and computed data from a Vibriowatch collection and upload it into Microreact to re-plot it there.
+This is particularly useful if you want to plot multiple types of data/metadata beside a phylogenetic tree (e.g. country, date of collection, presence/absence of virulence genes, etc.).
+
+For example, this links to the `collection for the isolates sequenced by Chun et al 2009`_. 
+
+.. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
+
+At the top right of the webpage for a collection, you will see a small "Downloads" button:
+
+.. image:: Picture143.png
+  :width: 100
+
+If you click on this "Downloads" button, you will have the be able to choose to download data for the collection, 
+and you can choose to download the tree as a .nwk format file, the metadata table, and the virulence gene predictions.
+This should give you three files that you have downloaded, called something like:
+
+* pathogenwatch-vibcl-2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009-collection-tree.nwk
+* pathogenwatch-vibcl-2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009-metadata.csv
+* pathogenwatch-vibcl-2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009-vista.csv
+
+Then you can go to the `Microreact`_ website to upload the data.
+
+.. _Microreact: https://microreact.org/
+
+On the Microreact website, click on "UPLOAD" at the top right of the website. 
+Then you will see a circle saying "Drop files here". Select the three files above (..collection-tree.nwk, ..metadata.csv, ..vista.csv)
+on your computer (press down "Shift" on your keyboard to select three files at once), and drag and drop them into the "Drop files here" circle on the website.
+You should see a box pop up like this:
+
+.. image:: Picture144.png
+  :width: 350
+
+Press "Continue". Then a box will pop up asking you to select the "Main data file" from a menu. Select the "..metadata.csv" file.
+Then it will ask you to select the ID column, and you can select "NAME" as the ID column. Press "Continue".
+Then it will ask you to select the ID columns for the other files, and again select "NAME" as the ID columns for all the files. Press "Continue" again.
+
+Then it should open the data in Microreact. You should see a panel with a map on the top left, with your tree on the top right, and with the metadata below them.
+
+.. image:: Picture145.png
+  :width: 900
+
+You can colour the isolates in the tree and dots in the map by different values in the metadata table. If you scroll along the metadata
+table to the right (drag the slider below the metadata table), you will find the column with the country of isolation of the isolates, which has
+the heading "ISOLATION". Click on the "ISOLATION" heading in the metadata table. You should now see that the isolates in the tree and dots
+on the map are coloured according to country where the isolates were collected:
+
+.. image:: Picture146.png
+  :width: 900
+
+If you want to plot additional variables beside the tree, you can click on the "Controls" button at the top right of the tree panel:
+
+.. image:: Picture147.png
+  :width: 100
+
+If you click on "Metadata blocks" in the menu that appears, you can click on "Serotype phenotype" and "Serogroup phenotype" and "ctxA" and "ctxB", to plot the serotype (e.g. Inaba/Ogawa) and
+serogroup (e.g. O1/O139/O37/etc.) phenotypes and presence/absence of *ctxA* and *ctxB* genes beside the tree, and then press "X" at the top of the menu to close the menu. You can also
+click "Legend" at the top right of the tree panel to see a legend. You should now see the serogroup and serotype and *ctx* gene presence/absence beside the tree:
+
+.. image:: Picture148.png
+  :width: 800
 
 Bulk downloads of all Vibriowatch data
 --------------------------------------
 
-Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
-If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
-section of its report page:
+Next..
 
-.. image:: Picture99.png
-  :width: 450
-  
-An example of an isolate with a predicted plasmid is RC9, which was isolated in Kenya in 1985.
-Here is the 'Plasmid Inc types' section of its report page in Vibriowatch:
-
-.. image:: Picture100.png
-  :width: 650
-  
-This shows that this isolate is predicted by Vibriowatch to have a IncC-type plasmid.
-
-Plotting Vibriowatch trees and data in Microreact
--------------------------------------------------
 
 CholeraBook
 -----------
