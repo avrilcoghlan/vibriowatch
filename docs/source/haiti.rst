@@ -61,39 +61,13 @@ everyone can see.
 Finding the H22 genome in Vibriowatch
 -------------------------------------
 
-First, let's find the H22 genome in Vibriowatch.
+First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
+`How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
 
-You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
+.. _H22's genome report page: https://pathogen.watch/genomes/all?searchText=H22
 
-You can search for isolate H22 in Vibriowatch by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+.. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-.. image:: Picture9.png
-  :width: 150
-  
-This will bring up a menu:
-
-.. image:: Picture10.png
-  :width: 150
-  
-If you click on 'All Genomes' in the menu, you will then see a list of all the genomes in Pathogenwatch. 
-
-To just select *V. cholerae* genomes, click on 'Genus' in the menu that now appears:
-
-.. image:: Picture22.png
-  :width: 150
-  
-Then select 'Vibrio', to select just genomes from *V. cholerae*. You will now see a list of the approximately 6000 *V. cholerae* genomes (just showing the top of the list here):
-
-.. image:: Picture23.png
-  :width: 850
-  
-A search bar will now appear at the top left.
-If you type 'H22' in the search bar, it will find isolate H22:
-
-.. image:: Picture114.png
-  :width: 850
-    
-You can click on the isolate's name (link 'H22') to go to its 'report page'. 
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
 This shows the top of the report page for H22:
 
