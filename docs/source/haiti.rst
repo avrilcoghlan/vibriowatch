@@ -200,7 +200,7 @@ the top part of the network, in the top left panel that contains the network, yo
 "Controls" button in the top right of the panel:
 
 .. image:: Picture126.png
-  :width: 250
+  :width: 100
 
 Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
 
