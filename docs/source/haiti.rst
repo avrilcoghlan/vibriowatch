@@ -205,13 +205,13 @@ the top part of the network, in the top left panel that contains the network, yo
 Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
 
 .. image:: Picture127.png
-  :width: 250
+  :width: 100
 
 Then using the rollerball on your mouse, zoom in on the part of the network that contains H22, to see H22 and its most
 closely related isolates:
 
 .. image:: Picture128.png
-  :width: 250
+  :width: 550
 
 Then draw a shape around H22 and its most closely related isolates, by using your mouse to click at points around the
 region containing H22 and its closest relatives:
@@ -232,7 +232,7 @@ dates in the timeline panel at the bottom of the screen are given as days and mo
 click on the "Controls" button at the top right of the timeline panel:
 
 .. image:: Picture126.png
-  :width: 250
+  :width: 100
 
 Now change "Day" to "Year" in the menu that appears.
 
@@ -243,7 +243,7 @@ Then click on the "X" at the corner of the menu to close that menu. You will now
 with the years when the most closely related isolates were collected:
 
 .. image:: Picture132.png
-  :width: 800
+  :width: 900
 
 In the timeline you can see one square at the right hand end, above "2022"; this is the isolate H22, which was collected in 2022.
 You can also see squares above the years 2013, 2014, 2015 and 2017, indicating that the closest relatives of H22
