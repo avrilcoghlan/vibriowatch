@@ -281,7 +281,7 @@ result in ticks in all the boxes beside all the isolates:
 Now click on the purple button saying "1326 Selected Genomes" at the top right of the webpage.
 You can now click on that button to make a collection (see `How To Make a Collection of Isolates in Vibriowatch`_ for more details).
 
-.. _How To Make a Collection of Isolates in Vibriowatch: https://github.com/avrilcoghlan/vibriowatch/edit/main/docs/source/navigating.rst#how-to-make-a-collection-of-isolates-in-vibriowatch
+.. _How To Make a Collection of Isolates in Vibriowatch: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-make-a-collection-of-isolates-in-vibriowatch
 
 Then you will see a tree of the 1326 genomes:
 
@@ -308,6 +308,22 @@ indicating that all the isolates in this small clade are from Haiti:
 
 .. image:: Picture138.png
   :width: 800
+
+We can now show the names of the isolates in the tree. To do this, in the tree panel, click on the "Controls" button at the top
+right. Then in the "Nodes and Labels" menu that appears at the top left, turn on "Show leaf labels". Then click "X" in the corner
+of the menu to hide that menu. If you use your rollerball to zoom in on the tree, you will now see the names of the isolates
+next to the leaves of the tree. You might need to click the mouse and drag up and down the screen to see different parts of the tree:
+
+.. image:: Picture139.png
+  :width: 600
+
+Note that if we want to make a pretty plot with the isolates collected in different years in Haiti highlighted, it is easiest
+to do this using `Microreact`_. This gives us a nice plot like this:
+
+.. image:: Picture140.png
+  :width: 600
+
+.. _Microreact: https://microreact.org/
 
 
 CholeraBook
