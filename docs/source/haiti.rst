@@ -172,6 +172,13 @@ Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belong
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
 
+To find the closest relatives of H22 among publised *V. cholerae* genomes, we can look under the "Core genome clustering"
+section of the H22 genome report page:
+
+.. image:: Picture124.png
+  :width: 600
+
+
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
 
