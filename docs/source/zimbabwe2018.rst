@@ -103,18 +103,18 @@ We can examine at the assembly quality for each of the Zimbabwe 2018 (see `list 
 
 .. _list of the Zimbabwe 2018 genomes: https://pathogen.watch/genomes/all?collection=e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020&organismId=666
 
-Is H22 predicted to produce cholera toxin?
-------------------------------------------
+Are the Zimbabwe 2018 isolates predicted to produce cholera toxin?
+------------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
 of *V. cholerae*, the 7PET lineage, carry the genes for cholera toxin (genes *ctxA* and *ctxB*) and produce cholera toxin. However, many isolates of other
 (non-pandemic) lineages of *V. cholerae* do not carry the genes for cholera toxin, and so do not produce cholera toxin.
 
-To find out whether the H22 isolate carries the genes for cholera toxin, and so is predicted to produce cholera toxin, we can look at the "Virulence" section
-of the genome report page for H22:
+To find out whether the YA00122542 isolate carries the genes for cholera toxin, and so is predicted to produce cholera toxin, we can look at the "Virulence" section
+of the genome report page for YA00122542:
 
-.. image:: Picture121.png
+.. image:: Picture153.png
   :width: 550
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
