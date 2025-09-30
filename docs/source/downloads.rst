@@ -165,7 +165,7 @@ You can download all the data for *V. cholerae* from Pathogenwatch using the fol
 * `PopPUNK lineage assignments`_
 * `virulence gene predictions (using the Vista tool)`_
 
-.. _AMR mutations and genes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch-snps-genes.csv.gz
+.. _AMR mutations and genes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio%20cholerae__amrsearch-snps-genes.csv.gz
 .. _antimicrobial resistance predictions: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch.csv.gz
 .. _closest relatives (from core genome MLST): https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__cgmlst.csv.gz
 .. _presence/absence of *V. cholerae* core genes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__core.csv.gz
