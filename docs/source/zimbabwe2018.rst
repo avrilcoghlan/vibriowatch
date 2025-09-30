@@ -64,7 +64,7 @@ First, let's go to the Zimbabwe 2018 genomes in Vibriowatch; click on this link 
 .. _a list of the Zimbabwe 2018 genomes: https://pathogen.watch/genomes/all?collection=e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020&organismId=666
 
 .. image:: Picture150.png
-  :width: 600
+  :width: 800
 
 You can see that 10 genomes are listed from Zimbabwe 2018, and two genomes from Zimbabwe 2015, that we have included in Vibriowatch
 (we did not include one of the isolates sequenced by `Mashe et al 2020`_ in Vibriowatch, because the assembly was very fragmented).
