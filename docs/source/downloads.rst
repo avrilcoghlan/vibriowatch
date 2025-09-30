@@ -159,9 +159,19 @@ and you will see a list of files that you can download. This time, select to dow
 Now, before loading the data into Microreact, we may want to specify the colours that we want to use to plot gene presence and absence. Let's use red for
 gene presence and white for gene absence, like we do in Vibriowatch. Open the file that you have downloaded called "something-amr-genes.csv" in Excel,
 and add an extra column that says "varG__colour" (note the two "_"s in the column name) beside the column "varG", and put "red" in the "varG__colour" column wherever
-there is a "1" in the "varG" column, and "white" in the "varG__colour" column wherever there is a "0" in the "varG" column. Then save the file.
+there is a "1" in the "varG" column, and "white" in the "varG__colour" column wherever there is a "0" in the "varG" column:
+
+.. image:: Picture163.png
+  :width: 800
+
+Then save the file.
 Then open the file "something-amr-snps.csv", and similarly add a new column "gyrA_S83R__colour" beside column "gyrA_S83R", and put "red" in that
-column wherever there is a "1" in column "gyrA_S83R", and "white" in column "gyrA_S83R__colour" wherever there is "0" in column "gyrA_S83R". Then save that file.
+column wherever there is a "1" in column "gyrA_S83R", and "white" in column "gyrA_S83R__colour" wherever there is "0" in column "gyrA_S83R":
+
+.. image:: Picture164.png
+  :width: 600
+
+Then save that file.
 
 Then go to the `Microreact`_ website to upload the data, and this time drag all four files (something-amr-genes.csv,
 something-amr-snps.csv, something-collection-tree.nwk, and something-metadata.csv) into the Microreact website to upload them.
@@ -172,6 +182,61 @@ the "Controls" button above the tree, and under "METADATA BLOCKS" click next to 
 
 .. image:: Picture161.png
   :width: 150
+
+Click on "Legend" at the top right of the tree panel to show the legend too, to show the legend. Your tree should look like this:
+
+.. image:: Picture162.png
+  :width: 800
+
+You can see that the columns for gene *varG* and the *gyrA_S83R* mutation are coloured using the colour scheme that we specified in the Excel spreadsheets containing
+AMR genes and AMR mutations, respectively. To make the use the same colourscheme for the *qacEdelta* gene as for *varG*, click on the 
+small "Settings" symbol (shaped like an eye) at the top right of the tree panel:
+
+.. image:: Picture165.png
+  :width: 50
+
+In the menu that pops up, choose "qacEdelta" in the "Colour Column" drop-down menu, and "Reuse" in the "Colour Palette" drop-down menu, and click
+on the circle beside "varG" to tell it to use the *varG* gene colour scheme for the *qacEdelta* gene:
+
+.. image:: Picture166.png
+  :width: 350
+
+Then click on the "Settings" symbol (shaped like an eye) again at the top right of the tree panel, to close the Settings menu.
+Your tree should now look like this, with the *qacEdelta* gene now using the same colour scheme as the *varG* gene:
+
+.. image:: Picture167.png
+  :width: 800
+
+In the same way, you can now set the colour schemes for the other AMR genes to be the same as the colour scheme for *varG*, and the
+colour schemes for the other mutations to be the same as the colour scheme for the *gyrA_S83R* mutation. After you have done all that,
+your tree should look like this:
+
+.. image:: Picture168.png
+  :width: 800
+
+You can see that the three top isolates are represented by red nodes in the tree, as they are coloured by presence/absence of the
+*nfsA_R169C* mutation, the last mutation that I changed the colour scheme for.
+To instead colour the nodes in the tree by the serogroup phenotype of the isolates, click on the "metadata" heading at the top
+of the panel at the bottom of the webpage, and then click on the column heading "SEROGROUP":
+
+.. image:: Picture169.png
+  :width: 150
+
+The nodes in the tree (representing the isolates) should now be coloured by their serogroup phenotype, and the
+serogroup phenotype colour scheme will be shown in the Legend to the right of the tree:
+
+.. image:: Picture170.png
+  :width: 800
+
+You can see that some of the isolates in the `collection for the isolates sequenced by Chun et al 2009`_ that are
+at the top of the tree, and that have O1 or O139 serogroup phenotype, tend to have quite a lot of antimicrobial resistance genes
+and mutations. These isolates in fact belong to the current pandemic lineage (7PET lineage) of *V. cholerae* (highlighted by a big blue box in this picture).
+This illustrates that the 7PET lineage has quite a lot of antimicrobial resistance genes and mutations, which is of course concerning:
+
+.. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
+
+.. image:: Picture171.png
+  :width: 800
 
 Bulk downloads of all Vibriowatch data
 --------------------------------------
