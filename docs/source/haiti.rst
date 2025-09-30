@@ -108,6 +108,9 @@ of the genome report page for H22:
   :width: 550
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
+This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is toxigenic, i.e. that produces cholera toxin.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 Is H22 predicted to have antimicrobial resistance?
 --------------------------------------------------
