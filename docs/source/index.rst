@@ -62,6 +62,7 @@ Contents
    plasmids
    downloads
    haiti
+   zimbabwe2018
    acknowledgements
    
 
