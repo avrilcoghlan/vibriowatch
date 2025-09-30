@@ -190,11 +190,38 @@ These are the Zimbabwe 2018 isolates. A  pair of closely related isolates at the
 indicating that they lack matches to *aac(6')-Ib-cr*.
 These two are the two isolates collected earlier in Zimbabwe 2015.
 
+To investigate the presence/absence of each resistance gene in the tree of isolates, you can click on the column representing
+each of the resistance genes in turn. Similarly, if you click on the "Genes" heading below the panel containing the tree,  
+and select "Variants" in the menu that appears, you can investigate the presence/absence of resistance mutations in the isolates.
+
+However, a nice way to get a plot showing the presence/absence of all resistance genes and mutations beside the tree is to export
+the data from Vibriowatch, and then plot it using `Microreact`_ (see `Plotting the tree and data for a Vibriowatch collection in Microreact`_), 
+by downloading the metadata and tree files, as well as the antimicrobial resistance genes and variants files
+to your computer, and then uploading them into Microreact. That is, go to the "Download" button at the top right of the
+webpage for the Vibriowatch collection, and in the menu that appears download the files "Tree (.nwk)", "Metadata table", "AMR SNPs" and "AMR genes".
+You can then upload these into Microreact, and in Microreact you can choose to plot the "METADATA BLOCKS" for "DATE", and all
+the resistance genes and mutations. This gives us a nice tree like this:
+
+.. image:: Picture159.png
+  :width: 900
+
+.. _Microreact: https://microreact.org/
+
+.. _Plotting the tree and data for a Vibriowatch collection in Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
+
+We can see from this tree that the Zimbabwe 2018 isolates have a different pattern of resistance genes
+and mutations than the Zimbabwe 2015 isolates. Here a red block indicates presence of a gene or mutation, and white indicates absence of a gene or mutation.
+You can see that the Zimbabwe 2015 isolates have resistance gene *aac(6')-Ib-cr* and mutations *gyrA_S83I* and *parC_S85L* (conferring resistance to ciprofloxacin), 
+and resistance genes *blaCTX-M-15_23*, *blaOXA-10*, and *varG* (conferring resistance to ceftriaxone).
+
 This agrees with the paper of `Mashe et al 2020`_, who reported that of Zimbabwe 2018 isolates tested in the laboratory for antimicrobial susceptibility,
-96.7% of isolates showed high-level resistance to ciprofloxacin, and 99.6% showed resistance to ceftriaxone. Note that ceftriaxone
-is not a WHO-recommended antimicrobial for cholera, but is of interest as it is a third-generation cephalosporin.
+96.7% of isolates showed high-level resistance to ciprofloxacin, and 99.6% showed resistance to ceftriaxone. 
 
 .. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
+
+It's interesting to note that the Zimbabwe 2018 isolates have some resistance genes that are absent from the Zimbabwe 2015 isolates,
+including *blaOXA-1*, *blaOXA-10*, and *aac(6')-Ib-cr*, and others. This suggests that the Zimbabwe 2018 clone has gained some genes
+that were not present in the Zimbabwe 2015 clone. An interesting question is how: did the Zimbabwe 2018 clone gain these extra genes on a plasmid, for example?
 
 Is H22 predicted to have plasmids?
 ----------------------------------
