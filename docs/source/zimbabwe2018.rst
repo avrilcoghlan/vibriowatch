@@ -78,24 +78,26 @@ This shows the top of the report page for YA00122542:
 .. image:: Picture151.png
   :width: 600
 
-Assembly quality of the H22 genome
-----------------------------------
+Assembly quality of the Zimbabwe 2018 genomes
+---------------------------------------------
 
-Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
+Let's have a quick look at the assembly statistics for the YA00122542 genome assembly, one of the Zimbabwe 2018 genomes, to check that the assembly looks
 reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
-to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
+to the bottom of the genome report page for YA00122542. You should see a section with the heading "Assembly stats", which
 looks like this:
 
-.. image:: Picture116.png
+.. image:: Picture152.png
   :width: 550
 
-We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
+We can see that the assembly for the YA00122542 isolate has a genome size of about 4.2 Megabases, and GC content of 47.7%. The assembly size is slighly larger
+than the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. It's interesting that the YA00122542 isolate has a genome size about 200 kb larger than what is expected; could this be due to additional
+DNA in its genome compared to the reference genome, such as a plasmid? This is something we can bear in mind during our further analyses.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
+Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the YA00122542 isolate has 123 contigs.
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
-The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
+The genome for the YA00122542 isolate has 123 contigs, so is relatively good quality. 
 
 Is H22 predicted to produce cholera toxin?
 ------------------------------------------
