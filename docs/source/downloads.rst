@@ -220,7 +220,7 @@ To instead colour the nodes in the tree by the serogroup phenotype of the isolat
 of the panel at the bottom of the webpage, and then click on the column heading "SEROGROUP":
 
 .. image:: Picture169.png
-  :width: 150
+  :width: 350
 
 The nodes in the tree (representing the isolates) should now be coloured by their serogroup phenotype, and the
 serogroup phenotype colour scheme will be shown in the Legend to the right of the tree:
