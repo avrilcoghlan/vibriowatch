@@ -99,7 +99,7 @@ Another commonly used measures of assembly quality is the number of contigs. We 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
 The genome for the YA00122542 isolate has 123 contigs, so is relatively good quality. 
 
-We can examine at the assembly quality for each of the Zimbabwe 2018 (see `list of the Zimbabwe 2018 genomes`_ in Vibriowatch) in a similar way, by looking at their Vibriowatch genome report cards.
+We can examine at the assembly quality for each of the Zimbabwe 2018 (see `list of the Zimbabwe 2018 genomes`_ in Vibriowatch) in a similar way, by looking at their Vibriowatch genome report cards one at a time.
 
 .. _list of the Zimbabwe 2018 genomes: https://pathogen.watch/genomes/all?collection=e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020&organismId=666
 
@@ -117,10 +117,40 @@ of the genome report page for YA00122542:
 .. image:: Picture153.png
   :width: 550
 
-You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is toxigenic, i.e. that produces cholera toxin.
+You can see that there is a tick next to "ctxA" and "ctxB" so YA00122542 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
+This agrees with the paper of `Mashe et al 2020`_ (see their Table S2), who reported that the Zimbabwe 2018 isolates carry the *ctx* genes, so are predicted to produce cholera toxin.
 
-.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
+
+To figure out whether each of the 10 Zimbabwe 2018 isolates are predicted to produce cholera toxin, you can look at their Vibriowatch genome
+report cards one at a time. However, an easier way is to look at the `public collection of the Zimbabwe 2018 isolates`_ that we have
+included in Vibriowatch. If you click on the link for this collection, you will see a webpage with a tree of the Zimbabwe isolates on the top
+left, a map showing where the isolates were collected (as expected, the map is centred on Zimbabwe) on the top right, and a timeline for when the isolates were collected below:
+
+.. image:: Picture154.png
+  :width: 800
+
+.. _public collection of the Zimbabwe 2018 isolates: https://pathogen.watch/collection/e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020
+
+To show on the tree which isolates are predicted to carry the cholera toxin genes, click on the "Timeline" heading below the panel with the
+phylogenetic tree, and select "Virulence" in the menu that appears. Then click on the "ctxA" column to highlight in the tree which isolates
+are predicted to carry the *ctxA* gene. Genomes that have a full-length match to the *ctxA* gene are highlighted on the tree as red boxes,
+while genomes that have a partial match to the *ctxA* gene (indicating that the gene may be truncated, or may have several substitutions in it)
+are highlighted on the tree as orange boxes, and genomes that lack the *ctxA* gene are shown on the tree as white boxes:
+
+.. image:: Picture155.png
+  :width: 800
+
+In a similar way, we can click on the "ctxB" column in the "Virulence" panel to highlight in the tree which isolates are
+predicted to carry the *ctxB* gene:
+
+.. image:: Picture156.png
+  :width: 800
+
+You can see that all the isolates are predicted to have full-length or partial copies of the *ctxA* gene, and all except one isolate
+have full-length or partial copies of the *ctxB* gene. Given that only one of the genomes appears to be missing the *ctxB* gene, it is possible
+that the genome that appears to be missing *ctxB* may have an assembly error (i.e. the isolate may not really have been missing *ctxB*, but
+instead the assembly be missing it due to assembly errors). 
 
 Is H22 predicted to have antimicrobial resistance?
 --------------------------------------------------
