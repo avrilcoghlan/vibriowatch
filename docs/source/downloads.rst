@@ -1,10 +1,11 @@
-Downloading data from Vibriowatch
-=================================
+Downloading and sharing Vibriowatch data 
+========================================
 
 This section will cover:
 
 * `Downloading data for a set of isolates`_.
 * `Downloading data for a collection`_.
+* `Sharing data with collaborators`_.
 * `Plotting the tree and data for a Vibriowatch collection in Microreact`_.
 * `Bulk downloads of all Vibriowatch data`_.
 
@@ -64,6 +65,20 @@ If you click on this "Downloads" button, you will have the be able to choose to 
 * AMR predictions - this says whether each isolate is predicted to be resistant (or not) to a set of antimicrobials
 * AMR genes/mutations - this says whether each isolate has any of a set of known *V. cholerae* AMR genes and mutations
 * a phylogenetic tree, e.g. in Newick (.nwk) format
+
+Sharing data with collaborators
+-------------------------------
+
+You can share a Vibriowatch collection with your collaborators by clicking on the "Information" icon at the top right
+of the webpage when you are viewing your collection:
+
+.. image:: Picture149.png
+  :width: 50
+
+If you then choose "Shared: available to anyone with the link, no sign-in required" in the menu that appears,
+you will be able to give the link for your collection (the address at the top of the webpage, something like:
+https://pathogen.watch/collection/hfjzinnwo470-my-v-paracholerae) to your collaborators, and then they will be able
+to view the collection too. 
 
 Plotting the tree and data for a Vibriowatch collection in Microreact
 ---------------------------------------------------------------------
