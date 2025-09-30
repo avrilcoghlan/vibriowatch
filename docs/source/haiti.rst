@@ -348,6 +348,21 @@ However, another possibility, which we cannot discard (as we don't have evidence
 epidemic, cholera spread from Haiti to a nearby country in the Caribbean, and persisted undetected in that nearby country,
 and that in 2022 it spread back to Haiti again.
 
+These results agree with the paper of `Rubin et al 2022`_, who reported that, based on phylogenetic analysis, H22 "belongs to
+a subclade of Haiti *V. cholerae* isolates that originated in 2013 during the previous epidemic". They say: "These analyses
+suggest that the reemergence of cholera in Haiti in 2022 was caused, at least in part, by a descendant of the *V. cholerae* strain
+that caused the 2010 epidemic. However, no cases of cholera were confirmed between 2019 and 2022, despite ongoing surveillance.
+Several explanations for the recrudescence of this strain are possible. The first is taht toxigenic *V. cholerae* O1 persisted
+in Haiti through subclinical infections in humans and has recurred in the context of waning population immunity coupled with a crisis
+in lack of clean water and sanitation. Another nonexclusive possibility is that this *V. cholerae* strain has persisted in environmental
+reservoirs. Finally, because the 2010 outbreak in Haiti was ultimately transmitted to other countries in Latin America, a third
+potential explanation is that the current strain could have been reintroduced to Haiti from a nearby country; however, this
+explanation is less likely than the others, given the phylogenetic evidence and the absence of recent cholera cases in the region."
+You can see the phylogenetic tree produced by `Rubin et al 2022`_ in Figure 1 of their paper, and see that it agrees
+with the tree we obtain with Vibriowatch.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
 CholeraBook
 -----------
 
