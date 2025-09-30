@@ -148,6 +148,31 @@ click "Legend" at the top right of the tree panel to see a legend. You should no
 .. image:: Picture148.png
   :width: 800
 
+Let's try another example, this time exporting the antimicrobial resistance predictions from the Vibriowatch `collection for the isolates sequenced by Chun et al 2009`_, to plot in Microreact. In this case, in the `collection for the isolates sequenced by Chun et al 2009`_, we click on the "Downloads" button at the top right of the collection webpage,
+and you will see a list of files that you can download. This time, select to download the "Metadata table", "AMR genes", "AMR SNPs" and "tree (.nwk)" (containing the isolates' metadata, the predicted AMR genes, predicted AMR mutations, and the phylogenetic tree):
+
+.. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
+
+.. image:: Picture160.png
+  :width: 300
+
+Now, before loading the data into Microreact, we may want to specify the colours that we want to use to plot gene presence and absence. Let's use red for
+gene presence and white for gene absence, like we do in Vibriowatch. Open the file that you have downloaded called "something-amr-genes.csv" in Excel,
+and add an extra column that says "varG__colour" (note the two "_"s in the column name) beside the column "varG", and put "red" in the "varG__colour" column wherever
+there is a "1" in the "varG" column, and "white" in the "varG__colour" column wherever there is a "0" in the "varG" column. Then save the file.
+Then open the file "something-amr-snps.csv", and similarly add a new column "gyrA_S83R__colour" beside column "gyrA_S83R", and put "red" in that
+column wherever there is a "1" in column "gyrA_S83R", and "white" in column "gyrA_S83R__colour" wherever there is "0" in column "gyrA_S83R". Then save that file.
+
+Then go to the `Microreact`_ website to upload the data, and this time drag all four files (something-amr-genes.csv,
+something-amr-snps.csv, something-collection-tree.nwk, and something-metadata.csv) into the Microreact website to upload them.
+When these are loaded into Microreact, you should see the map on the top left, and tree at the top right. Click on 
+the "Controls" button above the tree, and under "METADATA BLOCKS" click next to the names of all the resistance genes and mutations:
+
+.. _Microreact: https://microreact.org/
+
+.. image:: Picture161.png
+  :width: 300
+
 Bulk downloads of all Vibriowatch data
 --------------------------------------
 
