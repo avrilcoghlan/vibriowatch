@@ -126,7 +126,7 @@ have an intermediate level of resistance to ciprofloxacin because it carries two
 from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
 You can also see that is predicted to be resistant to trimethoprim (because it carries the gene *dfrA1*) and sulfamethoxazole (because it carries the gene *sul2*).
 
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 has resistance to trimethorpim-sulfamethoxazole and low-level
+This agrees with the paper of `Rubin et al 2022`_, who reported that H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
 resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
 in the past in some locations (`Das et al 2020`_).
 
