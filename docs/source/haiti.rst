@@ -352,7 +352,7 @@ These results agree with the paper of `Rubin et al 2022`_, who reported that, ba
 a subclade of Haiti *V. cholerae* isolates that originated in 2013 during the previous epidemic". They say: "These analyses
 suggest that the reemergence of cholera in Haiti in 2022 was caused, at least in part, by a descendant of the *V. cholerae* strain
 that caused the 2010 epidemic. However, no cases of cholera were confirmed between 2019 and 2022, despite ongoing surveillance.
-Several explanations for the recrudescence of this strain are possible. The first is taht toxigenic *V. cholerae* O1 persisted
+Several explanations for the recrudescence of this strain are possible. The first is that toxigenic *V. cholerae* O1 persisted
 in Haiti through subclinical infections in humans and has recurred in the context of waning population immunity coupled with a crisis
 in lack of clean water and sanitation. Another nonexclusive possibility is that this *V. cholerae* strain has persisted in environmental
 reservoirs. Finally, because the 2010 outbreak in Haiti was ultimately transmitted to other countries in Latin America, a third
