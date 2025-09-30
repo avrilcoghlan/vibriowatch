@@ -153,17 +153,29 @@ Bulk downloads of all Vibriowatch data
 
 You can download all the data for *V. cholerae* from Pathogenwatch using the following links:
 
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch-snps-genes.csv.gz : AMR mutations and genes
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch.csv.gz : antimicrobial resistance predictions
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__cgmlst.csv.gz : closest relatives (from core genome MLST)
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__core.csv.gz : presence/absence of *V. cholerae* core genes
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__fastas.zip : fastas files for all genomes (a very large file!)
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__inctyper.csv.gz : plasmid prediction using IncTyper
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metadata.csv.gz : metadata for all genomes
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metrics.csv.gz : assembly statistics 
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__mlst.csv.gz : MLST analyses
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__poppunk2.csv.gz : PopPUNK lineage assignments
-* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__vista.csv.gz : virulence gene predictions (using the Vista tool)
+* `AMR mutations and genes`_
+* `antimicrobial resistance predictions`_
+* `closest relatives (from core genome MLST)`_
+* `presence/absence of *V. cholerae* core genes`_
+* `fastas files for all genomes (a very large file!)`_
+* `plasmid prediction using IncTyper`_
+* `metadata for all genomes`_
+* `assembly statistics`_
+* `MLST analyses`_
+* `PopPUNK lineage assignments`_
+* `virulence gene predictions (using the Vista tool)`_
+
+.. _AMR mutations and genes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch-snps-genes.csv.gz
+.. _antimicrobial resistance predictions: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch.csv.gz
+.. _closest relatives (from core genome MLST): https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__cgmlst.csv.gz
+.. _presence/absence of *V. cholerae* core genes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__core.csv.gz
+.. _fastas files for all genomes (a very large file!): https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__fastas.zip
+.. _plasmid prediction using IncTyper: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__inctyper.csv.gz
+.. _metadata for all genomes: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metadata.csv.gz
+.. _assembly statistics: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metrics.csv.gz
+.. _MLST analyses: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__mlst.csv.gz
+.. _PopPUNK lineage assignments: https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__poppunk2.csv.gz
+.. _virulence gene predictions (using the Vista tool): https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__vista.csv.gz 
 
 CholeraBook
 -----------
