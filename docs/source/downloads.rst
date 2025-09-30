@@ -76,7 +76,7 @@ of the webpage when you are viewing your collection:
   :width: 50
 
 If you then choose "Shared: available to anyone with the link, no sign-in required" in the menu that appears,
-you will be able to give the link for your collection (the address at the top of the webpage, something like:
+you will be able to give the link for your collection (the address at the top of the webpage, something like this example that I made:
 https://pathogen.watch/collection/a1xycm9s9pvm-h22-and-close-relatives-1326-genomes) to your collaborators, and then they will be able
 to view the collection too. 
 
