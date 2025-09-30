@@ -24,6 +24,8 @@ that antimicrobial-susceptibility testing data showed that the isolates were mul
 an unexpectedly high-level resistance to ciprofloxacin (in an estimated 96.7% of isolates), one of the antimicrobials
 recommended for use for the most vulnerable patients. The Zimbabwe 2018 isolates also had resistance to 
 other drugs including ceftriaxone (in an estimated 99.6% of isolates).
+Ceftriaxone is not a WHO-recommended antimicrobial for cholera, but resistance to ceftriaxone is of interest 
+as it is a third-generation cephalosporin.
 
 .. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
@@ -118,9 +120,6 @@ of the genome report page for YA00122542:
   :width: 550
 
 You can see that there is a tick next to "ctxA" and "ctxB" so YA00122542 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
-This agrees with the paper of `Mashe et al 2020`_ (see their Table S2), who reported that the Zimbabwe 2018 isolates carry the *ctx* genes, so are predicted to produce cholera toxin.
-
-.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
 To figure out whether each of the 10 Zimbabwe 2018 isolates are predicted to produce cholera toxin, you can look at their Vibriowatch genome
 report cards one at a time. However, an easier way is to look at the `public collection of the Zimbabwe 2018 isolates`_ that we have
@@ -152,29 +151,50 @@ have full-length or partial copies of the *ctxB* gene. Given that only one of th
 that the genome that appears to be missing *ctxB* may have an assembly error (i.e. the isolate may not really have been missing *ctxB*, but
 instead the assembly be missing it due to assembly errors). 
 
-Is H22 predicted to have antimicrobial resistance?
---------------------------------------------------
+Since most of the Zimbabwe 2018 isolates contain both the *ctxA* and *ctxB* genes, we would predict that they produce cholera toxin.
+This agrees with the paper of `Mashe et al 2020`_ (see their Table S2), who reported that the Zimbabwe 2018 isolates carry the *ctx* genes, so are predicted to produce cholera toxin.
+
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
+
+Are the Zimbabwe 2018 isolates predicted to have antimicrobial resistance?
+--------------------------------------------------------------------------
 
 The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
 children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
 antimicrobial resistance to these recommended antimicrobials would be a concern.
 
-To find out whether the H22 isolate carries antimicrobial resistance (AMR), we can look at the "AMR" section of the genome report page for H22:
+To find out whether the YA00122542 isolate carries antimicrobial resistance (AMR), we can look at the "AMR" section of the genome report page for YA00122542:
 
-.. image:: Picture122.png
+.. image:: Picture157.png
   :width: 550
 
-You can see that the H22 isolate is not predicted to have resistance genes or mutations to azithromycin or doxycycline, but is predicted to
-have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA_S83I* and *parC_S85L* mutations (causing a substitution
-from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
-You can also see that is predicted to be resistant to trimethoprim (because it carries the gene *dfrA1*) and sulfamethoxazole (because it carries the gene *sul2*).
+You can see that the YA00122542 isolate is not predicted to have resistance genes or mutations to azithromycin, but is predicted
+to have a *tetA* gene conferring resistance to doxycycline, as well as a *aac(6')-Ib-cr* gene conferring resistance to ciprofloxacin, as well as two mutations 
+contributing to ciprofloxacin resistance, *gyrA_S83I* and *parC_S85L* mutations (these mutations cause a substitution from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
+You can also see that it is predicted to be resistant to ceftriaxone because it carries the genes
+*blaCTX-M-15_23*, *blaOXA-10*, and *varG*.
 
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
-resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
-in the past in some locations (`Das et al 2020`_).
+To figure out whether each of the 10 Zimbabwe 2018 isolates are predicted to produce cholera toxin, you can look at their Vibriowatch genome
+report cards one at a time. However, an easier way is to look at the `public collection of the Zimbabwe 2018 isolates`_ that we have
+included in Vibriowatch. To show on the tree which isolates are predicted to antimicrobial resistance genes, click on the "Timeline" heading
+below the panel with the phylogenetic tree, and select "Genes" in the menu that appears. Then click on the "aac(6')-Ib-cr"
+column to highlight in the tree which isolates are predicted to carry the *aac(6')-Ib-cr* gene that confers resisatnce to ciprofloxacin:
 
-.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-.. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
+.. image:: Picture158.png
+  :width: 800
+
+.. _public collection of the Zimbabwe 2018 isolates: https://pathogen.watch/collection/e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020
+
+You can see that ten of the isolates are represented by red boxes, indicating that they have full-length matches to the *aac(6')-Ib-cr* gene.
+These are the Zimbabwe 2018 isolates. A  pair of closely related isolates at the top of the tree are represented by white boxes, 
+indicating that they lack matches to *aac(6')-Ib-cr*.
+These two are the two isolates collected earlier in Zimbabwe 2015.
+
+This agrees with the paper of `Mashe et al 2020`_, who reported that of Zimbabwe 2018 isolates tested in the laboratory for antimicrobial susceptibility,
+96.7% of isolates showed high-level resistance to ciprofloxacin, and 99.6% showed resistance to ceftriaxone. Note that ceftriaxone
+is not a WHO-recommended antimicrobial for cholera, but is of interest as it is a third-generation cephalosporin.
+
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
 Is H22 predicted to have plasmids?
 ----------------------------------
