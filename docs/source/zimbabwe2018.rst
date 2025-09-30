@@ -56,20 +56,26 @@ Let's analyse the Zimbabwe 2018 genomes in Vibriowatch to answer some of these q
 genomes are amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
 
-Finding the H22 genome in Vibriowatch
--------------------------------------
+Finding the Zimbabwe 2018 genomes in Vibriowatch
+------------------------------------------------
 
-First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
-`How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
+First, let's go to the Zimbabwe 2018 genomes in Vibriowatch; click on this link to go to see `a list of the Zimbabwe 2018 genomes`_ in Vibriowatch:
 
-.. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
+.. _a list of the Zimbabwe 2018 genomes: https://pathogen.watch/genomes/all?collection=e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020&organismId=666
 
-.. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
+.. image:: Picture150.png
+  :width: 600
 
+You can see that 10 genomes are listed from Zimbabwe 2018, and two genomes from Zimbabwe 2015, that we have included in Vibriowatch
+(we did not include one of the isolates sequenced by `Mashe et al 2020`_ in Vibriowatch, because the assembly was very fragmented).
+
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
+
+If you click on the name of the top isolate, YA00122542, you will be brought to the Vibriowatch genome report page for the isolate.
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
-This shows the top of the report page for H22:
+This shows the top of the report page for YA00122542:
 
-.. image:: Picture115.png
+.. image:: Picture151.png
   :width: 600
 
 Assembly quality of the H22 genome
