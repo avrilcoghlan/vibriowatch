@@ -154,7 +154,7 @@ and you will see a list of files that you can download. This time, select to dow
 .. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
 
 .. image:: Picture160.png
-  :width: 300
+  :width: 150
 
 Now, before loading the data into Microreact, we may want to specify the colours that we want to use to plot gene presence and absence. Let's use red for
 gene presence and white for gene absence, like we do in Vibriowatch. Open the file that you have downloaded called "something-amr-genes.csv" in Excel,
@@ -171,7 +171,7 @@ the "Controls" button above the tree, and under "METADATA BLOCKS" click next to 
 .. _Microreact: https://microreact.org/
 
 .. image:: Picture161.png
-  :width: 300
+  :width: 150
 
 Bulk downloads of all Vibriowatch data
 --------------------------------------
