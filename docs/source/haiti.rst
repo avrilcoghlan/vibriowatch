@@ -125,6 +125,15 @@ You can see that the H22 isolate is not predicted to have resistance genes or mu
 have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA_S83I* and *parC_S85L* mutations (causing a substitution
 from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
 
+You can also see that is predicted to be resistant to trimethoprim (because it carries the gene *dfrA1*) and sulfamethoxazole (because it carries the gene *sul2*).
+
+This agrees with the paper of `Rubin et al 2022`_, who reported that H22 has resistance to trimethorpim-sulfamethoxazole and low-level
+resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
+in the past in some locations (Das et al 2020).
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+.. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
+
 Is H22 predicted to have plasmids?
 ----------------------------------
 
@@ -146,7 +155,12 @@ To find out the predicted serogroup for H22, we can look at the top of the repor
 .. image:: Picture115.png
   :width: 600
 
-Under "Genotypes", you can see that the predicted serogroup is O1. Note that this doesn't mean that H22 definitely belongs to the 7PET lineage,
+Under "Genotypes", you can see that the predicted serogroup is O1.
+This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is serogroup O1.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+Note that the fact that H22 is serogroup O1 doesn't mean that H22 definitely belongs to the 7PET lineage,
 as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogroup O1. 
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae?
