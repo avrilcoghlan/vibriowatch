@@ -1,61 +1,59 @@
 Worked example - Zimbabwe 2018
 ==============================
 
-This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example:
+This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Zimbabwe 2018 outbreak as an example:
 
-* `The Haiti 2022 outbreak`_
-* `The H22 genome`_.
-* `Finding the H22 genome in Vibriowatch`_.
-* `Assembly quality of the H22 genome`_.
-* `Is H22 predicted to produce cholera toxin?`_
-* `Is H22 predicted to have antimicrobial resistance?`_
-* `Is H22 predicted to have plasmids?`_
-* `What is the predicted serogroup of the H22 isolate?`_
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
-* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
-* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
+* `The Zimbabwe 2018 outbreak`_
+* `The Zimbabwe 2018 genomes`_.
+* `Finding the Zimbabwe 2018 genomes in Vibriowatch`_.
+* `Assembly quality of the Zimbabwe 2018 genomes`_.
+* `Are the Zimbabwe 2018 isolates predicted to produce cholera toxin?`_
+* `Are the Zimbabwe 2018 isolates predicted to have antimicrobial resistance?`_
+* `Are the Zimbabwe 2018 isolates predicted to have plasmids?`_
+* `What is the predicted serogroup of the Zimbabwe 2018 isolates?`_
+* `Do the Zimbabwe 2018 isolates belong to the pandemic lineage of Vibrio cholerae?`_.
+* `What are the closest relatives of the Zimbabwe 2018 isolates among published Vibrio cholerae genomes?`_.
+* `What can we say about the origins of the Zimbabwe 2018 outbreak, based on the Zimbabwe 2018 genomes?`_
 
-The Haiti 2022 outbreak
------------------------
+The Zimbabwe 2018 outbreak
+--------------------------
 
-You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
-Later that year, in October 2010, a huge cholera outbreak begain in Haiti, that lasted up until 2019, and included
-more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
-by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
-was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
+Between September 2018 and March 2019 there was a large cholera outbreak in Zimbabwe, with 10,730 suspected
+cases of cholera and 69 deaths (`Mashe et al 2020`_). A worrying feature of this large cholera outbreak was
+that antimicrobial-susceptibility testing data showed that the isolates were multidrug-resistant, with
+an unexpectedly high-level resistance to ciprofloxacin (in an estimated 96.7% of isolates), one of the antimicrobials
+recommended for use for the most vulnerable patients. The Zimbabwe 2018 isolates also had resistance to 
+other drugs including ceftriaxone (in an estimated 99.6% of isolates).
 
-.. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
-By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
-No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
-occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
-cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
+An important epidemiological question was: where did the *V. cholerae* causing the Zimbabwe 2018 outbreak come from?
+Was it the same lineage/sublineage of *V. cholerae* that had previously been circulating in Zimbabwe or other countries
+in the Southern African region in previous years, or was it a new introduction from elsewhere in the world (e.g. from
+Asia or Latin America)? Why was the Zimbabwe 2018 outbreak strain multi-drug resistant? Did it carry resistance
+mutations or genes that had not previously been seen in cholera in the Southern African region?
 
-An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
-Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
-or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
-part of the world, such as Africa or Asia? 
+The Zimbabwe 2018 genomes
+-------------------------
 
-The H22 genome
---------------
+`Mashe et al 2020`_ published the genomes of 13 *V. cholerae* isolates, including 10 that had been obtained
+during the Zimbabwe 2018 outbreak, one obtained from a South African patient who had a history of travel to
+Zimbabwe, and two that were obtained in Zimbabwe in 2015. 
 
-Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
-they named isolate 'H22'. 
+.. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
-.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+In this worked example, I'm going to show you how to analyse the Zimbabwe 2018 genomes to answer some key questions relevant
+to public health, and answer questions about the multi-drug resistance and origins of the Zimbabwe 2018 outbreak:
 
-In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
-to public health, and answer questions about the origins of the Haiti 2022 outbreak:
+#. Are the Zimbabwe 2018 isolates predicted to produce cholera toxin?
+#. Are the Zimbabwe 2018 isolates predicted to have antimicrobial resistance?
+#. Are the Zimbabwe 2018 isolates predicted to have plasmids?
+#. Do the Zimbabwe 2018 isolates belong to the pandemic lineage of Vibrio cholerae?
+#. What are the closest relatives of the Zimbabwe 2018 isolates among published Vibrio cholerae genomes? 
+#. What can we say about the origins of the Zimbabwe 2018 outbreak, based on the Zimbabwe 2018 genomes?
 
-#. Is H22 predicted to produce cholera toxin?
-#. Is H22 predicted to have antimicrobial resistance?
-#. Is H22 predicted to have plasmids?
-#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
-#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
-#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
-
-Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
-genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
+Let's analyse the Zimbabwe 2018 genomes in Vibriowatch to answer some of these questions. The Zimbabwe 2018
+genomes are amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
 
 Finding the H22 genome in Vibriowatch
