@@ -169,7 +169,7 @@ Then open the file "something-amr-snps.csv", and similarly add a new column "gyr
 column wherever there is a "1" in column "gyrA_S83R", and "white" in column "gyrA_S83R__colour" wherever there is "0" in column "gyrA_S83R":
 
 .. image:: Picture164.png
-  :width: 600
+  :width: 300
 
 Then save that file.
 
