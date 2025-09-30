@@ -99,6 +99,10 @@ Another commonly used measures of assembly quality is the number of contigs. We 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
 The genome for the YA00122542 isolate has 123 contigs, so is relatively good quality. 
 
+We can examine at the assembly quality for each of the Zimbabwe 2018 (see `list of the Zimbabwe 2018 genomes`_ in Vibriowatch) in a similar way, by looking at their Vibriowatch genome report cards.
+
+.. _list of the Zimbabwe 2018 genomes: https://pathogen.watch/genomes/all?collection=e3l0zdw22pbb-vibriowatch-collection-mashe-et-al-2020&organismId=666
+
 Is H22 predicted to produce cholera toxin?
 ------------------------------------------
 
