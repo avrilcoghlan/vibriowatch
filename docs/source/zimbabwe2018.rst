@@ -203,7 +203,7 @@ You can then upload these into Microreact, and in Microreact you can choose to p
 the resistance genes and mutations. This gives us a nice tree like this:
 
 .. image:: Picture159.png
-  :width: 900
+  :width: 1000
 
 .. _Microreact: https://microreact.org/
 
