@@ -77,7 +77,7 @@ of the webpage when you are viewing your collection:
 
 If you then choose "Shared: available to anyone with the link, no sign-in required" in the menu that appears,
 you will be able to give the link for your collection (the address at the top of the webpage, something like:
-https://pathogen.watch/collection/hfjzinnwo470-my-v-paracholerae) to your collaborators, and then they will be able
+https://pathogen.watch/collection/a1xycm9s9pvm-h22-and-close-relatives-1326-genomes) to your collaborators, and then they will be able
 to view the collection too. 
 
 Plotting the tree and data for a Vibriowatch collection in Microreact
@@ -151,8 +151,19 @@ click "Legend" at the top right of the tree panel to see a legend. You should no
 Bulk downloads of all Vibriowatch data
 --------------------------------------
 
-Next..
+You can download all the data for *V. cholerae* from Pathogenwatch using the following links:
 
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch-snps-genes.csv.gz : AMR mutations and genes
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__amrsearch.csv.gz : antimicrobial resistance predictions
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__cgmlst.csv.gz : closest relatives (from core genome MLST)
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__core.csv.gz : presence/absence of *V. cholerae* core genes
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__fastas.zip : fastas files for all genomes (a very large file!)
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__inctyper.csv.gz : plasmid prediction using IncTyper
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metadata.csv.gz : metadata for all genomes
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__metrics.csv.gz : assembly statistics 
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__mlst.csv.gz : MLST analyses
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__poppunk2.csv.gz : PopPUNK lineage assignments
+* https://pathogenwatch-public.ams3.cdn.digitaloceanspaces.com/Vibrio cholerae__vista.csv.gz : virulence gene predictions (using the Vista tool)
 
 CholeraBook
 -----------
