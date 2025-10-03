@@ -223,16 +223,16 @@ It's interesting to note that the Zimbabwe 2018 isolates have some resistance ge
 including *blaOXA-1*, *blaOXA-10*, and *aac(6')-Ib-cr*, and others. This suggests that the Zimbabwe 2018 clone has gained some genes
 that were not present in the Zimbabwe 2015 clone. An interesting question is how: did the Zimbabwe 2018 clone gain these extra genes on a plasmid, for example?
 
-Is H22 predicted to have plasmids?
-----------------------------------
+Are the Zimbabwe 2018 isolates predicted to have plasmids?
+----------------------------------------------------------
 
-Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
-To find out whether the H22 isolate is predicted to carry a plasmid, we can look at the "Plasmid Inc types" section of the genome report page for H22:
-
-.. image:: Picture123.png
-  :width: 350
-
-We see that there are no predicted plasmids in H22.
+#Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
+#To find out whether the H22 isolate is predicted to carry a plasmid, we can look at the "Plasmid Inc types" section of the genome report page for H22:
+#
+#.. image:: Picture123.png
+#  :width: 350
+#
+#We see that there are no predicted plasmids in H22.
 
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
