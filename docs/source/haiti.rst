@@ -236,6 +236,9 @@ Does H22 belong to the pandemic lineage of Vibrio cholerae?
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". 
 The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
 
+.. image:: HowToGetTheResult.png
+  :width: 600
+
 A quick way to find out whether an isolate likely belongs to the 7PET lineage is to look at MLST (multi-locus sequence typing) results for the isolate in Vibriowatch. 
 The MLST results for the isolate are shown at the top of the genome report page for the isolate in Vibriowatch. Here we can see the MLST results for isolate
 H22 at the top of its report page (see under the heading "MLST"):
@@ -243,13 +246,22 @@ H22 at the top of its report page (see under the heading "MLST"):
 .. image:: Picture115.png
   :width: 600
 
-We can see that isolate H22 is classified as MLST sequence type ST69. ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515. If an isolate is ST69 or ST515, it very likely belongs to the pandemic lineage. This suggests H22 belongs to the 7PET lineage.
+We can see that isolate H22 is classified as MLST sequence type ST69. 
 
 A second approach for figuring out whether your isolate belongs to the pandemic lineage (7PET lineage) or not, is to look at the
 PopPUNK cluster of your isolate. PopPUNK is a tool for classifying bacterial isolates into lineages. At the top of the
 Vibriowatch genome report page for isolate H22 (see above), we can see the PopPUNK information under the heading "Lineage".
-You can see that isolate H22 belongs to the PopPUNK lineage 1 (also known as VC1), which corresponds to the current pandemic lineage (7PET lineage).
+You can see that isolate H22 belongs to the PopPUNK lineage 1 (also known as VC1).
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+ST69 is one of the STs (sequence types) often seen for the current pandemic ('7PET') lineage of *Vibrio cholerae*. Another sequence type that is sometimes seen for pandemic lineage *V. cholerae* is ST515. If an isolate is ST69 or ST515, it very likely belongs to the pandemic lineage. This suggests H22 belongs to the 7PET lineage.
+From the PopPUNK results, we found that H22 belongs to PopPUNK cluster VC1; this corresponds to the current pandemic lineage (7PET lineage) (see
+the `table of correspondences between PopPUNK clusters and known *Vibrio cholerae* lineages`_).
 Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belongs to the current pandemic lineage.
+
+.. _table of correspondences between PopPUNK clusters and known Vibrio cholerae lineages: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
