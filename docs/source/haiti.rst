@@ -261,7 +261,7 @@ From the PopPUNK results, we found that H22 belongs to PopPUNK cluster VC1; this
 the `table of correspondences between PopPUNK clusters and known *Vibrio cholerae* lineages`_).
 Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belongs to the current pandemic lineage.
 
-.. _table of correspondences between PopPUNK clusters and known Vibrio cholerae lineages: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
+.. _table of correspondences between PopPUNK clusters and known *Vibrio cholerae* lineages: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
