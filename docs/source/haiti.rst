@@ -85,6 +85,10 @@ This shows the top of the report page for H22:
 Assembly quality of the H22 genome
 ----------------------------------
 
+If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
+
+.. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
+
 .. image:: HowToGetTheResult.png
   :width: 600
 
