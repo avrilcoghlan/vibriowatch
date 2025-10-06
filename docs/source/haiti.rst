@@ -65,10 +65,6 @@ everyone can see.
 Finding the H22 genome in Vibriowatch
 -------------------------------------
 
-If you learn better by seeing rather than reading, see the `video of how to find the H22 genome in Vibriowatch`_.
-
-.. _video of how to find the H22 genome in Vibriowatch: https://youtu.be/a8fQj8QcOP0 
-
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
 
@@ -84,10 +80,6 @@ This shows the top of the report page for H22:
 
 Assembly quality of the H22 genome
 ----------------------------------
-
-If you learn better by seeing rather than reading, see the `video on investigating assembly quality of the H22 genome in Vibriowatch`_.
-
-.. _video on investigating assembly quality of the H22 genome in Vibriowatch: https://youtu.be/0l_tukNgr5U 
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -118,7 +110,7 @@ Is H22 predicted to produce cholera toxin?
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
 
-.. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/HEaG8yi8U0E 
+.. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/fQHf4nCZ7L8 
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
@@ -150,7 +142,7 @@ Is H22 predicted to have antimicrobial resistance?
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_.
 
-.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/qhLgfQPgH20 
+.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/fexfUXza8M8 
 
 The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
 children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
@@ -186,7 +178,7 @@ Is H22 predicted to have plasmids?
 
 If you learn better by seeing rather than reading, see the `video on predicting plasmids in H22, using Vibriowatch`_.
 
-.. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/Gz38cn-b_DE 
+.. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/_mtfCiBlJac 
 
 Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
 
@@ -210,7 +202,14 @@ we would predict that there are no large plasmids in H22.
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on predicting serogroup of H22, using Vibriowatch`_.
+
+.. _video on predicting serogroup of H22, using Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
+
 The current pandemic lineage (7PET lineage) of *V. cholerae* has the O1 serogroup (or occasionally, for some isolates, the O139 serogroup).
+
+.. image:: HowToGetTheResult.png
+  :width: 600
 
 To find out the predicted serogroup for H22, we can look at the top of the report page for H22:
 
@@ -218,7 +217,13 @@ To find out the predicted serogroup for H22, we can look at the top of the repor
   :width: 600
 
 Under "Genotypes", you can see that the predicted serogroup is O1.
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is serogroup O1.
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+From the above, we see that the predicted serogroup of the H22 isolate is O1. 
+
+This agrees with phenotypic evidence from the paper of `Rubin et al 2022`_, who reported, based on laboratory results, that H22 is serogroup O1.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
