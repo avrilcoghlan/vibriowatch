@@ -116,10 +116,18 @@ The genome for the H22 isolate has 44 contigs, so is relatively good quality.
 Is H22 predicted to produce cholera toxin?
 ------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
+
+.. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/HEaG8yi8U0E 
+
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
-of *V. cholerae*, the 7PET lineage, carry the genes for cholera toxin (genes *ctxA* and *ctxB*) and produce cholera toxin. However, many isolates of other
+of *V. cholerae*, the 7PET lineage, carry the genes for cholera toxin (genes *ctxA* and *ctxB*) and produce cholera toxin, which is a protein
+complex consisting of CtxA and CtxB subunits. However, many isolates of other
 (non-pandemic) lineages of *V. cholerae* do not carry the genes for cholera toxin, and so do not produce cholera toxin.
+
+.. image:: HowToGetTheResult.png
+  :width: 600
 
 To find out whether the H22 isolate carries the genes for cholera toxin, and so is predicted to produce cholera toxin, we can look at the "Virulence" section
 of the genome report page for H22:
@@ -127,7 +135,12 @@ of the genome report page for H22:
 .. image:: Picture121.png
   :width: 550
 
-You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes and so to produce cholera toxin.
+You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+Because the H22 genome is predicted to carry the *ctxA* and *ctxB* genes, we can predict that it produces the cholera toxin. 
 This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is toxigenic, i.e. that produces cholera toxin.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
