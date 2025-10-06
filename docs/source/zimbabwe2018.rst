@@ -3,7 +3,7 @@ Worked example - Zimbabwe 2018
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Zimbabwe 2018 outbreak as an example.
 
-This page is dedicated to the dedicated public health professionals, scientists and public servants of Zimbabwe, and to the patients
+This page is dedicated to the fantastic public health professionals, scientists and public servants of Zimbabwe, and to the patients
 who generously donated samples, for making this cholera genomic publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
