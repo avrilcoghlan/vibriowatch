@@ -241,6 +241,10 @@ as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogr
 Does H22 belong to the pandemic lineage of Vibrio cholerae?
 -----------------------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_.
+
+.. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". 
 The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
 
