@@ -141,16 +141,23 @@ You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted t
   :width: 600
 
 Because the H22 genome is predicted to carry the *ctxA* and *ctxB* genes, we can predict that it produces the cholera toxin. 
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 is toxigenic, i.e. that produces cholera toxin.
+This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phenotypic data suggesting that H22 is toxigenic, i.e. that produces cholera toxin.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 Is H22 predicted to have antimicrobial resistance?
 --------------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_.
+
+.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/qhLgfQPgH20 
+
 The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
 children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
 antimicrobial resistance to these recommended antimicrobials would be a concern.
+
+.. image:: HowToGetTheResult.png
+  :width: 600
 
 To find out whether the H22 isolate carries antimicrobial resistance (AMR), we can look at the "AMR" section of the genome report page for H22:
 
@@ -162,7 +169,12 @@ have an intermediate level of resistance to ciprofloxacin because it carries two
 from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively).
 You can also see that is predicted to be resistant to trimethoprim (because it carries the gene *dfrA1*) and sulfamethoxazole (because it carries the gene *sul2*).
 
-This agrees with the paper of `Rubin et al 2022`_, who reported that H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+Based on the results above, we would predict H22 to have an intermediate level of resistance to ciprofloxacin, and to be resistant to trimethoprim and sulfamethoxazole.
+
+This agrees with the evidence in the paper of `Rubin et al 2022`_, who reported that from laboratory testing results, H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
 resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
 in the past in some locations (`Das et al 2020`_).
 
