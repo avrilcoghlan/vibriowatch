@@ -266,8 +266,13 @@ Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belong
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
 
-To find the closest relatives of H22 among publised *V. cholerae* genomes, we can look under the "Core genome clustering"
-section of the H22 genome report page:
+Vibriowatch includes a large set of >6000 published *V. cholerae* genomes, so you can search for the closest relatives of a new isolate among those published genomes.
+
+.. image:: HowToGetTheResult.png
+  :width: 600
+
+To find the closest relatives of H22 among publised *V. cholerae* genomes, we can look under the "Core genome clustering" 
+section of the H22 genome report page, which gives the result of a cgMLST (core genome MLST) analysis:
 
 .. image:: Picture124.png
   :width: 600
@@ -342,6 +347,13 @@ with the years when the most closely related isolates were collected:
 In the timeline you can see one square at the right hand end, above "2022"; this is the isolate H22, which was collected in 2022.
 You can also see squares above the years 2013, 2014, 2015 and 2017, indicating that the closest relatives of H22
 in the Vibriowatch database are isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+The results from the cgMLST (core genome MLST) analysis above tell us the closest relatives
+of the H22 isolate among the >6000 published genomes in Vibriowatch are other published genomes from
+Haiti, namely, isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
