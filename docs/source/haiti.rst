@@ -184,13 +184,28 @@ in the past in some locations (`Das et al 2020`_).
 Is H22 predicted to have plasmids?
 ----------------------------------
 
+If you learn better by seeing rather than reading, see the `video on predicting plasmids in H22, using Vibriowatch`_.
+
+.. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/Gz38cn-b_DE 
+
 Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
+
+.. image:: HowToGetTheResult.png
+  :width: 600
+
 To find out whether the H22 isolate is predicted to carry a plasmid, we can look at the "Plasmid Inc types" section of the genome report page for H22:
 
 .. image:: Picture123.png
   :width: 350
 
 We see that there are no predicted plasmids in H22.
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+There are no plasmids predicted by Vibriowatch in the H22 isolate. Note that plasmid prediction in Vibriowatch may not be very accurate for small
+plasmids, and also if the assembly quality is poor, it's possible that plasmids may be missed by Vibriowatch. For H22, based on the Vibriowatch results,
+we would predict that there are no large plasmids in H22.
 
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
