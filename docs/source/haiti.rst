@@ -85,6 +85,9 @@ This shows the top of the report page for H22:
 Assembly quality of the H22 genome
 ----------------------------------
 
+.. image:: HowToGetTheResult.png
+  :width: 600
+
 Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
 reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
 to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
@@ -93,11 +96,16 @@ looks like this:
 .. image:: Picture116.png
   :width: 550
 
-We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
+We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. 
+Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
+.. image:: HowToInterpretTheResult.png
+  :width: 600
+
+The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
+
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
 The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
