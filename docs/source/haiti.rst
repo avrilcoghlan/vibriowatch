@@ -65,6 +65,10 @@ everyone can see.
 Finding the H22 genome in Vibriowatch
 -------------------------------------
 
+If you learn better by seeing rather than reading, see the `video of how to find the H22 genome in Vibriowatch`_.
+
+.. _video of how to find the H22 genome in Vibriowatch: https://youtu.be/a8fQj8QcOP0 
+
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
 
