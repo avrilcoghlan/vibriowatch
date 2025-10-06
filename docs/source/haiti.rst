@@ -359,7 +359,12 @@ What can we say about the origins of the Haiti 2022 outbreak, based on the H22 g
 --------------------------------------------------------------------------------------
 
 To investigate the origins of the Haiti 2022 outbreak, we can make a phylogenetic tree of the H22 isolate and its
-close relatives. As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
+close relatives. 
+
+.. image:: HowToGetTheResult.png
+  :width: 600
+
+As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
 section of the H22 genome report page:
 
 .. image:: Picture124.png
@@ -425,6 +430,9 @@ them into Microreact. This gives us a nice tree like this:
 .. _Microreact: https://microreact.org/
 
 .. _Plotting the tree and data for a Vibriowatch collection in Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
+
+.. image:: HowToInterpretTheResult.png
+  :width: 600
 
 We can see from this tree that the H22 isolate (indicated with a blue dot) is closely related to isolates
 collected from Haiti in 2014 (yellow dots), 2015 (purple dots) and 2017 (red dots). 
