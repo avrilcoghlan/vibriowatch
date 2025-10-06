@@ -278,6 +278,10 @@ Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belong
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on identifying the closest relatives of H22, using Vibriowatch`_.
+
+.. _video on identifying the closest relatives of H22, using Vibriowatch: 
+
 Vibriowatch includes a large set of >6000 published *V. cholerae* genomes, so you can search for the closest relatives of a new isolate among those published genomes.
 
 .. image:: HowToGetTheResult.png
