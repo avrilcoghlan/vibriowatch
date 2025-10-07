@@ -378,11 +378,14 @@ To investigate the origins of the Haiti 2022 outbreak, we can make a phylogeneti
 close relatives. 
 
 If you learn better by seeing rather than reading, see the `video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_
-and `video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_.
+and `video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_ and
+and `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_.
 
 .. _video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/ElX32K3QnQE 
 
 .. _video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/LFQYJLugBQw 
+
+.. _video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/XCKCevbBzB8 
 
 .. image:: HowToGetTheResult.png
   :width: 600
