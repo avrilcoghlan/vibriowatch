@@ -377,6 +377,10 @@ What can we say about the origins of the Haiti 2022 outbreak, based on the H22 g
 To investigate the origins of the Haiti 2022 outbreak, we can make a phylogenetic tree of the H22 isolate and its
 close relatives. 
 
+If you learn better by seeing rather than reading, see the `video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_.
+
+.. _video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/ElX32K3QnQE 
+
 .. image:: HowToGetTheResult.png
   :width: 600
 
