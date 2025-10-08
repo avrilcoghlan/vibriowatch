@@ -34,6 +34,13 @@ This will bring up a list of your isolates in Vibriowatch, looking something lik
   
 To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
 
+If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+
 The top of the 'report page' for your isolate will look something like this:
 
 .. image:: Picture15.png
