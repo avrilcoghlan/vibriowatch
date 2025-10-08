@@ -53,9 +53,12 @@ Zimbabwe, and two that were obtained in Zimbabwe in 2015.
 The authors of this paper were an international consortium of scientists and public health experts from
 the Ministry of Health and Child Care in Zimbabwe, Beatrice Road Infectious Diseases Hospital in Zimbabwe,
 University of New Mexico Health Sciences Center (USA), Institut Pasteur (France), and the 
-National Institute for Communicable Diseases in South Africa.
+National Institute for Communicable Diseases in South Africa:
 
 .. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
+
+.. image:: Picture173.png
+  :width: 800
 
 In this worked example, I'm going to show you how to analyse the Zimbabwe 2018 genomes to answer some key questions relevant
 to public health, and answer questions about the multi-drug resistance and origins of the Zimbabwe 2018 outbreak:
