@@ -33,7 +33,14 @@ This will bring up a list of your isolates in Vibriowatch, looking something lik
   
 To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
 
-If you scroll down the 'report page' for your isolate, you will find a section with the heading 'Virulence Genes'. 
+If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/fQHf4nCZ7L8 
+
+If you scroll down the 'report page' for your isolate (or the report page for any isolate, you will find a section with the heading 'Virulence Genes'. 
 
 For example, here is 'Virulence Genes' part of 
 the report page for an isolate HCUF-01:
@@ -45,8 +52,6 @@ The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present.
 Because this isolate probably has `ctxA`_, it probably produces cholera toxin, so will give rise to severe cholera.
 
 .. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
-
-(Note: there is currently a problem predicting gene *ctxB* in Vibriowatch, which we are currently working on fixing.)
 
 Sometimes you may see a '~' symbol beside 'ctxB', indicating that there was a partial match to the `ctxB`_ gene. 
 This could either mean that the `ctxB`_ gene is truncated in this isolate, or that there are one or more SNPs in `ctxB`_ in this isolate. 
