@@ -240,6 +240,13 @@ To see more information on a particular isolate's assembly, click on the link on
 View the assembly statistics for your isolate
 ---------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_..
+
+.. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), it is a good idea to have a closer look at the assembly statistics for your isolates.
 
 To find the assembly statistics for your isolate, you need to look at the bottom of the report page for that isolate (see `View the Vibriowatch report page for your isolate`_).
@@ -249,7 +256,7 @@ At the bottom of the report page for your isolate, you will see some assembly st
 .. image:: Picture12.png
   :width: 500
 
-In the example above, the isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see  `Heidelberg et al 2000`_).
+In the example in the screenshot above, the isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see  `Heidelberg et al 2000`_).
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
@@ -259,7 +266,7 @@ If your assembly has a genome size or GC content far outside these ranges, it wo
 
 Another commonly used measures of assembly quality is the number of contigs. We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. If the assembly for your isolate has more contigs, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
 
-In the example above, the genome for the isolate has 62 contigs, so is relatively good quality.
+In the example in the screenshot above, the genome for the isolate has 62 contigs, so is relatively good quality.
 
 Download the assembly for your isolate
 --------------------------------------
