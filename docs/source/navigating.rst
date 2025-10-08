@@ -14,6 +14,13 @@ In this section, we will describe:
 How to search for an isolate in Vibriowatch and see its report page
 -------------------------------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_, for an example
+of searching for the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
 You can search for an isolate in Vibriowatch by searching by its isolate/strain name(s).
 For example, isolate HCUF_O1 is an isolate collected in Haiti in 2010, sequenced by `Hasan et al 2012`_. 
 
