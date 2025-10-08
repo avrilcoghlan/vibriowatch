@@ -52,9 +52,12 @@ Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolat
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
 Laboratoire National de Santé Publique (National Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
 Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
-International Centre for Diarrheal Disease Research (Bangladesh).
+International Centre for Diarrheal Disease Research (Bangladesh):
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. image:: Picture172.png
+  :width: 600
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
