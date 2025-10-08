@@ -26,8 +26,15 @@ This will bring up a list of your isolates in Vibriowatch, looking something lik
 
 .. image:: Picture8.png
   :width: 650
-  
+
 To go to the report page for a particular isolate, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'.
+
+If you learn better by seeing rather than reading, see the `video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_, 
+for an example using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/fexfUXza8M8 
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 If you scroll down the 'report page' for your isolate, you will find a section with the heading 'AMR - Antimicrobial resistance'. 
 
