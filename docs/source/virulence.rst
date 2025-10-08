@@ -14,7 +14,7 @@ Short guide for those in a hurry: is my isolate predicted to produce cholera tox
 Cholera toxin (CT) is a toxin usually produced by *Vibrio cholerae* of the current pandemic lineage (7PET lineage),
 and is a protein that induces profuse, watery diarrhoea.
 
-Cholera toxin is encoded by the `ctxA`_  and `ctxB`_  genes. `Rubin et al 2022`_  
+Cholera toxin is encoded by the `ctxA`_  and `ctxB`_  genes. 
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
