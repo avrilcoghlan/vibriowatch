@@ -7,6 +7,8 @@ This section will cover:
 * `What is known about Vibrio cholerae lineages?`_.
 * `What is MLST?`_.
 * `How to view MLST information for your isolate`_.
+* `What is PopPUNK?`_.
+* `How to view PopPUNK information for your isolate?`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 2`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 3`_.
@@ -154,6 +156,13 @@ Sometimes you will see that the sequence type of an isolate does not start with 
 How to view MLST information for your isolate
 ---------------------------------------------
 
+If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+
 As you can see, MLST information can give you a quick idea of whether your isolate might belong to the current pandemic ('7PET') lineage of *V. cholerae*.
 To view MLST information for your isolate's genome, you can look at the top of the 'report page' for your isolate in Vibriowatch.
 An example of the top of a report page is shown here:
@@ -280,6 +289,13 @@ Here is a table of correspondences between previously named *V. cholerae* lineag
 
 How to view PopPUNK information for your isolate
 ------------------------------------------------
+
+If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
 
 You can see view the PopPUNK information for your isolate on the report page for the isolate in Vibriowatch.
 Under the MLST information for your isolate, you will see the PopPUNK information for your isolate, which will look something like this:
