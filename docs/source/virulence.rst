@@ -54,7 +54,7 @@ the report page for an isolate HCUF-01:
 .. image:: Picture89.png
   :width: 650
 
-The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present, while the tick next to 'ctxB' shows that the second cholera toxin gene 'ctxB`_ is present.
+The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present, while the tick next to 'ctxB' shows that the second cholera toxin gene `ctxB`_ is present.
 These two genes encode the CtxA and CtxB subunits of the cholera toxin protein.
 Because this isolate probably has `ctxA`_ and `ctxb`_, it probably produces cholera toxin, so will give rise to severe cholera.
 
