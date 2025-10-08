@@ -30,6 +30,13 @@ Some of the classes of plasmids seen in *V. cholerae* are ColE1-like plasmids an
 Predicting plasmids in your isolate
 -----------------------------------
 
+If you learn better by seeing rather than reading, see the `video on predicting plasmids in H22, using Vibriowatch`_, for an example
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/_mtfCiBlJac 
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
 Vibriowatch uses the IncTyper tool to identify plasmids in *Vibrio cholerae* genomes.
 If no plasmids are predicted in the genome of an isolate, you will see this in the 'Plasmid Inc types'
 section of its report page:
