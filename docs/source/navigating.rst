@@ -69,6 +69,16 @@ How to make a collection of isolates in Vibriowatch
 A nice feature of Pathogenwatch/Vibriowatch is that it is possible to make a 'collection' of isolates, and Vibriowatch will
 build a tree for the isolates in the collection, and let you display their metadata, as well as results of some bioinformatics analyses, on the tree.
 
+If you learn better by seeing rather than reading, see the `video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_
+and `video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_, 
+for an example using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/ElX32K3QnQE 
+
+.. _video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/LFQYJLugBQw 
+
 As mentioned above, a key early paper on *V. cholerae* genomics was by `Chun et al 2009`_, who sequenced the genomes of 23 diverse *V. cholerae* isolates. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
