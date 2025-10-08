@@ -14,11 +14,9 @@ Short guide for those in a hurry: is my isolate predicted to produce cholera tox
 Cholera toxin (CT) is a toxin usually produced by *Vibrio cholerae* of the current pandemic lineage (7PET lineage),
 and is a protein that induces profuse, watery diarrhoea.
 
-Cholera toxin is encoded by the `ctxB`_ and `ctxA`_ genes. `Rubin et al 2022`_  `ctxA1`_ 
+Cholera toxin is encoded by the `ctxA`_  and `ctxB`_  genes. `Rubin et al 2022`_  
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-
-.. _ctxA1: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
@@ -96,18 +94,18 @@ isolates belonging to the current pandemic lineage (7PET lineage), but are occas
 
 .. _Ramamurthy et al 2020: https://pubmed.ncbi.nlm.nih.gov/33102256/
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
 As well as `ctxA`_, `ctxB`_, and `tcpA`_, *V. cholerae* isolates can also have some 
 other virulence genes of lesser importance, such as additonal toxin genes `zot`_, `ace`_, `hlyA`_, `makA`_, `rtxA`_, `chxA`_, `vasX`_, and `stn`_.
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
@@ -159,7 +157,9 @@ ie. these toxins do not cause very severe diarrhoea. We see a '~' symbol beside 
 
 .. _nanH: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS08940
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _hlyA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS14860
 
@@ -172,8 +172,6 @@ ie. these toxins do not cause very severe diarrhoea. We see a '~' symbol beside 
 .. _zot: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07335
 
 .. _vasX: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS13930
-
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
 
 The sigma factor gene `rpoS`_ has many roles, but is 
 part of a large regulatory network involved in regulating virulence in *V. cholerae* (see `Dorman and Dorman 2018`_).
@@ -191,9 +189,9 @@ Here is an example of the virulence section of the report page from another isol
   
 It's interesting to note that this isolate, which does not belong to the current pandemic lineage (7PET lineage), is missing thecholera toxin genes, `ctxA`_ and `ctxB`_. Interestingly, this isolate is predicted to have the cholix toxin gene, `chxA`_, which is rare in the current pandemic lineage (7PET lineage) but may perhaps be important to interactions between *V. cholerae* and crustaceans (see `Jorgensen et al 2008`_).
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _chxA: https://biocyc.org/gene?orgid=GCF_000969265&id=VAB027_RS11625
 
@@ -253,9 +251,9 @@ As another example, here is the section on virulence clusters for isolate GXFL1-
   
 This isolate is missing the key virulence gene `tcpA`_. Thus, it is missing the key genes necessary for virulence in human hosts, `ctxA`_ and `ctxB`_ (see above), and `tcpA`_. Therefore, it would be very unlikely to cause severe cholera in humans, and would probably only produce mild diarrhoea. 
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _tcpA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS04280
 
@@ -265,7 +263,9 @@ Displaying virulence gene presence/absence on the tree for a collection of isola
 If you make a collection of isolates in Vibriowatch, you can display the presence/absence of a particular virulence gene
 (e.g. `ctxA`_) beside the tree.
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 For example, if you look at the public Vibriowatch `collection for the paper by Chun et al 2009`_ (see `here`_ for the paper in PubMed), if
 you turn on the leaf labels you will see a picture of the tree with the isolate names beside the tips of the tree:
@@ -282,7 +282,9 @@ of 'Timeline'. Then click on the column heading 'ctxA' to show the presence/abse
 of the tree light up as red if they have the `ctxA`_ gene, orange if they have a partial match to the `ctxA`_ gene, and colourless if
 they don't have a match to `ctxA`_:
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. image:: Picture94.png
   :width: 650
@@ -293,7 +295,9 @@ related 'pre-7PET' lineage isolates (isolates MAK757 and BX330286). However, int
 the `ctxA`_  is also present too in some isolates that are not in current pandemic lineage (7PET lineage), such as the isolates 
 V52 and O395. Indeed, some isolates such as V52 that do not belong to the current pandemic lineage have been found to produce cholera toxin.
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 CholeraBook
 -----------
