@@ -7,10 +7,10 @@ This page is dedicated to the fantastic public health professionals, scientists 
 who generously donated a sample, for making this cholera genomic publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
-This example has been selected here as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
+This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
-It also illustrates how it is very difficult to distinguish between persistance of cholera between outbreaks in the human population, versus
-persistance between outbreaks in the environment.
+Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
+persistance in the environment between outbreaks.
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
