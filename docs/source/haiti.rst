@@ -57,7 +57,7 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
-  :width: 600
+  :width: 800
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
