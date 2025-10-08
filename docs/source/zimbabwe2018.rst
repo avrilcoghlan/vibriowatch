@@ -45,6 +45,10 @@ The Zimbabwe 2018 genomes
 `Mashe et al 2020`_ published the genomes of 13 *V. cholerae* isolates, including 10 that had been obtained
 during the Zimbabwe 2018 outbreak, one obtained from a South African patient who had a history of travel to
 Zimbabwe, and two that were obtained in Zimbabwe in 2015. 
+The authors of this paper were an international consortium of scientists and public health experts from
+the Ministry of Health and Child Care in Zimbabwe, Beatrice Road Infectious Diseases Hospital in Zimbabwe,
+University of New Mexico Health Sciences Center (USA), Institut Pasteur (France), and the 
+National Institute for Communicable Diseases in South Africa.
 
 .. _Mashe et al 2020: https://pubmed.ncbi.nlm.nih.gov/32786196/
 
