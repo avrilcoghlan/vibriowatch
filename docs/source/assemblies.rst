@@ -241,7 +241,7 @@ View the assembly statistics for your isolate
 ---------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_, for an example
-using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_..
+using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
 
 .. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
 
