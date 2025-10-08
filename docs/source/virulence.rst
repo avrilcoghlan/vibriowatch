@@ -16,6 +16,10 @@ and is a protein that induces profuse, watery diarrhoea.
 
 Cholera toxin is encoded by the `ctxA`_ and `ctxB`_ genes.
 
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
+
 A quick way to find out whether your isolate likely expresses cholera toxin is to look at the predicted virulence genes for your isolate in Vibriowatch.
 
 Once you have sequencing reads or a genome assembly for your isolate to Vibriowatch (see `Is my isolate Vibrio cholerae? <https://vibriowatch.readthedocs.io/en/latest/assemblies.html#short-guide-for-those-in-a-hurry-is-my-isolate-vibrio-cholerae>`_), Vibriowatch will display a piechart showing the species of your isolates are, e.g.:
@@ -60,13 +64,17 @@ Sometimes you may see a '~' symbol beside 'ctxB', indicating that there was a pa
 This could either mean that the `ctxB`_ gene is truncated in this isolate, or that there are one or more SNPs in `ctxB`_ in this isolate. 
 The `ctxB`_ gene is known to have several circulating SNPs in the *V. cholerae* species (see `Lee et al 2021`_). 
 
-.. _ctxB: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07325
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 .. _Lee et al 2021: https://pubmed.ncbi.nlm.nih.gov/34566903/
 
 If an isolate lacks the `ctxA`_ and `ctxB`_ genes, it is predicted to not produce cholera toxin and as a result will not cause severe cholera, probably only relatively mild diarrhoea. 
+
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 If you found this useful, you may want to read through the rest of the tutorial to find out more details.
 
