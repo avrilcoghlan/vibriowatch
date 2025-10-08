@@ -48,10 +48,13 @@ the report page for an isolate HCUF-01:
 .. image:: Picture89.png
   :width: 650
 
-The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present. 
-Because this isolate probably has `ctxA`_, it probably produces cholera toxin, so will give rise to severe cholera.
+The tick next to 'ctxA' shows that the cholera toxin gene `ctxA`_ is present, while the tick next to 'ctxB' shows that the second cholera toxin gene 'ctxB`_ is present.
+These two genes encode the CtxA and CtxB subunits of the cholera toxin protein.
+Because this isolate probably has `ctxA`_ and `ctxb`_, it probably produces cholera toxin, so will give rise to severe cholera.
 
-.. _ctxA: https://biocyc.org/gene?orgid=GCF_900205735&id=FY484_RS07330
+.. _ctxA: https://www.uniprot.org/uniprotkb/P01555/entry
+
+.. _ctxB: https://www.uniprot.org/uniprotkb/P01556/entry
 
 Sometimes you may see a '~' symbol beside 'ctxB', indicating that there was a partial match to the `ctxB`_ gene. 
 This could either mean that the `ctxB`_ gene is truncated in this isolate, or that there are one or more SNPs in `ctxB`_ in this isolate. 
