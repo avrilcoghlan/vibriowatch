@@ -3,14 +3,14 @@ Worked example - Haiti 2022
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
-I have chosen this as an example, as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
-how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
-This example also illustrates how it is very difficult to distinguish between persistance of cholera between outbreaks in the human population, versus
-persistance between outbreaks in the environment.
-
 This page is dedicated to the fantastic public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic publicly available and therefore contributing a lot to our
 global understanding of cholera.
+
+This example has been selected here as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
+how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
+It also illustrates how it is very difficult to distinguish between persistance of cholera between outbreaks in the human population, versus
+persistance between outbreaks in the environment.
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
