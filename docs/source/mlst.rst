@@ -8,7 +8,7 @@ This section will cover:
 * `What is MLST?`_.
 * `How to view MLST information for your isolate`_.
 * `What is PopPUNK?`_.
-* `How to view PopPUNK information for your isolate?`_.
+* `How to view PopPUNK information for your isolate`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 1`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 2`_.
 * `Build a tree to check if your isolate belongs to the pandemic lineage: example 3`_.
