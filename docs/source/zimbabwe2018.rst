@@ -7,8 +7,8 @@ This page is dedicated to the fantastic public health professionals, scientists 
 who generously donated samples, for making this cholera genomic publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
-This case study has been selected as it is an example of cholera circulating within a region, but also evolving to acquire new adaptations such 
-as antimicrobial resistance genes in some countries of the region. It also illustrates how *Vibrio cholerae* can acquire new antimicrobial
+This case study has been selected as it is an example of cholera circulating within a region, but also evolving in some countries of the region to acquire new adaptations such 
+as antimicrobial resistance genes. It also illustrates how *Vibrio cholerae* can acquire new antimicrobial
 resistance genes by gaining mobile genetic elements such as plasmids, and that this cause cause a gain in antibiotic resistance to key
 antimicrobials recommended by the WHO for giving to most vulnerable cholera patients.
 
