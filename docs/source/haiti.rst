@@ -18,7 +18,7 @@ persistance in the environment between outbreaks.
 
 *Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
-* `The Haiti 2022 outbreak`_
+* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_
 * `The H22 genome`_.
 * `Finding the H22 genome in Vibriowatch`_.
 * `Assembly quality of the H22 genome`_.
@@ -31,8 +31,8 @@ persistance in the environment between outbreaks.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 * `Reflections on the Haiti 2022 case study`_
 
-The Haiti 2022 outbreak
------------------------
+The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
+----------------------------------------------------
 
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
 Later that year, in October 2010, a huge cholera outbreak begain in Haiti, that lasted up until 2019, and included
