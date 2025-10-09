@@ -23,6 +23,7 @@ antimicrobials recommended by the WHO for treating the most vulnerable cholera p
 * `Do the Zimbabwe 2018 isolates belong to the pandemic lineage of Vibrio cholerae?`_.
 * `What are the closest relatives of the Zimbabwe 2018 isolates among published Vibrio cholerae genomes?`_.
 * `What can we say about the origins of the Zimbabwe 2018 outbreak, based on the Zimbabwe 2018 genomes?`_
+* `Reflections on the Zimbabwe 2018 case study`_
 
 The Zimbabwe 2018 outbreak
 --------------------------
@@ -261,6 +262,11 @@ To fill in...
 
 What can we say about the origins of the Zimbabwe 2018 outbreak, based on the Zimbabwe 2018 genomes?
 ----------------------------------------------------------------------------------------------------
+
+To fill in...
+
+Reflections on the Zimbabwe 2018 case study
+-------------------------------------------
 
 To fill in...
 
