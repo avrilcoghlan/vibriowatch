@@ -231,6 +231,12 @@ an Excel spreadsheet, which has one row per isolate, with these columns:
 #. month, with the month when the isolate was collected (optional)
 #. day, with the day when the isolate was collected (optional)
 
+Note that if you don't have the exact latitude and longitude coordinates for isolates, only the country, you can use a latitude
+and longitude value for the centre of the country, which you can find in the 
+`geodatos`_ website.
+
+.. _geodatos: https://www.geodatos.net/en/coordinates/
+
 You can add any other columns that you want (e.g. serogroup, serotype, antimicrobial resistance testing results, etc.). For example,
 in the example below, I've added these columns:
 
