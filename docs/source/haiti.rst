@@ -402,6 +402,12 @@ and `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using 
 .. image:: HowToGetTheResult.png
   :width: 600
 
+To make a phylogenetic tree using Vibriowatch, you first need to log into the Pathogenwatch website. 
+To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+Now, we will explain how to build a phylogenetic tree for H22 and its closest relatives in Vibriowatch.
 As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
 section of the H22 genome report page:
 
