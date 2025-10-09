@@ -68,7 +68,7 @@ Laboratoire National de Santé Publique (National Health Laboratory) in Haiti, Z
 Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
 International Centre for Diarrheal Disease Research (Bangladesh):
 
-*Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé ublique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b Bangladesh):*
+*Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b Bangladesh):*
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
