@@ -6,7 +6,8 @@ This section will cover:
 * `Short guide for those in a hurry: is my isolate Vibrio cholerae?`_.
 * `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
-* `Upload an assembly for an isolate`_.
+* `Upload an assembly for an isolate (or several assemblies for several isolates)`_.
+* `Upload metadata for assemblies that you have already uploaded`_.
 * `Verify that your isolate is Vibrio cholerae`_.
 * `View the Vibriowatch report page for your isolate`_.
 * `View the assembly statistics for your isolate`_.
@@ -168,8 +169,8 @@ When Pathogenwatch has finished the analyses on all the isolates that it has ass
   
 The piechart above shows that one isolate had failed the assembly process (labelled 'Error'). This can happen if there is something wrong with the fastq files, for example, if they are empty files. 
   
-Upload an assembly for an isolate
----------------------------------
+Upload an assembly for an isolate (or several assemblies for several isolates)
+------------------------------------------------------------------------------
 
 If you already have an assembly for an isolate, you can upload your assembly to Vibriowatch.
 
@@ -206,6 +207,11 @@ Pathogenwatch will carry out eight different analyses for each assembly, as it d
 #. MLST.
 #. Assembly statistics.
 #. Predicting virulence genes using 'Vista'.
+
+Upload metadata for assemblies that you have already uploaded
+-------------------------------------------------------------
+
+To fill in...
 
 Verify that your isolate is Vibrio cholerae
 -------------------------------------------
