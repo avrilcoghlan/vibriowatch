@@ -127,6 +127,8 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
 This shows the top of the report page for H22:
 
+*La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:*
+
 .. image:: Picture115.png
   :width: 600
 
