@@ -24,7 +24,7 @@ persistance in the environment between outbreaks.
 * `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)`_.
 * `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)`_
 * `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
-* `Is H22 predicted to have plasmids?`_
+* `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
 * `What is the predicted serogroup of the H22 isolate?`_
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
@@ -270,24 +270,34 @@ in the past in some locations (`Das et al 2020`_).
 
 *Ceci concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté que, d'après les résultats des tests de laboratoire, H22 présente une résistance au triméthoprime et au sulfaméthoxazole, ainsi qu'une faible résistance à la ciprofloxacine. Le triméthoprime et le sulfaméthoxazole ne sont pas les antimicrobiens recommandés par l'OMS pour le choléra, mais ont été utilisés par le passé dans certaines régions* (`Das et al 2020`_).
 
-Is H22 predicted to have plasmids?
-----------------------------------
+Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)
+----------------------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on predicting plasmids in H22, using Vibriowatch`_.
 
 .. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/_mtfCiBlJac 
 
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch`_.
+
+.. _vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/_mtfCiBlJac 
+
 Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
+
+*Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez Vibrio cholerae, mais de tels grands plasmides sont relativement rares.*
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
 To find out whether the H22 isolate is predicted to carry a plasmid, we can look at the "Plasmid Inc types" section of the genome report page for H22:
 
+*Pour savoir si l'isolat H22 est censé contenir un plasmide, nous pouvons consulter la section Plasmid Inc Types de la page du rapport sur le génome de H22:*
+
 .. image:: Picture123.png
   :width: 350
 
 We see that there are no predicted plasmids in H22.
+
+*Nous voyons qu’il n’y a pas de plasmides prédits dans H22.*
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -295,6 +305,8 @@ We see that there are no predicted plasmids in H22.
 There are no plasmids predicted by Vibriowatch in the H22 isolate. Note that plasmid prediction in Vibriowatch may not be very accurate for small
 plasmids, and also if the assembly quality is poor, it's possible that plasmids may be missed by Vibriowatch. For H22, based on the Vibriowatch results,
 we would predict that there are no large plasmids in H22.
+
+*Vibriowatch ne prédit aucun plasmide dans l'isolat H22. Notez que la prédiction des plasmides par Vibriowatch peut manquer de précision pour les petits plasmides. De plus, si la qualité de l'assemblage est médiocre, il est possible que Vibriowatch ne prédise pas certains plasmides. Pour H22, d'après les résultats de Vibriowatch, nous prédisons l'absence de grands plasmides.*
 
 What is the predicted serogroup of the H22 isolate?
 ---------------------------------------------------
