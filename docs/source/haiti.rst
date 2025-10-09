@@ -40,6 +40,9 @@ more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outb
 by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
 was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
 
+*Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
+Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de *Vibrio cholerae* (connue sous le nom de lignée 7PET), et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 *(`Orata et al., 2014`_).
+
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
