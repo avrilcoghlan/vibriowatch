@@ -508,9 +508,10 @@ Haiti 2018 outbreak persisted either in Haiti or in nearby countries, and resurf
 However, there is no evidence of cholera in either Haiti or nearby countries between 2019 and October 2022, so it is difficult to 
 know in which country (or countries) of the region that particular strain of *Vibrio cholerae* persisted during that time. One possibility is that it persisted 
 in the human population, but that there were no reported cases because cases were asymptomatic or mild, or were in regions with limited
-health infrastructure. Another possibility was that particular strain of *V. cholerae* persisted in the environement during the
+health infrastructure. Another possibility was that particular strain of *V. cholerae* persisted in the environment during the
 period, or in both the human population and the environment (e.g. due to sewage contamination of the environmentm and ingestion
-of contaminated water by humans), but again, we are lacking evidence to support this.
+of contaminated water by humans), but again, as there are no environmental samples from Haiti available for the period from 2019 to October
+2022, we are lacking sufficient evidence to investigate this possibility.
 
 CholeraBook
 -----------
