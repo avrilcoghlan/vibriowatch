@@ -57,6 +57,8 @@ Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting eith
 or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
 part of the world, such as Africa or Asia? 
 
+*Une question épidémiologique importante était : d’où provenait la bactérie V. cholerae responsable de l’épidémie d’Haïti de 2022? Avait-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie d’Haïti de 2022 était-elle due à une introduction totalement nouvelle en Haïti, en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
+
 The H22 genome
 --------------
 
