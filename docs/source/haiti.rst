@@ -506,7 +506,7 @@ there were no reported cholera cases in Haiti between 2019 and October 2022, the
 extremely closely related to the Haiti outbreaks in 2018 and previous years. Therefore, it is very likely that the strain causing the
 Haiti 2018 outbreak persisted either in Haiti or in nearby countries, and resurfaced in Haiti in October 2022 to cause a new outbreak.
 However, there is no evidence of cholera in either Haiti or nearby countries between 2019 and October 2022, so it is difficult to 
-tell in exactly which country (or countries) of the region that particular strain of *Vibrio cholerae* persisted during that time. One possibility is that it persisted 
+know in which country (or countries) of the region that particular strain of *Vibrio cholerae* persisted during that time. One possibility is that it persisted 
 in the human population, but that there were no reported cases because cases were asymptomatic or mild, or were in regions with limited
 health infrastructure. Another possibility was that particular strain of *V. cholerae* persisted in the environement during the
 period, or in both the human population and the environment (e.g. due to sewage contamination of the environmentm and ingestion
