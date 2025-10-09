@@ -114,9 +114,15 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
 
+*Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à* `la page de rapport du génome H22`_ *dans Vibriowatch (ou consultez* `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ *pour savoir comment rechercher vous-même la page de rapport H22).*
+
 .. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
+.. _la page de rapport du génome H22: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
+
 .. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
+
+.. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
 This shows the top of the report page for H22:
