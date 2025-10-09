@@ -90,6 +90,13 @@ Plotting the tree and data for a Vibriowatch collection in Microreact
 It's possible to download all the metadata and computed data from a Vibriowatch collection and upload it into Microreact to re-plot it there.
 This is particularly useful if you want to plot multiple types of data/metadata beside a phylogenetic tree (e.g. country, date of collection, presence/absence of virulence genes, etc.).
 
+If you learn better by seeing rather than reading, see the `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_, 
+for an example using the assembly of the isolate H22 collected in Haiti in 2022, which was sequenced by `Rubin et al 2022`_.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+.. _video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/XCKCevbBzB8 
+
 For example, this links to the `collection for the isolates sequenced by Chun et al 2009`_. 
 
 .. _collection for the isolates sequenced by Chun et al 2009: https://pathogen.watch/collection/2c43jl3z2xs8-vibriowatch-collection-chun-et-al-2009
