@@ -26,7 +26,7 @@ persistance in the environment between outbreaks.
 * `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
 * `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
 * `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 * `Reflections on the Haiti 2022 case study`_
@@ -354,15 +354,21 @@ as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogr
 
 *Notez que le fait que H22 soit du sérogroupe O1 ne signifie pas qu'il appartient définitivement à la lignée 7PET, car certains isolats de V. cholerae d'autres lignées (non pandémiques) possèdent également le sérogroupe O1.*
 
-Does H22 belong to the pandemic lineage of Vibrio cholerae?
------------------------------------------------------------
+Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)
+-----------------------------------------------------------------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_.
 
 .. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
 
-The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". 
-The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch`_.
+
+.. _vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+
+The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
+
+*La pandémie actuelle (septième pandémie) de choléra a débuté dans les années 1960 et a été causée par la lignée pandémique actuelle de Vibrio cholerae, connue sous le nom de lignée 7PET.
+La lignée 7PET est hautement infectieuse et virulente, et provoque des flambées épidémiques massives.*
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -371,15 +377,21 @@ A quick way to find out whether an isolate likely belongs to the 7PET lineage is
 The MLST results for the isolate are shown at the top of the genome report page for the isolate in Vibriowatch. Here we can see the MLST results for isolate
 H22 at the top of its report page (see under the heading "MLST"):
 
+*Un moyen rapide de déterminer si un isolat appartient vraisemblablement à la lignée 7PET consiste à consulter les résultats du MLST (typage de séquences multilocus) de l'isolat dans Vibriowatch. Les résultats du MLST pour l'isolat sont affichés en haut de la page du rapport génomique de l'isolat dans Vibriowatch. Voici les résultats du MLST pour l'isolat H22 en haut de sa page Web (voir sous la rubrique MLST):*
+
 .. image:: Picture115.png
   :width: 600
 
 We can see that isolate H22 is classified as MLST sequence type ST69. 
 
+*Nous pouvons voir que l'isolat H22 est classé comme type de séquence MLST ST69.*
+
 A second approach for figuring out whether your isolate belongs to the pandemic lineage (7PET lineage) or not, is to look at the
 PopPUNK cluster of your isolate. PopPUNK is a tool for classifying bacterial isolates into lineages. At the top of the
 Vibriowatch genome report page for isolate H22 (see above), we can see the PopPUNK information under the heading "Lineage".
 You can see that isolate H22 belongs to the PopPUNK lineage 1 (also known as VC1).
+
+*Une deuxième approche pour déterminer si votre isolat appartient à la lignée pandémique (lignée 7PET) consiste à examiner le cluster PopPUNK de votre isolat. PopPUNK est un outil logiciel de classification des isolats bactériens en lignées. En haut de la page du rapport génomique Vibriowatch pour l'isolat H22 (voir ci-dessus), les informations PopPUNK sont visibles sous la rubrique Lineage. Vous pouvez constater que l'isolat H22 appartient à la lignée PopPUNK 1 (également appelée VC1).*
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -390,6 +402,11 @@ the `table of correspondences between PopPUNK clusters and known lineages`_).
 Thus, like the MLST results, the PopPUNK results suggest that isolate H22 belongs to the current pandemic lineage.
 
 .. _table of correspondences between PopPUNK clusters and known lineages: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
+
+*ST69 est l'un des types de séquences (ST) fréquemment observés pour la lignée pandémique actuelle (7PET) de Vibrio cholerae. Un autre type de séquence parfois observé pour la lignée 
+pandémique actuelle de Vibrio cholerae (7PET) est ST515. Si un isolat est ST69 ou ST515, il appartient très probablement à la lignée pandémique (7PET). Cela suggère que H22 appartient à la lignée 7PET. D'après les résultats PopPUNK, nous avons constaté que H22 appartient au cluster PopPUNK VC1; cela correspond à la lignée pandémique actuelle (lignée 7PET) (voir* `le tableau de correspondance entre les clusters PopPUNK et les lignées connues`_). *Ainsi, à l'instar des résultats MLST, les résultats PopPUNK suggèrent que l'isolat H22 appartient à la lignée pandémique actuelle (7PET).*
+
+.. _le tableau de correspondance entre les clusters PopPUNK et les lignées connues: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
 What are the closest relatives of H22 among published Vibrio cholerae genomes?
 ------------------------------------------------------------------------------
