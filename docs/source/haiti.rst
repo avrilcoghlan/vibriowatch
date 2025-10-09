@@ -4,7 +4,7 @@ Case study - Haiti 2022
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
 This page is dedicated to the fantastic public health professionals, scientists and public servants of Haiti, and to the patient
-who generously donated a sample, for making this cholera genomic publicly available and therefore contributing a lot to our
+who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
@@ -23,6 +23,7 @@ persistance in the environment between outbreaks.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
+* `Reflections on the Haiti 2022 case study`_
 
 The Haiti 2022 outbreak
 -----------------------
@@ -496,6 +497,20 @@ You can see the phylogenetic tree produced by `Rubin et al 2022`_ in Figure 1 of
 with the tree we obtain with Vibriowatch.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+Reflections on the Haiti 2022 case study
+----------------------------------------
+
+We can see that the Haiti 2022 case study is an example of cholera persisting within a country or region between outbreaks, as although 
+there were no reported cholera cases in Haiti between 2019 and October 2022, the genomic data tell us that the Haiti 2022 outbreak was
+extremely closely related to the Haiti outbreaks in 2018 and previous years. Therefore, it is very likely that the strain causing the
+Haiti 2018 outbreak persisted either in Haiti or in nearby countries, and resurfaced in Haiti in October 2022 to cause a new outbreak.
+However, there is no evidence of cholera in either Haiti or nearby countries between 2019 and October 2022, so it is difficult to 
+tell in exactly which country (or countries) of the region that particular strain of *Vibrio cholerae* persisted during that time. One possibility is that it persisted 
+in the human population, but that there were no reported cases because cases were asymptomatic or mild, or were in regions with limited
+health infrastructure. Another possibility was that particular strain of *V. cholerae* persisted in the environement during the
+period, or in both the human population and the environment (e.g. due to sewage contamination of the environmentm and ingestion
+of contaminated water by humans), but again, we are lacking evidence to support this.
 
 CholeraBook
 -----------
