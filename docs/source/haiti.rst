@@ -27,7 +27,7 @@ persistance in the environment between outbreaks.
 * `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
 * `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
-* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
+* `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
 * `Reflections on the Haiti 2022 case study`_
 
@@ -408,20 +408,28 @@ pandémique actuelle de Vibrio cholerae (7PET) est ST515. Si un isolat est ST69 
 
 .. _le tableau de correspondance entre les clusters PopPUNK et les lignées connues: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
-What are the closest relatives of H22 among published Vibrio cholerae genomes?
-------------------------------------------------------------------------------
+What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on identifying the closest relatives of H22, using Vibriowatch`_.
 
 .. _video on identifying the closest relatives of H22, using Vibriowatch: https://youtu.be/essXib5sZ0c 
 
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch`_.
+
+.. _vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/essXib5sZ0c 
+
 Vibriowatch includes a large set of >6000 published *V. cholerae* genomes, so you can search for the closest relatives of a new isolate among those published genomes.
+
+*Vibriowatch comprend un large ensemble de > 6 000 génomes V. cholerae publiés, vous pouvez donc rechercher les parents les plus proches d'un nouvel isolat parmi ces génomes publiés.*
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-To find the closest relatives of H22 among publised *V. cholerae* genomes, we can look under the "Core genome clustering" 
+To find the closest relatives of H22 among publised *V. cholerae* genomes, we can look under the "Core Genome Clustering" 
 section of the H22 genome report page, which gives the result of a cgMLST (core genome MLST) analysis:
+
+*Pour trouver les parents les plus proches de H22 parmi les génomes de V. cholerae publiés, consultez la section Core Genome Clustering de la page du rapport sur le génome H22, qui fournit le résultat d'une analyse cgMLST (analyse MLST des régions ancestrales partagées du génome de Vibrio cholerae):*
 
 .. image:: Picture124.png
   :width: 600
@@ -432,13 +440,19 @@ where the length of an edge between two isolates (two blobs) represents the numb
 Isolates that are closer to H22 in the network have less genetic differences in their DNA from H22, and so are assumed 
 to be more closely evolutionarily related to H22.
 
+*Vous pouvez observer un réseau de nœuds représentant les isolats séquencés. H22 est représenté par un nœud violet (étiqueté H22), tandis que les autres isolats étroitement apparentés sont représentés par des nœuds gris. Les arêtes (lignes) du réseau illustrent les relations entre les isolats apparentés. La longueur d'une arête entre deux isolats (deux nœuds) représente le nombre de différences génétiques entre eux. Les isolats les plus proches de H22 dans le réseau présentent moins de différences génétiques dans leur ADN et sont donc supposés être plus étroitement apparentés à H22 sur le plan évolutif.*
+
 You can see that at the top of the network it says "Cluster of 1326 at a threshold of 10", so these are 1326
 isolates that are closely related and differ from each other by 10 or less mutations in the DNA of their core genome
 regions ("core genome regions" are regions of the genome shared by almost all *V. cholerae* isolates).
 
+*Vous pouvez voir qu'en haut du réseau, il est indiqué Groupe de 1 326 à un Seuil de 10. Il s'agit donc de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions génomiques ancestrales communes (les régions du génome partagées par presque tous les isolats de V. cholerae).*
+
 To examine the network a bit more closely, you can click on the big purple "VIEW CLUSTER" button.
 This will bring you to a new view, in which you can see the network in the top left panel, a map of where the isolates
 were collected in the top right panel, and a timeline of when the isolates were collected below.
+
+*Pour examiner le réseau de plus près, cliquez sur le gros bouton violet VIEW CLUSTER. Vous accéderez alors à une nouvelle vue: le réseau en haut à gauche, une carte des lieux de collecte des isolats en haut à droite et une chronologie de la collecte des isolats en bas.*
 
 .. image:: Picture125.png
   :width: 800
@@ -447,10 +461,14 @@ You can see again that the purple blob representing H22 (which is labelled "H22"
 the top part of the network, in the top left panel that contains the network, you can click on the
 "Controls" button in the top right of the panel:
 
+*Vous pouvez à nouveau constater que le nœud violet représentant H22 (étiqueté H22) se trouve dans la partie supérieure du réseau. Pour sélectionner cette partie, dans le panneau supérieur gauche contenant le réseau, cliquez sur le bouton Contrôles en haut à droite:*
+
 .. image:: Picture126.png
   :width: 50
 
 Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
+
+*Cliquez ensuite sur le bouton à gauche du bouton Contrôles, qui est le bouton Lasso:*
 
 .. image:: Picture127.png
   :width: 100
@@ -458,19 +476,25 @@ Then click on the button to the left of the "Controls" button, which is the "Las
 Then using the rollerball on your mouse, zoom in on the part of the network that contains H22, to see H22 and its most
 closely related isolates:
 
+*Ensuite, à l'aide de la molette de souris d'ordinateur, zoomez sur la partie du réseau contenant H22 pour visualiser H22 et ses isolats les plus proches:*
+
 .. image:: Picture128.png
   :width: 550
 
 Then draw a shape around H22 and its most closely related isolates, by using your mouse to click at points around the
 region containing H22 and its closest relatives:
 
+*Dessinez ensuite une forme autour de H22 et de ses isolats les plus proches, en cliquant avec la souris sur des points autour de la région contenant H22 et ses proches parents:*
+
 .. image:: Picture129.png
   :width: 800
 
 You will see that it now only shows H22 and its closest isolates (that lie inside the shape you have drawn) in the network
-panel at the top right. The map in the top left panel now only shows one dot. If you move your mouse into the map panel,
+panel at the top left. The map in the top right panel now only shows one dot. If you move your mouse into the map panel,
 and use the rollerball on your mouse to zoom out, you will find that this dot is in the country of Haiti, so the closest
 relatives of H22 were all collected from Haiti:
+
+*Vous constaterez que seuls H22 et ses isolats les plus proches (situés à l'intérieur de la forme que vous avez dessinée) sont désormais affichés dans le panneau Réseau en haut à gauche. La carte en haut à droite ne présente plus qu'un seul point. En déplaçant la souris sur le panneau Carte et en utilisant la molette pour dézoomer, vous constaterez que ce point se trouve en Haïti. Les parents les plus proches de H22 ont donc tous été collectés en Haïti:*
 
 .. image:: Picture130.png
   :width: 800
@@ -479,16 +503,22 @@ To find out when these close relatives were collected, we need to look at their 
 dates in the timeline panel at the bottom of the screen are given as days and months. To instead show the years,
 click on the "Controls" button at the top right of the timeline panel:
 
+*Pour savoir quand ces proches parents ont été collectés, il faut examiner leurs années de collecte. Par défaut, les dates dans la chronologie en bas de l'écran sont indiquées en jours et en mois. Pour afficher les années, cliquez sur le bouton Contrôles en haut à droite de la chronologie:*
+
 .. image:: Picture126.png
   :width: 50
 
 Now change "Day" to "Year" in the menu that appears.
+
+*Changez maintenant Day en Year dans le menu qui apparaît.*
 
 .. image:: Picture131.png
   :width: 350
 
 Then click on the "X" at the corner of the menu to close that menu. You will now see that the timeline panel
 with the years when the most closely related isolates were collected:
+
+*Cliquez ensuite sur le X dans le coin du menu pour le fermer. Vous verrez alors la chronologie indiquant les années de collecte des isolats les plus proches:*
 
 .. image:: Picture132.png
   :width: 900
@@ -497,12 +527,17 @@ In the timeline you can see one square at the right hand end, above "2022"; this
 You can also see squares above the years 2013, 2014, 2015 and 2017, indicating that the closest relatives of H22
 in the Vibriowatch database are isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
 
+*Sur la chronologie, vous pouvez voir un carré à l'extrémité droite, au-dessus de 2022; il s'agit de l'isolat H22, collecté en 2022.
+Vous pouvez également voir des carrés au-dessus des années 2013, 2014, 2015 et 2017, indiquant que les plus proches parents de H22 dans la base de données Vibriowatch sont des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.*
+
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
 The results from the cgMLST (core genome MLST) analysis above tell us the closest relatives
 of the H22 isolate among the >6000 published genomes in Vibriowatch are other published genomes from
 Haiti, namely, isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
+
+*Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont d'autres génomes publiés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.*
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 --------------------------------------------------------------------------------------
