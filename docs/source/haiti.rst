@@ -50,6 +50,8 @@ No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022.
 occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
 cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
 
+*En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).*
+
 An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
 or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
