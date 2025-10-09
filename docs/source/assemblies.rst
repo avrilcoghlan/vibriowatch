@@ -28,12 +28,12 @@ You can upload your raw reads or assembly to Vibriowatch by going to the `Pathog
 
 .. _Pathogenwatch: https://pathogen.watch/
 
+To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+
 On the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
-  
-To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
 
 This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ' for reads,
 or 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
@@ -116,13 +116,14 @@ Once your files have names ending in '_R1.fastq.gz' and '_R2.fastq.gz', you can 
 
 .. _Pathogenwatch: https://pathogen.watch/
 
+ To upload data to the Pathogenwatch website, it's necessary
+to make an account first, for example, using your email address as your login. 
+You will need to now sign into the Pathogenwatch website.
+
 On the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
-  
-You will need to now sign into the Pathogenwatch website. To upload data to the Pathogenwatch website, it's necessary
-to make an account first, for example, using your email address as your login. 
 
 This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ':
 
@@ -178,12 +179,12 @@ You can upload your assembly to Vibriowatch by going to the `Pathogenwatch`_ web
 
 .. _Pathogenwatch: https://pathogen.watch/
 
+To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+
 On the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
-  
-To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
 
 This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
 
