@@ -1,5 +1,5 @@
-Case study - Haiti 2022 (Étude de cas - Haïti 2022)
-===================================================
+Case study - Haiti 2022 *(Étude de cas - Haïti 2022)*
+=====================================================
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
@@ -16,7 +16,7 @@ how, if sampling is patchy, it is difficult to distinguish between persistance w
 Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
 persistance in the environment between outbreaks.
 
-Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.
+*Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
