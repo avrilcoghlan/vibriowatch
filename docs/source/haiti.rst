@@ -1,16 +1,22 @@
-Case study - Haiti 2022
-=======================
+Case study - Haiti 2022 (Étude de cas - Haïti 2022)
+===================================================
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
+
+Cette section est un exemple d’utilisation de Vibriowatch pour analyser les données génomiques du choléra, en utilisant l’épidémie d’Haïti de 2022 comme exemple.
 
 This page is dedicated to the fantastic public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
+Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.
+
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
 Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
 persistance in the environment between outbreaks.
+
+Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.
 
 * `The Haiti 2022 outbreak`_
 * `The H22 genome`_.
