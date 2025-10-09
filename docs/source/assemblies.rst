@@ -172,9 +172,27 @@ Upload an assembly for an isolate
 
 If you already have an assembly for an isolate, you can upload your assembly to Vibriowatch.
 
-The steps are very similar to uploading reads (see `Upload reads to Vibriowatch, to make an assembly`_), except that on the webpage saying 'What would you like to upload?', you need to click on 'Single genome FASTAs' (instead of 'FASTQ'):
+To upload an assembly file to Vibriowatch, your assembly file must have a file-name ending in '.fa' or '.fasta' or '.fna'.
+
+You can upload your assembly to Vibriowatch by going to the `Pathogenwatch`_ website.
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+On the Pathogenwatch website, click on 'Upload' at the top right of the website:
+
+.. image:: Picture1.png
+  :width: 650
+  
+To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+
+This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
 
 .. image:: Picture2.png
+  :width: 500
+
+Next click on the '+' button at the bottom right of the screen to upload your assembly (or assemblies):
+
+.. image:: Picture3.png
   :width: 500
 
 Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Upload reads to Vibriowatch, to make an assembly`_):
