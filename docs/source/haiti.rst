@@ -21,7 +21,7 @@ persistance in the environment between outbreaks.
 * `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
 * `The H22 genome (Le génome H22)`_.
 * `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)`_.
-* `Assembly quality of the H22 genome`_.
+* `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)`_.
 * `Is H22 predicted to produce cholera toxin?`_
 * `Is H22 predicted to have antimicrobial resistance?`_
 * `Is H22 predicted to have plasmids?`_
@@ -132,12 +132,16 @@ This shows the top of the report page for H22:
 .. image:: Picture115.png
   :width: 600
 
-Assembly quality of the H22 genome
-----------------------------------
+Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)
+-----------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
 
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
+
 .. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
+
+.. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/SevDN1pLyqo 
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -147,11 +151,14 @@ reasonably good quality and has the expected GC content for *V. cholerae*. To lo
 to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
 looks like this:
 
+*Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour V. cholerae. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas du rapport génomique pour H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:*
+
 .. image:: Picture116.png
   :width: 550
 
-We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. 
-Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
+We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
+
+*On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.*
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
@@ -160,8 +167,11 @@ Another commonly used measures of assembly quality is the number of contigs. We 
 
 The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
 
-We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. 
-The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
+*La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir* `Heidelberg et al 2000`_*). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.*
+
+We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
+
+*On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
 
 Is H22 predicted to produce cholera toxin?
 ------------------------------------------
