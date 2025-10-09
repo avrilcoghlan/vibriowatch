@@ -7,7 +7,7 @@ This section will cover:
 * `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
 * `Upload an assembly for an isolate (or several assemblies for several isolates)`_.
-* `Upload metadata for assemblies that you have already uploaded`_.
+* `Upload metadata and assemblies together`_.
 * `Verify that your isolate is Vibrio cholerae`_.
 * `View the Vibriowatch report page for your isolate`_.
 * `View the assembly statistics for your isolate`_.
@@ -29,9 +29,12 @@ You can upload your raw reads or assembly to Vibriowatch by going to the `Pathog
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+To upload data it's necessary to make an account first, for example, using your email address as your login. 
+To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
 
-On the Pathogenwatch website, click on 'Upload' at the top right of the website:
+.. _Pathogenwatch: https://pathogen.watch/
+
+Once you have signed in, on the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
@@ -119,9 +122,11 @@ Once your files have names ending in '_R1.fastq.gz' and '_R2.fastq.gz', you can 
 
  To upload data to the Pathogenwatch website, it's necessary
 to make an account first, for example, using your email address as your login. 
-You will need to now sign into the Pathogenwatch website.
+To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
 
-On the Pathogenwatch website, click on 'Upload' at the top right of the website:
+.. _Pathogenwatch: https://pathogen.watch/
+
+Then, on the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
@@ -180,9 +185,12 @@ You can upload your assembly to Vibriowatch by going to the `Pathogenwatch`_ web
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-To upload data it's necessary to make an account first, for example, using your email address as your login. Now log into Pathogenwatch.
+To upload data it's necessary to make an account first, for example, using your email address as your login. 
+To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
 
-On the Pathogenwatch website, click on 'Upload' at the top right of the website:
+.. _Pathogenwatch: https://pathogen.watch/
+
+Then, on the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
@@ -208,10 +216,54 @@ Pathogenwatch will carry out eight different analyses for each assembly, as it d
 #. Assembly statistics.
 #. Predicting virulence genes using 'Vista'.
 
-Upload metadata for assemblies that you have already uploaded
--------------------------------------------------------------
+Upload metadata and assemblies together
+---------------------------------------
 
-To fill in...
+If you want to upload some assemblies to your private Vibriowatch account, you may also want to upload metadata (e.g. the places where the isolates
+were collected and dates when the isolates were collected), at the same time. To do this, first you need to prepare a metadata file. One easy way to prepare your metadata file is to make
+an Excel spreadsheet, which has one row per isolate, with these columns:
+
+#. filename, with the names of the fasta file of the genome assembly
+#. displayname, with the names you want to use for an isolate in Vibriowatch
+#. latitude, with the latitude of the place where the isolate was collected
+#. longitude, with the longitude of the place where the isolate was collected
+#. year, with the year when the isolate was collected
+#. month, with the month when the isolate was collected (optional)
+#. day, with the day when the isolate was collected (optional)
+
+You can add any other columns that you want (e.g. serogroup, serotype, antimicrobial resistance testing results, etc.). For example,
+in the example below, I've added these columns:
+
+#. isolation, with the country where the isolate was collected
+#. source, with the source (e.g. clinical or environmental) of the isolate
+#. serogroup, with the serogroup phenotype of the isolate
+
+.. image:: Picture174.png
+  :width: 650
+
+To prepare your metadata file for uploading to Vibriowatch, you need to first export it from Excel in CSV format.
+To do this, go to the "File" menu in Excel, and choose "Save as..." and choose ".csv" as the file format, then click "Save".
+
+Then, to upload both your fasta files and metadata file for the same isolates at once, go to 
+'Upload' at the top right of the `Pathogenwatch`_ website:
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+.. image:: Picture1.png
+  :width: 650
+
+This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'Single genome FASTAs' for an assembly (or for assemblies for several isolates):
+
+.. image:: Picture2.png
+  :width: 500
+
+Next click on the '+' button at the bottom right of the screen to upload your assembly (or assemblies):
+
+.. image:: Picture3.png
+  :width: 500
+
+Next, to upload both your assembly file (or files) and your metadata CSV format file at once, select the assembly files and metadata CSV format file together for uploading (e.g. on a Mac
+computer hold down "Shift" to select multiple files).
 
 Verify that your isolate is Vibrio cholerae
 -------------------------------------------
