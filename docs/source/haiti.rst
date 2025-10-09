@@ -513,6 +513,21 @@ period, or in both the human population and the environment (e.g. due to sewage 
 of contaminated water by humans), but again, as there are no human or environmental samples from Haiti available for the period from 2019 to October
 2022, we are lacking sufficient data to investigate this possibility.
 
+These insights are relevant just not to Haiti, but to many other countries worldwide where cholera outbreaks have occurred, but there
+has then been a relatively long inter-outbreak period of months or even a year or two when there have not been any cases reported.
+In such situations, it is common to ask:
+
+#. What can we say about the origins of the new outbreak, based on the genome of isolates?
+#. Is the new outbreak related to previous outbreaks in the same country or nearby countries, or is it due to a completely new introduction from a distant location?
+#. If the new outbreak is related to previous outbreaks in the same country or nearby countries, how did it persist between outbreaks - in people, or in the environment, or in both?
+
+The case study of the Haiti 2022 outbreak illustrates the insights that genomics can provide to address these questions, but
+also illustrates the importance of the availability of appropriate samples to be able to address such questions.
+
+We thank again the scientists, public health professionals, and public servants of Haiti, and to the Haitian patient
+who generously donated a sample, for making this cholera genomic data publicly available and thereby contributing to 
+global understanding of cholera.
+
 CholeraBook
 -----------
 
