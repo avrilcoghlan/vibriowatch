@@ -18,8 +18,8 @@ persistance in the environment between outbreaks.
 
 *Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
-* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_
-* `The H22 genome`_.
+* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
+* `The H22 genome (Le génome H22)`_.
 * `Finding the H22 genome in Vibriowatch`_.
 * `Assembly quality of the H22 genome`_.
 * `Is H22 predicted to produce cholera toxin?`_
@@ -59,14 +59,16 @@ part of the world, such as Africa or Asia?
 
 *Une question épidémiologique importante était : d’où provenait la bactérie V. cholerae responsable de l’épidémie d’Haïti de 2022? Avait-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie d’Haïti de 2022 était-elle due à une introduction totalement nouvelle en Haïti, en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
 
-The H22 genome
---------------
+The H22 genome (Le génome H22)
+------------------------------
 
 Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
 Laboratoire National de Santé Publique (National Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
 Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
 International Centre for Diarrheal Disease Research (Bangladesh):
+
+*Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé ublique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b Bangladesh):*
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
