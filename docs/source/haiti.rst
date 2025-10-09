@@ -25,7 +25,7 @@ persistance in the environment between outbreaks.
 * `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)`_
 * `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
 * `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
-* `What is the predicted serogroup of the H22 isolate?`_
+* `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
@@ -308,36 +308,51 @@ we would predict that there are no large plasmids in H22.
 
 *Vibriowatch ne prédit aucun plasmide dans l'isolat H22. Notez que la prédiction des plasmides par Vibriowatch peut manquer de précision pour les petits plasmides. De plus, si la qualité de l'assemblage est médiocre, il est possible que Vibriowatch ne prédise pas certains plasmides. Pour H22, d'après les résultats de Vibriowatch, nous prédisons l'absence de grands plasmides.*
 
-What is the predicted serogroup of the H22 isolate?
----------------------------------------------------
+What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)
+----------------------------------------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on predicting serogroup of H22, using Vibriowatch`_.
 
 .. _video on predicting serogroup of H22, using Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
 
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch`_.
+
+.. _vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
+
 The current pandemic lineage (7PET lineage) of *V. cholerae* has the O1 serogroup (or occasionally, for some isolates, the O139 serogroup).
+
+*La lignée pandémique actuelle (lignée 7PET) de V. cholerae possède le sérogroupe O1 (ou occasionnellement, pour certains isolats, le sérogroupe O139).*
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
 To find out the predicted serogroup for H22, we can look at the top of the report page for H22:
 
+*Pour connaître le sérogroupe prévu pour H22, nous pouvons regarder en haut de la page du rapport pour H22:*
+
 .. image:: Picture115.png
   :width: 600
 
 Under "Genotypes", you can see that the predicted serogroup is O1.
 
+*Sous Génotypes, vous pouvez voir que le sérogroupe prédit est O1.*
+
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
 From the above, we see that the predicted serogroup of the H22 isolate is O1. 
+This agrees with phenotypic evidence from the paper of `Rubin et al 2022`_, who reported, based on laboratory results, that H22 has serogroup O1.
 
-This agrees with phenotypic evidence from the paper of `Rubin et al 2022`_, who reported, based on laboratory results, that H22 is serogroup O1.
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+*D’après ce qui précède, nous voyons que le sérogroupe prédit de l’isolat H22 est O1. Cela concorde avec les preuves phénotypiques de l'article de* `Rubin et al 2022`_, *qui ont rapporté, sur la base de résultats de laboratoire, que H22 a le sérogroupe O1.*
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 Note that the fact that H22 is serogroup O1 doesn't mean that H22 definitely belongs to the 7PET lineage,
 as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogroup O1. 
+
+*Notez que le fait que H22 soit du sérogroupe O1 ne signifie pas qu'il appartient définitivement à la lignée 7PET, car certains isolats de V. cholerae d'autres lignées (non pandémiques) possèdent également le sérogroupe O1.*
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae?
 -----------------------------------------------------------
