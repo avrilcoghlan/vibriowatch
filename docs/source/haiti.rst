@@ -517,7 +517,7 @@ These insights are relevant just not to Haiti, but to many other countries world
 has then been a relatively long inter-outbreak period of months or even a year or two when there have not been any cases reported.
 In such situations, it is common to ask:
 
-#. What can we say about the origins of the new outbreak, based on the genome of isolates?
+#. What can we say about the origins of the new outbreak, based on the genomes of isolates?
 #. Is the new outbreak related to previous outbreaks in the same country or nearby countries, or is it due to a completely new introduction from a distant location?
 #. If the new outbreak is related to previous outbreaks in the same country or nearby countries, how did it persist between outbreaks - in people, or in the environment, or in both?
 
