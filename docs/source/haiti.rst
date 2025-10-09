@@ -9,7 +9,7 @@ This page is dedicated to the fantastic public health professionals, scientists 
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
-Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.
+*Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.*
 
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
