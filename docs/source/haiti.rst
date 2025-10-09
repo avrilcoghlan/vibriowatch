@@ -20,7 +20,7 @@ persistance in the environment between outbreaks.
 
 * `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
 * `The H22 genome (Le génome H22)`_.
-* `Finding the H22 genome in Vibriowatch`_.
+* `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)`_.
 * `Assembly quality of the H22 genome`_.
 * `Is H22 predicted to produce cholera toxin?`_
 * `Is H22 predicted to have antimicrobial resistance?`_
@@ -100,12 +100,16 @@ everyone can see.
 
 *Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.*
 
-Finding the H22 genome in Vibriowatch
--------------------------------------
+Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
+------------------------------------------------------------------------------
 
 If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
 
+*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
+
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
+
+.. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
