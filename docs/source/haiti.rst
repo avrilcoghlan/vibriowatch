@@ -724,9 +724,9 @@ has then been a relatively long inter-outbreak period of months or even a year o
 
 *Ces informations ne s'appliquent pas seulement à Haïti, mais à de nombreux autres pays dans le monde où des épidémies de choléra ont eu lieu, mais où aucun cas n'a été signalé pendant une période relativement longue (de plusieurs mois, voire un an ou deux). Dans de telles situations, on se demande souvent:*
 
-#. Que pouvons-nous dire des origines de la nouvelle épidémie, d'après les génomes des isolats?
-#. La nouvelle épidémie est-elle liée à des épidémies précédentes dans le même pays ou dans des pays voisins, ou est-elle due à une introduction totalement nouvelle depuis une région éloignée?
-#. Si la nouvelle épidémie est liée à des épidémies précédentes dans le même pays ou dans des pays voisins, comment a-t-elle persisté entre les épidémies – chez l'homme, dans l'environnement, ou dans les deux?*
+#. *Que pouvons-nous dire des origines de la nouvelle épidémie, d'après les génomes des isolats?*
+#. *La nouvelle épidémie est-elle liée à des épidémies précédentes dans le même pays ou dans des pays voisins, ou est-elle due à une introduction totalement nouvelle depuis une région éloignée?*
+#. *Si la nouvelle épidémie est liée à des épidémies précédentes dans le même pays ou dans des pays voisins, comment a-t-elle persisté entre les épidémies – chez l'homme, dans l'environnement, ou dans les deux?*
 
 The case study of the Haiti 2022 outbreak illustrates the insights that genomics can provide to address these questions, but
 also illustrates the importance of the availability of appropriate samples to be able to address such questions.
