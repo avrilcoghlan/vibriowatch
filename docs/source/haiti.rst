@@ -363,7 +363,7 @@ If you learn better by seeing rather than reading, see the `video on finding out
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+.. _vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch: https://youtu.be/v03msIL6oMA 
 
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
 
