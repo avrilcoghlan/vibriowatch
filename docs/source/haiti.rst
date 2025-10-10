@@ -109,7 +109,7 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
-.. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/7k79hfyTW4Q 
+.. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
 
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
