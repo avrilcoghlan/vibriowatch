@@ -417,7 +417,7 @@ If you learn better by seeing rather than reading, see the `video on identifying
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/essXib5sZ0c 
+.. _vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/08PCqdvbhWE 
 
 Vibriowatch includes a large set of >6000 published *V. cholerae* genomes, so you can search for the closest relatives of a new isolate among those published genomes.
 
