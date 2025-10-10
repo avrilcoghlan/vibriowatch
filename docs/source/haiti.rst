@@ -29,7 +29,7 @@ persistance in the environment between outbreaks.
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
-* `Reflections on the Haiti 2022 case study`_
+* `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
 
 The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
@@ -698,8 +698,8 @@ with the tree we obtain with Vibriowatch.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
-Reflections on the Haiti 2022 case study
-----------------------------------------
+Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)
+-----------------------------------------------------------------------------------
 
 We can see that the Haiti 2022 case study is an example of cholera persisting within a country or region between outbreaks, as although 
 there were no reported cholera cases in Haiti between 2019 and October 2022, the genomic data tell us that the Haiti 2022 outbreak was
@@ -713,20 +713,31 @@ period, or in both the human population and the environment (e.g. due to sewage 
 of contaminated water by humans), but again, as there are no human or environmental samples from Haiti available for the period from 2019 to October
 2022, we are lacking sufficient data to investigate this possibility.
 
+*L'étude de cas d'Haïti 2022 illustre la persistance du choléra dans un pays ou une région entre deux épidémies. En effet, bien qu'aucun cas de choléra n'ait été signalé en Haïti entre 2019 et octobre 2022, les données génomiques indiquent que l'épidémie d'Haïti 2022 était étroitement liée aux épidémies de 2018 et des années précédentes. Il est donc très probable que la souche à l'origine de l'épidémie d'Haïti 2018 ait persisté en Haïti ou dans les pays voisins, puis y soit réapparue en octobre 2022, provoquant une nouvelle épidémie. Cependant, aucune preuve de choléra n'a été observée en Haïti ou dans les pays voisins entre 2019 et octobre 2022; il est donc difficile de déterminer dans quel(s) pays de la région cette souche particulière de Vibrio cholerae a persisté pendant cette période. Il est possible que la maladie ait persisté dans la population humaine, mais qu'aucun cas n'ait été signalé, car les cas étaient asymptomatiques ou bénins, ou se trouvaient dans des régions aux infrastructures sanitaires limitées. Une autre possibilité est qu'une souche particulière de V. cholerae ait persisté dans l'environnement pendant cette période, ou à la fois dans la population humaine et dans l'environnement (par exemple, en raison de la contamination de l'environnement par les eaux usées et de l'ingestion d'eau contaminée par l'homme). Cependant, comme aucun échantillon humain ou environnemental n'est disponible en Haïti pour la période allant de 2019 à octobre 2022, nous manquons de données pour étudier cette possibilité.*
+
 These insights are relevant just not to Haiti, but to many other countries worldwide where cholera outbreaks have occurred, but there
-has then been a relatively long inter-outbreak period of months or even a year or two when there have not been any cases reported.
-In such situations, it is common to ask:
+has then been a relatively long inter-outbreak period of months or even a year or two when there have not been any cases reported. In such situations, it is common to ask:
 
 #. What can we say about the origins of the new outbreak, based on the genomes of isolates?
 #. Is the new outbreak related to previous outbreaks in the same country or nearby countries, or is it due to a completely new introduction from a distant location?
 #. If the new outbreak is related to previous outbreaks in the same country or nearby countries, how did it persist between outbreaks - in people, or in the environment, or in both?
 
+*Ces informations ne s'appliquent pas seulement à Haïti, mais à de nombreux autres pays dans le monde où des épidémies de choléra ont eu lieu, mais où aucun cas n'a été signalé pendant une période relativement longue (de plusieurs mois, voire un an ou deux). Dans de telles situations, on se demande souvent:*
+
+#. Que pouvons-nous dire des origines de la nouvelle épidémie, d'après les génomes des isolats?
+#. La nouvelle épidémie est-elle liée à des épidémies précédentes dans le même pays ou dans des pays voisins, ou est-elle due à une introduction totalement nouvelle depuis une région éloignée?
+#. Si la nouvelle épidémie est liée à des épidémies précédentes dans le même pays ou dans des pays voisins, comment a-t-elle persisté entre les épidémies – chez l'homme, dans l'environnement, ou dans les deux?*
+
 The case study of the Haiti 2022 outbreak illustrates the insights that genomics can provide to address these questions, but
 also illustrates the importance of the availability of appropriate samples to be able to address such questions.
+
+*L’étude de cas de l’épidémie d’Haïti de 2022 illustre les perspectives que la génomique peut apporter pour répondre à ces questions, mais illustre également l’importance de la disponibilité d’échantillons appropriés pour pouvoir répondre à ces questions.*
 
 We thank again the scientists, public health professionals, and public servants of Haiti, and to the Haitian patient
 who generously donated a sample, for making this cholera genomic data publicly available and thereby contributing to 
 global understanding of cholera.
+
+*Nous remercions à nouveau les scientifiques, les professionnels de la santé publique et les fonctionnaires haïtiens, ainsi que le patient haïtien qui a généreusement fait don d'un échantillon, pour avoir rendu ces données génomiques sur le choléra accessibles au public et contribué ainsi à une meilleure compréhension mondiale du choléra.*
 
 CholeraBook
 -----------
@@ -735,7 +746,13 @@ If you would like to learn more about cholera genomics, you may also be interest
 
 .. _Online Cholera Genomics Course (CholeraBook): https://cholerabook.readthedocs.io/
 
+*Si vous souhaitez en savoir plus sur la génomique du choléra, vous pourriez également être intéressé par notre* `Cours en ligne sur la génomique du choléra (CholeraBook)`_.
+
+.. _Cours en ligne sur la génomique du choléra (CholeraBook): https://cholerabook.readthedocs.io/
+
 Contact
 -------
 
 I will be grateful if you will send me (Avril Coghlan) corrections or suggestions for improvements to my email address alc@sanger.ac.uk
+
+*Je vous serais reconnaissant de bien vouloir m'envoyer (Avril Coghlan) des corrections ou des suggestions d'amélioration à mon adresse e-mail alc@sanger.ac.uk*
