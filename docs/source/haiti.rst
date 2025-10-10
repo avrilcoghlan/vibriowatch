@@ -317,7 +317,7 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
+.. _vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/cGTRULEIKQE 
 
 The current pandemic lineage (7PET lineage) of *V. cholerae* has the O1 serogroup (or occasionally, for some isolates, the O139 serogroup).
 
