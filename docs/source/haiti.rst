@@ -28,7 +28,7 @@ persistance in the environment between outbreaks.
 * `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
 * `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
-* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
+* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
 * `Reflections on the Haiti 2022 case study`_
 
 The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
@@ -539,11 +539,13 @@ Haiti, namely, isolates collected in Haiti in the years 2013, 2014, 2015 and 201
 
 *Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont d'autres génomes publiés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.*
 
-What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
---------------------------------------------------------------------------------------
+What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To investigate the origins of the Haiti 2022 outbreak, we can make a phylogenetic tree of the H22 isolate and its
 close relatives. 
+
+*Pour étudier les origines de l’épidémie d’Haïti de 2022, nous pouvons établir un arbre phylogénétique de l’isolat H22 et de ses proches parents.*
 
 If you learn better by seeing rather than reading, see the `video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_
 and `video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_ and
@@ -555,36 +557,46 @@ and `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using 
 
 .. _video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch: https://youtu.be/XCKCevbBzB8 
 
+*Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez* `la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_, `la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_ et `la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_.
+
+.. _la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/ElX32K3QnQE 
+
+.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/LFQYJLugBQw 
+
+.. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/XCKCevbBzB8 
+
 .. image:: HowToGetTheResult.png
   :width: 600
 
-To make a phylogenetic tree using Vibriowatch, you first need to log into the Pathogenwatch website. 
-To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
+To make a phylogenetic tree using Vibriowatch, you first need to log into the Pathogenwatch website. To do this, click on the three purple bars at the top left of the `Pathogenwatch`_ website, and click on "Sign in" in the menu that appears.
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-Now, we will explain how to build a phylogenetic tree for H22 and its closest relatives in Vibriowatch.
-As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
+*Pour créer un arbre phylogénétique avec Vibriowatch, vous devez d'abord vous connecter au site web de Pathogenwatch. Pour cela, cliquez sur les trois barres violettes en haut à gauche du site web de* `Pathogenwatch`_, *puis sur Sign In dans le menu qui apparaît.*
+
+.. _Pathogenwatch: https://pathogen.watch/
+
+Now, we will explain how to build a phylogenetic tree for H22 and its closest relatives in Vibriowatch. As mentioned above, we can identify close relatives of H22 by looking at the "Core genome clustering"
 section of the H22 genome report page:
+
+*Nous allons maintenant expliquer comment construire un arbre phylogénétique pour H22 et ses plus proches parents dans Vibriowatch. Comme mentionné précédemment, nous pouvons identifier les proches parents de H22 en consultant la section Core Genome Clustering de la page du rapport sur le génome de H22:*
 
 .. image:: Picture124.png
   :width: 600
 
-This network shows 1326 isolates that are closely related, one of which is H22. To build a phylogenetic tree of these
-1326 isolates, we can build a "collection" for the isolates in Vibriowatch, and the collection will include a phylogenetic tree.
+This network shows 1326 isolates that are closely related, one of which is H22. To build a phylogenetic tree of these 1326 isolates, we can build a "collection" for the isolates in Vibriowatch, and the collection will include a phylogenetic tree. To build a collection for the 1326 isolates in the network, you can click on the big purple "LIST GENOMES" button to list all 1326 genomes. This will bring up a list of all the genomes; here is just the first few:
 
-To build a collection for the 1326 isolates in the network, you can click on the big purple "LIST GENOMES" button to list all
-1326 genomes. This will bring up a list of all the genomes; here is just the first few:
+*Ce réseau présente 1326 isolats étroitement apparentés, dont H22. Pour construire un arbre phylogénétique de ces 1326 isolats, nous pouvons créer une Collection d'isolats dans Vibriowatch. Cette collection inclura un arbre phylogénétique. Pour créer une collection des 1326 isolats du réseau, cliquez sur le gros bouton violet LIST GENOMES pour lister tous les génomes. La liste de tous les génomes s'affichera; en voici quelques-uns:*
 
 .. image:: Picture133.png
   :width: 600
 
 To make a collection for all these isolates, first check that the purple button at the top right of the screen says
 "0 Selected Genomes". If it says "X Selected Genomes", and X is not zero, then click on the button, and then click on 
-"Clear all" in the menu that appears.
-
-Then select all 1326 isolates by clicking on the box beside "Name" at the top of the list of isolates. This should
+"Clear all" in the menu that appears. Then select all 1326 isolates by clicking on the box beside "Name" at the top of the list of isolates. This should
 result in ticks in all the boxes beside all the isolates:
+
+*Pour créer une collection de tous ces isolats, vérifiez d'abord que le bouton violet en haut à droite de l'écran indique 0 Selected Genomes. S'il indique X Selected Genomes et que X est différent de zéro, cliquez sur le bouton, puis sur Clear All dans le menu qui apparaît. Sélectionnez ensuite les 1 326 isolats en cochant la case Name en haut de la liste des isolats. Toutes les cases correspondant à chaque isolat devraient alors être cochées:*
 
 .. image:: Picture134.png
   :width: 600
@@ -594,12 +606,20 @@ You can now click on that button to make a collection (see `How To Make a Collec
 
 .. _How To Make a Collection of Isolates in Vibriowatch: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-make-a-collection-of-isolates-in-vibriowatch
 
+*Cliquez maintenant sur le bouton violet 1326 Selected Genomes en haut à droite de la page web. Vous pouvez maintenant cliquer sur ce bouton pour créer une collection (voir* `Comment créer une collection d'isolats dans Vibriowatch`_ *pour plus de détails).*
+
+.. _Comment créer une collection d'isolats dans Vibriowatch: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-make-a-collection-of-isolates-in-vibriowatch
+
 Then you will see a tree of the 1326 genomes:
+
+*Ensuite, vous verrez un arbre des 1326 génomes:*
 
 .. image:: Picture135.png
   :width: 600
 
 You can find the H22 isolate in the tree by typing "H22" in the search box at the top of the page, where it says "FILTER NAME":
+
+*Vous pouvez trouver l'isolat H22 dans l'arbre phylogénétique en tapant H22 dans la zone de recherche en haut de la page, où il est indiqué FILTER NAME:*
 
 .. image:: Picture136.png
   :width: 600
@@ -608,14 +628,17 @@ You can see that the H22 isolate is part of a small clade (group) of isolates th
 move your mouse over the ancestral node of this clade, you will see the number "111" appear, indicating that there
 are 111 isolates in that small clade (group) of isolates.
 
+*Vous pouvez constater que l'isolat H22 fait partie d'un petit clade (groupe) d'isolats situés sur une branche assez longue. Si vous déplacez votre souris sur le nœud ancestral de ce clade, vous verrez le nombre 111 apparaître, indiquant qu'il y a 111 isolats dans ce petit clade (groupe).*
+
 .. image:: Picture137.png
   :width: 600
 
 If you right-click on the ancestral node of that small clade, and then choose "View subtree" in the menu that appears, it will
-show you just the part of the tree corresponding to that small clade.
-You can then delete "H22" from the search box at the top, to deselect the H22 isolate. You will now see that on the right, there
+show you just the part of the tree corresponding to that small clade. You can then delete "H22" from the search box at the top, to deselect the H22 isolate. You will now see that on the right, there
 is only one dot on the map, and if you use the rollerball on your mouse to scroll out, you will see it corresponds to Haiti,
 indicating that all the isolates in this small clade are from Haiti:
+
+*Si vous faites un clic droit sur le nœud ancestral de ce petit clade, puis choisissez View Subtree dans le menu qui apparaît, vous n'afficherez que la partie de l'arbre correspondant à ce petit clade. Vous pouvez ensuite supprimer H22 du champ de recherche en haut pour désélectionner l'isolat H22. Vous verrez alors qu'à droite, il n'y a qu'un seul point sur la carte. Si vous utilisez la molette de votre souris pour faire défiler la carte, vous verrez qu'il correspond à Haïti, indiquant que tous les isolats de ce petit clade proviennent d'Haïti.*
 
 .. image:: Picture138.png
   :width: 800
@@ -624,18 +647,26 @@ To now make a pretty plot with the isolates collected in different years in Hait
 to do this using `Microreact`_ (see `Plotting the tree and data for a Vibriowatch collection in Microreact`_), by downloading the metadata and tree files to your computer, and then uploading
 them into Microreact. This gives us a nice tree like this:
 
-.. image:: Picture140.png
-  :width: 900
-
 .. _Microreact: https://microreact.org/
 
 .. _Plotting the tree and data for a Vibriowatch collection in Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
+
+*Pour créer un graphique attrayant mettant en évidence les isolats collectés en Haïti au cours de différentes années, le plus simple est d'utiliser Microreact (voir* `Représentation graphique de l'arbre phylogénétique et des données d'une collection Vibriowatch dans Microreact`_), *en téléchargeant les métadonnées et l'arbre sur votre ordinateur, puis en les téléversant dans Microreact. Cela nous donne un bel arbre comme celui-ci:*
+
+.. _Microreact: https://microreact.org/
+
+.. _Représentation graphique de l'arbre phylogénétique et des données d'une collection Vibriowatch dans Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
+
+.. image:: Picture140.png
+  :width: 900
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
 We can see from this tree that the H22 isolate (indicated with a blue dot) is closely related to isolates
 collected from Haiti in 2014 (yellow dots), 2015 (purple dots) and 2017 (red dots). 
+
+*Cet arbre montre que l'isolat H22 (indiqué par un nœud bleu) est étroitement lié aux isolats collectés en Haïti en 2014 (nœuds jaunes), 2015 (nœuds violets) et 2017 (nœuds rouges).*
 
 Taken together, these results suggest that the *V. cholerae* that caused the Haiti 2022 outbreak
 was very closely related to the *V. cholerae* that caused the Haiti 2010-2019 epidemic. This suggests
@@ -644,6 +675,9 @@ humans (e.g. asymptomatic or unreported cases) or in the environment (e.g. in ri
 However, another possibility, which we cannot discard (as we don't have evidence to disprove it), is that at some point during the Haiti 2010-2019
 epidemic, cholera spread from Haiti to a nearby country in the Caribbean, and persisted undetected in that nearby country,
 and that in 2022 it spread back to Haiti again.
+
+*Pris ensemble, ces résultats suggèrent que la bactérie V. cholerae à l'origine de l'épidémie de 2022 en Haïti était étroitement liée à celle à l'origine de l'épidémie de 2010-2019 en Haïti. Cela suggère que le même clone de V. cholerae a probablement persisté en Haïti entre 2019 et 2022, soit chez l'homme (cas asymptomatiques ou non signalés, par exemple), soit dans l'environnement (rivières ou lacs, par exemple).
+Cependant, une autre possibilité, que nous ne pouvons écarter (car nous ne disposons d'aucune preuve pour l'infirmer), est qu'à un moment donné, au cours de l'épidémie de 2010-2019 en Haïti, le choléra se soit propagé d'Haïti à un pays voisin des Caraïbes, où il aurait persisté sans être détecté, et qu'en 2022, il se soit à nouveau propagé en Haïti.*
 
 These results agree with the paper of `Rubin et al 2022`_, who reported that, based on phylogenetic analysis, H22 "belongs to
 a subclade of Haiti *V. cholerae* isolates that originated in 2013 during the previous epidemic". They say: "These analyses
@@ -657,6 +691,10 @@ potential explanation is that the current strain could have been reintroduced to
 explanation is less likely than the others, given the phylogenetic evidence and the absence of recent cholera cases in the region."
 You can see the phylogenetic tree produced by `Rubin et al 2022`_ in Figure 1 of their paper, and see that it agrees
 with the tree we obtain with Vibriowatch.
+
+.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+*Ces résultats concordent avec l'article de* `Rubin et al 2022`_, *qui ont rapporté que, sur la base d'une analyse phylogénétique, H22 «appartient à une sous-clade d'isolats de V. cholerae d'Haïti apparus en 2013 lors de la précédente épidémie». Ils affirment: «Ces analyses suggèrent que la réémergence du choléra en Haïti en 2022 a été causée, au moins en partie, par un descendant de la souche V. cholerae à l'origine de l'épidémie de 2010. Cependant, aucun cas de choléra n'a été confirmé entre 2019 et 2022, malgré une surveillance continue. Plusieurs explications sont possibles à la recrudescence de cette souche. La première est que la souche toxigène V. cholerae O1 a persisté en Haïti par le biais d'infections subcliniques chez l'homme et est réapparue dans un contexte de déclin de l'immunité de la population, conjugué à une crise liée au manque d'eau potable et d'assainissement. Une autre possibilité, non exclusive, est que cette souche V. cholerae ait persisté dans des réservoirs environnementaux. Enfin, l'épidémie de 2010 en Haïti ayant finalement été transmise à d'autres pays d'Amérique latine, une troisième explication possible est que la souche actuelle aurait pu être réintroduite en Haïti depuis un pays voisin. Cependant, cette explication est moins probable que les autres, compte tenu des preuves phylogénétiques et de l'absence de cas récents de choléra dans la région.»  Vous pouvez consulter l'arbre phylogénétique produit par* `Rubin et al 2022`_ *dans la figure 1 de leur article, et constater qu'il concorde avec l'arbre obtenu avec Vibriowatch.*
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
