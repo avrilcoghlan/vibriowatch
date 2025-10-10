@@ -141,7 +141,7 @@ If you learn better by seeing rather than reading, see the `video on investigati
 
 .. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
 
-.. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/SevDN1pLyqo 
+.. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
 .. image:: HowToGetTheResult.png
   :width: 600
