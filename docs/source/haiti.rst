@@ -561,7 +561,7 @@ and `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using 
 
 .. _la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/twubRiTEjE8 
 
-.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/LFQYJLugBQw 
+.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/sh4eisl3h3g 
 
 .. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/XCKCevbBzB8 
 
