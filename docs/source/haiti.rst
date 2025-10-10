@@ -279,7 +279,7 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/_mtfCiBlJac 
+.. _vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/bPF2w3QDWfk 
 
 Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
 
