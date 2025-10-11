@@ -17,6 +17,8 @@ global understanding of cholera.
 
 هذه الصفحة مخصصة لمهنيي الصحة العامة والعلماء والمسؤولين الحكوميين في هايتي، وكذلك المريض الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا هذه عامة وبالتالي المساهمة في فهمنا العالمي للكوليرا.
 
+|
+
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
 Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
@@ -25,6 +27,8 @@ persistance in the environment between outbreaks.
 *Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
 اختيرت دراسة الحالة هذه لأنها توضح استمرار الكوليرا في بلد أو منطقة بين وبائين. كما توضح كيف يصعب، في حال تجزؤ العينات، التمييز بين استمرار الكوليرا في بلد ما وإعادة ظهورها من بلد مجاور. علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار الكوليرا بين السكان بين وبائين واستمرارها في البيئة بينهما.
+
+|
 
 * `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
 * `The H22 genome (Le génome H22)`_.
@@ -55,6 +59,8 @@ Plus tard la même année, en octobre 2010, une importante épidémie de cholér
 
 لعلّكم تعلمون أنه في يناير/كانون الثاني 2010، ضرب زلزال كارثي جزيرة هايتي الكاريبية. وفي وقت لاحق من ذلك العام، وتحديدًا في أكتوبر/تشرين الأول 2010، انتشر وباء كوليرا واسع النطاق في هايتي، واستمر حتى عام 2019، وأسفر عن أكثر من 820 ألف إصابة وحوالي 10 آلاف وفاة. ويُعزى هذا التفشي إلى السلالة الوبائية الحالية لضمة الكوليرا، وتشير الدلائل إلى احتمال انتقاله من نيبال إلى هايتي عام 2010.
 
+|
+
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
 occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
@@ -65,6 +71,8 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 بحلول عام ٢٠١٩، انخفض عدد حالات الكوليرا، وبدا أن وباء الكوليرا في هايتي قد انتهى أخيرًا.
 
 لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
+
+|
 
 An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
