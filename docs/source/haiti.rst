@@ -163,7 +163,9 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 
 *Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à* `la page de rapport du génome H22`_ *dans Vibriowatch (ou consultez* `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ *pour savoir comment rechercher vous-même la page de rapport H22).*
 
-أولاً، لننتقل إلى جينوم H22 في Vibriowatch بالنقر على الرابط (`H22's genome report page`_). أو اكتشف كيفية البحث عن صفحة تقرير H22 بنفسك بالنقر على هذا الرابط (`How to search for an isolate in Vibriowatch and see its report page`_).
+أولاً، لننتقل إلى جينوم H22 في Vibriowatch بالنقر على هذا الرابط (`H22's genome report page`_).
+
+أو تعلّم كيفية البحث عن صفحة تقرير H22 بنفسك بالنقر على هذا الرابط (`How to search for an isolate in Vibriowatch and see its report page`_).
 
 .. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
