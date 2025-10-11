@@ -19,6 +19,7 @@ global understanding of cholera.
 هذه الصفحة مخصصة لمهنيي الصحة العامة والعلماء والمسؤولين الحكوميين في هايتي، وكذلك المريض الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا هذه عامة وبالتالي المساهمة في فهمنا العالمي للكوليرا.
 
 |
+|
 
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
@@ -29,6 +30,7 @@ persistance in the environment between outbreaks.
 
 اختيرت دراسة الحالة هذه لأنها توضح استمرار الكوليرا في بلد أو منطقة بين وبائين. كما توضح كيف يصعب، في حال تجزؤ العينات، التمييز بين استمرار الكوليرا في بلد ما وإعادة ظهورها من بلد مجاور. علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار الكوليرا بين السكان بين وبائين واستمرارها في البيئة بينهما.
 
+|
 |
 
 * `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
@@ -61,6 +63,7 @@ Plus tard la même année, en octobre 2010, une importante épidémie de cholér
 لعلّكم تعلمون أنه في يناير/كانون الثاني 2010، ضرب زلزال كارثي جزيرة هايتي الكاريبية. وفي وقت لاحق من ذلك العام، وتحديدًا في أكتوبر/تشرين الأول 2010، انتشر وباء كوليرا واسع النطاق في هايتي، واستمر حتى عام 2019، وأسفر عن أكثر من 820 ألف إصابة وحوالي 10 آلاف وفاة. ويُعزى هذا التفشي إلى السلالة الوبائية الحالية لضمة الكوليرا، وتشير الدلائل إلى احتمال انتقاله من نيبال إلى هايتي عام 2010.
 
 |
+|
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
@@ -73,6 +76,7 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 
 لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
 
+|
 |
 
 An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
@@ -105,6 +109,7 @@ International Centre for Diarrheal Disease Research (Bangladesh):
   :width: 800
 
 |
+|
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
@@ -135,6 +140,7 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
 
 |
+|
 
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
@@ -158,6 +164,7 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 .. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
 
 |
+|
 
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
@@ -176,6 +183,7 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 
 .. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
+|
 |
 
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
