@@ -46,6 +46,8 @@ persistance in the environment between outbreaks.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
 * `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
 
+|
+
 The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
 
@@ -89,6 +91,8 @@ part of the world, such as Africa or Asia?
 كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت بكتيريا ضمة الكوليرا التي تسببت في تفشي المرض في هايتي عام ٢٠٢٢؟
 
 هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً في البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟ أم أن تفشي المرض في هايتي عام ٢٠٢٢ كان نتيجة دخول جديد تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
+
+|
 
 The H22 genome (Le génome H22)
 ------------------------------
@@ -150,6 +154,8 @@ everyone can see.
 
 دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
 
+|
+
 Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
 ------------------------------------------------------------------------------
 
@@ -195,6 +201,8 @@ The report page shows the curated metadata for the isolate, as well as bioinform
 .. image:: Picture115.png
   :width: 600
 
+|
+
 Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)
 -----------------------------------------------------------------------
 
@@ -208,11 +216,11 @@ If you learn better by seeing rather than reading, see the `video on investigati
 
 .. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
+|
+|
+
 .. image:: HowToGetTheResult.png
   :width: 600
-
-|
-|
 
 Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
 reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
@@ -233,7 +241,12 @@ We can see that the assembly for the H22 isolate has a genome size of about 4.0 
 
 *On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.*
 
+يتضح من خلال هذا البحث أن حجم جينوم عزلة H22 يبلغ حوالي 4.0 ميجابايت (Mb)، وأن محتوى GC يبلغ 47.5%. ومن المقاييس الشائعة الأخرى لجودة التجميع عدد الوصلات المتجاورة. ونلاحظ هنا أن تجميع عزلة H22 يحتوي على 44 وصلة متجاورة.
+
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+
+|
+|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -242,11 +255,20 @@ The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *
 
 *La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir* `Heidelberg et al 2000`_ *). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.*
 
+يتوافق حجم تجميع H22، البالغ 4.0 ميجا بايت، مع الجينوم المرجعي لسلالة ضمة الكوليرا N16961، التي يبلغ حجم جينومها حوالي 4.0 ميجا قاعدة، ومحتوى GC يبلغ 47.5%. وكقاعدة عامة، نعتبر أن حجم تجميع يتراوح بين 3.3 و5.3 ميجا قاعدة، ومحتوى GC يتراوح بين 41.3% و48.6%، هو حجم معقول لجينوم ضمة الكوليرا.
+
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+
+|
+|
 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
 *On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
+
+عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة. يحتوي جينوم عزلة H22 على 44 وحدة، لذا فهو ذو جودة جيدة نسبيًا.
+
+|
 
 Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)
 ---------------------------------------------------------------------------------------------------
@@ -280,7 +302,7 @@ of the genome report page for H22:
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
-*Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.*
+*Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.*|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
