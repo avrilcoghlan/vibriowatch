@@ -41,15 +41,17 @@ The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
 
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
-Later that year, in October 2010, a huge cholera outbreak begain in Haiti, that lasted up until 2019, and included
+Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
 more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
 by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
 was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
 
 *Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
-Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae (connue sous le nom de lignée 7PET), et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010* (`Orata et al 2014`_).
+Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010* (`Orata et al 2014`_).
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
+
+لعلّكم تعلمون أنه في يناير/كانون الثاني 2010، ضرب زلزال كارثي جزيرة هايتي الكاريبية. وفي وقت لاحق من ذلك العام، وتحديدًا في أكتوبر/تشرين الأول 2010، انتشر وباء كوليرا واسع النطاق في هايتي، واستمر حتى عام 2019، وأسفر عن أكثر من 820 ألف إصابة وحوالي 10 آلاف وفاة. ويُعزى هذا التفشي إلى السلالة الوبائية الحالية لضمة الكوليرا، وتشير الدلائل إلى احتمال انتقاله من نيبال إلى هايتي عام 2010.
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
@@ -58,12 +60,20 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 
 *En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).*
 
+بحلول عام ٢٠١٩، انخفض عدد حالات الكوليرا، وبدا أن وباء الكوليرا في هايتي قد انتهى أخيرًا.
+
+لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
+
 An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
 or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
 part of the world, such as Africa or Asia? 
 
 *Une question épidémiologique importante était : d’où provenait la bactérie V. cholerae responsable de l’épidémie d’Haïti de 2022? Avait-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie d’Haïti de 2022 était-elle due à une introduction totalement nouvelle en Haïti, en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
+
+كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت ضمة الكوليرا التي تسببت في تفشي المرض في هايتي عام ٢٠٢٢؟
+
+هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً في البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟ أم أن تفشي المرض في هايتي عام ٢٠٢٢ كان نتيجة دخول جديد تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
 
 The H22 genome (Le génome H22)
 ------------------------------
