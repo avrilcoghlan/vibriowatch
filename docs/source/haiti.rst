@@ -48,8 +48,10 @@ persistance in the environment between outbreaks.
 
 |
 
-The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022) - تفشي المرض في هايتي 2022
+The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
+
+تفشي المرض في هايتي 2022
 
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
 Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
