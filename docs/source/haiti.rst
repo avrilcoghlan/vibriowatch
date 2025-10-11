@@ -103,6 +103,8 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 .. image:: Picture172.png
   :width: 800
 
+|
+
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
 
@@ -131,6 +133,8 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. ما هي أقرب سلالات ضمة الكوليرا الجينومية المنشورة لعزلة H22؟
 #. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
 
+|
+
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
@@ -151,6 +155,8 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
 .. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
+
+|
 
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
