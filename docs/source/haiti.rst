@@ -511,23 +511,46 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 .. _vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/cGTRULEIKQE 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting serogroup of H22, using Vibriowatch`_).
+
+.. _video on predicting serogroup of H22, using Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
+
+|
+|
+
 The current pandemic lineage (7PET lineage) of *V. cholerae* has the O1 serogroup (or occasionally, for some isolates, the O139 serogroup).
 
 *La lignée pandémique actuelle (lignée 7PET) de V. cholerae possède le sérogroupe O1 (ou occasionnellement, pour certains isolats, le sérogroupe O139).*
 
+إن سلالة الوباء الحالية (سلالة '7PET') من ضمة الكوليرا تمتلك المجموعة المصلية O1، أو في بعض الأحيان بالنسبة لبعض العزلات المجموعة المصلية O139.
+
+|
+|
+
 .. image:: HowToGetTheResult.png
   :width: 600
+
 
 To find out the predicted serogroup for H22, we can look at the top of the report page for H22:
 
 *Pour connaître le sérogroupe prévu pour H22, nous pouvons regarder en haut de la page du rapport pour H22:*
 
+للتعرف على المجموعة المصليّة المتوقعة للعزلة المسماة H22، يمكننا إلقاء نظرة على أعلى صفحة التقرير الخاص بـ H22:
+
 .. image:: Picture115.png
   :width: 600
+
+|
+|
 
 Under "Genotypes", you can see that the predicted serogroup is O1.
 
 *Sous Génotypes, vous pouvez voir que le sérogroupe prédit est O1.*
+
+تحت "الأنماط الجينية"، يمكنك أن ترى أن المجموعة المصليّة المتوقعة هي O1.
+
+|
+|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -541,10 +564,19 @@ This agrees with phenotypic evidence from the paper of `Rubin et al 2022`_, who 
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
+مما سبق، نرى أن المجموعة المصلية المتوقعة لعزل H22 هي O1. وهذا يتفق مع الأدلة الظاهرية الواردة في ورقة روبن وآخرون (2022)، والتي أفادت، بناءً على نتائج المختبر، بأن H22 لديه المجموعة المصلية O1.
+
+|
+|
+
 Note that the fact that H22 is serogroup O1 doesn't mean that H22 definitely belongs to the 7PET lineage,
 as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogroup O1. 
 
 *Notez que le fait que H22 soit du sérogroupe O1 ne signifie pas qu'il appartient définitivement à la lignée 7PET, car certains isolats de V. cholerae d'autres lignées (non pandémiques) possèdent également le sérogroupe O1.*
+
+تجدر الإشارة إلى أن حقيقة امتلاك H22 للمجموعة المصلية O1 لا تعني بالضرورة أن H22 ينتمي إلى سلالة "7PET"، حيث إن بعض عزلات ضمة الكوليرا من سلالات أخرى (غير وبائية) تمتلك أيضًا المجموعة المصلية O1.
+
+|
 
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)
 -----------------------------------------------------------------------------------------------------------------------------
