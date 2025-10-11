@@ -163,6 +163,8 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 
 *Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à* `la page de rapport du génome H22`_ *dans Vibriowatch (ou consultez* `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ *pour savoir comment rechercher vous-même la page de rapport H22).*
 
+أولاً، لننتقل إلى جينوم H22 في Vibriowatch بالنقر على الرابط (`H22's genome report page`_). أو اكتشف كيفية البحث عن صفحة تقرير H22 بنفسك بالنقر على هذا الرابط (`How to search for an isolate in Vibriowatch and see its report page`_).
+
 .. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
 .. _la page de rapport du génome H22: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
@@ -171,10 +173,13 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 
 .. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate.
-This shows the top of the report page for H22:
+|
+
+The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
 
 *La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:*
+
+تعرض صفحة التقرير البيانات الوصفية المُعدّة بعناية للعزلة، بالإضافة إلى تحليلات المعلوماتية الحيوية لها. يظهر هذا أعلى صفحة تقرير H22:
 
 .. image:: Picture115.png
   :width: 600
