@@ -241,7 +241,7 @@ We can see that the assembly for the H22 isolate has a genome size of about 4.0 
 
 *On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.*
 
-يتضح من خلال هذا البحث أن حجم جينوم عزلة H22 يبلغ حوالي 4.0 ميجابايت (Mb)، وأن محتوى GC يبلغ 47.5%. ومن المقاييس الشائعة الأخرى لجودة التجميع عدد الوصلات المتجاورة. ونلاحظ هنا أن تجميع عزلة H22 يحتوي على 44 وصلة متجاورة.
+يتضح من خلال هذا البحث أن حجم جينوم عزلة H22 يبلغ حوالي 4.0 ميجابايت (Mb)، ومحتوى كروموسومات جزيئية يبلغ 47.5%. ومن المقاييس الشائعة الأخرى لجودة التجميع عدد "الكونتيج". ونلاحظ هنا أن تجميع عزلة H22 يحتوي على 44 "كونتيج".
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
@@ -266,7 +266,7 @@ We would usually consider that an assembly is of relatively good quality if it c
 
 *On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
 
-عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة. يحتوي جينوم عزلة H22 على 44 وحدة، لذا فهو ذو جودة جيدة نسبيًا.
+عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة متجاورة. يحتوي جينوم عزلة H22 على 44 وحدة متجاورة، لذا فهو ذو جودة جيدة نسبيًا.
 
 |
 
