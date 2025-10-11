@@ -1136,6 +1136,8 @@ with the tree we obtain with Vibriowatch.
 Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)
 -----------------------------------------------------------------------------------
 
+تأملات حول دراسة حالة هايتي 2022
+
 We can see that the Haiti 2022 case study is an example of cholera persisting within a country or region between outbreaks, as although 
 there were no reported cholera cases in Haiti between 2019 and October 2022, the genomic data tell us that the Haiti 2022 outbreak was
 extremely closely related to the Haiti outbreaks in 2018 and previous years. Therefore, it is very likely that the strain causing the
@@ -1150,6 +1152,13 @@ of contaminated water by humans), but again, as there are no human or environmen
 
 *L'étude de cas d'Haïti 2022 illustre la persistance du choléra dans un pays ou une région entre deux épidémies. En effet, bien qu'aucun cas de choléra n'ait été signalé en Haïti entre 2019 et octobre 2022, les données génomiques indiquent que l'épidémie d'Haïti 2022 était étroitement liée aux épidémies de 2018 et des années précédentes. Il est donc très probable que la souche à l'origine de l'épidémie d'Haïti 2018 ait persisté en Haïti ou dans les pays voisins, puis y soit réapparue en octobre 2022, provoquant une nouvelle épidémie. Cependant, aucune preuve de choléra n'a été observée en Haïti ou dans les pays voisins entre 2019 et octobre 2022; il est donc difficile de déterminer dans quel(s) pays de la région cette souche particulière de Vibrio cholerae a persisté pendant cette période. Il est possible que la maladie ait persisté dans la population humaine, mais qu'aucun cas n'ait été signalé, car les cas étaient asymptomatiques ou bénins, ou se trouvaient dans des régions aux infrastructures sanitaires limitées. Une autre possibilité est qu'une souche particulière de V. cholerae ait persisté dans l'environnement pendant cette période, ou à la fois dans la population humaine et dans l'environnement (par exemple, en raison de la contamination de l'environnement par les eaux usées et de l'ingestion d'eau contaminée par l'homme). Cependant, comme aucun échantillon humain ou environnemental n'est disponible en Haïti pour la période allant de 2019 à octobre 2022, nous manquons de données pour étudier cette possibilité.*
 
+يمكننا أن نرى أن دراسة حالة هايتي لعام 2022 تُعدّ مثالاً على استمرار الكوليرا داخل بلد أو منطقة بين حالات تفشي المرض، فعلى الرغم من عدم الإبلاغ عن أي حالات كوليرا في هايتي بين عام 2019 وأكتوبر 2022، تُشير البيانات الجينومية إلى أن تفشي الكوليرا في هايتي عام 2022 كان وثيق الصلة بتفشي المرض في هايتي عام 2018 والأعوام السابقة. لذلك، من المرجح جدًا أن السلالة المُسببة لتفشي الكوليرا في هايتي عام 2018 استمرت إما في هايتي أو في البلدان المجاورة، ثم عادت للظهور في هايتي في أكتوبر 2022 مُسببةً تفشيًا جديدًا.
+
+ومع ذلك، لا يوجد دليل على وجود الكوليرا في هايتي أو في البلدان المجاورة بين عامي 2019 وأكتوبر 2022، لذلك من الصعب معرفة أي بلد (أو بلدان) من المنطقة استمرت فيه تلك السلالة المُحددة من ضمة الكوليرا خلال تلك الفترة. أحد الاحتمالات هو أن ضمة الكوليرا استمرت بين السكان، ولم تُبلّغ عن أي حالات لأن الحالات كانت خفيفة أو بدون أعراض، أو في مناطق ذات بنية تحتية صحية محدودة. وهناك احتمال آخر وهو أن هذه السلالة تحديدًا من ضمة الكوليرا استمرت في البيئة خلال هذه الفترة، أو في كل من السكان والبيئة (على سبيل المثال، بسبب تلوث البيئة بمياه الصرف الصحي وابتلاع البشر للمياه الملوثة)، ولكن نظرًا لعدم توفر عينات بشرية أو بيئية من هايتي للفترة من عام 2019 إلى أكتوبر 2022، فإننا نفتقر إلى بيانات كافية للتحقيق في هذا الاحتمال.
+
+|
+|
+
 These insights are relevant just not to Haiti, but to many other countries worldwide where cholera outbreaks have occurred, but there
 has then been a relatively long inter-outbreak period of months or even a year or two when there have not been any cases reported. In such situations, it is common to ask:
 
@@ -1163,16 +1172,32 @@ has then been a relatively long inter-outbreak period of months or even a year o
 #. *La nouvelle épidémie est-elle liée à des épidémies précédentes dans le même pays ou dans des pays voisins, ou est-elle due à une introduction totalement nouvelle depuis une région éloignée?*
 #. *Si la nouvelle épidémie est liée à des épidémies précédentes dans le même pays ou dans des pays voisins, comment a-t-elle persisté entre les épidémies – chez l'homme, dans l'environnement, ou dans les deux?*
 
+هذه الرؤى لا تنطبق على هايتي فحسب، بل على العديد من البلدان الأخرى حول العالم التي تفشت فيها الكوليرا، ولكن مع مرور فترة طويلة نسبيًا بين تفشي المرض، امتدت لأشهر أو حتى عام أو عامين، لم تُسجل فيها أي حالات. في مثل هذه الحالات، من الشائع طرح الأسئلة التالية:
+
+#. ماذا يمكننا أن نقول عن أصول تفشي الكوليرا الجديد، استنادا إلى جينومات العزلات؟
+#. هل يرتبط تفشي الكوليرا الجديد بتفشي سابق في نفس البلد أو في بلدان مجاورة، أم أنه يرجع إلى دخول جديد تماما من مكان بعيد؟
+#. إذا كان تفشي الكوليرا الجديد مرتبطًا بتفشي سابق في نفس البلد أو في البلدان المجاورة، فكيف استمر بين التفشي - في البشر، أو في البيئة، أو في كليهما؟
+
+|
+|
+
 The case study of the Haiti 2022 outbreak illustrates the insights that genomics can provide to address these questions, but
 also illustrates the importance of the availability of appropriate samples to be able to address such questions.
 
 *L’étude de cas de l’épidémie d’Haïti de 2022 illustre les perspectives que la génomique peut apporter pour répondre à ces questions, mais illustre également l’importance de la disponibilité d’échantillons appropriés pour pouvoir répondre à ces questions.*
+
+وتوضح دراسة الحالة الخاصة بتفشي وباء الكوليرا في هايتي عام 2022 الرؤى التي يمكن أن توفرها علوم الجينوم لمعالجة هذه الأسئلة، كما توضح أهمية توافر العينات المناسبة للتمكن من معالجة مثل هذه الأسئلة.
+
+|
+|
 
 We thank again the scientists, public health professionals, and public servants of Haiti, and to the Haitian patient
 who generously donated a sample, for making this cholera genomic data publicly available and thereby contributing to 
 global understanding of cholera.
 
 *Nous remercions à nouveau les scientifiques, les professionnels de la santé publique et les fonctionnaires haïtiens, ainsi que le patient haïtien qui a généreusement fait don d'un échantillon, pour avoir rendu ces données génomiques sur le choléra accessibles au public et contribué ainsi à une meilleure compréhension mondiale du choléra.*
+
+نتقدم بالشكر مرة أخرى للعلماء والعاملين في مجال الصحة العامة والموظفين العموميين في هايتي، وللمريض الهايتي الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا متاحة للجمهور، وبالتالي المساهمة في الفهم العالمي للكوليرا.
 
 CholeraBook
 -----------
