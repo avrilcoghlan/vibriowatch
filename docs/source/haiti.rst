@@ -7,6 +7,8 @@ This section is a worked example of using Vibriowatch to analyse cholera genomic
 
 يعد هذا القسم مثالاً على استخدام Vibriowatch لتحليل بيانات الجينوم الخاصة بالكوليرا، باستخدام تفشي وباء الكوليرا في هايتي عام 2022 كمثال.
 
+|
+
 This page is dedicated to the fantastic public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
