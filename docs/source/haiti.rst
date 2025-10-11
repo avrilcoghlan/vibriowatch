@@ -99,6 +99,8 @@ part of the world, such as Africa or Asia?
 The H22 genome (Le génome H22)
 ------------------------------
 
+جينوم H22
+
 Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
 Laboratoire National de Santé Publique (National Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
@@ -161,6 +163,8 @@ everyone can see.
 Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
 ------------------------------------------------------------------------------
 
+كيفية العثور على جينوم H22 في Vibriowatch
+
 If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
@@ -207,6 +211,8 @@ The report page shows the curated metadata for the isolate, as well as bioinform
 
 Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)
 -----------------------------------------------------------------------
+
+جودة تجميع جينوم H22
 
 If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
 
@@ -274,6 +280,8 @@ We would usually consider that an assembly is of relatively good quality if it c
 
 Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)
 ---------------------------------------------------------------------------------------------------
+
+هل من المتوقع أن ينتج H22 "سم الكوليرا"؟
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
 
@@ -344,6 +352,8 @@ This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phen
 
 Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)
 ------------------------------------------------------------------------------------------------------------------------------
+
+هل من المتوقع أن تكون العزلة H22 مقاومة للمضادات الحيوية؟
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_.
 
@@ -425,6 +435,8 @@ in the past in some locations (`Das et al 2020`_).
 
 Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)
 ----------------------------------------------------------------------------------
+
+هل من المتوقع أن يحتوي H22 على البلازميدات؟
 
 If you learn better by seeing rather than reading, see the `video on predicting plasmids in H22, using Vibriowatch`_.
 
