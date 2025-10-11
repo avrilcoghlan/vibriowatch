@@ -733,6 +733,10 @@ regions ("core genome regions" are regions of the genome shared by almost all *V
 
 *Vous pouvez voir qu'en haut du réseau, il est indiqué Groupe de 1 326 à un Seuil de 10. Il s'agit donc de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions génomiques ancestrales communes (les régions du génome partagées par presque tous les isolats de V. cholerae).*
 
+يمكنك أن ترى في أعلى الشبكة عبارة "مجموعة من ١٣٢٦ عزلة عند عتبة ١٠"، أي أن هذه ١٣٢٦ عزلة مرتبطة ببعضها ارتباطًا وثيقًا وتختلف عن بعضها البعض بعشر طفرات أو أقل في الحمض النووي لمناطق الجينوم الأساسية (مناطق الجينوم الأساسية هي مناطق من الجينوم تشترك فيها جميع عزلات ضمة الكوليرا تقريبًا).
+
+|
+|
 
 To examine the network a bit more closely, you can click on the big purple "VIEW CLUSTER" button.
 This will bring you to a new view, in which you can see the network in the top left panel, a map of where the isolates
@@ -742,6 +746,9 @@ were collected in the top right panel, and a timeline of when the isolates were 
 
 .. image:: Picture125.png
   :width: 800
+
+|
+|
 
 You can see again that the purple blob representing H22 (which is labelled "H22") is in the top part of the network. To select
 the top part of the network, in the top left panel that contains the network, you can click on the
