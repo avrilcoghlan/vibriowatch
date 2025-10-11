@@ -501,6 +501,8 @@ we would predict that there are no large plasmids in H22.
 What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)
 ----------------------------------------------------------------------------------------------------
 
+ما هي المجموعة المصليّة المتوقعة لعزل H22؟
+
 If you learn better by seeing rather than reading, see the `video on predicting serogroup of H22, using Vibriowatch`_.
 
 .. _video on predicting serogroup of H22, using Vibriowatch: https://youtu.be/Uh_04BSDaZ0 
