@@ -86,6 +86,8 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 
 *Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):*
 
+في أواخر عام ٢٠٢٢، نشر روبن وآخرون (٢٠٢٢) جينوم عينة معزولة من ضمة الكوليرا من تفشي وباء الكوليرا في هايتي عام ٢٠٢٢، والتي أطلقوا عليها اسم العينة H22. شارك في إعداد هذا العمل اتحاد دولي من العلماء وخبراء الصحة العامة من المختبر الوطني للصحة العامة في هايتي، وزانمي لاسانتي في هايتي، ومستشفى بريغهام والنساء في أمريكا، ومستشفى ماساتشوستس العام في أمريكا، والمركز الدولي لأبحاث أمراض الإسهال في بنغلاديش.
+
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
@@ -110,11 +112,22 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. *Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?*
 #. *Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?*
 
+في هذا المثال العملي، سأوضح لك كيفية تحليل جينوم H22 للإجابة على بعض الأسئلة الرئيسية المتعلقة بالصحة العامة، والإجابة على أسئلة حول أصول تفشي المرض في هايتي عام 2022:
+
+#. هل من المتوقع أن يؤدي H22 إلى إنتاج سموم الكوليرا؟
+#. هل من المتوقع أن تصبح البكتيريا H22 مقاومة للمضادات الحيوية؟
+#. هل من المتوقع أن يحتوي H22 على البلازميدات؟
+#. هل ينتمي H22 إلى سلالة جائحة ضمة الكوليرا؟
+#. ما هي أقرب أقارب H22 بين جينومات ضمة الكوليرا المنشورة؟
+#. ماذا يمكننا أن نقول عن أصول تفشي المرض في هايتي عام 2022، استناداً إلى جينوم H22؟
+
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
 
 *Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.*
+
+دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
 
 Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
 ------------------------------------------------------------------------------
