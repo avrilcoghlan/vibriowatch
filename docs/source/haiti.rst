@@ -277,9 +277,14 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting if H22 produces cholera toxin, using Vibriowatch`_).
+
 .. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/fQHf4nCZ7L8 
 
 .. _vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
+
+|
+|
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
@@ -289,6 +294,11 @@ complex consisting of CtxA and CtxB subunits. However, many isolates of other
 
 *Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par V. cholerae. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de V. cholerae. Presque tous les isolats de la lignée pandémique actuelle de V. cholerae, la lignée 7PET, portent les gènes de la toxine cholérique (gènes ctxA et ctxB) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de V. cholerae ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.*
 
+الكوليرا مرضٌ يتميز بإسهال مائي حاد، وتنجم أعراضه بشكل رئيسي عن سم الكوليرا (Ctx) الذي تفرزه بكتيريا ضمة الكوليرا. لذلك، يُعتبر سم الكوليرا عامل الضراوة الرئيسي لضمة الكوليرا. تحمل جميع عزلات سلالة الكوليرا الوبائية الحالية تقريبًا، سلالة "7PET"، جينات سم الكوليرا (الجينان ctxA وctxB) وتنتج سم الكوليرا، وهو مركب بروتيني يتكون من وحدتين فرعيتين CtxA وCtxB. ومع ذلك، فإن العديد من عزلات سلالات أخرى (غير وبائية) من ضمة الكوليرا لا تحمل جينات سم الكوليرا، وبالتالي لا تنتج سم الكوليرا.
+
+|
+|
+
 .. image:: HowToGetTheResult.png
   :width: 600
 
@@ -297,12 +307,22 @@ of the genome report page for H22:
 
 *Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport génomique de H22:*
 
+ولمعرفة ما إذا كانت عزلة H22 تحمل جينات سموم الكوليرا، وبالتالي من المتوقع أن تنتج Ctx، يمكننا إلقاء نظرة على قسم "الضراوة" في صفحة تقرير الجينوم لـ H22:
+
 .. image:: Picture121.png
   :width: 550
+
+|
+|
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
 *Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.*|
+
+يمكنك أن ترى أن هناك علامة صح بجوار "ctxA" و "ctxB" لذا من المتوقع أن يحمل H22 جينات سموم الكوليرا.
+
+|
+|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -315,6 +335,10 @@ This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phen
 *Étant donné que le génome H22 devrait contenir les gènes ctxA et ctxB, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.*
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+بما أنه من المتوقع أن يحمل جينوم H22 جيني ctxA وctxB، يمكننا التنبؤ بأنه يُنتج Ctx. وهذا يتفق مع الأدلة الواردة في ورقة روبن وآخرون (2022)، الذين أوردوا بيانات نمطية تُشير إلى أن H22 مُسبِّب للتسمم، أي أنه يُنتج سم الكوليرا.
+
+|
 
 Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)
 ------------------------------------------------------------------------------------------------------------------------------
