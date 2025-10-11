@@ -71,7 +71,7 @@ part of the world, such as Africa or Asia?
 
 *Une question épidémiologique importante était : d’où provenait la bactérie V. cholerae responsable de l’épidémie d’Haïti de 2022? Avait-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie d’Haïti de 2022 était-elle due à une introduction totalement nouvelle en Haïti, en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
 
-كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت ضمة الكوليرا التي تسببت في تفشي المرض في هايتي عام ٢٠٢٢؟
+كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت بكتيريا ضمة الكوليرا التي تسببت في تفشي المرض في هايتي عام ٢٠٢٢؟
 
 هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً في البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟ أم أن تفشي المرض في هايتي عام ٢٠٢٢ كان نتيجة دخول جديد تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
 
