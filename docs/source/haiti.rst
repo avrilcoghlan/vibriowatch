@@ -1,5 +1,5 @@
-Case study - Haiti 2022 *(Étude de cas - Haïti 2022 دراسة حالة - هايتي)*
-====================================================================
+Case study - Haiti 2022 *(Étude de cas - Haïti 2022) دراسة حالة - هايتي*
+===================================================================
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
@@ -13,6 +13,8 @@ global understanding of cholera.
 
 *Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.*
 
+هذه الصفحة مخصصة لمهنيي الصحة العامة والعلماء والمسؤولين الحكوميين في هايتي، وكذلك المريض الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا هذه عامة وبالتالي المساهمة في فهمنا العالمي للكوليرا.
+
 This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
 Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
@@ -20,18 +22,20 @@ persistance in the environment between outbreaks.
 
 *Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
-* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
-* `The H22 genome (Le génome H22)`_.
-* `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)`_.
-* `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)`_.
-* `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)`_
-* `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
-* `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
-* `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
-* `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
-* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
-* `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
+اختيرت دراسة الحالة هذه لأنها توضح استمرار الكوليرا في بلد أو منطقة بين وبائين. كما توضح كيف يصعب، في حال تجزؤ العينات، التمييز بين استمرار الكوليرا في بلد ما وإعادة ظهورها من بلد مجاور. علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار الكوليرا بين السكان بين وبائين واستمرارها في البيئة بينهما.
+
+* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022) وباء هايتي في عام`_.
+* `The H22 genome (Le génome H22) H22 جينوم العزلة`_.
+* `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch) ابحث عن جينوم H22 في Vibriowatch`_.
+* `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22) جودة تجميع جينوم H22`_.
+* `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?) هل من المتوقع أن ينتج عزل H22 سموم الكوليرا؟`_
+* `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?) هل من المتوقع أن يكون لعزل H22 مقاومة للمضادات الحيوية؟`_
+* `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?) هل من المتوقع أن يحتوي عزل H22 على البلازميدات؟`_
+* `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?) ما هي المجموعة المصليّة المتوقعة لعزل H22؟`_
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?) هل ينتمي H22 إلى سلالة جائحة ضمة الكوليرا؟`_.
+* `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?) ما هي أقرب أقارب H22 بين جينومات ضمة الكوليرا المنشورة؟`_.
+* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?) ماذا يمكننا أن نقول عن أصول تفشي المرض في هايتي عام 2022، استناداً إلى جينوم H22؟`_
+* `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022) تأملات حول دراسة حالة هايتي 2022`_
 
 The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
