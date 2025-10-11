@@ -591,10 +591,22 @@ If you learn better by seeing rather than reading, see the `video on finding out
 
 .. _vidéo sur la découverte de la lignée de H22, en utilisant Vibriowatch: https://youtu.be/v03msIL6oMA 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on finding out the lineage of H22, using Vibriowatch`_).
+
+.. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
+
+|
+|
+
 The current pandemic (seventh pandemic) of cholera began in the 1960s and has been caused by the current pandemic lineage of *Vibrio cholerae*, known as the "7PET lineage". The 7PET lineage is a highly infectious and virulent lineage, and causes explosive outbreaks and huge epidemics.
 
 *La pandémie actuelle (septième pandémie) de choléra a débuté dans les années 1960 et a été causée par la lignée pandémique actuelle de Vibrio cholerae, connue sous le nom de lignée 7PET.
 La lignée 7PET est hautement infectieuse et virulente, et provoque des flambées épidémiques massives.*
+
+بدأ جائحة الكوليرا الحالي (الوباء السابع) في ستينيات القرن الماضي، وتسببت فيه سلالة ضمة الكوليرا الوبائية الحالية، المعروفة باسم سلالة "7PET". سلالة "7PET" شديدة العدوى والضراوة، وتُسبب فاشيات هائلة وأوبئة هائلة.
+
+|
+|
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -605,12 +617,24 @@ H22 at the top of its report page (see under the heading "MLST"):
 
 *Un moyen rapide de déterminer si un isolat appartient vraisemblablement à la lignée 7PET consiste à consulter les résultats du MLST (typage de séquences multilocus) de l'isolat dans Vibriowatch. Les résultats du MLST pour l'isolat sont affichés en haut de la page du rapport génomique de l'isolat dans Vibriowatch. Voici les résultats du MLST pour l'isolat H22 en haut de sa page Web (voir sous la rubrique MLST):*
 
+هناك طريقة سريعة لمعرفة ما إذا كانت العزلة تنتمي على الأرجح إلى سلالة 7PET، وهي الاطلاع على نتائج اختبار MLST (النمط التسلسلي متعدد المواقع) للعزلة في Vibriowatch.
+
+تُعرض نتائج اختبار MLST للعزلة أعلى صفحة تقرير الجينوم الخاص بها في Vibriowatch. هنا، يُمكننا رؤية نتائج اختبار MLST للعزلة H22 أعلى صفحة تقريرها (انظر تحت عنوان "MLST"):
+
 .. image:: Picture115.png
   :width: 600
+
+|
+|
 
 We can see that isolate H22 is classified as MLST sequence type ST69. 
 
 *Nous pouvons voir que l'isolat H22 est classé comme type de séquence MLST ST69.*
+
+يمكننا أن نرى أن العزلة H22 تم تصنيفها ضمن نوع تسلسل MLST ST69.
+
+|
+|
 
 A second approach for figuring out whether your isolate belongs to the pandemic lineage (7PET lineage) or not, is to look at the
 PopPUNK cluster of your isolate. PopPUNK is a tool for classifying bacterial isolates into lineages. At the top of the
@@ -618,6 +642,11 @@ Vibriowatch genome report page for isolate H22 (see above), we can see the PopPU
 You can see that isolate H22 belongs to the PopPUNK lineage 1 (also known as VC1).
 
 *Une deuxième approche pour déterminer si votre isolat appartient à la lignée pandémique (lignée 7PET) consiste à examiner le cluster PopPUNK de votre isolat. PopPUNK est un outil logiciel de classification des isolats bactériens en lignées. En haut de la page du rapport génomique Vibriowatch pour l'isolat H22 (voir ci-dessus), les informations PopPUNK sont visibles sous la rubrique Lineage. Vous pouvez constater que l'isolat H22 appartient à la lignée PopPUNK 1 (également appelée VC1).*
+
+هناك طريقة أخرى لمعرفة ما إذا كانت عزلتك تنتمي إلى سلالة الجائحة (سلالة 7PET) أم لا، وهي النظر إلى مجموعة PopPUNK الخاصة بها. PopPUNK هي أداة لتصنيف عزلات البكتيريا إلى سلالات. في أعلى صفحة تقرير جينوم Vibriowatch للعزلة H22 (انظر أعلاه)، يمكنك رؤية معلومات PopPUNK تحت عنوان "السلالة". يمكنك أن ترى أن العزلة H22 تنتمي إلى سلالة PopPUNK 1 (المعروفة أيضًا باسم VC1).
+
+|
+|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -634,8 +663,16 @@ pandémique actuelle de Vibrio cholerae (7PET) est ST515. Si un isolat est ST69 
 
 .. _le tableau de correspondance entre les clusters PopPUNK et les lignées connues: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
+ST69 هو أحد أنواع التسلسلات الشائعة في سلالة الجائحة الحالية (7PET) من ضمة الكوليرا. هناك نوع تسلسل آخر يُرى أحيانًا في سلالة الجائحة من ضمة الكوليرا وهو ST515. إذا كانت العينة المعزولة ST69 أو ST515، فمن المرجح جدًا أنها تنتمي إلى سلالة الجائحة. هذا يشير إلى أن H22 تنتمي إلى سلالة 7PET.
+
+من نتائج PopPUNK، وجدنا أن H22 تنتمي إلى مجموعة PopPUNK VC1؛ وهذا يتوافق مع سلالة الجائحة الحالية (سلالة 7PET). وهكذا، وكما هو الحال في نتائج MLST، تشير نتائج PopPUNK إلى أن العينة المعزولة H22 تنتمي إلى سلالة الجائحة الحالية.
+
+|
+
 What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ما هي أقرب أقارب H22 بين جينومات ضمة الكوليرا المنشورة؟
 
 If you learn better by seeing rather than reading, see the `video on identifying the closest relatives of H22, using Vibriowatch`_.
 
