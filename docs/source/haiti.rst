@@ -417,7 +417,6 @@ Based on the results above, we would predict H22 to have an intermediate level o
 وبناءً على النتائج المذكورة أعلاه، نتوقع أن يكون لدى H22 مستوى متوسط ​​من المقاومة للسيبروفلوكساسين، وأن يكون مقاومًا للتريميثوبريم والسلفاميثوكسازول.
 
 |
-
 |
 
 This agrees with the evidence in the paper of `Rubin et al 2022`_, who reported that from laboratory testing results, H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
@@ -446,9 +445,21 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 .. _vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/bPF2w3QDWfk 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting plasmids in H22, using Vibriowatch`_).
+
+.. _video on predicting plasmids in H22, using Vibriowatch: https://youtu.be/_mtfCiBlJac 
+
+|
+|
+
 Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
 
 *Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez Vibrio cholerae, mais de tels grands plasmides sont relativement rares.*
+
+يمكن أن تنتقل جينات مقاومة مضادات الميكروبات على البلازميدات الكبيرة في ضمة الكوليرا، ولكن مثل هذه البلازميدات الكبيرة نادرة نسبيًا.
+
+|
+|
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -457,12 +468,22 @@ To find out whether the H22 isolate is predicted to carry a plasmid, we can look
 
 *Pour savoir si l'isolat H22 est censé contenir un plasmide, nous pouvons consulter la section Plasmid Inc Types de la page du rapport sur le génome de H22:*
 
+ولمعرفة ما إذا كان من المتوقع أن تحمل العزلة المسماة H22 بلازميدًا، يمكننا إلقاء نظرة على قسم "أنواع Plasmid Inc" في صفحة تقرير الجينوم لـ H22:
+
 .. image:: Picture123.png
   :width: 350
+
+|
+|
 
 We see that there are no predicted plasmids in H22.
 
 *Nous voyons qu’il n’y a pas de plasmides prédits dans H22.*
+
+نرى أنه لا توجد بلازميدات متوقعة في H22.
+
+|
+|
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -472,6 +493,10 @@ plasmids, and also if the assembly quality is poor, it's possible that plasmids 
 we would predict that there are no large plasmids in H22.
 
 *Vibriowatch ne prédit aucun plasmide dans l'isolat H22. Notez que la prédiction des plasmides par Vibriowatch peut manquer de précision pour les petits plasmides. De plus, si la qualité de l'assemblage est médiocre, il est possible que Vibriowatch ne prédise pas certains plasmides. Pour H22, d'après les résultats de Vibriowatch, nous prédisons l'absence de grands plasmides.*
+
+لم يتنبأ جهاز Vibriowatch بوجود بلازميدات في عزلة H22. تجدر الإشارة إلى أن التنبؤ بالبلازميدات في Vibriowatch قد لا يكون دقيقًا جدًا للبلازميدات الصغيرة، وإذا كانت جودة التجميع رديئة، فمن المحتمل ألا يكتشف Vibriowatch البلازميدات. بالنسبة لـ H22، وبناءً على نتائج Vibriowatch، نتوقع عدم وجود بلازميدات كبيرة فيه.
+
+|
 
 What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)
 ----------------------------------------------------------------------------------------------------
