@@ -935,14 +935,14 @@ section of the H22 genome report page:
 *Nous allons maintenant expliquer comment construire un arbre phylogénétique pour H22 et ses plus proches parents dans Vibriowatch. Comme mentionné précédemment, nous pouvons identifier les proches parents de H22 en consultant la section Core Genome Clustering de la page du rapport sur le génome de H22:*
 
 .. image:: Picture124.png
-  :width: 600
+  :width: 700
 
 This network shows 1326 isolates that are closely related, one of which is H22. To build a phylogenetic tree of these 1326 isolates, we can build a "collection" for the isolates in Vibriowatch, and the collection will include a phylogenetic tree. To build a collection for the 1326 isolates in the network, you can click on the big purple "LIST GENOMES" button to list all 1326 genomes. This will bring up a list of all the genomes; here is just the first few:
 
 *Ce réseau présente 1326 isolats étroitement apparentés, dont H22. Pour construire un arbre phylogénétique de ces 1326 isolats, nous pouvons créer une Collection d'isolats dans Vibriowatch. Cette collection inclura un arbre phylogénétique. Pour créer une collection des 1326 isolats du réseau, cliquez sur le gros bouton violet LIST GENOMES pour lister tous les génomes. La liste de tous les génomes s'affichera; en voici quelques-uns:*
 
 .. image:: Picture133.png
-  :width: 600
+  :width: 800
 
 To make a collection for all these isolates, first check that the purple button at the top right of the screen says
 "0 Selected Genomes". If it says "X Selected Genomes", and X is not zero, then click on the button, and then click on 
@@ -952,7 +952,7 @@ result in ticks in all the boxes beside all the isolates:
 *Pour créer une collection de tous ces isolats, vérifiez d'abord que le bouton violet en haut à droite de l'écran indique 0 Selected Genomes. S'il indique X Selected Genomes et que X est différent de zéro, cliquez sur le bouton, puis sur Clear All dans le menu qui apparaît. Sélectionnez ensuite les 1 326 isolats en cochant la case Name en haut de la liste des isolats. Toutes les cases correspondant à chaque isolat devraient alors être cochées:*
 
 .. image:: Picture134.png
-  :width: 600
+  :width: 800
 
 Now click on the purple button saying "1326 Selected Genomes" at the top right of the webpage.
 You can now click on that button to make a collection (see `How To Make a Collection of Isolates in Vibriowatch`_ for more details).
