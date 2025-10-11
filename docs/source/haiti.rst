@@ -895,6 +895,11 @@ close relatives.
 
 *Pour étudier les origines de l’épidémie d’Haïti de 2022, nous pouvons établir un arbre phylogénétique de l’isolat H22 et de ses proches parents.*
 
+للتحقق من أصول تفشي المرض في هايتي عام 2022، يمكننا إنشاء شجرة تطورية لعزلة H22 وأقاربها المقربين.
+
+|
+|
+
 If you learn better by seeing rather than reading, see the `video 1 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_
 and `video 2 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_ and
 and `video 3 on building a phylogenetic tree for the Haiti 2022 outbreak, using Vibriowatch`_.
