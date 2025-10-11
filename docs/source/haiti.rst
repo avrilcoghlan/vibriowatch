@@ -744,6 +744,8 @@ were collected in the top right panel, and a timeline of when the isolates were 
 
 *Pour examiner le réseau de plus près, cliquez sur le gros bouton violet VIEW CLUSTER. Vous accéderez alors à une nouvelle vue: le réseau en haut à gauche, une carte des lieux de collecte des isolats en haut à droite et une chronologie de la collecte des isolats en bas.*
 
+لفحص الشبكة عن كثب، انقر على زر "عرض CLUSTER" الأرجواني الكبير. سينقلك هذا إلى عرض جديد، حيث يمكنك رؤية الشبكة في اللوحة العلوية اليسرى، وخريطة لأماكن جمع العينات في اللوحة العلوية اليمنى، وجدول زمني لوقت جمعها أدناه.
+
 .. image:: Picture125.png
   :width: 800
 
@@ -756,31 +758,51 @@ the top part of the network, in the top left panel that contains the network, yo
 
 *Vous pouvez à nouveau constater que le nœud violet représentant H22 (étiqueté H22) se trouve dans la partie supérieure du réseau. Pour sélectionner cette partie, dans le panneau supérieur gauche contenant le réseau, cliquez sur le bouton Contrôles en haut à droite:*
 
+يمكنك أن ترى مجددًا أن العقدة الأرجوانية التي تمثل H22 (والتي تحمل الرمز "H22") تقع في أعلى الرسم التخطيطي. لتحديد المنطقة العلوية من الرسم التخطيطي، في اللوحة العلوية اليسرى التي تحتوي على الرسم التخطيطي، يمكنك النقر على زر "عناصر التحكم" في أعلى يمين اللوحة.
+
 .. image:: Picture126.png
   :width: 50
+
+|
+|
 
 Then click on the button to the left of the "Controls" button, which is the "Lasso" button:
 
 *Cliquez ensuite sur le bouton à gauche du bouton Contrôles, qui est le bouton Lasso:*
 
+ثم قم بالضغط على الزر الموجود على يسار زر "Controls" وهو زر "Lasso":
+
 .. image:: Picture127.png
   :width: 100
 
-Then using the rollerball on your mouse, zoom in on the part of the network that contains H22, to see H22 and its most
+|
+|
+
+Then using the mouse wheel on your mouse, zoom in on the part of the network that contains H22, to see H22 and its most
 closely related isolates:
 
 *Ensuite, à l'aide de la molette de souris d'ordinateur, zoomez sur la partie du réseau contenant H22 pour visualiser H22 et ses isolats les plus proches:*
 
+ثم باستخدام عجلة الماوس، قم بتكبير جزء الرسم التخطيطي الذي يحتوي على H22، لرؤية H22 وعزلاته الأكثر ارتباطًا به:
+
 .. image:: Picture128.png
   :width: 550
+
+|
+|
 
 Then draw a shape around H22 and its most closely related isolates, by using your mouse to click at points around the
 region containing H22 and its closest relatives:
 
 *Dessinez ensuite une forme autour de H22 et de ses isolats les plus proches, en cliquant avec la souris sur des points autour de la région contenant H22 et ses proches parents:*
 
+ثم ارسم شكلاً حول H22 وعزلاته الأقرب إليه، باستخدام الماوس للنقر على النقاط حول المنطقة التي تحتوي على H22 وأقرب أقاربه:
+
 .. image:: Picture129.png
   :width: 800
+
+|
+|
 
 You will see that it now only shows H22 and its closest isolates (that lie inside the shape you have drawn) in the network
 panel at the top left. The map in the top right panel now only shows one dot. If you move your mouse into the map panel,
@@ -789,8 +811,13 @@ relatives of H22 were all collected from Haiti:
 
 *Vous constaterez que seuls H22 et ses isolats les plus proches (situés à l'intérieur de la forme que vous avez dessinée) sont désormais affichés dans le panneau Réseau en haut à gauche. La carte en haut à droite ne présente plus qu'un seul point. En déplaçant la souris sur le panneau Carte et en utilisant la molette pour dézoomer, vous constaterez que ce point se trouve en Haïti. Les parents les plus proches de H22 ont donc tous été collectés en Haïti:*
 
+ستلاحظ أن لوحة الرسم البياني في أعلى اليسار تُظهر الآن فقط H22 وأقرب أقاربه (الذين يقعون داخل الشكل الذي رسمته). تُظهر الخريطة في أعلى اليمين نقطة واحدة فقط. إذا حركت الماوس داخل لوحة الخريطة، واستخدمت عجلة الماوس لتصغير الصورة، ستجد أن هذه النقطة تقع في هايتي، أي أن أقرب أقارب H22 جُمعت جميعها من هايتي.
+
 .. image:: Picture130.png
   :width: 800
+
+|
+|
 
 To find out when these close relatives were collected, we need to look at their years of collection. By default, the
 dates in the timeline panel at the bottom of the screen are given as days and months. To instead show the years,
@@ -798,23 +825,38 @@ click on the "Controls" button at the top right of the timeline panel:
 
 *Pour savoir quand ces proches parents ont été collectés, il faut examiner leurs années de collecte. Par défaut, les dates dans la chronologie en bas de l'écran sont indiquées en jours et en mois. Pour afficher les années, cliquez sur le bouton Contrôles en haut à droite de la chronologie:*
 
+لمعرفة تاريخ جمع هذه الأقارب المقربين، علينا النظر إلى سنوات جمعها. افتراضيًا، تُعرض التواريخ في لوحة الجدول الزمني أسفل الشاشة بالأيام والأشهر. لعرض السنوات، انقر على زر "عناصر التحكم" أعلى يمين لوحة الجدول الزمني.
+
 .. image:: Picture126.png
   :width: 50
+
+|
+|
 
 Now change "Day" to "Year" in the menu that appears.
 
 *Changez maintenant Day en Year dans le menu qui apparaît.*
 
+الآن قم بتغيير "اليوم" إلى "السنة" في القائمة التي تظهر.
+
 .. image:: Picture131.png
   :width: 350
+
+|
+|
 
 Then click on the "X" at the corner of the menu to close that menu. You will now see that the timeline panel
 with the years when the most closely related isolates were collected:
 
 *Cliquez ensuite sur le X dans le coin du menu pour le fermer. Vous verrez alors la chronologie indiquant les années de collecte des isolats les plus proches:*
 
+ثم انقر على "X" في زاوية القائمة لإغلاقها. ستظهر لك الآن لوحة الجدول الزمني التي توضح السنوات التي جُمعت فيها عزلة H22 وأقرب أقاربها.
+
 .. image:: Picture132.png
   :width: 900
+
+|
+|
 
 In the timeline you can see one square at the right hand end, above "2022"; this is the isolate H22, which was collected in 2022.
 You can also see squares above the years 2013, 2014, 2015 and 2017, indicating that the closest relatives of H22
@@ -823,14 +865,25 @@ in the Vibriowatch database are isolates collected in Haiti in the years 2013, 2
 *Sur la chronologie, vous pouvez voir un carré à l'extrémité droite, au-dessus de 2022; il s'agit de l'isolat H22, collecté en 2022.
 Vous pouvez également voir des carrés au-dessus des années 2013, 2014, 2015 et 2017, indiquant que les plus proches parents de H22 dans la base de données Vibriowatch sont des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.*
 
+في الجدول الزمني، يمكنك رؤية مربع واحد في الطرف الأيمن، فوق "2022"؛ هذه هي عزلة H22، التي جُمعت في عام 2022.
+
+يمكنك أيضًا رؤية مربعات فوق الأعوام 2013، 2014، 2015، و2017، مما يشير إلى أن العزلات الأكثر صلة بعزلة H22 في قاعدة بيانات Vibriowatch هي عزلات جُمعت في هايتي في الأعوام 2013، 2014، 2015، و2017.
+
 .. image:: HowToInterpretTheResult.png
   :width: 600
+
+|
+|
 
 The results from the cgMLST (core genome MLST) analysis above tell us the closest relatives
 of the H22 isolate among the >6000 published genomes in Vibriowatch are other published genomes from
 Haiti, namely, isolates collected in Haiti in the years 2013, 2014, 2015 and 2017.
 
 *Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont d'autres génomes publiés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.*
+
+تشير نتائج تحليل cgMLST (تحليل الجينوم الأساسي MLST) أعلاه إلى أن أقرب أقارب عزلة H22 من بين أكثر من 6000 جينوم في Vibriowatch هي جينومات منشورة أخرى من هايتي، وهي عزلات جُمعت في هايتي في الأعوام 2013 و2014 و2015 و2017.
+
+|
 
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
