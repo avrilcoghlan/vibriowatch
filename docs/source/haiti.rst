@@ -351,11 +351,23 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 .. _vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch: https://youtu.be/sOl5hqRyBa0 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_).
+
+.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/fexfUXza8M8 
+
+|
+|
+
 The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
 children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
 antimicrobial resistance to these recommended antimicrobials would be a concern.
 
 *Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.*
+
+العلاج الأساسي للكوليرا هو معالجة الجفاف، ولكن تُعطى المضادات الحيوية للمرضى الأكثر عرضة للخطر، مثل النساء الحوامل والأطفال الصغار والمصابين بفيروس نقص المناعة البشرية. توصي منظمة الصحة العالمية باستخدام المضادات الحيوية أزيثروميسين ودوكسيسيكلين وسيبروفلوكساسين لعلاج الكوليرا. لذلك، فإن أي مقاومة لهذه المضادات الحيوية الموصى بها ستكون مصدر قلق.
+
+|
+|
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -364,8 +376,13 @@ To find out whether the H22 isolate carries antimicrobial resistance (AMR), we c
 
 *Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur le génome de H22:*
 
+ولمعرفة ما إذا كان H22 يحمل مقاومة للمضادات الميكروبية (AMR)، يمكننا إلقاء نظرة على قسم "AMR" في صفحة تقرير الجينوم لـ H22:
+
 .. image:: Picture122.png
   :width: 550
+
+|
+|
 
 You can see that the H22 isolate is not predicted to have resistance genes or mutations to azithromycin or doxycycline, but is predicted to
 have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA_S83I* and *parC_S85L* mutations (causing a substitution
@@ -373,12 +390,23 @@ from S to I at position 83 of the GyrA protein, and a substitution from S to L a
 
 *On constate que l'isolat H22 ne devrait pas présenter de gènes de résistance ni de mutations à l'azithromycine ou à la doxycycline, mais devrait présenter un niveau de résistance intermédiaire à la ciprofloxacine, car il est porteur de deux mutations de résistance: gyrA_S83I et parC_S85L (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). On constate également qu'il devrait être résistant au triméthoprime (car il porte le gène dfrA1) et au sulfaméthoxazole (car il porte le gène sul2).*
 
+كما هو واضح، لا يُتوقع أن تحتوي عزلة H22 على جينات أو طفرات مقاومة للأزيثروميسين أو الدوكسيسيكلين، بل يُتوقع أن تكون ذات مستوى مقاومة متوسط ​​للسيبروفلوكساسين لأنها تحمل طفرتين مقاومتين، هما gyrA_S83I وparC_S85L. تُسبب هاتان الطفرتان استبدالًا من S إلى I عند الموضع 83 من بروتين GyrA، واستبدالًا من S إلى L عند الموضع 85 من بروتين ParC، على التوالي. كما يُتوقع أن تكون H22 مقاومة للتريميثوبريم لأنها تحمل الجين dfrA1، وللسلفاميثوكسازول لأنها تحمل الجين sul2.
+
+|
+|
+
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
 Based on the results above, we would predict H22 to have an intermediate level of resistance to ciprofloxacin, and to be resistant to trimethoprim and sulfamethoxazole.
 
 *Sur la base des résultats ci-dessus, nous prédisons que H22 aura un niveau intermédiaire de résistance à la ciprofloxacine et qu’il sera résistant au triméthoprime et au sulfaméthoxazole.*
+
+وبناءً على النتائج المذكورة أعلاه، نتوقع أن يكون لدى H22 مستوى متوسط ​​من المقاومة للسيبروفلوكساسين، وأن يكون مقاومًا للتريميثوبريم والسلفاميثوكسازول.
+
+|
+
+|
 
 This agrees with the evidence in the paper of `Rubin et al 2022`_, who reported that from laboratory testing results, H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
 resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
@@ -388,6 +416,10 @@ in the past in some locations (`Das et al 2020`_).
 .. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
 
 *Ceci concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté que, d'après les résultats des tests de laboratoire, H22 présente une résistance au triméthoprime et au sulfaméthoxazole, ainsi qu'une faible résistance à la ciprofloxacine. Le triméthoprime et le sulfaméthoxazole ne sont pas les antimicrobiens recommandés par l'OMS pour le choléra, mais ont été utilisés par le passé dans certaines régions* (`Das et al 2020`_).
+
+يتفق هذا مع الأدلة الواردة في ورقة روبن وآخرون (2022)، الذين أفادوا، بناءً على نتائج الاختبارات المعملية، بأن بكتيريا H22 مقاومة للتريميثوبريم والسلفاميثوكسازول، ومقاومة منخفضة المستوى للسيبروفلوكساسين. يُذكر أن التريميثوبريم والسلفاميثوكسازول ليسا من مضادات الميكروبات الموصى بها من قِبل منظمة الصحة العالمية لعلاج الكوليرا، ولكنهما استُخدما سابقًا في بعض المواقع.
+
+|
 
 Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)
 ----------------------------------------------------------------------------------
