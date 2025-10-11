@@ -888,6 +888,8 @@ Haiti, namely, isolates collected in Haiti in the years 2013, 2014, 2015 and 201
 What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ماذا يمكننا أن نقول عن أصول تفشي المرض في هايتي عام 2022، استناداً إلى جينوم H22؟
+
 To investigate the origins of the Haiti 2022 outbreak, we can make a phylogenetic tree of the H22 isolate and its
 close relatives. 
 
