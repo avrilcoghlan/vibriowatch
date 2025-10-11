@@ -581,6 +581,8 @@ as some *V. cholerae* isolates of other (non-pandemic) lineages also have serogr
 Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)
 -----------------------------------------------------------------------------------------------------------------------------
 
+هل تنتمي البكتيريا المعزولة المسماة H22 إلى سلالة جائحة ضمة الكوليرا؟
+
 If you learn better by seeing rather than reading, see the `video on finding out the lineage of H22, using Vibriowatch`_.
 
 .. _video on finding out the lineage of H22, using Vibriowatch: https://youtu.be/EBKcwA3pjA0 
