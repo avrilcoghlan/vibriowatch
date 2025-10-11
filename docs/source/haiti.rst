@@ -682,9 +682,21 @@ If you learn better by seeing rather than reading, see the `video on identifying
 
 .. _vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/08PCqdvbhWE 
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on identifying the closest relatives of H22, using Vibriowatch`_).
+
+.. _video on identifying the closest relatives of H22, using Vibriowatch: https://youtu.be/essXib5sZ0c 
+
+|
+|
+
 Vibriowatch includes a large set of >6000 published *V. cholerae* genomes, so you can search for the closest relatives of a new isolate among those published genomes.
 
 *Vibriowatch comprend un large ensemble de > 6 000 génomes V. cholerae publiés, vous pouvez donc rechercher les parents les plus proches d'un nouvel isolat parmi ces génomes publiés.*
+
+يتضمن Vibriowatch مجموعة كبيرة تضم أكثر من 6000 جينوم منشور لـ V. cholerae، لذلك يمكنك البحث عن أقرب أقارب لعزلة جديدة بين تلك الجينومات المنشورة.
+
+|
+|
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -694,8 +706,13 @@ section of the H22 genome report page, which gives the result of a cgMLST (core 
 
 *Pour trouver les parents les plus proches de H22 parmi les génomes de V. cholerae publiés, consultez la section Core Genome Clustering de la page du rapport sur le génome H22, qui fournit le résultat d'une analyse cgMLST (analyse MLST des régions ancestrales partagées du génome de Vibrio cholerae):*
 
+للعثور على أقرب أقارب لـ H22 بين جينومات ضمة الكوليرا المنشورة، يُمكننا البحث في قسم "الجينوم الأساسي" في صفحة تقرير جينوم H22، والذي يُعطي نتيجة تحليل cgMLST ("تحليل الجينوم الأساسي MLST"):
+
 .. image:: Picture124.png
   :width: 600
+
+|
+|
 
 You can see a network showing blobs representing sequenced isolates, where H22 is shown as a purple blob (and labelled "H22"), and other
 closely related isolates are shown by grey blobs. The edges (lines) in the network show relationships between related isolates,
@@ -705,11 +722,17 @@ to be more closely evolutionarily related to H22.
 
 *Vous pouvez observer un réseau de nœuds représentant les isolats séquencés. H22 est représenté par un nœud violet (étiqueté H22), tandis que les autres isolats étroitement apparentés sont représentés par des nœuds gris. Les arêtes (lignes) du réseau illustrent les relations entre les isolats apparentés. La longueur d'une arête entre deux isolats (deux nœuds) représente le nombre de différences génétiques entre eux. Les isolats les plus proches de H22 dans le réseau présentent moins de différences génétiques dans leur ADN et sont donc supposés être plus étroitement apparentés à H22 sur le plan évolutif.*
 
+يمكنك رؤية شبكة تُظهر عُقدًا تُمثل العزلات المُتسلسلة، حيث يُظهر H22 كعقدة أرجوانية (ومُسمّاة بـ "H22")، بينما تُعرض العزلات الأخرى وثيقة الصلة بعُقد رمادية. تُظهر الحواف (الخطوط) في الشبكة العلاقات بين العزلات ذات الصلة، حيث يُمثل طول الحافة بين عزلتين (عقدتين) عدد الاختلافات الجينية بينهما. تختلف العزلات الأقرب إلى H22 في الشبكة عنه في حمضها النووي بدرجة أقل، ولذلك يُفترض أنها أقرب تطوريًا إلى H22.
+
+|
+|
+
 You can see that at the top of the network it says "Cluster of 1326 at a threshold of 10", so these are 1326
 isolates that are closely related and differ from each other by 10 or less mutations in the DNA of their core genome
 regions ("core genome regions" are regions of the genome shared by almost all *V. cholerae* isolates).
 
 *Vous pouvez voir qu'en haut du réseau, il est indiqué Groupe de 1 326 à un Seuil de 10. Il s'agit donc de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions génomiques ancestrales communes (les régions du génome partagées par presque tous les isolats de V. cholerae).*
+
 
 To examine the network a bit more closely, you can click on the big purple "VIEW CLUSTER" button.
 This will bring you to a new view, in which you can see the network in the top left panel, a map of where the isolates
