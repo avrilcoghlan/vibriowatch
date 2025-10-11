@@ -136,6 +136,8 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
 
+إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on finding H22's report page in Vibriowatch`_).
+
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
 .. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
