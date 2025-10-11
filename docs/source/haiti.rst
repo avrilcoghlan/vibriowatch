@@ -1216,3 +1216,6 @@ Contact
 I will be grateful if you will send me (Avril Coghlan) corrections or suggestions for improvements to my email address alc@sanger.ac.uk
 
 *Je vous serais reconnaissant de bien vouloir m'envoyer (Avril Coghlan) des corrections ou des suggestions d'amélioration à mon adresse e-mail alc@sanger.ac.uk*
+
+سأكون ممتنًا إذا أرسلت لي التصحيحات أو الاقتراحات للتحسينات إلى عنوان بريدي الإلكتروني alc@sanger.ac.uk
+
