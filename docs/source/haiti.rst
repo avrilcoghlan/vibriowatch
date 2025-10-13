@@ -30,8 +30,6 @@ persistance in the environment between outbreaks.
 
 علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار وجود ضمة الكوليرا بين السكان بين تفشيات المرض، واستمرار وجودها في البيئة بين تفشيات المرض.
   
-|
-
 .. image:: HorizontalDivider.png
   :width: 1200
 
@@ -47,8 +45,6 @@ persistance in the environment between outbreaks.
 * `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
 * `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
-
-|
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -100,7 +96,8 @@ A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soi
 هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً لدى البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟
 أم أن تفشي وباء هايتي عام ٢٠٢٢ كان نتيجة دخول سلالة جديدة تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
 
-|
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 The H22 genome (Le génome H22)
 ------------------------------
@@ -120,6 +117,8 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 في أواخر عام ٢٠٢٢، نشر روبن وآخرون (٢٠٢٢) جينوم عينة معزولة من ضمة الكوليرا من تفشي وباء الكوليرا في هايتي عام ٢٠٢٢، والتي أطلقوا عليها اسم العينة H22. شارك في إعداد هذا العمل اتحاد دولي من العلماء وخبراء الصحة العامة من المختبر الوطني للصحة العامة في هايتي، وزانمي لاسانتي في هايتي، ومستشفى بريغهام والنساء في أمريكا، ومستشفى ماساتشوستس العام في أمريكا، والمركز الدولي لأبحاث أمراض الإسهال في بنغلاديش.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
+
+------------
 
 .. image:: Picture172.png
   :width: 800
@@ -154,8 +153,7 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. ما هي أقرب سلالات ضمة الكوليرا الجينومية المنشورة لعزلة H22؟
 #. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
 
-|
-|
+------------
 
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
@@ -165,7 +163,8 @@ everyone can see.
 
 دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
 
-|
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
 ------------------------------------------------------------------------------
@@ -182,8 +181,7 @@ If you learn better by seeing rather than reading, see the `video on finding H22
 
 .. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
 
-|
-|
+------------
 
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
@@ -202,8 +200,7 @@ First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H
 
 .. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-|
-|
+------------
 
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
 
@@ -211,15 +208,20 @@ The report page shows the curated metadata for the isolate, as well as bioinform
 
 تعرض صفحة التقرير البيانات الوصفية المُعدّة بعناية للعزلة، بالإضافة إلى تحليلات المعلوماتية الحيوية لها. يظهر هذا أعلى صفحة تقرير H22:
 
+------------
+
 .. image:: Picture115.png
   :width: 600
 
-|
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)
 -----------------------------------------------------------------------
 
 جودة تجميع جينوم H22
+
+------------
 
 If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
 
@@ -231,8 +233,7 @@ If you learn better by seeing rather than reading, see the `video on investigati
 
 .. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
-|
-|
+------------
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -246,11 +247,12 @@ looks like this:
 
 لنلقِ نظرة سريعة على إحصائيات تجميع جينوم H22، للتأكد من أن التجميع يبدو بجودة جيدة نسبيًا، ويحتوي على محتوى GC المتوقع لضمة الكوليرا. للاطلاع على إحصائيات التجميع، انتقل إلى أسفل صفحة تقرير جينوم H22. سترى قسمًا بعنوان "إحصائيات التجميع"، والذي يبدو كالتالي:
 
+------------
+
 .. image:: Picture116.png
   :width: 550
 
-|
-|
+------------
 
 We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. Another commonly used measures of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
 
@@ -260,8 +262,7 @@ We can see that the assembly for the H22 isolate has a genome size of about 4.0 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-|
-|
+------------
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -274,8 +275,7 @@ The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-|
-|
+------------
 
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
@@ -283,12 +283,15 @@ We would usually consider that an assembly is of relatively good quality if it c
 
 عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة متجاورة. يحتوي جينوم عزلة H22 على 44 وحدة متجاورة، لذا فهو ذو جودة جيدة نسبيًا.
 
-|
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)
 ---------------------------------------------------------------------------------------------------
 
 هل من المتوقع أن ينتج H22 "سم الكوليرا"؟
+
+------------
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
 
@@ -300,8 +303,7 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 .. _vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
 
-|
-|
+------------
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
@@ -313,8 +315,7 @@ complex consisting of CtxA and CtxB subunits. However, many isolates of other
 
 الكوليرا مرضٌ يتميز بإسهال مائي حاد، وتنجم أعراضه بشكل رئيسي عن سم الكوليرا (Ctx) الذي تفرزه بكتيريا ضمة الكوليرا. لذلك، يُعتبر سم الكوليرا عامل الضراوة الرئيسي لضمة الكوليرا. تحمل جميع عزلات سلالة الكوليرا الوبائية الحالية تقريبًا، سلالة "7PET"، جينات سم الكوليرا (الجينان ctxA وctxB) وتنتج سم الكوليرا، وهو مركب بروتيني يتكون من وحدتين فرعيتين CtxA وCtxB. ومع ذلك، فإن العديد من عزلات سلالات أخرى (غير وبائية) من ضمة الكوليرا لا تحمل جينات سم الكوليرا، وبالتالي لا تنتج سم الكوليرا.
 
-|
-|
+------------
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -326,11 +327,12 @@ of the genome report page for H22:
 
 ولمعرفة ما إذا كانت عزلة H22 تحمل جينات سموم الكوليرا، وبالتالي من المتوقع أن تنتج Ctx، يمكننا إلقاء نظرة على قسم "الضراوة" في صفحة تقرير الجينوم لـ H22:
 
+------------
+
 .. image:: Picture121.png
   :width: 550
 
-|
-|
+------------
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
@@ -338,8 +340,7 @@ You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted t
 
 يمكنك أن ترى أن هناك علامة صح بجوار "ctxA" و "ctxB" لذا من المتوقع أن يحمل H22 جينات سموم الكوليرا.
 
-|
-|
+------------
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
@@ -355,7 +356,8 @@ This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phen
 
 بما أنه من المتوقع أن يحمل جينوم H22 جيني ctxA وctxB، يمكننا التنبؤ بأنه يُنتج Ctx. وهذا يتفق مع الأدلة الواردة في ورقة روبن وآخرون (2022)، الذين أوردوا بيانات نمطية تُشير إلى أن H22 مُسبِّب للتسمم، أي أنه يُنتج سم الكوليرا.
 
-|
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)
 ------------------------------------------------------------------------------------------------------------------------------
