@@ -48,11 +48,9 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 O surto do Haiti em 2022 
 ------------------------
 
-***
-شیوع هائیتی ۲۰۲۲
+*** شیوع هائیتی ۲۰۲۲***
 
-ဟေတီ 2022 ဖြစ်ပွားမှု
-***
+***ဟေတီ 2022 ဖြစ်ပွားမှု***
 
 ------------
 
