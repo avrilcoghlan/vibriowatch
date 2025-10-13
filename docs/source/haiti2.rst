@@ -165,20 +165,16 @@ relevantes para a saúde pública e responder a perguntas sobre as origens do su
 #. ထုတ်ပြန်ထားတဲ့ Vibrio cholerae genomes တွေထဲမှာ H22 ရဲ့ အနီးစပ်ဆုံး ဆွေမျိုးတွေက ဘာတွေလဲ။
 #. H22 ဂျီနိုမ်ကိုအခြေခံ၍ ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်နှင့်ပတ်သက်၍ ကျွန်ုပ်တို့ဘာပြောနိုင်သနည်း။
 
-|
-|
+------------
 
 Vamos analisar o genoma H22 no Vibriowatch para responder a algumas dessas perguntas.
-
 O genoma do H22 está entre os aproximadamente 6.000 genomas que já adicionamos ao Vibriowatch, que são genomas "públicos" que
 todos podem ver.
 
 بیایید ژنوم H22 را در Vibriowatch تجزیه و تحلیل کنیم تا به برخی از این سؤالات پاسخ دهیم.
-
 ژنوم H22 یکی از حدود ۶۰۰۰ ژنومی است که قبلاً به Vibriowatch اضافه کرده‌ایم، که ژنوم‌های «عمومی» هستند و همه می‌توانند آنها را ببینند.
 
 ဤမေးခွန်းအချို့ကိုဖြေဆိုရန် Vibriowatch ရှိ H22 ဂျီနိုမ်ကို ခွဲခြမ်းစိတ်ဖြာကြည့်ကြပါစို့။ 
-
 H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
 လူတိုင်းမြင်နိုင်သည်။
 
