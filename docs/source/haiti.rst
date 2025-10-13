@@ -7,8 +7,7 @@ This section is a worked example of using Vibriowatch to analyse cholera genomic
 
 يعد هذا القسم مثالاً على استخدام Vibriowatch لتحليل بيانات الجينوم الخاصة بالكوليرا، باستخدام تفشي وباء الكوليرا في هايتي عام 2022 كمثال.
 
-|
-|
+------------
 
 We wish to pay homage to the public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
@@ -18,8 +17,7 @@ global understanding of cholera.
 
 نود أن نعرب عن تقديرنا للعاملين في مجال الصحة العامة والعلماء والموظفين الحكوميين في هايتي، وللمريض الذي تبرع بسخاء بعينة، لجعل هذه البيانات الجينومية للكوليرا متاحة للجمهور، وبالتالي المساهمة بشكل كبير في فهمنا العالمي للكوليرا.
 
-|
-|
+------------
 
 This case study has been selected as it is an example of *Vibrio cholerae* persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
@@ -33,7 +31,9 @@ persistance in the environment between outbreaks.
 علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار وجود ضمة الكوليرا بين السكان بين تفشيات المرض، واستمرار وجودها في البيئة بين تفشيات المرض.
   
 |
-|
+
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 * `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
 * `The H22 genome (Le génome H22)`_.
@@ -50,10 +50,15 @@ persistance in the environment between outbreaks.
 
 |
 
+.. image:: HorizontalDivider.png
+  :width: 1200
+
 The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
 ----------------------------------------------------
 
 تفشي المرض في هايتي 2022
+
+------------
 
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
 Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
@@ -68,8 +73,7 @@ Plus tard la même année, en octobre 2010, une importante épidémie de cholér
 
 لعلّكم تعلمون أنه في يناير/كانون الثاني 2010، ضرب زلزال كارثي جزيرة هايتي الكاريبية. وفي وقت لاحق من ذلك العام، وتحديدًا في أكتوبر/تشرين الأول 2010، انتشر وباء كوليرا واسع النطاق في هايتي، واستمر حتى عام 2019، وأسفر عن أكثر من 820 ألف إصابة وحوالي 10 آلاف وفاة. ويُعزى هذا التفشي إلى السلالة الوبائية الحالية لضمة الكوليرا، وتشير الدلائل إلى احتمال انتقاله من نيبال إلى هايتي عام 2010.
 
-|
-|
+------------
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
@@ -82,8 +86,7 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 
 لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
 
-|
-|
+------------
 
 An important epidemiological question was: where did the *V. cholerae* strain that caused the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
@@ -104,6 +107,8 @@ The H22 genome (Le génome H22)
 
 جينوم H22
 
+------------
+
 Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
 Laboratoire National de Santé Publique (National Public Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
@@ -119,8 +124,7 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 .. image:: Picture172.png
   :width: 800
 
-|
-|
+------------
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
