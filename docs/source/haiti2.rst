@@ -1,34 +1,34 @@
-Estudo de caso - Haiti 2022 *(Étude de cas - Haïti 2022) دراسة حالة - هايتي*
-===================================================================
+Estudo de caso - Haiti 2022 *(مطالعه موردی - هائیتی 2022) ဖြစ်ရပ်မှန်လေ့လာမှု - ဟေတီ ၂၀၂၂*
+===============================================================================
 
 Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados genômicos de cólera, usando o surto de 2022 no Haiti como exemplo.
 
-*Cette section est un exemple d’utilisation de Vibriowatch pour analyser les données génomiques du choléra, en utilisant l’épidémie d’Haïti de 2022 comme exemple.*
+این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
 
-يعد هذا القسم مثالاً على استخدام Vibriowatch لتحليل بيانات الجينوم الخاصة بالكوليرا، باستخدام تفشي وباء الكوليرا في هايتي عام 2022 كمثال.
+ဤအပိုင်းသည် ဟေတီ 2022 ဖြစ်ပွားမှုကို နမူနာအဖြစ် အသုံးပြု၍ ကာလဝမ်းမျိုးဗီဇဒေတာကို ခွဲခြမ်းစိတ်ဖြာရန် Vibriowatch ကို အသုံးပြုခြင်း၏ နမူနာတစ်ခုဖြစ်သည်။
 
 |
 |
 
-Esta página é dedicada aos profissionais de saúde pública, cientistas e servidores públicos do Haiti, e ao paciente
-que generosamente doou uma amostra, por tornar esses dados genômicos da cólera publicamente disponíveis e, portanto, contribuir muito para nossa
-compreensão global da cólera.
+Gostaríamos de prestar homenagem aos profissionais de saúde pública, cientistas e servidores públicos do Haiti, e ao paciente que generosamente doou uma amostra, por tornar esses dados genômicos da cólera disponíveis publicamente e, portanto, contribuir muito para nossa compreensão global da cólera.
 
-*Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.*
+ما مایلیم از متخصصان بهداشت عمومی، دانشمندان و خدمتگزاران مردم هائیتی و از بیماری که سخاوتمندانه نمونه‌ای اهدا کرد، به خاطر در دسترس عموم قرار دادن این داده‌های ژنومی وبا و در نتیجه کمک شایانی به درک جهانی ما از وبا، ادای احترام کنیم.
 
-هذه الصفحة مخصصة لمهنيي الصحة العامة والعلماء والمسؤولين الحكوميين في هايتي، وكذلك المريض الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا هذه عامة وبالتالي المساهمة في فهمنا العالمي للكوليرا.
+ကျွန်ုပ်တို့သည် ဟေတီပြည်သူ့ကျန်းမာရေးပညာရှင်များ၊ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျေးကျွန်များနှင့် နမူနာတစ်ခုကို ရက်ရက်ရောရောလှူဒါန်းခဲ့သော လူနာအား ဂါရဝပြုလိုပါသည်။ 
+ဤ ကာလဝမ်းရောဂါ မျိုးရိုးဗီဇဆိုင်ရာ အချက်အလက်ကို လူသိရှင်ကြား ရရှိစေခြင်းဖြင့် ၎င်းတို့သည် ကာလဝမ်းရောဂါအကြောင်း ကျွန်ုပ်တို့၏ ကမ္ဘာလုံးဆိုင်ရာ နားလည်မှုကို များစွာ အထောက်အကူ ပြုစေပါသည်။
 
 |
 |
 
 Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibrio cholerae em um país ou região entre surtos. Ele também ilustra como, se a amostragem for irregular, é difícil distinguir entre a persistência dentro de um país e a reintrodução de um país vizinho. Além disso, ilustra como é muito difícil distinguir entre a persistência do Vibrio cholerae na população humana entre surtos e a persistência no ambiente entre surtos.
 
-*Cette étude de cas a été sélectionnée car elle illustre la persistance de Vibrio cholerae dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin.
-En outre, elle illustre la difficulté de distinguer la persistance de Vibrio cholerae dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
+این مطالعه موردی به این دلیل انتخاب شده است که نمونه‌ای از ویبریو کلرا است که در یک کشور یا منطقه بین شیوع‌ها باقی مانده است.
+همچنین نشان می‌دهد که اگر نمونه‌برداری تکه‌تکه باشد، تشخیص بین تداوم در داخل یک کشور و معرفی مجدد از یک کشور مجاور دشوار است.
+علاوه بر این، این نشان می‌دهد که چگونه تشخیص بین ماندگاری ویبریو کلرا در جمعیت انسانی بین شیوع‌ها، در مقابل ماندگاری آن در محیط بین شیوع‌ها بسیار دشوار است.
 
-اختيرت دراسة الحالة هذه لأنها مثال على استمرار وجود ضمة الكوليرا داخل بلد أو منطقة بين تفشيات المرض. كما توضح كيف يصعب التمييز بين استمرار وجودها داخل بلد ما وإعادة ظهورها من بلد مجاور، في حال عدم انتظام أخذ العينات.
-
-علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار وجود ضمة الكوليرا بين السكان بين تفشيات المرض، واستمرار وجودها في البيئة بين تفشيات المرض.
+နိုင်ငံတစ်ခု သို့မဟုတ် ဒေသတစ်ခုအတွင်း ကာလဝမ်းရောဂါဖြစ်ပွားမှုကြားကာလတွင် ဆက်လက်တည်ရှိနေသည့် Vibrio cholerae ၏ နမူနာတစ်ခုဖြစ်သောကြောင့် ဤဖြစ်ရပ်လေ့လာမှုကို ရွေးချယ်ထားပါသည်။
+နမူနာယူခြင်းသည် ကွက်တိဖြစ်နေပါက နိုင်ငံတစ်ခုအတွင်း၌ တည်မြဲမှုနှင့် အနီးနားနိုင်ငံမှ ပြန်လည်မိတ်ဆက်ခြင်းကြားတွင် ခွဲခြားရန်ခက်ခဲကြောင်း ၎င်းမှလည်း သရုပ်ဖော်သည်။ 
+ထို့အပြင်၊ ၎င်းသည် လူ့လူဦးရေတွင် Vibrio cholerae ၏တည်မြဲမှုကို ခွဲခြားရန် အလွန်ခက်ခဲပုံကို သရုပ်ဖော်ထားပြီး ရောဂါဖြစ်ပွားမှုကြား ပတ်ဝန်းကျင်တွင် ဆက်လက်တည်ရှိနေခြင်းကို သရုပ်ဖော်သည်။
   
 |
 |
