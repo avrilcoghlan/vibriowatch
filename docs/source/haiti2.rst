@@ -1,12 +1,12 @@
 Estudo de caso - Haiti 2022 *(مطالعه موردی - هائیتی 2022) ဖြစ်ရပ်မှန်လေ့လာမှု - ဟေတီ ၂၀၂၂*
 ===============================================================================
 
+------------
 Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados genômicos de cólera, usando o surto de 2022 no Haiti como exemplo.
 
 این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
 
 ဤအပိုင်းသည် ဟေတီ 2022 ဖြစ်ပွားမှုကို နမူနာအဖြစ် အသုံးပြု၍ ကာလဝမ်းမျိုးဗီဇဒေတာကို ခွဲခြမ်းစိတ်ဖြာရန် Vibriowatch ကို အသုံးပြုခြင်း၏ နမူနာတစ်ခုဖြစ်သည်။
-
 ------------
 
 Gostaríamos de prestar homenagem aos profissionais de saúde pública, cientistas e servidores públicos do Haiti, e ao paciente que generosamente doou uma amostra, por tornar esses dados genômicos da cólera disponíveis publicamente e, portanto, contribuir muito para nossa compreensão global da cólera.
