@@ -85,16 +85,17 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 |
 |
 
-An important epidemiological question was: where did the *V. cholerae* causing the Haiti 2022 outbreak come from?
+An important epidemiological question was: where did the *V. cholerae* strain that caused the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
 or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
 part of the world, such as Africa or Asia? 
 
-*Une question épidémiologique importante était : d’où provenait la bactérie V. cholerae responsable de l’épidémie d’Haïti de 2022? Avait-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie d’Haïti de 2022 était-elle due à une introduction totalement nouvelle en Haïti, en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
+*Une question épidémiologique importante était : d’où provenait la souche de V. cholerae à l’origine de l’épidémie de 2022 en Haïti?
+A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie de 2022 en Haïti était-elle due à une introduction totalement nouvelle en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
 
-كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت بكتيريا ضمة الكوليرا التي تسببت في تفشي المرض في هايتي عام ٢٠٢٢؟
-
-هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً في البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟ أم أن تفشي المرض في هايتي عام ٢٠٢٢ كان نتيجة دخول جديد تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
+كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت سلالة ضمة الكوليرا التي تسببت في تفشي وباء هايتي عام ٢٠٢٢؟
+هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً لدى البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟
+أم أن تفشي وباء هايتي عام ٢٠٢٢ كان نتيجة دخول سلالة جديدة تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
 
 |
 
