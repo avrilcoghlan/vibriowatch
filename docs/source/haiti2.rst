@@ -46,7 +46,7 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 |
 
 .. image:: HorizontalDivider.png
-  :width: 600
+  :width: 1200
 
 O surto do Haiti em 2022 
 ------------------------
