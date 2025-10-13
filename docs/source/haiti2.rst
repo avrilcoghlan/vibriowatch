@@ -183,12 +183,12 @@ H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ V
 Encontrando o genoma H22 no Vibriowatch
 ---------------------------------------
 
-یافتن ژنوم H22 در Vibriowatch
+**
+یافتن ژنوم H22 در Vibriowatch**
 
-Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။
+**Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။**
 
-|
-|
+------------
 
 Se você aprende melhor vendo do que lendo, veja o `video on finding H22's report page in Vibriowatch`_.
 
@@ -198,9 +198,7 @@ Se você aprende melhor vendo do que lendo, veja o `video on finding H22's repor
 
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
-
-|
-|
+------------
 
 Primeiro, vamos ao genoma H22 no Vibriowatch; clique neste link para ir para `H22's genome report page`_ no Vibriowatch (ou veja
 `How to search for an isolate in Vibriowatch and see its report page`_ para descobrir como encontrar a localização da página do relatório do H22).
@@ -214,8 +212,7 @@ Primeiro, vamos ao genoma H22 no Vibriowatch; clique neste link para ir para `H2
 
 .. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-|
-|
+------------
 
 A página do relatório mostra os metadados coletados para o isolado, bem como as análises bioinformáticas do isolado. Isso mostra o topo da página do relatório para H22:
 
