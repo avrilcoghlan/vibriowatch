@@ -21,15 +21,17 @@ global understanding of cholera.
 |
 |
 
-This case study has been selected as it is an example of cholera persisting within a country or region between outbreaks. It also illustrates
+This case study has been selected as it is an example of *Vibrio cholerae* persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
-Furthermore, it illustrates how it is very difficult to distinguish between persistance of cholera in the human population between outbreaks, versus
+Furthermore, it illustrates how it is very difficult to distinguish between persistance of *Vibrio cholerae* in the human population between outbreaks, versus
 persistance in the environment between outbreaks.
 
 *Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.*
 
-اختيرت دراسة الحالة هذه لأنها توضح استمرار الكوليرا في بلد أو منطقة بين وبائين. كما توضح كيف يصعب، في حال تجزؤ العينات، التمييز بين استمرار الكوليرا في بلد ما وإعادة ظهورها من بلد مجاور. علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار الكوليرا بين السكان بين وبائين واستمرارها في البيئة بينهما.
+اختيرت دراسة الحالة هذه لأنها مثال على استمرار وجود ضمة الكوليرا داخل بلد أو منطقة بين تفشيات المرض. كما توضح كيف يصعب التمييز بين استمرار وجودها داخل بلد ما وإعادة ظهورها من بلد مجاور، في حال عدم انتظام أخذ العينات.
 
+علاوة على ذلك، توضح الدراسة صعوبة التمييز بين استمرار وجود ضمة الكوليرا بين السكان بين تفشيات المرض، واستمرار وجودها في البيئة بين تفشيات المرض.
+  
 |
 |
 
