@@ -10,13 +10,13 @@ This section is a worked example of using Vibriowatch to analyse cholera genomic
 |
 |
 
-This page is dedicated to the fantastic public health professionals, scientists and public servants of Haiti, and to the patient
+We wish to pay homage to the public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
-*Cette page est dédiée aux professionnels de la santé publique, scientifiques et fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu publiques ces données génomiques sur le choléra et ainsi contribué à notre compréhension mondiale du choléra.*
+*Nous tenons à rendre hommage aux professionnels de la santé publique, aux scientifiques et aux fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu ces données génomiques sur le choléra accessibles au public et ainsi grandement contribué à notre compréhension mondiale du choléra.*
 
-هذه الصفحة مخصصة لمهنيي الصحة العامة والعلماء والمسؤولين الحكوميين في هايتي، وكذلك المريض الذي تبرع بسخاء بعينة، لجعل بيانات الجينوم الخاصة بالكوليرا هذه عامة وبالتالي المساهمة في فهمنا العالمي للكوليرا.
+نود أن نعرب عن تقديرنا للعاملين في مجال الصحة العامة والعلماء والموظفين الحكوميين في هايتي، وللمريض الذي تبرع بسخاء بعينة، لجعل هذه البيانات الجينومية للكوليرا متاحة للجمهور، وبالتالي المساهمة بشكل كبير في فهمنا العالمي للكوليرا.
 
 |
 |
