@@ -1,7 +1,7 @@
 Case study - Haiti 2022 
 =======================
 
-Étude de cas - Haïti 2022
+*Étude de cas - Haïti 2022*
 
 Estudo de caso - Haiti 2022 
 
