@@ -1,11 +1,29 @@
-Case study - Haiti 2022 *(Étude de cas - Haïti 2022) دراسة حالة - هايتي*
-===================================================================
+Case study - Haiti 2022 
+=======================
+
+Étude de cas - Haïti 2022
+
+دراسة حالة - هايتي
+
+Estudo de caso - Haiti 2022 
+
+مطالعه موردی - هائیتی 2022
+
+ဖြစ်ရပ်မှန်လေ့လာမှု - ဟေတီ ၂၀၂၂*
+
+------------
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
 *Cette section est un exemple d’utilisation de Vibriowatch pour analyser les données génomiques du choléra, en utilisant l’épidémie d’Haïti de 2022 comme exemple.*
 
 يعد هذا القسم مثالاً على استخدام Vibriowatch لتحليل بيانات الجينوم الخاصة بالكوليرا، باستخدام تفشي وباء الكوليرا في هايتي عام 2022 كمثال.
+
+Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados genômicos de cólera, usando o surto de 2022 no Haiti como exemplo.
+
+این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
+
+ဤအပိုင်းသည် ဟေတီ 2022 ဖြစ်ပွားမှုကို နမူနာအဖြစ် အသုံးပြု၍ ကာလဝမ်းမျိုးဗီဇဒေတာကို ခွဲခြမ်းစိတ်ဖြာရန် Vibriowatch ကို အသုံးပြုခြင်း၏ နမူနာတစ်ခုဖြစ်သည်။
 
 ------------
 
