@@ -1,9 +1,6 @@
 Estudo de caso - Haiti 2022 *(مطالعه موردی - هائیتی 2022) ဖြစ်ရပ်မှန်လေ့လာမှု - ဟေတီ ၂၀၂၂*
 ===============================================================================
 
-.. image:: HorizontalDivider.png
-  :width: 1200
-
 Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados genômicos de cólera, usando o surto de 2022 no Haiti como exemplo.
 
 این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
@@ -112,6 +109,10 @@ parte do mundo, como África ou Ásia?
 
 |
 
+
+.. image:: HorizontalDivider.png
+  :width: 1200
+
 O genoma H22
 ------------
 
@@ -142,7 +143,6 @@ Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှ�
 
 .. image:: Picture172.png
   :width: 800
-
 
 ------------
 
@@ -189,6 +189,9 @@ H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ V
 
 |
 
+.. image:: HorizontalDivider.png
+  :width: 1200
+
 Encontrando o genoma H22 no Vibriowatch
 ---------------------------------------
 
@@ -232,6 +235,9 @@ A página do relatório mostra os metadados coletados para o isolado, bem como a
   :width: 600
 
 |
+
+.. image:: HorizontalDivider.png
+  :width: 1200
 
 Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)
 -----------------------------------------------------------------------
