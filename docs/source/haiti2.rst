@@ -28,8 +28,6 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 နမူနာယူခြင်းသည် ကွက်တိဖြစ်နေပါက နိုင်ငံတစ်ခုအတွင်း၌ တည်မြဲမှုနှင့် အနီးနားနိုင်ငံမှ ပြန်လည်မိတ်ဆက်ခြင်းကြားတွင် ခွဲခြားရန်ခက်ခဲကြောင်း ၎င်းမှလည်း သရုပ်ဖော်သည်။ 
 ထို့အပြင်၊ ၎င်းသည် လူ့လူဦးရေတွင် Vibrio cholerae ၏တည်မြဲမှုကို ခွဲခြားရန် အလွန်ခက်ခဲပုံကို သရုပ်ဖော်ထားပြီး ရောဂါဖြစ်ပွားမှုကြား ပတ်ဝန်းကျင်တွင် ဆက်လက်တည်ရှိနေခြင်းကို သရုပ်ဖော်သည်။
   
-|
-
 .. image:: HorizontalDivider.png
   :width: 1200
 
@@ -46,17 +44,15 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
 * `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
 
-|
-
 .. image:: HorizontalDivider.png
   :width: 1200
 
 O surto do Haiti em 2022 
 ------------------------
 
-*** شیوع هائیتی ۲۰۲۲***
+شیوع هائیتی ۲۰۲۲
 
-***ဟေတီ 2022 ဖြစ်ပွားမှု***
+ဟေတီ 2022 ဖြစ်ပွားမှု
 
 ------------
 
@@ -107,18 +103,15 @@ parte do mundo, como África ou Ásia?
 ယခင် 2010-2019 ကပ်ရောဂါကတည်းက ဟေတီတွင် ဆက်ရှိနေသလား၊ လူတွင် (ဥပမာ- ရောဂါလက္ခဏာမပြသော သို့မဟုတ် အစီရင်ခံမထားသောရောဂါများ) သို့မဟုတ် ပတ်ဝန်းကျင်တွင် (ဥပမာ မြစ်ချောင်းများ သို့မဟုတ် ရေကန်များ) တွင် ဆက်လက်တည်ရှိနေပါသလား။ 
 သို့မဟုတ် အာဖရိက သို့မဟုတ် အာရှကဲ့သို့သော ကမ္ဘာ့အခြားအစိတ်အပိုင်းမှ ဟေတီသို့ လုံးဝမိတ်ဆက်မှုအသစ်ကြောင့် ဟေတီ 2022 ဖြစ်ပွားခြင်းလား။
 
-|
-
-
 .. image:: HorizontalDivider.png
   :width: 1200
 
 O genoma H22
 ------------
 
-**ژنوم ایزوله H22**
+ژنوم ایزوله H22
 
-**H22 ဂျီနိုမ်**
+H22 ဂျီနိုမ်
 
 ------------
 
@@ -189,17 +182,15 @@ todos podem ver.
 H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
 လူတိုင်းမြင်နိုင်သည်။
 
-|
-
 .. image:: HorizontalDivider.png
   :width: 1200
 
 Encontrando o genoma H22 no Vibriowatch
 ---------------------------------------
 
-**یافتن ژنوم H22 در Vibriowatch**
+یافتن ژنوم H22 در Vibriowatch
 
-**Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။**
+Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။
 
 ------------
 
@@ -237,8 +228,6 @@ A página do relatório mostra os metadados coletados para o isolado, bem como a
 
 .. image:: Picture115.png
   :width: 600
-
-|
 
 .. image:: HorizontalDivider.png
   :width: 1200
