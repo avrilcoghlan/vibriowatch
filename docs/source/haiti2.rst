@@ -48,12 +48,13 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 O surto do Haiti em 2022 
 ------------------------
 
+***
 شیوع هائیتی ۲۰۲۲
 
 ဟေတီ 2022 ဖြစ်ပွားမှု
+***
 
-|
-|
+------------
 
 Você já deve saber que em janeiro de 2010 houve um terremoto catastrófico no Haiti, uma ilha no Caribe.
 Mais tarde naquele ano, em outubro de 2010, um enorme surto de cólera teve início no Haiti, que durou até 2019 e incluiu
