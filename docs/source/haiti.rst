@@ -171,6 +171,8 @@ Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
 
 كيفية العثور على جينوم H22 في Vibriowatch
 
+------------
+
 If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
