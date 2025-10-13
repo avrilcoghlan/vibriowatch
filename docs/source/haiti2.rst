@@ -40,6 +40,9 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 |
 |
 
+------------
+------------
+
 * `O surto do Haiti em 2022`_.
 * `O genoma H22`_.
 * `Encontrando o genoma H22 no Vibriowatch`_.
@@ -53,7 +56,6 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 * `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
 * `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
 
-------------
 |
 
 
