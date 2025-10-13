@@ -141,6 +141,8 @@ Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှ�
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
+------------
+
 .. image:: Picture172.png
   :width: 800
 
@@ -230,6 +232,8 @@ A página do relatório mostra os metadados coletados para o isolado, bem como a
 صفحه گزارش، فراداده‌های جمع‌آوری‌شده برای ایزوله و همچنین تجزیه و تحلیل‌های بیوانفورماتیکی ایزوله را نشان می‌دهد. این تصویر، بالای صفحه گزارش مربوط به H22 را نشان می‌دهد:
 
 အစီရင်ခံစာစာမျက်နှာတွင် အထီးကျန်အတွက် စုဆောင်းထားသော မက်တာဒေတာအပြင် အထီးကျန်၏ ဂျီနိုမ်၏ တွက်ချက်မှုဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာမှုများကို ပြသသည်။ ၎င်းသည် H22 အတွက် အစီရင်ခံစာ၏ ထိပ်ပိုင်းကို ပြသသည်-
+
+------------
 
 .. image:: Picture115.png
   :width: 600
