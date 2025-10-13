@@ -54,6 +54,9 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 * `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
 
 |
+------------
+------------
+
 
 O surto do Haiti em 2022 
 ------------------------
