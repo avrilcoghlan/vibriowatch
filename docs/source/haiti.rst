@@ -11,7 +11,8 @@ Estudo de caso - Haiti 2022
 
 مطالعه موردی - هائیتی 2022
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
 
@@ -25,7 +26,8 @@ Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados ge
 
 این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 We wish to pay homage to the public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
@@ -42,7 +44,8 @@ Gostaríamos de prestar homenagem aos profissionais de saúde pública, cientist
 
 ما مایلیم از متخصصان بهداشت عمومی، دانشمندان و خدمتگزاران مردم هائیتی و از بیماری که سخاوتمندانه نمونه‌ای اهدا کرد، به خاطر در دسترس عموم قرار دادن این داده‌های ژنومی وبا و در نتیجه کمک شایانی به درک جهانی ما از وبا، ادای احترام کنیم.
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 This case study has been selected as it is an example of *Vibrio cholerae* persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
