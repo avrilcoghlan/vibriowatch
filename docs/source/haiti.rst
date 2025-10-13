@@ -26,6 +26,10 @@ Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados ge
 
 این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
 
+.. dropdown:: Dropdown title
+
+    Dropdown content
+
 .. image:: HorizontalDividerThin.png
   :width: 1200
 
