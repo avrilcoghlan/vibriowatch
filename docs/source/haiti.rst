@@ -524,16 +524,27 @@ H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြ
 .. image:: HorizontalDivider.png
   :width: 1200
 
-Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)
----------------------------------------------------------------------------------------------------
+Is H22 predicted to produce cholera toxin?
+------------------------------------------
+
+Est-il prévu que H22 produise de la toxine cholérique?
+
+É previsto que o H22 produza toxina da cólera?
+
+H22 သည် ကာလဝမ်းအဆိပ်အတောက်ကို ထုတ်လွှတ်နိုင်သည်ဟု ခန့်မှန်းထားပါသလား။
 
 هل من المتوقع أن ينتج H22 "سم الكوليرا"؟
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
 
 *Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
+
+Se você aprende melhor vendo do que lendo, veja o `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
+
+စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on predicting if H22 produces cholera toxin, using Vibriowatch`_ ကိုကြည့်ပါ။
 
 إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting if H22 produces cholera toxin, using Vibriowatch`_).
 
@@ -541,7 +552,8 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 .. _vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
@@ -551,7 +563,27 @@ complex consisting of CtxA and CtxB subunits. However, many isolates of other
 
 *Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par V. cholerae. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de V. cholerae. Presque tous les isolats de la lignée pandémique actuelle de V. cholerae, la lignée 7PET, portent les gènes de la toxine cholérique (gènes ctxA et ctxB) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de V. cholerae ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.*
 
+A cólera é uma doença caracterizada por diarreia aquosa aguda, e os sintomas de diarreia são causados ​​principalmente pela toxina colérica (Ctx) secretada
+pelo *Vibrio cholerae*. Portanto, a toxina colérica é considerada o principal fator de virulência do *Vibrio cholerae*. Praticamente todos os isolados da atual linhagem pandêmica
+de *Vibrio cholerae*, a linhagem 7PET, carregam os genes da toxina colérica (genes *ctxA* e *ctxB*) e produzem a toxina colérica, que é um complexo proteico
+consistindo nas subunidades CtxA e CtxB. No entanto, muitos isolados de outras
+linhagens (não pandêmicas) de *Vibrio cholerae* não carregam os genes da toxina colérica e, portanto, não a produzem.
+
+ကာလဝမ်းရောဂါသည် စူးရှသောရေများဝမ်းပျက်ဝမ်းလျှောရောဂါ၏လက္ခဏာရပ်ဖြစ်ပြီး ဝမ်းပျက်ဝမ်းလျှောရောဂါလက္ခဏာများမှာ အဓိကအားဖြင့် ဝမ်းတွင်းအဆိပ်အတောက် (Ctx) မှထွက်ရှိသော ကာလဝမ်းအဆိပ်ကြောင့်ဖြစ်ခြင်းဖြစ်သည်။
+Vibrio cholerae အားဖြင့်။
+ထို့ကြောင့် ကာလဝမ်းအဆိပ်အတောက်ကို Vibrio cholerae ၏ အဓိက ဗိုင်းရပ်စ်ပိုးဟု ယူဆပါသည်။ 
+လက်တွေ့အားဖြင့် ကြီးမားသော ကူးစက်ရောဂါများကို ဖြစ်စေသည့် Vibrio cholerae ၏ 7PET မျိုးရိုး၏ အထီးကျန်အားလုံးသည် ကာလဝမ်းအဆိပ်သင့်ခြင်းအတွက် မျိုးဗီဇများ (မျိုးဗီဇ ctxA နှင့် ctxB) ကို သယ်ဆောင်သည်။
+ထို့ကြောင့် 7PET isolates သည် CtxA နှင့် CtxB ပါ၀င်သော Ctx toxin ကိုထုတ်လုပ်သည်။
+Vibrio cholerae ၏ 7PET မျိုးရိုးနှင့် မတူဘဲ Vibrio cholerae ၏ အခြားမျိုးကွဲများစွာ၏ အထီးကျန်များတွင် ctxA နှင့် ctxB ဗီဇများ မရှိပါ။ ထို့ကြောင့် ၎င်းတို့သည် ကာလဝမ်းအဆိပ်အတောက်ကို မထုတ်လုပ်ပါ။
+
 الكوليرا مرضٌ يتميز بإسهال مائي حاد، وتنجم أعراضه بشكل رئيسي عن سم الكوليرا (Ctx) الذي تفرزه بكتيريا ضمة الكوليرا. لذلك، يُعتبر سم الكوليرا عامل الضراوة الرئيسي لضمة الكوليرا. تحمل جميع عزلات سلالة الكوليرا الوبائية الحالية تقريبًا، سلالة "7PET"، جينات سم الكوليرا (الجينان ctxA وctxB) وتنتج سم الكوليرا، وهو مركب بروتيني يتكون من وحدتين فرعيتين CtxA وCtxB. ومع ذلك، فإن العديد من عزلات سلالات أخرى (غير وبائية) من ضمة الكوليرا لا تحمل جينات سم الكوليرا، وبالتالي لا تنتج سم الكوليرا.
+
+مشخصه اصلی بیماری وبا، اسهال حاد آبکی است.
+این اسهال توسط سم Ctx ایجاد می‌شود که توسط باکتری ویبریو کلرا ترشح می‌شود.
+بنابراین، Ctx به عنوان عامل اصلی تحریک‌کننده بیماری تولید شده توسط ویبریو کلرا در نظر گرفته می‌شود.
+جدا شده‌های سویه اپیدمی‌زای ویبریو کلرا (7PET) دارای ژن‌های سم وبا (ژن‌های ctxA و ctxB) هستند.
+بنابراین، جدا شده‌های 7PET سم وبا تولید می‌کنند که یک کمپلکس پروتئینی متشکل از زیر واحدهای CtxA و CtxB است.
+با این حال، بسیاری از جدا شده‌های سایر دودمان‌های (غیر همه‌گیر) ویبریو کلرا ژن‌های سم وبا را ندارند و بنابراین سم وبا تولید نمی‌کنند.
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -561,18 +593,22 @@ of the genome report page for H22:
 
 *Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport génomique de H22:*
 
-ولمعرفة ما إذا كانت عزلة H22 تحمل جينات سموم الكوليرا، وبالتالي من المتوقع أن تنتج Ctx، يمكننا إلقاء نظرة على قسم "الضراوة" في صفحة تقرير الجينوم لـ H22:
+Para descobrir se o isolado H22 carrega os genes da toxina da cólera e, portanto, prevê-se que produza a toxina da cólera, podemos consultar a seção "Virulência"
+da página do relatório do genoma para H22:
 
-------------
+ولمعرفة ما إذا كانت عزلة H22 تحمل جينات سموم الكوليرا، وبالتالي من المتوقع أن تنتج Ctx، يمكننا إلقاء نظرة على قسم "الضراوة" في صفحة تقرير الجينوم لـ H22:
 
 .. image:: Picture121.png
   :width: 550
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
 *Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.*
+
+Você pode ver que há uma marca de seleção ao lado de "ctxA" e "ctxB", então prevê-se que H22 carregue os genes da toxina da cólera.
 
 يمكنك أن ترى أن هناك علامة صح بجوار "ctxA" و "ctxB" لذا من المتوقع أن يحمل H22 جينات سموم الكوليرا.
 
@@ -585,6 +621,9 @@ This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phen
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 *Étant donné que le génome H22 devrait contenir les gènes ctxA et ctxB, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.*
+
+Como se prevê que o genoma H22 carregue os genes *ctxA* e *ctxB*, podemos prever que ele produz a toxina da cólera.
+Isso concorda com as evidências do artigo de `Rubin et al 2022`_, que relataram dados fenotípicos sugerindo que o H22 é toxigênico, ou seja, produz a toxina da cólera.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
