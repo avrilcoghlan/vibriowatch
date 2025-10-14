@@ -70,8 +70,8 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 .. image:: HorizontalDivider.png
   :width: 1200
 
-* `The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)`_.
-* `The H22 genome (Le génome H22)`_.
+* `The Haiti 2022 outbreak`_.
+* `The H22 genome`_.
 * `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)`_.
 * `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)`_.
 * `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)`_
@@ -86,12 +86,21 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 .. image:: HorizontalDivider.png
   :width: 1200
 
-The Haiti 2022 outbreak (L'épidémie d'Haïti en 2022)
-----------------------------------------------------
+The Haiti 2022 outbreak
+-----------------------
+
+L'épidémie d'Haïti en 2022
+
+O surto do Haiti em 2022
+
+ဟေတီ 2022 ဖြစ်ပွားမှု
 
 تفشي المرض في هايتي 2022
 
-------------
+شیوع هائیتی ۲۰۲۲
+
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
 Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
@@ -102,11 +111,31 @@ was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_).
 *Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
 Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010* (`Orata et al 2014`_).
 
+Você já deve saber que em janeiro de 2010 houve um terremoto catastrófico no Haiti, uma ilha no Caribe.
+Mais tarde naquele ano, em outubro de 2010, um enorme surto de cólera teve início no Haiti, que durou até 2019 e incluiu
+mais de 820.000 casos de cólera e quase 10.000 mortes por cólera. Descobriu-se que esse surto foi causado
+pela atual linhagem pandêmica do *Vibrio cholerae* (conhecida como 7PET), e evidências sugerem que
+ele provavelmente foi transportado do Nepal para o Haiti em 2010 (`Orata et al 2014`_).
+
+2010 ခုနှစ် ဇန်န၀ါရီလတွင် ကာရေဘီယံရှိ ဟေတီကျွန်းတွင် ကပ်ဘေးငလျင်လှုပ်ခဲ့သည်ကို သင်သိပြီးသားဖြစ်ပေမည်။ 
+ထိုနှစ်နှောင်းပိုင်းတွင်၊ 2010 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီနိုင်ငံတွင် ကြီးမားသော ကာလဝမ်းရောဂါစတင်ဖြစ်ပွားခဲ့ပြီး 2019 ခုနှစ်အထိ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 820,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးသူ 10,000 နီးပါးပါဝင်သည်။ 
+ဤရောဂါဖြစ်ပွားမှုသည် ကြီးမားသောကူးစက်ပျံ့နှံ့မှုကိုဖြစ်စေသော Vibrio cholerae ဘက်တီးရီးယားအမျိုးအစားခွဲတစ်ခုကြောင့် ဖြစ်ပွားရခြင်းဖြစ်ပြီး သက်သေအထောက်အထားများက နီပေါမှ ဟေတီသို့ 2010 (Orata et al 2014) သယ်ဆောင်လာဖွယ်ရှိကြောင်း သက်သေအထောက်အထားများက အကြံပြုထားသည်။
+`Orata et al 2014`_ ကိုကြည့်ပါ။
+
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-لعلّكم تعلمون أنه في يناير/كانون الثاني 2010، ضرب زلزال كارثي جزيرة هايتي الكاريبية. وفي وقت لاحق من ذلك العام، وتحديدًا في أكتوبر/تشرين الأول 2010، انتشر وباء كوليرا واسع النطاق في هايتي، واستمر حتى عام 2019، وأسفر عن أكثر من 820 ألف إصابة وحوالي 10 آلاف وفاة. ويُعزى هذا التفشي إلى السلالة الوبائية الحالية لضمة الكوليرا، وتشير الدلائل إلى احتمال انتقاله من نيبال إلى هايتي عام 2010.
+ربما تعلمون أنه في يناير 2010، ضرب زلزال كارثي هايتي، وهي جزيرة في البحر الكاريبي.
+وفي وقت لاحق من ذلك العام، في أكتوبر 2010، اندلع تفشٍّ هائل للكوليرا في هايتي، واستمر حتى عام 2019، وشمل أكثر من 820 ألف حالة إصابة بالكوليرا وحوالي 10 آلاف حالة وفاة بسببها.
+وُجد أن هذا التفشي ناجم عن سلالة جائحة ضمة الكوليرا الحالية (المعروفة باسم 7PET)، وتشير الأدلة إلى أنه من المرجح أن يكون قد انتقل من نيبال إلى هايتي في عام 2010.
+انظر "Orata et al. 2014".
 
-------------
+شاید از قبل بدانید که در ژانویه ۲۰۱۰ زلزله‌ای فاجعه‌بار در هائیتی، جزیره‌ای در کارائیب، رخ داد.
+بعدها در همان سال، در اکتبر ۲۰۱۰، شیوع گسترده وبا در هائیتی آغاز شد که تا سال ۲۰۱۹ ادامه داشت و شامل بیش از ۸۲۰،۰۰۰ مورد ابتلا به وبا و نزدیک به ۱۰،۰۰۰ مرگ ناشی از وبا بود.
+مشخص شد که این شیوع ناشی از سویه همه‌گیر فعلی ویبریو کلرا (معروف به 7PET) بوده است و شواهد نشان می‌دهد که احتمالاً در سال ۲۰۱۰ از نپال به هائیتی منتقل شده است (اوراتا و همکاران، ۲۰۱۴).
+به `Orata et al 2014`_ مراجعه کنید.
+
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
@@ -115,11 +144,25 @@ cholera cases, and >500 deaths from cholera (source: Pan American Health Organis
 
 *En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).*
 
-بحلول عام ٢٠١٩، انخفض عدد حالات الكوليرا، وبدا أن وباء الكوليرا في هايتي قد انتهى أخيرًا.
+Em 2019, o número de casos de cólera havia diminuído e parecia que a epidemia de cólera no Haiti havia finalmente terminado.
+Não foram relatados mais casos de cólera no Haiti em 2020, 2021 e durante a maior parte de 2022. No entanto, infelizmente, em outubro de 2022, um novo surto de cólera ocorreu no Haiti, após quase três anos sem casos de cólera. Em fevereiro de 2023, havia mais de 30.000
+casos de cólera e mais de 500 mortes por cólera (fonte: Organização Pan-Americana da Saúde).
 
+2019 ခုနှစ်တွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု အရေအတွက် လျော့နည်းသွားခဲ့ပြီး ဟေတီတွင် ကာလဝမ်းရောဂါ ပျံ့နှံ့မှု ပြီးဆုံးသွားကြောင်း ထင်ရှားသည်။ 
+ဟေတီတွင် 2020၊ 2021 နှင့် 2022 အများစုတွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု မရှိခဲ့ပါ။ 
+သို့သော် ကံမကောင်းစွာဖြင့်၊ 2022 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီတွင် ကာလဝမ်းရောဂါဖြစ်ပွားမှုအသစ်တစ်ခုဖြစ်ပွားခဲ့သည်၊ သုံးနှစ်နီးပါးကာလဝမ်းရောဂါဖြစ်ပွားခြင်းမရှိခဲ့ပါ။ 
+ဖေဖော်ဝါရီ 2023 စာရင်းအရ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 30,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးမှု 500 ကျော်ရှိပြီ (အရင်းအမြစ်- Pan American Health Organisation)။
+
+بحلول عام ٢٠١٩، انخفض عدد حالات الكوليرا، وبدا أن وباء الكوليرا في هايتي قد انتهى أخيرًا.
 لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
 
-------------
+تا سال ۲۰۱۹، تعداد موارد ابتلا به وبا کاهش یافت و به نظر می‌رسید که اپیدمی وبا در هائیتی سرانجام به پایان رسیده است.
+در سال‌های ۲۰۲۰، ۲۰۲۱ و بیشتر سال ۲۰۲۲، هیچ مورد ابتلا به وبا در هائیتی گزارش نشد.
+با این حال، متأسفانه در اکتبر ۲۰۲۲، پس از تقریباً سه سال عدم ابتلا به وبا، شیوع جدیدی از وبا در هائیتی رخ داد.
+تا فوریه ۲۰۲۳، بیش از ۳۰۰۰۰ مورد ابتلا به وبا و بیش از ۵۰۰ مورد مرگ ناشی از وبا گزارش شده بود (منبع: سازمان بهداشت پان آمریکا).
+
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 An important epidemiological question was: where did the *V. cholerae* strain that caused the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
@@ -129,15 +172,28 @@ part of the world, such as Africa or Asia?
 *Une question épidémiologique importante était : d’où provenait la souche de V. cholerae à l’origine de l’épidémie de 2022 en Haïti?
 A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie de 2022 en Haïti était-elle due à une introduction totalement nouvelle en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
 
+Uma questão epidemiológica importante era: de onde veio a cepa *V. cholerae* que causou o surto no Haiti em 2022?
+Ela havia persistido no Haiti desde a epidemia anterior, de 2010-2019, persistindo em humanos (por exemplo, casos assintomáticos ou não relatados)
+ou no meio ambiente (por exemplo, em rios ou lagos)? Ou o surto no Haiti em 2022 foi devido a uma introdução completamente nova no Haiti vinda de outra
+parte do mundo, como África ou Ásia?
+
+အရေးကြီးသော ကူးစက်ရောဂါဆိုင်ရာ မေးခွန်းမှာ- ဟေတီ 2022 ဖြစ်ပွားမှုကို ဖြစ်စေသော V. cholerae ရောဂါပိုးသည် မည်သည့်နေရာက လာသနည်း။ 
+ယခင် 2010-2019 ကပ်ရောဂါကတည်းက ဟေတီတွင် ဆက်ရှိနေသလား၊ လူတွင် (ဥပမာ- ရောဂါလက္ခဏာမပြသော သို့မဟုတ် အစီရင်ခံမထားသောရောဂါများ) သို့မဟုတ် ပတ်ဝန်းကျင်တွင် (ဥပမာ မြစ်ချောင်းများ သို့မဟုတ် ရေကန်များ) တွင် ဆက်လက်တည်ရှိနေပါသလား။ 
+သို့မဟုတ် အာဖရိက သို့မဟုတ် အာရှကဲ့သို့သော ကမ္ဘာ့အခြားအစိတ်အပိုင်းမှ ဟေတီသို့ လုံးဝမိတ်ဆက်မှုအသစ်ကြောင့် ဟေတီ 2022 ဖြစ်ပွားခြင်းလား။
+
 كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت سلالة ضمة الكوليرا التي تسببت في تفشي وباء هايتي عام ٢٠٢٢؟
 هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً لدى البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟
 أم أن تفشي وباء هايتي عام ٢٠٢٢ كان نتيجة دخول سلالة جديدة تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
 
+یک سوال مهم اپیدمیولوژیک این بود: سویه V. cholerae که باعث شیوع هائیتی در سال ۲۰۲۲ شد، از کجا آمده است؟
+آیا از زمان همه‌گیری قبلی ۲۰۱۰-۲۰۱۹ در هائیتی ادامه داشته است، یا در انسان‌ها (مثلاً موارد بدون علامت یا گزارش نشده) یا در محیط (مثلاً در رودخانه‌ها یا دریاچه‌ها)؟
+یا شیوع هائیتی در سال ۲۰۲۲ به دلیل ورود کاملاً جدید به هائیتی از بخش دیگری از جهان، مانند آفریقا یا آسیا، بوده است؟
+
 .. image:: HorizontalDivider.png
   :width: 1200
 
-The H22 genome (Le génome H22)
-------------------------------
+The H22 genome
+--------------
 
 جينوم H22
 
