@@ -72,7 +72,7 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 
 * `The Haiti 2022 outbreak`_.
 * `The H22 genome`_.
-* `Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)`_.
+* `Finding the H22 genome in Vibriowatch`_.
 * `Assembly quality of the H22 genome (Qualité d'assemblage du génome H22)`_.
 * `Is H22 predicted to produce cholera toxin? (Est-il prévu que H22 produise de la toxine cholérique?)`_
 * `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
@@ -195,9 +195,18 @@ parte do mundo, como África ou Ásia?
 The H22 genome
 --------------
 
+*Le génome H22*
+
+O genoma H22
+
+H22 ဂျီနိုမ်
+
 جينوم H22
 
-------------
+ژنوم ایزوله H22
+
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
@@ -207,16 +216,32 @@ International Centre for Diarrheal Disease Research (Bangladesh):
 
 *Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):*
 
+No final de 2022, `Rubin et al 2022`_ publicaram o genoma de um isolado de *V. cholerae* do surto de 2022 no Haiti, que eles denominaram isolado 'H22'. Os autores deste trabalho foram um consórcio internacional de cientistas e especialistas em saúde pública do
+Laboratório Nacional de Saúde Pública do Haiti, da Zanmi Lasante (uma instituição não governamental de saúde no Haiti), do Hospital Brigham and Women's (EUA), do Hospital Geral de Massachusetts (EUA) e do
+Centro Internacional de Pesquisa de Doenças Diarreicas (Bangladesh):
+
+2022 ခုနှစ်နှောင်းပိုင်းတွင် `Rubin et al 2022`_ သည် Haiti 2022 ဖြစ်ပွားမှုမှ Vibrio cholerae ၏ဂျီနိုပ်ကိုထုတ်ဝေခဲ့သည်။
+သီးခြား 'H22' ဟုခေါ်သည်။ 
+ဤလုပ်ငန်းကို ရေးသားသူများသည် နိုင်ငံတကာ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျန်းမာရေး ကျွမ်းကျင်သူများ၏ လုပ်ငန်းစုဖြစ်သည်။
+သူတို့လုပ်ခဲ့တာ
+ဟေတီရှိ အမျိုးသားပြည်သူ့ကျန်းမာရေးဓာတ်ခွဲခန်း၊ Zanmi Lasante (ဟေတီရှိ အစိုးရမဟုတ်သော ကျန်းမာရေးစောင့်ရှောက်မှုပေးသူ)၊
+Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှင့်
+နိုင်ငံတကာ ဝမ်းပျက်ဝမ်းလျှောရောဂါ သုတေသနစင်တာ (ဘင်္ဂလားဒေ့ရှ်)။
+
 في أواخر عام ٢٠٢٢، نشر روبن وآخرون (٢٠٢٢) جينوم عينة معزولة من ضمة الكوليرا من تفشي وباء الكوليرا في هايتي عام ٢٠٢٢، والتي أطلقوا عليها اسم العينة H22. شارك في إعداد هذا العمل اتحاد دولي من العلماء وخبراء الصحة العامة من المختبر الوطني للصحة العامة في هايتي، وزانمي لاسانتي في هايتي، ومستشفى بريغهام والنساء في أمريكا، ومستشفى ماساتشوستس العام في أمريكا، والمركز الدولي لأبحاث أمراض الإسهال في بنغلاديش.
+انظر `Rubin et al 2022`_.
+
+در اواخر سال ۲۰۲۲، روبین و همکارانش ژنوم یک جدایه ویبریو کلرا از شیوع بیماری هائیتی در سال ۲۰۲۲ را منتشر کردند که آن را جدایه «H22» نامیدند.
+نویسندگان این اثر، کنسرسیومی بین‌المللی از دانشمندان و متخصصان بهداشت عمومی از آزمایشگاه ملی بهداشت عمومی در هائیتی، زانمی لاسانته (یک ارائه‌دهنده خدمات درمانی غیردولتی در هائیتی)، بیمارستان بریگهام و زنان (ایالات متحده آمریکا)، بیمارستان عمومی ماساچوست (ایالات متحده آمریکا) و مرکز بین‌المللی تحقیقات بیماری‌های اسهالی (بنگلادش) بودند:
+به `Rubin et al 2022`_ مراجعه کنید.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-
-------------
 
 .. image:: Picture172.png
   :width: 800
 
-------------
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
@@ -237,6 +262,25 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. *Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?*
 #. *Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?*
 
+Neste exemplo prático, mostrarei como analisar o genoma H22 para responder a algumas perguntas importantes
+relevantes para a saúde pública e responder a perguntas sobre as origens do surto do Haiti em 2022:
+
+#. É previsto que o H22 produza toxina da cólera?
+#. É previsto que o H22 tenha resistência antimicrobiana?
+#. É previsto que H22 tenha plasmídeos?
+#. O H22 pertence à linhagem pandêmica do Vibrio cholerae?
+#. Quais são os parentes mais próximos do H22 entre os genomas publicados do Vibrio cholerae?
+#. O que podemos dizer sobre as origens do surto do Haiti em 2022, com base no genoma H22?
+
+ဤအလုပ်နမူနာတွင်၊ ပြည်သူ့ကျန်းမာရေးနှင့်သက်ဆိုင်သည့် အဓိကမေးခွန်းအချို့ကိုဖြေဆိုရန်နှင့် ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်အကြောင်းမေးခွန်းများကိုဖြေဆိုရန် H22 ဂျီနိုမ်ကို မည်သို့ခွဲခြမ်းစိတ်ဖြာရမည်ကို ကျွန်ုပ်ပြသပါမည်။
+
+#. H22 သည် ကာလဝမ်းအဆိပ်အတောက်ဖြစ်စေရန် ခန့်မှန်းထားပါသလား။
+#. H22 သည် ပဋိဇီဝဆေးခံနိုင်ရည်ရှိမည်ဟု ခန့်မှန်းထားပါသလား။
+#. H22 ဂျီနိုမ်ကို အခြေခံ၍ ၎င်းတွင် plasmids ရှိမရှိ ခန့်မှန်းနိုင်ပါသလား။
+#. H22 သည် Vibrio cholerae ၏ ကူးစက်ရောဂါမျိုးရိုးနှင့် သက်ဆိုင်ပါသလား။
+#. ထုတ်ပြန်ထားတဲ့ Vibrio cholerae genomes တွေထဲမှာ H22 ရဲ့ အနီးစပ်ဆုံး ဆွေမျိုးတွေက ဘာတွေလဲ။
+#. H22 ဂျီနိုမ်ကိုအခြေခံ၍ ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်နှင့်ပတ်သက်၍ ကျွန်ုပ်တို့ဘာပြောနိုင်သနည်း။
+
 في هذا المثال العملي، سأوضح لك كيفية تحليل جينوم H22 للإجابة على بعض الأسئلة الرئيسية المتعلقة بالصحة العامة، والإجابة على أسئلة حول أصول تفشي المرض في هايتي عام 2022:
 
 #. هل يُتوقع أن تُنتج بكتيريا H22 سم الكوليرا؟
@@ -246,7 +290,17 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. ما هي أقرب سلالات ضمة الكوليرا الجينومية المنشورة لعزلة H22؟
 #. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
 
-------------
+در این مثال کاربردی، به شما نشان خواهم داد که چگونه ژنوم H22 را تجزیه و تحلیل کنید تا به برخی از سوالات کلیدی مربوط به سلامت عمومی پاسخ دهید و به سوالاتی در مورد ریشه‌های شیوع هائیتی در سال 2022 پاسخ دهید:
+
+#. آیا پیش‌بینی می‌شود که H22 سم وبا تولید کند؟
+#. آیا پیش‌بینی می‌شود که H22 مقاومت ضدمیکروبی داشته باشد؟
+#. آیا پیش‌بینی می‌شود که H22 دارای پلاسمید باشد؟
+#. آیا H22 به دودمان همه‌گیر ویبریو کلرا تعلق دارد؟
+#. نزدیکترین خویشاوندان H22 در میان ژنوم‌های منتشر شده ویبریو کلرا کدامند؟
+#. بر اساس ژنوم H22، چه چیزی می‌توانیم در مورد ریشه‌های شیوع هائیتی ۲۰۲۲ بگوییم؟
+
+.. image:: HorizontalDividerThin.png
+  :width: 1200
 
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
@@ -254,13 +308,26 @@ everyone can see.
 
 *Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.*
 
+Vamos analisar o genoma H22 no Vibriowatch para responder a algumas dessas perguntas.
+O genoma do H22 está entre os aproximadamente 6.000 genomas que já adicionamos ao Vibriowatch, que são genomas "públicos" que
+todos podem ver.
+
+ဤမေးခွန်းအချို့ကိုဖြေဆိုရန် Vibriowatch ရှိ H22 ဂျီနိုမ်ကို ခွဲခြမ်းစိတ်ဖြာကြည့်ကြပါစို့။ 
+H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
+လူတိုင်းမြင်နိုင်သည်။
+
 دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
+
+بیایید ژنوم H22 را در Vibriowatch تجزیه و تحلیل کنیم تا به برخی از این سؤالات پاسخ دهیم.
+ژنوم H22 یکی از حدود ۶۰۰۰ ژنومی است که قبلاً به Vibriowatch اضافه کرده‌ایم، که ژنوم‌های «عمومی» هستند و همه می‌توانند آنها را ببینند.
 
 .. image:: HorizontalDivider.png
   :width: 1200
 
-Finding the H22 genome in Vibriowatch (Trouver le génome H22 dans Vibriowatch)
-------------------------------------------------------------------------------
+Finding the H22 genome in Vibriowatch 
+-------------------------------------
+
+Trouver le génome H22 dans Vibriowatch
 
 كيفية العثور على جينوم H22 في Vibriowatch
 
