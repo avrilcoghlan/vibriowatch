@@ -56,7 +56,7 @@ Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H
 #. H22 est-il susceptible de contenir des plasmides?
 #. L'isolat H22 appartient-il à la lignée pandémique de *Vibrio cholerae*?
 #. Quels sont les plus proches parents de H22 parmi les génomes de *Vibrio cholerae* publiés?
-#. Que pouvons-nous dire des origines de l'épidémie en Haïti en 2022, d'après le génome de H22?
+#. Que pouvons-nous dire des origines de l'épidémie en Haïti en 2022, en analysant le génome de H22?
 
 Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.
 
