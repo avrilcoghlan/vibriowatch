@@ -5,7 +5,7 @@ Cette section est un exemple d’utilisation de Vibriowatch pour analyser les do
 
 Nous tenons à rendre hommage aux professionnels de la santé publique, aux scientifiques et aux fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu ces données génomiques sur le choléra accessibles au public et ainsi avoir contribué à notre compréhension mondiale du choléra.
 
-Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.
+Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies, de sa persistance dans l'environnement entre ces épidémies.
 
 * `L'épidémie en Haïti en 2022`_.
 * `Le génome H22`_.
