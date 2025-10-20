@@ -42,20 +42,20 @@ A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soi
 Le génome H22
 -------------
 
-Fin 2022, `Rubin et al 2022`_ ont publié le génome d'un isolat de V. cholerae issu de l'épidémie en Haïti en 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):
+Fin 2022, `Rubin et al 2022`_ ont publié le génome d'un isolat de *V. cholerae* issu de l'épidémie en Haïti en 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
   :width: 800
 
-Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H22 afin de répondre à certaines questions clés de santé publique et aux questions sur les origines de l'épidémie d'Haïti de 2022:
+Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H22 afin de répondre à certaines questions clés de santé publique et aux questions sur les origines de l'épidémie en Haïti en 2022:
 
 #. H22 est-il susceptible de produire la toxine cholérique?
 #. H22 est-il susceptible de présenter une résistance aux antimicrobiens?
 #. H22 est-il susceptible de contenir des plasmides?
-#. H22 appartient-il à la lignée pandémique de Vibrio cholerae?
-#. Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?
+#. L'isolat H22 appartient-il à la lignée pandémique de *Vibrio cholerae*?
+#. Quels sont les plus proches parents de H22 parmi les génomes de *Vibrio cholerae* publiés?
 #. Que pouvons-nous dire des origines de l'épidémie en Haïti en 2022, d'après le génome de H22?
 
 Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.
