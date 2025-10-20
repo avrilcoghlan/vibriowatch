@@ -1,13 +1,13 @@
-Étude de cas - Haïti 2022
-=========================
+Étude de cas - l'épidémie en Haïti en 2022
+==========================================
 
-Cette section est un exemple d’utilisation de Vibriowatch pour analyser les données génomiques du choléra, en utilisant l’épidémie d’Haïti de 2022 comme exemple.
+Cette section est un exemple d’utilisation de Vibriowatch pour analyser les données génomiques du choléra, en utilisant l’épidémie en Haïti en 2022 comme exemple.
 
 Nous tenons à rendre hommage aux professionnels de la santé publique, aux scientifiques et aux fonctionnaires d'Haïti, ainsi qu'au patient qui a généreusement fait don d'un échantillon, pour avoir rendu ces données génomiques sur le choléra accessibles au public et ainsi grandement contribué à notre compréhension mondiale du choléra.
 
 Cette étude de cas a été sélectionnée car elle illustre la persistance du choléra dans un pays ou une région entre deux épidémies. Elle illustre également comment, si l'échantillonnage est fragmenté, il est difficile de distinguer la persistance dans un pays d'une réintroduction depuis un pays voisin. En outre, elle illustre la difficulté de distinguer la persistance du choléra dans la population humaine entre deux épidémies de sa persistance dans l'environnement entre ces épidémies.
 
-* `L'épidémie d'Haïti en 2022`_.
+* `L'épidémie en Haïti en 2022`_.
 * `Le génome H22`_.
 * `Trouver le génome H22 dans Vibriowatch`_.
 * `Qualité d'assemblage du génome H22`_.
@@ -23,8 +23,8 @@ Cette étude de cas a été sélectionnée car elle illustre la persistance du c
 .. image:: HorizontalDivider.png
   :width: 1200
 
-L'épidémie d'Haïti en 2022
---------------------------
+L'épidémie en Haïti en 2022
+---------------------------
 
 Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
 Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 (`Orata et al 2014`_).
@@ -42,7 +42,7 @@ A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soi
 Le génome H22
 -------------
 
-Fin 2022, `Rubin et al 2022`_ ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):
+Fin 2022, `Rubin et al 2022`_ ont publié le génome d'un isolat de V. cholerae issu de l'épidémie en Haïti en 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
@@ -56,7 +56,7 @@ Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H
 #. H22 est-il susceptible de contenir des plasmides?
 #. H22 appartient-il à la lignée pandémique de Vibrio cholerae?
 #. Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?
-#. Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?
+#. Que pouvons-nous dire des origines de l'épidémie en Haïti en 2022, d'après le génome de H22?
 
 Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.
 
@@ -347,13 +347,13 @@ Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur
 
 Pour étudier les origines de l’épidémie d’Haïti de 2022, nous pouvons établir un arbre phylogénétique de l’isolat H22 et de ses proches parents.
 
-Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez `la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_, `la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_ et `la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch`_.
+Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez `la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_, `la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_ et `la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_.
 
-.. _la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/twubRiTEjE8 
+.. _la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/twubRiTEjE8 
 
-.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/sh4eisl3h3g 
+.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/sh4eisl3h3g 
 
-.. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie d'Haïti de 2022 à l'aide de Vibriowatch: https://youtu.be/OYBq9Ac6e7c 
+.. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/OYBq9Ac6e7c 
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -424,10 +424,10 @@ Ces résultats concordent avec l'article de `Rubin et al 2022`_, qui ont rapport
 .. image:: HorizontalDivider.png
   :width: 1200
 
-Réflexions sur l'étude de cas Haïti 2022
-----------------------------------------
+Réflexions sur l'étude de cas Haïti
+-----------------------------------
 
-L'étude de cas d'Haïti 2022 illustre la persistance du choléra dans un pays ou une région entre deux épidémies. En effet, bien qu'aucun cas de choléra n'ait été signalé en Haïti entre 2019 et octobre 2022, les données génomiques indiquent que l'épidémie d'Haïti 2022 était étroitement liée aux épidémies de 2018 et des années précédentes. Il est donc très probable que la souche à l'origine de l'épidémie d'Haïti 2018 ait persisté en Haïti ou dans les pays voisins, puis y soit réapparue en octobre 2022, provoquant une nouvelle épidémie. Cependant, aucune preuve de choléra n'a été observée en Haïti ou dans les pays voisins entre 2019 et octobre 2022; il est donc difficile de déterminer dans quel(s) pays de la région cette souche particulière de Vibrio cholerae a persisté pendant cette période. Il est possible que la maladie ait persisté dans la population humaine, mais qu'aucun cas n'ait été signalé, car les cas étaient asymptomatiques ou bénins, ou se trouvaient dans des régions aux infrastructures sanitaires limitées. Une autre possibilité est qu'une souche particulière de V. cholerae ait persisté dans l'environnement pendant cette période, ou à la fois dans la population humaine et dans l'environnement (par exemple, en raison de la contamination de l'environnement par les eaux usées et de l'ingestion d'eau contaminée par l'homme). Cependant, comme aucun échantillon humain ou environnemental n'est disponible en Haïti pour la période allant de 2019 à octobre 2022, nous manquons de données pour étudier cette possibilité.
+L'étude de cas en Haïti illustre la persistance du choléra dans un pays ou une région entre deux épidémies. En effet, bien qu'aucun cas de choléra n'ait été signalé en Haïti entre 2019 et octobre 2022, les données génomiques indiquent que l'épidémie en Haïti en 2022 était étroitement liée aux épidémies de 2018 et des années précédentes. Il est donc très probable que la souche à l'origine de l'épidémie en Haïti en 2018 ait persisté en Haïti ou dans les pays voisins, puis y soit réapparue en octobre 2022, provoquant une nouvelle épidémie. Cependant, aucune preuve de choléra n'a été observée en Haïti ou dans les pays voisins entre 2019 et octobre 2022; il est donc difficile de déterminer dans quel(s) pays de la région cette souche particulière de Vibrio cholerae a persisté pendant cette période. Il est possible que la maladie ait persisté dans la population humaine, mais qu'aucun cas n'ait été signalé, car les cas étaient asymptomatiques ou bénins, ou se trouvaient dans des régions aux infrastructures sanitaires limitées. Une autre possibilité est qu'une souche particulière de V. cholerae ait persisté dans l'environnement pendant cette période, ou à la fois dans la population humaine et dans l'environnement (par exemple, en raison de la contamination de l'environnement par les eaux usées et de l'ingestion d'eau contaminée par l'homme). Cependant, comme aucun échantillon humain ou environnemental n'est disponible en Haïti pour la période allant de 2019 à octobre 2022, nous manquons de données pour étudier cette possibilité.
 
 Ces informations ne s'appliquent pas seulement à Haïti, mais à de nombreux autres pays dans le monde où des épidémies de choléra ont eu lieu, mais où aucun cas n'a été signalé pendant une période relativement longue (de plusieurs mois, voire un an ou deux). Dans de telles situations, on se demande souvent:
 
