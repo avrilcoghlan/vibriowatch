@@ -18,7 +18,7 @@ Cette étude de cas a été sélectionnée car elle illustre la persistance du c
 * `Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?`_.
 * `Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?`_.
 * `Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?`_
-* `Réflexions sur l'étude de cas Haïti 2022`_
+* `Réflexions sur l'étude de cas de l’épidémie d’Haïti de 2022`_
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -424,8 +424,8 @@ Ces résultats concordent avec l'article de `Rubin et al 2022`_, qui ont rapport
 .. image:: HorizontalDivider.png
   :width: 1200
 
-Réflexions sur l'étude de cas Haïti
------------------------------------
+Réflexions sur l'étude de cas de l’épidémie d’Haïti de 2022
+-----------------------------------------------------------
 
 L'étude de cas en Haïti illustre la persistance du choléra dans un pays ou une région entre deux épidémies. En effet, bien qu'aucun cas de choléra n'ait été signalé en Haïti entre 2019 et octobre 2022, les données génomiques indiquent que l'épidémie en Haïti en 2022 était étroitement liée aux épidémies de 2018 et des années précédentes. Il est donc très probable que la souche à l'origine de l'épidémie en Haïti en 2018 ait persisté en Haïti ou dans les pays voisins, puis y soit réapparue en octobre 2022, provoquant une nouvelle épidémie. Cependant, aucune preuve de choléra n'a été observée en Haïti ou dans les pays voisins entre 2019 et octobre 2022; il est donc difficile de déterminer dans quel(s) pays de la région cette souche particulière de Vibrio cholerae a persisté pendant cette période. Il est possible que la maladie ait persisté dans la population humaine, mais qu'aucun cas n'ait été signalé, car les cas étaient asymptomatiques ou bénins, ou se trouvaient dans des régions aux infrastructures sanitaires limitées. Une autre possibilité est qu'une souche particulière de V. cholerae ait persisté dans l'environnement pendant cette période, ou à la fois dans la population humaine et dans l'environnement (par exemple, en raison de la contamination de l'environnement par les eaux usées et de l'ingestion d'eau contaminée par l'homme). Cependant, comme aucun échantillon humain ou environnemental n'est disponible en Haïti pour la période allant de 2019 à octobre 2022, nous manquons de données pour étudier cette possibilité.
 
