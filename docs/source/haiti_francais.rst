@@ -26,105 +26,15 @@ Cette étude de cas a été sélectionnée car elle illustre la persistance du c
 L'épidémie d'Haïti en 2022
 --------------------------
 
-L'épidémie d'Haïti en 2022
-
-O surto do Haiti em 2022
-
-ဟေတီ 2022 ဖြစ်ပွားမှု
-
-تفشي المرض في هايتي 2022
-
-شیوع هائیتی ۲۰۲۲
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
-Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
-more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
-by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
-was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
-
-*Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
-Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010* (`Orata et al 2014`_).
-
-Você já deve saber que em janeiro de 2010 houve um terremoto catastrófico no Haiti, uma ilha no Caribe.
-Mais tarde naquele ano, em outubro de 2010, um enorme surto de cólera teve início no Haiti, que durou até 2019 e incluiu
-mais de 820.000 casos de cólera e quase 10.000 mortes por cólera. Descobriu-se que esse surto foi causado
-pela atual linhagem pandêmica do *Vibrio cholerae* (conhecida como 7PET), e evidências sugerem que
-ele provavelmente foi transportado do Nepal para o Haiti em 2010 (`Orata et al 2014`_).
-
-2010 ခုနှစ် ဇန်န၀ါရီလတွင် ကာရေဘီယံရှိ ဟေတီကျွန်းတွင် ကပ်ဘေးငလျင်လှုပ်ခဲ့သည်ကို သင်သိပြီးသားဖြစ်ပေမည်။ 
-ထိုနှစ်နှောင်းပိုင်းတွင်၊ 2010 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီနိုင်ငံတွင် ကြီးမားသော ကာလဝမ်းရောဂါစတင်ဖြစ်ပွားခဲ့ပြီး 2019 ခုနှစ်အထိ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 820,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးသူ 10,000 နီးပါးပါဝင်သည်။ 
-ဤရောဂါဖြစ်ပွားမှုသည် ကြီးမားသောကူးစက်ပျံ့နှံ့မှုကိုဖြစ်စေသော Vibrio cholerae ဘက်တီးရီးယားအမျိုးအစားခွဲတစ်ခုကြောင့် ဖြစ်ပွားရခြင်းဖြစ်ပြီး သက်သေအထောက်အထားများက နီပေါမှ ဟေတီသို့ 2010 (Orata et al 2014) သယ်ဆောင်လာဖွယ်ရှိကြောင်း သက်သေအထောက်အထားများက အကြံပြုထားသည်။
-`Orata et al 2014`_ ကိုကြည့်ပါ။
+Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
+Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de Vibrio cholerae et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 (`Orata et al 2014`_).
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-ربما تعلمون أنه في يناير 2010، ضرب زلزال كارثي هايتي، وهي جزيرة في البحر الكاريبي.
-وفي وقت لاحق من ذلك العام، في أكتوبر 2010، اندلع تفشٍّ هائل للكوليرا في هايتي، واستمر حتى عام 2019، وشمل أكثر من 820 ألف حالة إصابة بالكوليرا وحوالي 10 آلاف حالة وفاة بسببها.
-وُجد أن هذا التفشي ناجم عن سلالة جائحة ضمة الكوليرا الحالية (المعروفة باسم 7PET)، وتشير الأدلة إلى أنه من المرجح أن يكون قد انتقل من نيبال إلى هايتي في عام 2010.
-انظر `Orata et al 2014`_.
+En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).
 
-شاید از قبل بدانید که در ژانویه ۲۰۱۰ زلزله‌ای فاجعه‌بار در هائیتی، جزیره‌ای در کارائیب، رخ داد.
-بعدها در همان سال، در اکتبر ۲۰۱۰، شیوع گسترده وبا در هائیتی آغاز شد که تا سال ۲۰۱۹ ادامه داشت و شامل بیش از ۸۲۰،۰۰۰ مورد ابتلا به وبا و نزدیک به ۱۰،۰۰۰ مرگ ناشی از وبا بود.
-مشخص شد که این شیوع ناشی از سویه همه‌گیر فعلی ویبریو کلرا (معروف به 7PET) بوده است و شواهد نشان می‌دهد که احتمالاً در سال ۲۰۱۰ از نپال به هائیتی منتقل شده است (اوراتا و همکاران، ۲۰۱۴).
-به `Orata et al 2014`_ مراجعه کنید.
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
-No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
-occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
-cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
-
-*En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).*
-
-Em 2019, o número de casos de cólera havia diminuído e parecia que a epidemia de cólera no Haiti havia finalmente terminado.
-Não foram relatados mais casos de cólera no Haiti em 2020, 2021 e durante a maior parte de 2022. No entanto, infelizmente, em outubro de 2022, um novo surto de cólera ocorreu no Haiti, após quase três anos sem casos de cólera. Em fevereiro de 2023, havia mais de 30.000
-casos de cólera e mais de 500 mortes por cólera (fonte: Organização Pan-Americana da Saúde).
-
-2019 ခုနှစ်တွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု အရေအတွက် လျော့နည်းသွားခဲ့ပြီး ဟေတီတွင် ကာလဝမ်းရောဂါ ပျံ့နှံ့မှု ပြီးဆုံးသွားကြောင်း ထင်ရှားသည်။ 
-ဟေတီတွင် 2020၊ 2021 နှင့် 2022 အများစုတွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု မရှိခဲ့ပါ။ 
-သို့သော် ကံမကောင်းစွာဖြင့်၊ 2022 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီတွင် ကာလဝမ်းရောဂါဖြစ်ပွားမှုအသစ်တစ်ခုဖြစ်ပွားခဲ့သည်၊ သုံးနှစ်နီးပါးကာလဝမ်းရောဂါဖြစ်ပွားခြင်းမရှိခဲ့ပါ။ 
-ဖေဖော်ဝါရီ 2023 စာရင်းအရ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 30,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးမှု 500 ကျော်ရှိပြီ (အရင်းအမြစ်- Pan American Health Organisation)။
-
-بحلول عام ٢٠١٩، انخفض عدد حالات الكوليرا، وبدا أن وباء الكوليرا في هايتي قد انتهى أخيرًا.
-لم تُبلّغ عن أي حالات كوليرا أخرى في هايتي في عامي ٢٠٢٠ و٢٠٢١، ومعظم عام ٢٠٢٢. ومع ذلك، للأسف، في أكتوبر ٢٠٢٢، اندلع تفشٍّ جديد للكوليرا في هايتي، بعد ما يقرب من ثلاث سنوات من عدم تسجيل أي حالات كوليرا. وبحلول فبراير ٢٠٢٣، تجاوز عدد حالات الكوليرا ٣٠ ألف حالة، وأكثر من ٥٠٠ حالة وفاة بسببها.
-
-تا سال ۲۰۱۹، تعداد موارد ابتلا به وبا کاهش یافت و به نظر می‌رسید که اپیدمی وبا در هائیتی سرانجام به پایان رسیده است.
-در سال‌های ۲۰۲۰، ۲۰۲۱ و بیشتر سال ۲۰۲۲، هیچ مورد ابتلا به وبا در هائیتی گزارش نشد.
-با این حال، متأسفانه در اکتبر ۲۰۲۲، پس از تقریباً سه سال عدم ابتلا به وبا، شیوع جدیدی از وبا در هائیتی رخ داد.
-تا فوریه ۲۰۲۳، بیش از ۳۰۰۰۰ مورد ابتلا به وبا و بیش از ۵۰۰ مورد مرگ ناشی از وبا گزارش شده بود (منبع: سازمان بهداشت پان آمریکا).
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-An important epidemiological question was: where did the *V. cholerae* strain that caused the Haiti 2022 outbreak come from?
-Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
-or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
-part of the world, such as Africa or Asia? 
-
-*Une question épidémiologique importante était : d’où provenait la souche de V. cholerae à l’origine de l’épidémie de 2022 en Haïti?
-A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie de 2022 en Haïti était-elle due à une introduction totalement nouvelle en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?*
-
-Uma questão epidemiológica importante era: de onde veio a cepa *V. cholerae* que causou o surto no Haiti em 2022?
-Ela havia persistido no Haiti desde a epidemia anterior, de 2010-2019, persistindo em humanos (por exemplo, casos assintomáticos ou não relatados)
-ou no meio ambiente (por exemplo, em rios ou lagos)? Ou o surto no Haiti em 2022 foi devido a uma introdução completamente nova no Haiti vinda de outra
-parte do mundo, como África ou Ásia?
-
-အရေးကြီးသော ကူးစက်ရောဂါဆိုင်ရာ မေးခွန်းမှာ- ဟေတီ 2022 ဖြစ်ပွားမှုကို ဖြစ်စေသော V. cholerae ရောဂါပိုးသည် မည်သည့်နေရာက လာသနည်း။ 
-ယခင် 2010-2019 ကပ်ရောဂါကတည်းက ဟေတီတွင် ဆက်ရှိနေသလား၊ လူတွင် (ဥပမာ- ရောဂါလက္ခဏာမပြသော သို့မဟုတ် အစီရင်ခံမထားသောရောဂါများ) သို့မဟုတ် ပတ်ဝန်းကျင်တွင် (ဥပမာ မြစ်ချောင်းများ သို့မဟုတ် ရေကန်များ) တွင် ဆက်လက်တည်ရှိနေပါသလား။ 
-သို့မဟုတ် အာဖရိက သို့မဟုတ် အာရှကဲ့သို့သော ကမ္ဘာ့အခြားအစိတ်အပိုင်းမှ ဟေတီသို့ လုံးဝမိတ်ဆက်မှုအသစ်ကြောင့် ဟေတီ 2022 ဖြစ်ပွားခြင်းလား။
-
-كان أحد الأسئلة الوبائية المهمة هو: من أين جاءت سلالة ضمة الكوليرا التي تسببت في تفشي وباء هايتي عام ٢٠٢٢؟
-هل استمرت في هايتي منذ وباء ٢٠١٠-٢٠١٩ السابق، سواءً لدى البشر (مثل الحالات غير المصحوبة بأعراض أو غير المبلغ عنها) أو في البيئة (مثل الأنهار أو البحيرات)؟
-أم أن تفشي وباء هايتي عام ٢٠٢٢ كان نتيجة دخول سلالة جديدة تمامًا إلى هايتي من منطقة أخرى من العالم، مثل أفريقيا أو آسيا؟
-
-یک سوال مهم اپیدمیولوژیک این بود: سویه V. cholerae که باعث شیوع هائیتی در سال ۲۰۲۲ شد، از کجا آمده است؟
-آیا از زمان همه‌گیری قبلی ۲۰۱۰-۲۰۱۹ در هائیتی ادامه داشته است، یا در انسان‌ها (مثلاً موارد بدون علامت یا گزارش نشده) یا در محیط (مثلاً در رودخانه‌ها یا دریاچه‌ها)؟
-یا شیوع هائیتی در سال ۲۰۲۲ به دلیل ورود کاملاً جدید به هائیتی از بخش دیگری از جهان، مانند آفریقا یا آسیا، بوده است؟
+Une question épidémiologique importante était : d’où provenait la souche de V. cholerae à l’origine de l’épidémie de 2022 en Haïti?
+A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie de 2022 en Haïti était-elle due à une introduction totalement nouvelle en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -132,131 +42,23 @@ parte do mundo, como África ou Ásia?
 Le génome H22
 -------------
 
-*Le génome H22*
-
-O genoma H22
-
-H22 ဂျီနိုမ်
-
-جينوم H22
-
-ژنوم ایزوله H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
-they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
-Laboratoire National de Santé Publique (National Public Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
-Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
-International Centre for Diarrheal Disease Research (Bangladesh):
-
-*Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):*
-
-No final de 2022, `Rubin et al 2022`_ publicaram o genoma de um isolado de *V. cholerae* do surto de 2022 no Haiti, que eles denominaram isolado 'H22'. Os autores deste trabalho foram um consórcio internacional de cientistas e especialistas em saúde pública do
-Laboratório Nacional de Saúde Pública do Haiti, da Zanmi Lasante (uma instituição não governamental de saúde no Haiti), do Hospital Brigham and Women's (EUA), do Hospital Geral de Massachusetts (EUA) e do
-Centro Internacional de Pesquisa de Doenças Diarreicas (Bangladesh):
-
-2022 ခုနှစ်နှောင်းပိုင်းတွင် `Rubin et al 2022`_ သည် Haiti 2022 ဖြစ်ပွားမှုမှ Vibrio cholerae ၏ဂျီနိုပ်ကိုထုတ်ဝေခဲ့သည်။
-သီးခြား 'H22' ဟုခေါ်သည်။ 
-ဤလုပ်ငန်းကို ရေးသားသူများသည် နိုင်ငံတကာ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျန်းမာရေး ကျွမ်းကျင်သူများ၏ လုပ်ငန်းစုဖြစ်သည်။
-သူတို့လုပ်ခဲ့တာ
-ဟေတီရှိ အမျိုးသားပြည်သူ့ကျန်းမာရေးဓာတ်ခွဲခန်း၊ Zanmi Lasante (ဟေတီရှိ အစိုးရမဟုတ်သော ကျန်းမာရေးစောင့်ရှောက်မှုပေးသူ)၊
-Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှင့်
-နိုင်ငံတကာ ဝမ်းပျက်ဝမ်းလျှောရောဂါ သုတေသနစင်တာ (ဘင်္ဂလားဒေ့ရှ်)။
-
-في أواخر عام ٢٠٢٢، نشر روبن وآخرون (٢٠٢٢) جينوم عينة معزولة من ضمة الكوليرا من تفشي وباء الكوليرا في هايتي عام ٢٠٢٢، والتي أطلقوا عليها اسم العينة H22. شارك في إعداد هذا العمل اتحاد دولي من العلماء وخبراء الصحة العامة من المختبر الوطني للصحة العامة في هايتي، وزانمي لاسانتي في هايتي، ومستشفى بريغهام والنساء في أمريكا، ومستشفى ماساتشوستس العام في أمريكا، والمركز الدولي لأبحاث أمراض الإسهال في بنغلاديش.
-انظر `Rubin et al 2022`_.
-
-در اواخر سال ۲۰۲۲، روبین و همکارانش ژنوم یک جدایه ویبریو کلرا از شیوع بیماری هائیتی در سال ۲۰۲۲ را منتشر کردند که آن را جدایه «H22» نامیدند.
-نویسندگان این اثر، کنسرسیومی بین‌المللی از دانشمندان و متخصصان بهداشت عمومی از آزمایشگاه ملی بهداشت عمومی در هائیتی، زانمی لاسانته (یک ارائه‌دهنده خدمات درمانی غیردولتی در هائیتی)، بیمارستان بریگهام و زنان (ایالات متحده آمریکا)، بیمارستان عمومی ماساچوست (ایالات متحده آمریکا) و مرکز بین‌المللی تحقیقات بیماری‌های اسهالی (بنگلادش) بودند:
-به `Rubin et al 2022`_ مراجعه کنید.
+Fin 2022, `Rubin et al 2022`_ ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
   :width: 800
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
+Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H22 afin de répondre à certaines questions clés de santé publique et aux questions sur les origines de l'épidémie d'Haïti de 2022:
 
-In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
-to public health, and answer questions about the origins of the Haiti 2022 outbreak:
+#. H22 est-il susceptible de produire la toxine cholérique?
+#. H22 est-il susceptible de présenter une résistance aux antimicrobiens?
+#. H22 est-il susceptible de contenir des plasmides?
+#. H22 appartient-il à la lignée pandémique de Vibrio cholerae?
+#. Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?
+#. Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?
 
-#. Is H22 predicted to produce cholera toxin?
-#. Is H22 predicted to have antimicrobial resistance?
-#. Is H22 predicted to have plasmids?
-#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
-#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
-#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
-
-*Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H22 afin de répondre à certaines questions clés de santé publique et aux questions sur les origines de l'épidémie d'Haïti de 2022:*
-
-#. *H22 est-il susceptible de produire la toxine cholérique?*
-#. *H22 est-il susceptible de présenter une résistance aux antimicrobiens?*
-#. *H22 est-il susceptible de contenir des plasmides?*
-#. *H22 appartient-il à la lignée pandémique de Vibrio cholerae?*
-#. *Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?*
-#. *Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?*
-
-Neste exemplo prático, mostrarei como analisar o genoma H22 para responder a algumas perguntas importantes
-relevantes para a saúde pública e responder a perguntas sobre as origens do surto do Haiti em 2022:
-
-#. É previsto que o H22 produza toxina da cólera?
-#. É previsto que o H22 tenha resistência antimicrobiana?
-#. É previsto que H22 tenha plasmídeos?
-#. O H22 pertence à linhagem pandêmica do Vibrio cholerae?
-#. Quais são os parentes mais próximos do H22 entre os genomas publicados do Vibrio cholerae?
-#. O que podemos dizer sobre as origens do surto do Haiti em 2022, com base no genoma H22?
-
-ဤအလုပ်နမူနာတွင်၊ ပြည်သူ့ကျန်းမာရေးနှင့်သက်ဆိုင်သည့် အဓိကမေးခွန်းအချို့ကိုဖြေဆိုရန်နှင့် ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်အကြောင်းမေးခွန်းများကိုဖြေဆိုရန် H22 ဂျီနိုမ်ကို မည်သို့ခွဲခြမ်းစိတ်ဖြာရမည်ကို ကျွန်ုပ်ပြသပါမည်။
-
-#. H22 သည် ကာလဝမ်းအဆိပ်အတောက်ဖြစ်စေရန် ခန့်မှန်းထားပါသလား။
-#. H22 သည် ပဋိဇီဝဆေးခံနိုင်ရည်ရှိမည်ဟု ခန့်မှန်းထားပါသလား။
-#. H22 ဂျီနိုမ်ကို အခြေခံ၍ ၎င်းတွင် plasmids ရှိမရှိ ခန့်မှန်းနိုင်ပါသလား။
-#. H22 သည် Vibrio cholerae ၏ ကူးစက်ရောဂါမျိုးရိုးနှင့် သက်ဆိုင်ပါသလား။
-#. ထုတ်ပြန်ထားတဲ့ Vibrio cholerae genomes တွေထဲမှာ H22 ရဲ့ အနီးစပ်ဆုံး ဆွေမျိုးတွေက ဘာတွေလဲ။
-#. H22 ဂျီနိုမ်ကိုအခြေခံ၍ ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်နှင့်ပတ်သက်၍ ကျွန်ုပ်တို့ဘာပြောနိုင်သနည်း။
-
-في هذا المثال العملي، سأوضح لك كيفية تحليل جينوم H22 للإجابة على بعض الأسئلة الرئيسية المتعلقة بالصحة العامة، والإجابة على أسئلة حول أصول تفشي المرض في هايتي عام 2022:
-
-#. هل يُتوقع أن تُنتج بكتيريا H22 سم الكوليرا؟
-#. هل يُتوقع أن تكون عزلة H22 مقاومة للمضادات الحيوية؟
-#. هل يُتوقع أن تحتوي H22 على بلازميدات؟
-#. هل تنتمي عزلة H22 إلى سلالة ضمة الكوليرا الوبائية؟
-#. ما هي أقرب سلالات ضمة الكوليرا الجينومية المنشورة لعزلة H22؟
-#. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
-
-در این مثال کاربردی، به شما نشان خواهم داد که چگونه ژنوم H22 را تجزیه و تحلیل کنید تا به برخی از سوالات کلیدی مربوط به سلامت عمومی پاسخ دهید و به سوالاتی در مورد ریشه‌های شیوع هائیتی در سال 2022 پاسخ دهید:
-
-#. آیا پیش‌بینی می‌شود که H22 سم وبا تولید کند؟
-#. آیا پیش‌بینی می‌شود که H22 مقاومت ضدمیکروبی داشته باشد؟
-#. آیا پیش‌بینی می‌شود که H22 دارای پلاسمید باشد؟
-#. آیا H22 به دودمان همه‌گیر ویبریو کلرا تعلق دارد؟
-#. نزدیکترین خویشاوندان H22 در میان ژنوم‌های منتشر شده ویبریو کلرا کدامند؟
-#. بر اساس ژنوم H22، چه چیزی می‌توانیم در مورد ریشه‌های شیوع هائیتی ۲۰۲۲ بگوییم؟
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
-genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
-everyone can see. 
-
-*Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.*
-
-Vamos analisar o genoma H22 no Vibriowatch para responder a algumas dessas perguntas.
-O genoma do H22 está entre os aproximadamente 6.000 genomas que já adicionamos ao Vibriowatch, que são genomas "públicos" que
-todos podem ver.
-
-ဤမေးခွန်းအချို့ကိုဖြေဆိုရန် Vibriowatch ရှိ H22 ဂျီနိုမ်ကို ခွဲခြမ်းစိတ်ဖြာကြည့်ကြပါစို့။ 
-H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
-လူတိုင်းမြင်နိုင်သည်။
-
-دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
-
-بیایید ژنوم H22 را در Vibriowatch تجزیه و تحلیل کنیم تا به برخی از این سؤالات پاسخ دهیم.
-ژنوم H22 یکی از حدود ۶۰۰۰ ژنومی است که قبلاً به Vibriowatch اضافه کرده‌ایم، که ژنوم‌های «عمومی» هستند و همه می‌توانند آنها را ببینند.
+Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -264,76 +66,17 @@ H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ V
 Trouver le génome H22 dans Vibriowatch 
 --------------------------------------
 
-Trouver le génome H22 dans Vibriowatch
-
-Encontrando o genoma H22 no Vibriowatch
-
-Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။
-
-كيفية العثور على جينوم H22 في Vibriowatch
-
-یافتن ژنوم H22 در Vibriowatch
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `video on finding H22's report page in Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on finding H22's report page in Vibriowatch`_ ကိုကြည့်ပါ။
-
-إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on finding H22's report page in Vibriowatch`_).
-
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on finding H22's report page in Vibriowatch`_ مراجعه کنید.
-
-.. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
 
 .. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
-`How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
-
-*Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à* `la page de rapport du génome H22`_ *dans Vibriowatch (ou consultez* `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ *pour savoir comment rechercher vous-même la page de rapport H22).*
-
-Primeiro, vamos ao genoma H22 no Vibriowatch; clique neste link para ir para `H22's genome report page`_ no Vibriowatch (ou veja
-`How to search for an isolate in Vibriowatch and see its report page`_ para descobrir como encontrar a localização da página do relatório do H22).
-
-ဦးစွာ Vibriowatch ရှိ H22 ဂျီနိုမ်သို့ သွားကြပါစို့။ Vibriowatch အတွင်း `H22's genome report page`_ သို့သွားရန် ဤလင့်ခ်ကို နှိပ်ပါ (သို့မဟုတ် ကြည့်ရှုပါ။ 
-`How to search for an isolate in Vibriowatch and see its report page`_ H22 ၏ အစီရင်ခံစာ စာမျက်နှာ၏ တည်နေရာကို သင်ကိုယ်တိုင် ရှာဖွေနည်းကို ရှာဖွေရန်)။
-
-أولاً، لننتقل إلى جينوم H22 في Vibriowatch بالنقر على هذا الرابط (`H22's genome report page`_).
-أو تعلّم كيفية البحث عن صفحة تقرير H22 بنفسك بالنقر على هذا الرابط (`How to search for an isolate in Vibriowatch and see its report page`_).
-
-ابتدا، بیایید به ژنوم H22 در Vibriowatch برویم؛ برای رفتن به `H22's genome report page`_ در Vibriowatch روی این لینک کلیک کنید (یا برای یافتن محل صفحه گزارش H22، به `How to search for an isolate in Vibriowatch and see its report page`_ مراجعه کنید).
-
-.. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
+Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à `la page de rapport du génome H22`_ dans Vibriowatch (ou consultez `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ pour savoir comment rechercher vous-même la page de rapport H22).
 
 .. _la page de rapport du génome H22: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
-.. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
-
 .. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
-
-*La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:*
-
-A página do relatório mostra os metadados coletados para o isolado, bem como as análises bioinformáticas do isolado. Isso mostra o topo da página do relatório para H22:
-
-အစီရင်ခံစာစာမျက်နှာတွင် အထီးကျန်အတွက် စုဆောင်းထားသော မက်တာဒေတာအပြင် အထီးကျန်၏ ဂျီနိုမ်၏ တွက်ချက်မှုဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာမှုများကို ပြသသည်။ ၎င်းသည် H22 အတွက် အစီရင်ခံစာ၏ ထိပ်ပိုင်းကို ပြသသည်-
-
-تعرض صفحة التقرير البيانات الوصفية المُعدّة بعناية للعزلة، بالإضافة إلى تحليلات المعلوماتية الحيوية لها. يظهر هذا أعلى صفحة تقرير H22:
-
-صفحه گزارش، فراداده‌های جمع‌آوری‌شده برای ایزوله و همچنین تجزیه و تحلیل‌های بیوانفورماتیکی ایزوله را نشان می‌دهد. این تصویر، بالای صفحه گزارش مربوط به H22 را نشان می‌دهد:
+La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:
 
 .. image:: Picture115.png
   :width: 600
