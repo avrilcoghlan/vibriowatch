@@ -87,119 +87,28 @@ La page du rapport présente les métadonnées organisées pour l'isolat, ainsi 
 Qualité d'assemblage du génome H22
 ----------------------------------
 
-Qualité d'assemblage du génome H22
-
-Qualidade de montagem do genoma H22
-
-H22 ဂျီနိုမ် စည်းဝေးပွဲ၏ အရည်အသွေး
-
-جودة تجميع جينوم H22
-
-کیفیت مونتاژ H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ဗီဒီယိုကို ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on investigating H22's assembly quality, using Vibriowatch`_ ကိုကြည့်ပါ။
-
-إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on investigating H22's assembly quality, using Vibriowatch`_).
-
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on investigating H22's assembly quality, using Vibriowatch`_ مراجعه کنید.
-
-.. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
 
 .. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
-reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
-to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
-looks like this:
-
-*Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour V. cholerae. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas du rapport génomique pour H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:*
-
-Vamos dar uma olhada rápida nas estatísticas de montagem do genoma H22 para verificar se a montagem parece
-de qualidade razoavelmente boa e possui o conteúdo de GC esperado para *Vibrio. cholerae*. Para ver as estatísticas de montagem, role
-até o final da página do relatório do genoma H22. Você deverá ver uma seção com o título "Estatísticas de montagem",
-que se parece com isto:
-
-စည်းဝေးပွဲသည် အရည်အသွေးကောင်းမွန်ကြောင်း စစ်ဆေးရန်နှင့် စည်းဝေးပွဲ၌ Vibrio cholerae အတွက် မျှော်လင့်ထားသည့် GC ပါဝင်မှုရှိမရှိကိုလည်း စစ်ဆေးရန် H22 ဂျီနိုမို တပ်ဆင်ခြင်းအတွက် စည်းဝေးပွဲစာရင်းဇယားကို အမြန်ကြည့်ရှုကြပါစို့။ 
-ဂျီနိုမ်စည်းဝေးပွဲ၏ အရည်အသွေးဆိုင်ရာ အချက်အလက်ကို ကြည့်ရှုရန် H22 အတွက် အစီရင်ခံစာ စာမျက်နှာ၏ အောက်ခြေသို့ သွားပါ။ 
-"Assembly stats" ဟူသော ခေါင်းစဉ်ဖြင့် ကဏ္ဍတစ်ခုကို သင်တွေ့ရပါမည်။
-
-لنلقِ نظرة سريعة على إحصائيات تجميع جينوم H22، للتأكد من أن التجميع يبدو بجودة جيدة نسبيًا، ويحتوي على محتوى GC المتوقع لضمة الكوليرا. للاطلاع على إحصائيات التجميع، انتقل إلى أسفل صفحة تقرير جينوم H22. سترى قسمًا بعنوان "إحصائيات التجميع"، والذي يبدو كالتالي:
-
-بیایید نگاهی سریع به آمار مونتاژ ژنوم H22 بیندازیم تا بررسی کنیم که آیا مونتاژ از کیفیت نسبتاً خوبی برخوردار است و محتوای GC مورد انتظار برای ویبریو کلرا را دارد یا خیر.
-برای مشاهده آمار مونتاژ، به پایین صفحه گزارش ژنوم H22 بروید.
-شما باید بخشی با عنوان "آمار مونتاژ" را ببینید که به این شکل است:
+Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour V. cholerae. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas du rapport génomique pour H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:
 
 .. image:: Picture116.png
   :width: 550
 
-We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. Another commonly used measure of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
-
-*On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.*
-
-Podemos observar que a montagem do isolado H22 tem um tamanho de genoma de cerca de 4,0 Megabases (Mb) e um conteúdo de GC de 47,5%. Outra medida comumente utilizada para avaliar a qualidade da montagem é o número de contigs. Vemos aqui que a montagem do isolado H22 possui 44 contigs.
-
-H22 isolate အတွက် စည်းဝေးပွဲသည် 4.0 Megabases (Mb) ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ရှိကြောင်း တွေ့ရှိနိုင်ပါသည်။ 
-တပ်ဆင်အရည်အသွေး၏ နောက်ထပ်အသုံးများသည့်အတိုင်းအတာမှာ contigs အရေအတွက်ဖြစ်သည်။ 
-H22 isolate အတွက် စည်းဝေးပွဲတွင် contigs 44 ခုရှိသည်ကို ဤနေရာတွင် ကျွန်ုပ်တို့မြင်ရသည်။
-
-يتضح من خلال هذا البحث أن حجم جينوم عزلة H22 يبلغ حوالي 4.0 ميجابايت (Mb)، وأن نسبة التكتل (GC) فيه تبلغ 47.5%. ومن المقاييس الشائعة الأخرى لجودة التجميع عدد "الكونتيج". ونلاحظ هنا أن تجميع عزلة H22 يحتوي على 44 "كونتيج".
-
-می‌توانیم ببینیم که مجموعه مربوط به ایزوله H22 دارای اندازه ژنوم حدود ۴.۰ مگاباز (Mb) و محتوای GC برابر با ۴۷.۵٪ است.
-یکی دیگر از معیارهای رایج برای کیفیت مجموعه، تعداد کانتیگ‌ها است.
-در اینجا می‌بینیم که مجموعه ژنوم مربوط به ایزوله H22 دارای ۴۴ کانتیگ است.
-
-.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
-
-*La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir* `Heidelberg et al 2000`_ *). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.*
-
-O tamanho de montagem de H22 de 4,0 Mb é consistente com o genoma de referência da cepa N16961 de *Vibrio cholerae*, que possui um tamanho de genoma de cerca de 4,0 Megabases e um conteúdo de GC de 47,5% (ver `Heidelberg et al 2000`_). Como uma "regra geral" bastante aproximada, consideraríamos que um tamanho de montagem entre cerca de 3,3 e 5,3 Megabases e um conteúdo de GC entre cerca de 41,3% e 48,6% são razoáveis ​​para um genoma de *Vibrio cholerae*.
-
-4.0 Mb ၏ H22 ၏ စုဝေးမှုအရွယ်အစားသည် Vibrio cholerae strain N16961 အတွက်ရည်ညွှန်းဂျီနိုမ်အရွယ်အစားနှင့် အလွန်နီးစပ်ပါသည်။
-N16961 တွင် 4.0 Megabases ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ခန့် (`Heidelberg et al 2000`_ ကိုကြည့်ပါ)။ 
-အကြမ်းဖျင်းလမ်းညွှန်ချက်အနေဖြင့် Vibrio cholerae ဂျီနိုမ်သည် 3.3 မှ 5.3 Megabase ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-နောက်ထပ်ကြမ်းတမ်းသောလမ်းညွှန်ချက်မှာ Vibrio cholerae genome သည် 41.3% မှ 48.6% GC ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-
-يتوافق حجم تجميع H22، البالغ 4.0 ميجا بايت، مع الجينوم المرجعي لسلالة ضمة الكوليرا N16961، التي يبلغ حجم جينومها حوالي 4.0 ميجا قاعدة، ومحتوى GC بنسبة 47.5% (انظر `Heidelberg et al 2000`_).
-كقاعدة عامة، نعتبر أن حجم تجميع يتراوح بين 3.3 و5.3 ميجا قاعدة، ومحتوى GC يتراوح بين 41.3% و48.6%، هو حجم معقول لجينوم ضمة الكوليرا.
-
-اندازه مجموعه H22 معادل ۴.۰ مگابایت با ژنوم مرجع برای سویه ویبریو کلرا N16961 سازگار است که اندازه ژنوم آن حدود ۴.۰ مگاباز و محتوای GC آن ۴۷.۵٪ است (به `Heidelberg et al 2000`_ مراجعه کنید).
-به عنوان یک "قاعده سرانگشتی" بسیار تقریبی، ما در نظر می‌گیریم که اندازه مجموعه ژنوم بین حدود ۳.۳ تا ۵.۳ مگاباز و محتوای GC بین حدود ۴۱.۳ تا ۴۸.۶ درصد برای ژنوم ویبریو کلرا منطقی است.
+La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir `Heidelberg et al 2000`_ ). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
-
-*On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
-
-Normalmente, consideramos que uma montagem é de qualidade relativamente boa se ela consiste em :math:`<` 700 contigs. O genoma do isolado H22 possui 44 contigs, portanto, é de qualidade relativamente boa.
-
-၎င်းတွင် contigs 700 ထက်နည်းပါက စည်းဝေးပွဲတစ်ခုတွင် အရည်အသွေးကောင်းမွန်သည်ဟု ကျွန်ုပ်တို့ အများအားဖြင့် ယူဆပါသည်။ 
-H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြောင့် အရည်အသွေးကောင်းမွန်သည်။
-
-عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة متجاورة. يحتوي جينوم عزلة H22 على 44 وحدة متجاورة، لذا فهو ذو جودة جيدة نسبيًا.
-
-ما معمولاً در نظر می‌گیریم که یک مجموعه ژنومی اگر از کمتر از ۷۰۰ کانتیگ تشکیل شده باشد، از کیفیت نسبتاً خوبی برخوردار است.
-مجموعه ژنومی برای جدایه H22 دارای ۴۴ کانتیگ است، بنابراین کیفیت نسبتاً خوبی دارد.
+On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -207,107 +116,28 @@ H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြ
 Est-il prévu que H22 produise de la toxine cholérique?
 ------------------------------------------------------
 
-Est-il prévu que H22 produise de la toxine cholérique?
-
-É previsto que o H22 produza toxina da cólera?
-
-H22 သည် ကာလဝမ်းအဆိပ်အတောက်ကို ထုတ်လွှတ်နိုင်သည်ဟု ခန့်မှန်းထားပါသလား။
-
-هل من المتوقع أن ينتج H22 "سم الكوليرا"؟
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
-
-Se você aprende melhor vendo do que lendo, veja o `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on predicting if H22 produces cholera toxin, using Vibriowatch`_ ကိုကြည့်ပါ။
-
-إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting if H22 produces cholera toxin, using Vibriowatch`_).
-
-.. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/fQHf4nCZ7L8 
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
 
 .. _vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
-by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
-of *V. cholerae*, the 7PET lineage, carry the genes for cholera toxin (genes *ctxA* and *ctxB*) and produce cholera toxin, which is a protein
-complex consisting of CtxA and CtxB subunits. However, many isolates of other
-(non-pandemic) lineages of *V. cholerae* do not carry the genes for cholera toxin, and so do not produce cholera toxin.
-
-*Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par V. cholerae. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de V. cholerae. Presque tous les isolats de la lignée pandémique actuelle de V. cholerae, la lignée 7PET, portent les gènes de la toxine cholérique (gènes ctxA et ctxB) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de V. cholerae ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.*
-
-A cólera é uma doença caracterizada por diarreia aquosa aguda, e os sintomas de diarreia são causados ​​principalmente pela toxina colérica (Ctx) secretada
-pelo *Vibrio cholerae*. Portanto, a toxina colérica é considerada o principal fator de virulência do *Vibrio cholerae*. Praticamente todos os isolados da atual linhagem pandêmica
-de *Vibrio cholerae*, a linhagem 7PET, carregam os genes da toxina colérica (genes *ctxA* e *ctxB*) e produzem a toxina colérica, que é um complexo proteico
-consistindo nas subunidades CtxA e CtxB. No entanto, muitos isolados de outras
-linhagens (não pandêmicas) de *Vibrio cholerae* não carregam os genes da toxina colérica e, portanto, não a produzem.
-
-ကာလဝမ်းရောဂါသည် စူးရှသောရေများဝမ်းပျက်ဝမ်းလျှောရောဂါ၏လက္ခဏာရပ်ဖြစ်ပြီး ဝမ်းပျက်ဝမ်းလျှောရောဂါလက္ခဏာများမှာ အဓိကအားဖြင့် ဝမ်းတွင်းအဆိပ်အတောက် (Ctx) မှထွက်ရှိသော ကာလဝမ်းအဆိပ်ကြောင့်ဖြစ်ခြင်းဖြစ်သည်။
-Vibrio cholerae အားဖြင့်။
-ထို့ကြောင့် ကာလဝမ်းအဆိပ်အတောက်ကို Vibrio cholerae ၏ အဓိက ဗိုင်းရပ်စ်ပိုးဟု ယူဆပါသည်။ 
-လက်တွေ့အားဖြင့် ကြီးမားသော ကူးစက်ရောဂါများကို ဖြစ်စေသည့် Vibrio cholerae ၏ 7PET မျိုးရိုး၏ အထီးကျန်အားလုံးသည် ကာလဝမ်းအဆိပ်သင့်ခြင်းအတွက် မျိုးဗီဇများ (မျိုးဗီဇ ctxA နှင့် ctxB) ကို သယ်ဆောင်သည်။
-ထို့ကြောင့် 7PET isolates သည် CtxA နှင့် CtxB ပါ၀င်သော Ctx toxin ကိုထုတ်လုပ်သည်။
-Vibrio cholerae ၏ 7PET မျိုးရိုးနှင့် မတူဘဲ Vibrio cholerae ၏ အခြားမျိုးကွဲများစွာ၏ အထီးကျန်များတွင် ctxA နှင့် ctxB ဗီဇများ မရှိပါ။ ထို့ကြောင့် ၎င်းတို့သည် ကာလဝမ်းအဆိပ်အတောက်ကို မထုတ်လုပ်ပါ။
-
-الكوليرا مرضٌ يتميز بإسهال مائي حاد، وتنجم أعراضه بشكل رئيسي عن سم الكوليرا (Ctx) الذي تفرزه بكتيريا ضمة الكوليرا. لذلك، يُعتبر سم الكوليرا عامل الضراوة الرئيسي لضمة الكوليرا. تحمل جميع عزلات سلالة الكوليرا الوبائية الحالية تقريبًا، سلالة "7PET"، جينات سم الكوليرا (الجينان ctxA وctxB) وتنتج سم الكوليرا، وهو مركب بروتيني يتكون من وحدتين فرعيتين CtxA وCtxB. ومع ذلك، فإن العديد من عزلات سلالات أخرى (غير وبائية) من ضمة الكوليرا لا تحمل جينات سم الكوليرا، وبالتالي لا تنتج سم الكوليرا.
-
-مشخصه اصلی بیماری وبا، اسهال حاد آبکی است.
-این اسهال توسط سم Ctx ایجاد می‌شود که توسط باکتری ویبریو کلرا ترشح می‌شود.
-بنابراین، Ctx به عنوان عامل اصلی تحریک‌کننده بیماری تولید شده توسط ویبریو کلرا در نظر گرفته می‌شود.
-جدا شده‌های سویه اپیدمی‌زای ویبریو کلرا (7PET) دارای ژن‌های سم وبا (ژن‌های ctxA و ctxB) هستند.
-بنابراین، جدا شده‌های 7PET سم وبا تولید می‌کنند که یک کمپلکس پروتئینی متشکل از زیر واحدهای CtxA و CtxB است.
-با این حال، بسیاری از جدا شده‌های سایر دودمان‌های (غیر همه‌گیر) ویبریو کلرا ژن‌های سم وبا را ندارند و بنابراین سم وبا تولید نمی‌کنند.
+Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par V. cholerae. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de V. cholerae. Presque tous les isolats de la lignée pandémique actuelle de V. cholerae, la lignée 7PET, portent les gènes de la toxine cholérique (gènes ctxA et ctxB) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de V. cholerae ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-To find out whether the H22 isolate carries the genes for cholera toxin, and so is predicted to produce cholera toxin, we can look at the "Virulence" section
-of the genome report page for H22:
-
-*Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport génomique de H22:*
-
-Para descobrir se o isolado H22 carrega os genes da toxina da cólera e, portanto, prevê-se que produza a toxina da cólera, podemos consultar a seção "Virulência"
-da página do relatório do genoma para H22:
-
-ولمعرفة ما إذا كانت عزلة H22 تحمل جينات سموم الكوليرا، وبالتالي من المتوقع أن تنتج Ctx، يمكننا إلقاء نظرة على قسم "الضراوة" في صفحة تقرير الجينوم لـ H22:
+Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport génomique de H22:
 
 .. image:: Picture121.png
   :width: 550
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
-
-*Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.*
-
-Você pode ver que há uma marca de seleção ao lado de "ctxA" e "ctxB", então prevê-se que H22 carregue os genes da toxina da cólera.
-
-يمكنك أن ترى أن هناك علامة صح بجوار "ctxA" و "ctxB" لذا من المتوقع أن يحمل H22 جينات سموم الكوليرا.
+Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-Because the H22 genome is predicted to carry the *ctxA* and *ctxB* genes, we can predict that it produces the cholera toxin. 
-This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phenotypic data suggesting that H22 is toxigenic, i.e. that produces cholera toxin.
+Étant donné que le génome H22 devrait contenir les gènes ctxA et ctxB, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-
-*Étant donné que le génome H22 devrait contenir les gènes ctxA et ctxB, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.*
-
-Como se prevê que o genoma H22 carregue os genes *ctxA* e *ctxB*, podemos prever que ele produz a toxina da cólera.
-Isso concorda com as evidências do artigo de `Rubin et al 2022`_, que relataram dados fenotípicos sugerindo que o H22 é toxigênico, ou seja, produz a toxina da cólera.
-
-.. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-
-بما أنه من المتوقع أن يحمل جينوم H22 جيني ctxA وctxB، يمكننا التنبؤ بأنه يُنتج Ctx. وهذا يتفق مع الأدلة الواردة في ورقة روبن وآخرون (2022)، الذين أوردوا بيانات نمطية تُشير إلى أن H22 مُسبِّب للتسمم، أي أنه يُنتج سم الكوليرا.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -315,77 +145,31 @@ Isso concorda com as evidências do artigo de `Rubin et al 2022`_, que relataram
 Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?
 -------------------------------------------------------------------------
 
-هل من المتوقع أن تكون العزلة H22 مقاومة للمضادات الحيوية؟
-
-------------
-
-If you learn better by seeing rather than reading, see the `video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_.
-
-.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/fexfUXza8M8 
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch`_.
 
 .. _vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch: https://youtu.be/sOl5hqRyBa0 
 
-إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on predicting if H22 has antimicrobial resistance, using Vibriowatch`_).
-
-.. _video on predicting if H22 has antimicrobial resistance, using Vibriowatch: https://youtu.be/fexfUXza8M8 
-
-------------
-
-The primary treatment for cholera is rehydration, but antimicrobials are given to the most vulnerable patients such as pregnant women, very small
-children, and HIV-positive patients. The WHO recommends the antimicrobials azithromycin, doxycycline and ciprofloxacin for treating cholera. Therefore, any
-antimicrobial resistance to these recommended antimicrobials would be a concern.
-
-*Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.*
-
-العلاج الأساسي للكوليرا هو معالجة الجفاف، ولكن تُعطى المضادات الحيوية للمرضى الأكثر عرضة للخطر، مثل النساء الحوامل والأطفال الصغار والمصابين بفيروس نقص المناعة البشرية. توصي منظمة الصحة العالمية باستخدام المضادات الحيوية أزيثروميسين ودوكسيسيكلين وسيبروفلوكساسين لعلاج الكوليرا. لذلك، فإن أي مقاومة لهذه المضادات الحيوية الموصى بها ستكون مصدر قلق.
+Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-To find out whether the H22 isolate carries antimicrobial resistance (AMR), we can look at the "AMR" section of the genome report page for H22:
-
-*Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur le génome de H22:*
-
-ولمعرفة ما إذا كان H22 يحمل مقاومة للمضادات الميكروبية (AMR)، يمكننا إلقاء نظرة على قسم "AMR" في صفحة تقرير الجينوم لـ H22:
-
-------------
+Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur le génome de H22:
 
 .. image:: Picture122.png
   :width: 550
 
-------------
-
-You can see that the H22 isolate is not predicted to have resistance genes or mutations to azithromycin or doxycycline, but is predicted to
-have an intermediate level of resistance to ciprofloxacin because it carries two resistance mutations, the *gyrA_S83I* and *parC_S85L* mutations (causing a substitution
-from S to I at position 83 of the GyrA protein, and a substitution from S to L at position 85 of the ParC protein, respectively). You can also see that is predicted to be resistant to trimethoprim (because it carries the gene *dfrA1*) and sulfamethoxazole (because it carries the gene *sul2*).
-
-*On constate que l'isolat H22 ne devrait pas présenter de gènes de résistance ni de mutations à l'azithromycine ou à la doxycycline, mais devrait présenter un niveau de résistance intermédiaire à la ciprofloxacine, car il est porteur de deux mutations de résistance: gyrA_S83I et parC_S85L (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). On constate également qu'il devrait être résistant au triméthoprime (car il porte le gène dfrA1) et au sulfaméthoxazole (car il porte le gène sul2).*
-
-كما هو واضح، لا يُتوقع أن تحتوي عزلة H22 على جينات أو طفرات مقاومة للأزيثروميسين أو الدوكسيسيكلين، بل يُتوقع أن تكون ذات مستوى مقاومة متوسط ​​للسيبروفلوكساسين لأنها تحمل طفرتين مقاومتين، هما gyrA_S83I وparC_S85L. تُسبب هاتان الطفرتان استبدالًا من S إلى I عند الموضع 83 من بروتين GyrA، واستبدالًا من S إلى L عند الموضع 85 من بروتين ParC، على التوالي. كما يُتوقع أن تكون H22 مقاومة للتريميثوبريم لأنها تحمل الجين dfrA1، وللسلفاميثوكسازول لأنها تحمل الجين sul2.
+On constate que l'isolat H22 ne devrait pas présenter de gènes de résistance ni de mutations à l'azithromycine ou à la doxycycline, mais devrait présenter un niveau de résistance intermédiaire à la ciprofloxacine, car il est porteur de deux mutations de résistance: gyrA_S83I et parC_S85L (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). On constate également qu'il devrait être résistant au triméthoprime (car il porte le gène dfrA1) et au sulfaméthoxazole (car il porte le gène sul2).
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-Based on the results above, we would predict H22 to have an intermediate level of resistance to ciprofloxacin, and to be resistant to trimethoprim and sulfamethoxazole.
+Sur la base des résultats ci-dessus, nous prédisons que H22 aura un niveau intermédiaire de résistance à la ciprofloxacine et qu’il sera résistant au triméthoprime et au sulfaméthoxazole.
 
-*Sur la base des résultats ci-dessus, nous prédisons que H22 aura un niveau intermédiaire de résistance à la ciprofloxacine et qu’il sera résistant au triméthoprime et au sulfaméthoxazole.*
-
-وبناءً على النتائج المذكورة أعلاه، نتوقع أن يكون لدى H22 مستوى متوسط ​​من المقاومة للسيبروفلوكساسين، وأن يكون مقاومًا للتريميثوبريم والسلفاميثوكسازول.
-
-------------
-
-This agrees with the evidence in the paper of `Rubin et al 2022`_, who reported that from laboratory testing results, H22 has resistance to trimethoprim and sulfamethoxazole, and low-level
-resistance to ciprofloxacin. Trimethoprim and sulfamethoxazole are not the WHO-recommended antimicrobials for cholera, but have been used
-in the past in some locations (`Das et al 2020`_).
+Ceci concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rapporté que, d'après les résultats des tests de laboratoire, H22 présente une résistance au triméthoprime et au sulfaméthoxazole, ainsi qu'une faible résistance à la ciprofloxacine. Le triméthoprime et le sulfaméthoxazole ne sont pas les antimicrobiens recommandés par l'OMS pour le choléra, mais ont été utilisés par le passé dans certaines régions (`Das et al 2020`_).
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 .. _Das et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272870/
-
-*Ceci concorde avec les données de l'article de* `Rubin et al 2022`_, *qui ont rapporté que, d'après les résultats des tests de laboratoire, H22 présente une résistance au triméthoprime et au sulfaméthoxazole, ainsi qu'une faible résistance à la ciprofloxacine. Le triméthoprime et le sulfaméthoxazole ne sont pas les antimicrobiens recommandés par l'OMS pour le choléra, mais ont été utilisés par le passé dans certaines régions* (`Das et al 2020`_).
-
-يتفق هذا مع الأدلة الواردة في ورقة روبن وآخرون (2022)، الذين أفادوا، بناءً على نتائج الاختبارات المعملية، بأن بكتيريا H22 مقاومة للتريميثوبريم والسلفاميثوكسازول، ومقاومة منخفضة المستوى للسيبروفلوكساسين. يُذكر أن التريميثوبريم والسلفاميثوكسازول ليسا من مضادات الميكروبات الموصى بها من قِبل منظمة الصحة العالمية لعلاج الكوليرا، ولكنهما استُخدما سابقًا في بعض المواقع.
 
 .. image:: HorizontalDivider.png
   :width: 1200
