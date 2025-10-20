@@ -27,11 +27,11 @@ L'épidémie en Haïti en 2022
 ---------------------------
 
 Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
-Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 décès. Cette épidémie a été attribuée à la lignée pandémique actuelle de *Vibrio cholerae* et des éléments suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 (`Orata et al 2014`_).
+Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 morts. Cette épidémie a été attribuée à la lignée pandémique actuelle de *Vibrio cholerae* et les données scientifiques suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 (`Orata et al 2014`_).
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 décès dus au choléra (source : Organisation Panaméricaine de la Santé).
+En 2019, le nombre de cas de choléra avait diminué et l'épidémie semblait enfin terminée en Haïti. Aucun cas de choléra n'a été signalé en Haïti en 2020, 2021 et pendant la majeure partie de 2022. Malheureusement, une nouvelle épidémie de choléra s'est déclarée en octobre 2022, après près de trois ans sans cas. En février 2023, on comptait plus de 30 000 cas de choléra et plus de 500 morts dus au choléra (source : Organisation Panaméricaine de la Santé).
 
 Une question épidémiologique importante était : quelle était la source de la souche de *V. cholerae* responsable de l’épidémie en Haïti en 2022?
 A-t-elle persisté en Haïti depuis la précédente épidémie de 2010-2019, soit chez l’homme (cas asymptomatiques ou non déclarés, par exemple), soit dans l’environnement (dans les rivières ou les lacs, par exemple)? Ou bien l’épidémie de 2022 en Haïti était-elle due à une introduction totalement nouvelle en provenance d’une autre région du monde, comme l’Afrique ou l’Asie?
