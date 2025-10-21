@@ -125,7 +125,7 @@ Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, don
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport sur le génome de l'isolat H22:
+Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport sur H22:
 
 .. image:: Picture121.png
   :width: 550
@@ -145,21 +145,23 @@ Vous pouvez voir qu'il y a une coche à côté de *ctxA* et *ctxB*, donc il est 
 Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?
 -------------------------------------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur comment prédire si l'isolat H22 présente une résistance aux antimicrobiens, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la prédiction de la résistance aux antimicrobiens du H22, en utilisant Vibriowatch: https://youtu.be/sOl5hqRyBa0 
+.. _vidéo sur comment prédire si l'isolat H22 présente une résistance aux antimicrobiens, en utilisant Vibriowatch: https://youtu.be/sOl5hqRyBa0 
 
-Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.
+Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont parfois administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur le génome de H22:
+Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur H22:
 
 .. image:: Picture122.png
   :width: 550
 
-On constate que l'isolat H22 ne devrait pas présenter de gènes de résistance ni de mutations à l'azithromycine ou à la doxycycline, mais devrait présenter un niveau de résistance intermédiaire à la ciprofloxacine, car il est porteur de deux mutations de résistance: gyrA_S83I et parC_S85L (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). On constate également qu'il devrait être résistant au triméthoprime (car il porte le gène dfrA1) et au sulfaméthoxazole (car il porte le gène sul2).
+Il est prédit que H22 ne possède pas de gènes ou de mutations conférant une résistance à la doxcycline ou à l'azithromycine.
+Cependant, il est prévu que H22 ait un niveau intermédiaire de résistance à la ciprofloxacine, car il porte deux mutations:
+*gyrA*_S83I et *parC*_S85L (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). Il est également prédit que H22 a une résistance au triméthoprime (car il porte le gène *dfrA1*) et au sulfaméthoxazole (car il porte le gène *sul2*).
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
