@@ -70,11 +70,11 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur c
 
 .. _vidéo sur comment rechercher la page du rapport sur H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
 
-Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à `la page du rapport du génome H22`_ dans Vibriowatch (ou consultez `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ pour savoir comment rechercher vous-même la page du rapport H22).
+Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à `la page du rapport du génome H22`_ dans Vibriowatch (ou consultez `Comment rechercher un isolat dans Vibriowatch et voir sa page du rapport`_ pour savoir comment rechercher vous-même la page du rapport H22).
 
 .. _la page du rapport du génome H22: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
-.. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
+.. _Comment rechercher un isolat dans Vibriowatch et voir sa page du rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
 La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:
 
