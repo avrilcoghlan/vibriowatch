@@ -9,57 +9,16 @@ Pour voir une traduction française de cette page, voir `traduction française`_
 
 .. _Arabic translation: https://vibriowatch.readthedocs.io/en/latest/haiti_arabic.html
 
-Estudo de caso - Haiti 2022 
-
-ဖြစ်ရပ်မှန်လေ့လာမှု - ဟေတီ ၂၀၂၂
-
-مطالعه موردی - هائیتی 2022
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 This section is a worked example of using Vibriowatch to analyse cholera genomic data, using the Haiti 2022 outbreak as an example.
-
-Esta seção é um exemplo prático do uso do Vibriowatch para analisar dados genômicos de cólera, usando o surto de 2022 no Haiti como exemplo.
-
-ဤအပိုင်းသည် ဟေတီ 2022 ဖြစ်ပွားမှုကို နမူနာအဖြစ် အသုံးပြု၍ ကာလဝမ်းမျိုးဗီဇဒေတာကို ခွဲခြမ်းစိတ်ဖြာရန် Vibriowatch ကို အသုံးပြုခြင်း၏ နမူနာတစ်ခုဖြစ်သည်။
-
-این بخش یک مثال کاربردی از استفاده از Vibriowatch برای تجزیه و تحلیل داده‌های ژنومی وبا است که از شیوع هائیتی در سال 2022 به عنوان نمونه استفاده می‌کند.
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
 
 We wish to pay homage to the public health professionals, scientists and public servants of Haiti, and to the patient
 who generously donated a sample, for making this cholera genomic data publicly available and therefore contributing a lot to our
 global understanding of cholera.
 
-Gostaríamos de prestar homenagem aos profissionais de saúde pública, cientistas e servidores públicos do Haiti, e ao paciente que generosamente doou uma amostra, por tornar esses dados genômicos da cólera disponíveis publicamente e, portanto, contribuir muito para nossa compreensão global da cólera.
-
-ကျွန်ုပ်တို့သည် ဟေတီပြည်သူ့ကျန်းမာရေးပညာရှင်များ၊ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျေးကျွန်များနှင့် နမူနာတစ်ခုကို ရက်ရက်ရောရောလှူဒါန်းခဲ့သော လူနာအား ဂါရဝပြုလိုပါသည်။ 
-ဤ ကာလဝမ်းရောဂါ မျိုးရိုးဗီဇဆိုင်ရာ အချက်အလက်ကို လူသိရှင်ကြား ရရှိစေခြင်းဖြင့် ၎င်းတို့သည် ကာလဝမ်းရောဂါအကြောင်း ကျွန်ုပ်တို့၏ ကမ္ဘာလုံးဆိုင်ရာ နားလည်မှုကို များစွာ အထောက်အကူ ပြုစေပါသည်။
-
-ما مایلیم از متخصصان بهداشت عمومی، دانشمندان و خدمتگزاران مردم هائیتی و از بیماری که سخاوتمندانه نمونه‌ای اهدا کرد، به خاطر در دسترس عموم قرار دادن این داده‌های ژنومی وبا و در نتیجه کمک شایانی به درک جهانی ما از وبا، ادای احترام کنیم.
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 This case study has been selected as it is an example of *Vibrio cholerae* persisting within a country or region between outbreaks. It also illustrates
 how, if sampling is patchy, it is difficult to distinguish between persistance within a country and re-introduction from a nearby country.
 Furthermore, it illustrates how it is very difficult to distinguish between persistance of *Vibrio cholerae* in the human population between outbreaks, versus
 persistance in the environment between outbreaks.
-
-Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibrio cholerae em um país ou região entre surtos. Ele também ilustra como, se a amostragem for irregular, é difícil distinguir entre a persistência dentro de um país e a reintrodução de um país vizinho. Além disso, ilustra como é muito difícil distinguir entre a persistência do Vibrio cholerae na população humana entre surtos e a persistência no ambiente entre surtos.
-
-နိုင်ငံတစ်ခု သို့မဟုတ် ဒေသတစ်ခုအတွင်း ကာလဝမ်းရောဂါဖြစ်ပွားမှုကြားကာလတွင် ဆက်လက်တည်ရှိနေသည့် Vibrio cholerae ၏ နမူနာတစ်ခုဖြစ်သောကြောင့် ဤဖြစ်ရပ်လေ့လာမှုကို ရွေးချယ်ထားပါသည်။
-နမူနာယူခြင်းသည် ကွက်တိဖြစ်နေပါက နိုင်ငံတစ်ခုအတွင်း၌ တည်မြဲမှုနှင့် အနီးနားနိုင်ငံမှ ပြန်လည်မိတ်ဆက်ခြင်းကြားတွင် ခွဲခြားရန်ခက်ခဲကြောင်း ၎င်းမှလည်း သရုပ်ဖော်သည်။ 
-ထို့အပြင်၊ ၎င်းသည် လူ့လူဦးရေတွင် Vibrio cholerae ၏တည်မြဲမှုကို ခွဲခြားရန် အလွန်ခက်ခဲပုံကို သရုပ်ဖော်ထားပြီး ရောဂါဖြစ်ပွားမှုကြား ပတ်ဝန်းကျင်တွင် ဆက်လက်တည်ရှိနေခြင်းကို သရုပ်ဖော်သည်။
-
-این مطالعه موردی به این دلیل انتخاب شده است که نمونه‌ای از ویبریو کلرا است که در یک کشور یا منطقه بین شیوع‌ها باقی مانده است.
-همچنین نشان می‌دهد که اگر نمونه‌برداری تکه‌تکه باشد، تشخیص بین تداوم در داخل یک کشور و معرفی مجدد از یک کشور مجاور دشوار است.
-علاوه بر این، این نشان می‌دهد که چگونه تشخیص بین ماندگاری ویبریو کلرا در جمعیت انسانی بین شیوع‌ها، در مقابل ماندگاری آن در محیط بین شیوع‌ها بسیار دشوار است.
-
-.. image:: HorizontalDivider.png
-  :width: 1200
 
 * `The Haiti 2022 outbreak`_.
 * `The H22 genome`_.
@@ -80,81 +39,23 @@ Este estudo de caso foi selecionado por ser um exemplo da persistência do Vibri
 The Haiti 2022 outbreak
 -----------------------
 
-O surto do Haiti em 2022
-
-ဟေတီ 2022 ဖြစ်ပွားမှု
-
-شیوع هائیتی ۲۰۲۲
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 You may already know that in January 2010 there was a catastrophic earthquake in Haiti, a country that forms part of the Caribbean island named Hispaniola.
 Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
 more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
 by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
 was likely carried from Nepal to Haiti in 2010 (`Orata et al 2014`_). 
 
-Você já deve saber que em janeiro de 2010 houve um terremoto catastrófico no Haiti, uma ilha no Caribe.
-Mais tarde naquele ano, em outubro de 2010, um enorme surto de cólera teve início no Haiti, que durou até 2019 e incluiu
-mais de 820.000 casos de cólera e quase 10.000 mortes por cólera. Descobriu-se que esse surto foi causado
-pela atual linhagem pandêmica do *Vibrio cholerae* (conhecida como 7PET), e evidências sugerem que
-ele provavelmente foi transportado do Nepal para o Haiti em 2010 (`Orata et al 2014`_).
-
-2010 ခုနှစ် ဇန်န၀ါရီလတွင် ကာရေဘီယံရှိ ဟေတီကျွန်းတွင် ကပ်ဘေးငလျင်လှုပ်ခဲ့သည်ကို သင်သိပြီးသားဖြစ်ပေမည်။ 
-ထိုနှစ်နှောင်းပိုင်းတွင်၊ 2010 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီနိုင်ငံတွင် ကြီးမားသော ကာလဝမ်းရောဂါစတင်ဖြစ်ပွားခဲ့ပြီး 2019 ခုနှစ်အထိ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 820,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးသူ 10,000 နီးပါးပါဝင်သည်။ 
-ဤရောဂါဖြစ်ပွားမှုသည် ကြီးမားသောကူးစက်ပျံ့နှံ့မှုကိုဖြစ်စေသော Vibrio cholerae ဘက်တီးရီးယားအမျိုးအစားခွဲတစ်ခုကြောင့် ဖြစ်ပွားရခြင်းဖြစ်ပြီး သက်သေအထောက်အထားများက နီပေါမှ ဟေတီသို့ 2010 (Orata et al 2014) သယ်ဆောင်လာဖွယ်ရှိကြောင်း သက်သေအထောက်အထားများက အကြံပြုထားသည်။
-`Orata et al 2014`_ ကိုကြည့်ပါ။
-
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
-
-شاید از قبل بدانید که در ژانویه ۲۰۱۰ زلزله‌ای فاجعه‌بار در هائیتی، جزیره‌ای در کارائیب، رخ داد.
-بعدها در همان سال، در اکتبر ۲۰۱۰، شیوع گسترده وبا در هائیتی آغاز شد که تا سال ۲۰۱۹ ادامه داشت و شامل بیش از ۸۲۰،۰۰۰ مورد ابتلا به وبا و نزدیک به ۱۰،۰۰۰ مرگ ناشی از وبا بود.
-مشخص شد که این شیوع ناشی از سویه همه‌گیر فعلی ویبریو کلرا (معروف به 7PET) بوده است و شواهد نشان می‌دهد که احتمالاً در سال ۲۰۱۰ از نپال به هائیتی منتقل شده است (اوراتا و همکاران، ۲۰۱۴).
-به `Orata et al 2014`_ مراجعه کنید.
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
 
 By 2019, the number of cholera cases had waned off, and it appeared that the cholera epidemic in Haiti was finally over.
 No more cholera cases were reported in Haiti in 2020, 2021 and for most of 2022. However, unfortunately in October of 2022 a new cholera outbreak 
 occurred in Haiti, after almost three years of no cholera cases. By February 2023, there had been more than 30,000
 cholera cases, and >500 deaths from cholera (source: Pan American Health Organisation).
 
-Em 2019, o número de casos de cólera havia diminuído e parecia que a epidemia de cólera no Haiti havia finalmente terminado.
-Não foram relatados mais casos de cólera no Haiti em 2020, 2021 e durante a maior parte de 2022. No entanto, infelizmente, em outubro de 2022, um novo surto de cólera ocorreu no Haiti, após quase três anos sem casos de cólera. Em fevereiro de 2023, havia mais de 30.000
-casos de cólera e mais de 500 mortes por cólera (fonte: Organização Pan-Americana da Saúde).
-
-2019 ခုနှစ်တွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု အရေအတွက် လျော့နည်းသွားခဲ့ပြီး ဟေတီတွင် ကာလဝမ်းရောဂါ ပျံ့နှံ့မှု ပြီးဆုံးသွားကြောင်း ထင်ရှားသည်။ 
-ဟေတီတွင် 2020၊ 2021 နှင့် 2022 အများစုတွင် ကာလဝမ်းရောဂါ ဖြစ်ပွားမှု မရှိခဲ့ပါ။ 
-သို့သော် ကံမကောင်းစွာဖြင့်၊ 2022 ခုနှစ် အောက်တိုဘာလတွင် ဟေတီတွင် ကာလဝမ်းရောဂါဖြစ်ပွားမှုအသစ်တစ်ခုဖြစ်ပွားခဲ့သည်၊ သုံးနှစ်နီးပါးကာလဝမ်းရောဂါဖြစ်ပွားခြင်းမရှိခဲ့ပါ။ 
-ဖေဖော်ဝါရီ 2023 စာရင်းအရ ကာလဝမ်းရောဂါဖြစ်ပွားသူ 30,000 ကျော်နှင့် ကာလဝမ်းရောဂါကြောင့် သေဆုံးမှု 500 ကျော်ရှိပြီ (အရင်းအမြစ်- Pan American Health Organisation)။
-
-تا سال ۲۰۱۹، تعداد موارد ابتلا به وبا کاهش یافت و به نظر می‌رسید که اپیدمی وبا در هائیتی سرانجام به پایان رسیده است.
-در سال‌های ۲۰۲۰، ۲۰۲۱ و بیشتر سال ۲۰۲۲، هیچ مورد ابتلا به وبا در هائیتی گزارش نشد.
-با این حال، متأسفانه در اکتبر ۲۰۲۲، پس از تقریباً سه سال عدم ابتلا به وبا، شیوع جدیدی از وبا در هائیتی رخ داد.
-تا فوریه ۲۰۲۳، بیش از ۳۰۰۰۰ مورد ابتلا به وبا و بیش از ۵۰۰ مورد مرگ ناشی از وبا گزارش شده بود (منبع: سازمان بهداشت پان آمریکا).
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 An important epidemiological question was: where did the *V. cholerae* strain that caused the Haiti 2022 outbreak come from?
 Had it persisted in Haiti since the previous 2010-2019 epidemic, persisting either in humans (e.g. asymptomatic or unreported cases)
 or in the environment (e.g. in rivers or lakes)? Or was the Haiti 2022 outbreak due to a completely new introduction into Haiti from another
 part of the world, such as Africa or Asia? 
-
-Uma questão epidemiológica importante era: de onde veio a cepa *V. cholerae* que causou o surto no Haiti em 2022?
-Ela havia persistido no Haiti desde a epidemia anterior, de 2010-2019, persistindo em humanos (por exemplo, casos assintomáticos ou não relatados)
-ou no meio ambiente (por exemplo, em rios ou lagos)? Ou o surto no Haiti em 2022 foi devido a uma introdução completamente nova no Haiti vinda de outra
-parte do mundo, como África ou Ásia?
-
-အရေးကြီးသော ကူးစက်ရောဂါဆိုင်ရာ မေးခွန်းမှာ- ဟေတီ 2022 ဖြစ်ပွားမှုကို ဖြစ်စေသော V. cholerae ရောဂါပိုးသည် မည်သည့်နေရာက လာသနည်း။ 
-ယခင် 2010-2019 ကပ်ရောဂါကတည်းက ဟေတီတွင် ဆက်ရှိနေသလား၊ လူတွင် (ဥပမာ- ရောဂါလက္ခဏာမပြသော သို့မဟုတ် အစီရင်ခံမထားသောရောဂါများ) သို့မဟုတ် ပတ်ဝန်းကျင်တွင် (ဥပမာ မြစ်ချောင်းများ သို့မဟုတ် ရေကန်များ) တွင် ဆက်လက်တည်ရှိနေပါသလား။ 
-သို့မဟုတ် အာဖရိက သို့မဟုတ် အာရှကဲ့သို့သော ကမ္ဘာ့အခြားအစိတ်အပိုင်းမှ ဟေတီသို့ လုံးဝမိတ်ဆက်မှုအသစ်ကြောင့် ဟေတီ 2022 ဖြစ်ပွားခြင်းလား။
-
-یک سوال مهم اپیدمیولوژیک این بود: سویه V. cholerae که باعث شیوع هائیتی در سال ۲۰۲۲ شد، از کجا آمده است؟
-آیا از زمان همه‌گیری قبلی ۲۰۱۰-۲۰۱۹ در هائیتی ادامه داشته است، یا در انسان‌ها (مثلاً موارد بدون علامت یا گزارش نشده) یا در محیط (مثلاً در رودخانه‌ها یا دریاچه‌ها)؟
-یا شیوع هائیتی در سال ۲۰۲۲ به دلیل ورود کاملاً جدید به هائیتی از بخش دیگری از جهان، مانند آفریقا یا آسیا، بوده است؟
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -162,44 +63,16 @@ parte do mundo, como África ou Ásia?
 The H22 genome
 --------------
 
-O genoma H22
-
-H22 ဂျီနိုမ်
-
-ژنوم ایزوله H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
 they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
 Laboratoire National de Santé Publique (National Public Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
 Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
 International Centre for Diarrheal Disease Research (Bangladesh):
 
-No final de 2022, `Rubin et al 2022`_ publicaram o genoma de um isolado de *V. cholerae* do surto de 2022 no Haiti, que eles denominaram isolado 'H22'. Os autores deste trabalho foram um consórcio internacional de cientistas e especialistas em saúde pública do
-Laboratório Nacional de Saúde Pública do Haiti, da Zanmi Lasante (uma instituição não governamental de saúde no Haiti), do Hospital Brigham and Women's (EUA), do Hospital Geral de Massachusetts (EUA) e do
-Centro Internacional de Pesquisa de Doenças Diarreicas (Bangladesh):
-
-2022 ခုနှစ်နှောင်းပိုင်းတွင် `Rubin et al 2022`_ သည် Haiti 2022 ဖြစ်ပွားမှုမှ Vibrio cholerae ၏ဂျီနိုပ်ကိုထုတ်ဝေခဲ့သည်။
-သီးခြား 'H22' ဟုခေါ်သည်။ 
-ဤလုပ်ငန်းကို ရေးသားသူများသည် နိုင်ငံတကာ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျန်းမာရေး ကျွမ်းကျင်သူများ၏ လုပ်ငန်းစုဖြစ်သည်။
-သူတို့လုပ်ခဲ့တာ
-ဟေတီရှိ အမျိုးသားပြည်သူ့ကျန်းမာရေးဓာတ်ခွဲခန်း၊ Zanmi Lasante (ဟေတီရှိ အစိုးရမဟုတ်သော ကျန်းမာရေးစောင့်ရှောက်မှုပေးသူ)၊
-Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှင့်
-နိုင်ငံတကာ ဝမ်းပျက်ဝမ်းလျှောရောဂါ သုတေသနစင်တာ (ဘင်္ဂလားဒေ့ရှ်)။
-
-در اواخر سال ۲۰۲۲، روبین و همکارانش ژنوم یک جدایه ویبریو کلرا از شیوع بیماری هائیتی در سال ۲۰۲۲ را منتشر کردند که آن را جدایه «H22» نامیدند.
-نویسندگان این اثر، کنسرسیومی بین‌المللی از دانشمندان و متخصصان بهداشت عمومی از آزمایشگاه ملی بهداشت عمومی در هائیتی، زانمی لاسانته (یک ارائه‌دهنده خدمات درمانی غیردولتی در هائیتی)، بیمارستان بریگهام و زنان (ایالات متحده آمریکا)، بیمارستان عمومی ماساچوست (ایالات متحده آمریکا) و مرکز بین‌المللی تحقیقات بیماری‌های اسهالی (بنگلادش) بودند:
-به `Rubin et al 2022`_ مراجعه کنید.
-
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
   :width: 800
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
 
 In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
 to public health, and answer questions about the origins of the Haiti 2022 outbreak:
@@ -211,51 +84,9 @@ to public health, and answer questions about the origins of the Haiti 2022 outbr
 #. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
 #. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
 
-Neste exemplo prático, mostrarei como analisar o genoma H22 para responder a algumas perguntas importantes
-relevantes para a saúde pública e responder a perguntas sobre as origens do surto do Haiti em 2022:
-
-#. É previsto que o H22 produza toxina da cólera?
-#. É previsto que o H22 tenha resistência antimicrobiana?
-#. É previsto que H22 tenha plasmídeos?
-#. O H22 pertence à linhagem pandêmica do Vibrio cholerae?
-#. Quais são os parentes mais próximos do H22 entre os genomas publicados do Vibrio cholerae?
-#. O que podemos dizer sobre as origens do surto do Haiti em 2022, com base no genoma H22?
-
-ဤအလုပ်နမူနာတွင်၊ ပြည်သူ့ကျန်းမာရေးနှင့်သက်ဆိုင်သည့် အဓိကမေးခွန်းအချို့ကိုဖြေဆိုရန်နှင့် ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်အကြောင်းမေးခွန်းများကိုဖြေဆိုရန် H22 ဂျီနိုမ်ကို မည်သို့ခွဲခြမ်းစိတ်ဖြာရမည်ကို ကျွန်ုပ်ပြသပါမည်။
-
-#. H22 သည် ကာလဝမ်းအဆိပ်အတောက်ဖြစ်စေရန် ခန့်မှန်းထားပါသလား။
-#. H22 သည် ပဋိဇီဝဆေးခံနိုင်ရည်ရှိမည်ဟု ခန့်မှန်းထားပါသလား။
-#. H22 ဂျီနိုမ်ကို အခြေခံ၍ ၎င်းတွင် plasmids ရှိမရှိ ခန့်မှန်းနိုင်ပါသလား။
-#. H22 သည် Vibrio cholerae ၏ ကူးစက်ရောဂါမျိုးရိုးနှင့် သက်ဆိုင်ပါသလား။
-#. ထုတ်ပြန်ထားတဲ့ Vibrio cholerae genomes တွေထဲမှာ H22 ရဲ့ အနီးစပ်ဆုံး ဆွေမျိုးတွေက ဘာတွေလဲ။
-#. H22 ဂျီနိုမ်ကိုအခြေခံ၍ ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်နှင့်ပတ်သက်၍ ကျွန်ုပ်တို့ဘာပြောနိုင်သနည်း။
-
-در این مثال کاربردی، به شما نشان خواهم داد که چگونه ژنوم H22 را تجزیه و تحلیل کنید تا به برخی از سوالات کلیدی مربوط به سلامت عمومی پاسخ دهید و به سوالاتی در مورد ریشه‌های شیوع هائیتی در سال 2022 پاسخ دهید:
-
-#. آیا پیش‌بینی می‌شود که H22 سم وبا تولید کند؟
-#. آیا پیش‌بینی می‌شود که H22 مقاومت ضدمیکروبی داشته باشد؟
-#. آیا پیش‌بینی می‌شود که H22 دارای پلاسمید باشد؟
-#. آیا H22 به دودمان همه‌گیر ویبریو کلرا تعلق دارد؟
-#. نزدیکترین خویشاوندان H22 در میان ژنوم‌های منتشر شده ویبریو کلرا کدامند؟
-#. بر اساس ژنوم H22، چه چیزی می‌توانیم در مورد ریشه‌های شیوع هائیتی ۲۰۲۲ بگوییم؟
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
 genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
 everyone can see. 
-
-Vamos analisar o genoma H22 no Vibriowatch para responder a algumas dessas perguntas.
-O genoma do H22 está entre os aproximadamente 6.000 genomas que já adicionamos ao Vibriowatch, que são genomas "públicos" que
-todos podem ver.
-
-ဤမေးခွန်းအချို့ကိုဖြေဆိုရန် Vibriowatch ရှိ H22 ဂျီနိုမ်ကို ခွဲခြမ်းစိတ်ဖြာကြည့်ကြပါစို့။ 
-H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
-လူတိုင်းမြင်နိုင်သည်။
-
-بیایید ژنوم H22 را در Vibriowatch تجزیه و تحلیل کنیم تا به برخی از این سؤالات پاسخ دهیم.
-ژنوم H22 یکی از حدود ۶۰۰۰ ژنومی است که قبلاً به Vibriowatch اضافه کرده‌ایم، که ژنوم‌های «عمومی» هستند و همه می‌توانند آنها را ببینند.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -263,53 +94,18 @@ H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ V
 Finding the H22 genome in Vibriowatch 
 -------------------------------------
 
-Encontrando o genoma H22 no Vibriowatch
-
-Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။
-
-یافتن ژنوم H22 در Vibriowatch
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `video on finding H22's report page in Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on finding H22's report page in Vibriowatch`_ ကိုကြည့်ပါ။
-
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on finding H22's report page in Vibriowatch`_ مراجعه کنید.
 
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
 `How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
-
-Primeiro, vamos ao genoma H22 no Vibriowatch; clique neste link para ir para `H22's genome report page`_ no Vibriowatch (ou veja
-`How to search for an isolate in Vibriowatch and see its report page`_ para descobrir como encontrar a localização da página do relatório do H22).
-
-ဦးစွာ Vibriowatch ရှိ H22 ဂျီနိုမ်သို့ သွားကြပါစို့။ Vibriowatch အတွင်း `H22's genome report page`_ သို့သွားရန် ဤလင့်ခ်ကို နှိပ်ပါ (သို့မဟုတ် ကြည့်ရှုပါ။ 
-`How to search for an isolate in Vibriowatch and see its report page`_ H22 ၏ အစီရင်ခံစာ စာမျက်နှာ၏ တည်နေရာကို သင်ကိုယ်တိုင် ရှာဖွေနည်းကို ရှာဖွေရန်)။
-
-ابتدا، بیایید به ژنوم H22 در Vibriowatch برویم؛ برای رفتن به `H22's genome report page`_ در Vibriowatch روی این لینک کلیک کنید (یا برای یافتن محل صفحه گزارش H22، به `How to search for an isolate in Vibriowatch and see its report page`_ مراجعه کنید).
 
 .. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
 .. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
-
-A página do relatório mostra os metadados coletados para o isolado, bem como as análises bioinformáticas do isolado. Isso mostra o topo da página do relatório para H22:
-
-အစီရင်ခံစာစာမျက်နှာတွင် အထီးကျန်အတွက် စုဆောင်းထားသော မက်တာဒေတာအပြင် အထီးကျန်၏ ဂျီနိုမ်၏ တွက်ချက်မှုဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာမှုများကို ပြသသည်။ ၎င်းသည် H22 အတွက် အစီရင်ခံစာ၏ ထိပ်ပိုင်းကို ပြသသည်-
-
-صفحه گزارش، فراداده‌های جمع‌آوری‌شده برای ایزوله و همچنین تجزیه و تحلیل‌های بیوانفورماتیکی ایزوله را نشان می‌دهد. این تصویر، بالای صفحه گزارش مربوط به H22 را نشان می‌دهد:
 
 .. image:: Picture115.png
   :width: 600
@@ -320,22 +116,7 @@ A página do relatório mostra os metadados coletados para o isolado, bem como a
 Assembly quality of the H22 genome
 ----------------------------------
 
-Qualidade de montagem do genoma H22
-
-H22 ဂျီနိုမ် စည်းဝေးပွဲ၏ အရည်အသွေး
-
-کیفیت مونتاژ H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ဗီဒီယိုကို ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on investigating H22's assembly quality, using Vibriowatch`_ ကိုကြည့်ပါ။
-
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on investigating H22's assembly quality, using Vibriowatch`_ مراجعه کنید.
 
 .. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
 
@@ -347,33 +128,10 @@ reasonably good quality and has the expected GC content for *V. cholerae*. To lo
 to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
 looks like this:
 
-Vamos dar uma olhada rápida nas estatísticas de montagem do genoma H22 para verificar se a montagem parece
-de qualidade razoavelmente boa e possui o conteúdo de GC esperado para *Vibrio. cholerae*. Para ver as estatísticas de montagem, role
-até o final da página do relatório do genoma H22. Você deverá ver uma seção com o título "Estatísticas de montagem",
-que se parece com isto:
-
-စည်းဝေးပွဲသည် အရည်အသွေးကောင်းမွန်ကြောင်း စစ်ဆေးရန်နှင့် စည်းဝေးပွဲ၌ Vibrio cholerae အတွက် မျှော်လင့်ထားသည့် GC ပါဝင်မှုရှိမရှိကိုလည်း စစ်ဆေးရန် H22 ဂျီနိုမို တပ်ဆင်ခြင်းအတွက် စည်းဝေးပွဲစာရင်းဇယားကို အမြန်ကြည့်ရှုကြပါစို့။ 
-ဂျီနိုမ်စည်းဝေးပွဲ၏ အရည်အသွေးဆိုင်ရာ အချက်အလက်ကို ကြည့်ရှုရန် H22 အတွက် အစီရင်ခံစာ စာမျက်နှာ၏ အောက်ခြေသို့ သွားပါ။ 
-"Assembly stats" ဟူသော ခေါင်းစဉ်ဖြင့် ကဏ္ဍတစ်ခုကို သင်တွေ့ရပါမည်။
-
-بیایید نگاهی سریع به آمار مونتاژ ژنوم H22 بیندازیم تا بررسی کنیم که آیا مونتاژ از کیفیت نسبتاً خوبی برخوردار است و محتوای GC مورد انتظار برای ویبریو کلرا را دارد یا خیر.
-برای مشاهده آمار مونتاژ، به پایین صفحه گزارش ژنوم H22 بروید.
-شما باید بخشی با عنوان "آمار مونتاژ" را ببینید که به این شکل است:
-
 .. image:: Picture116.png
   :width: 550
 
 We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. Another commonly used measure of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
-
-Podemos observar que a montagem do isolado H22 tem um tamanho de genoma de cerca de 4,0 Megabases (Mb) e um conteúdo de GC de 47,5%. Outra medida comumente utilizada para avaliar a qualidade da montagem é o número de contigs. Vemos aqui que a montagem do isolado H22 possui 44 contigs.
-
-H22 isolate အတွက် စည်းဝေးပွဲသည် 4.0 Megabases (Mb) ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ရှိကြောင်း တွေ့ရှိနိုင်ပါသည်။ 
-တပ်ဆင်အရည်အသွေး၏ နောက်ထပ်အသုံးများသည့်အတိုင်းအတာမှာ contigs အရေအတွက်ဖြစ်သည်။ 
-H22 isolate အတွက် စည်းဝေးပွဲတွင် contigs 44 ခုရှိသည်ကို ဤနေရာတွင် ကျွန်ုပ်တို့မြင်ရသည်။
-
-می‌توانیم ببینیم که مجموعه مربوط به ایزوله H22 دارای اندازه ژنوم حدود ۴.۰ مگاباز (Mb) و محتوای GC برابر با ۴۷.۵٪ است.
-یکی دیگر از معیارهای رایج برای کیفیت مجموعه، تعداد کانتیگ‌ها است.
-در اینجا می‌بینیم که مجموعه ژنوم مربوط به ایزوله H22 دارای ۴۴ کانتیگ است.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
@@ -382,27 +140,9 @@ H22 isolate အတွက် စည်းဝေးပွဲတွင် contigs 4
 
 The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
 
-O tamanho de montagem de H22 de 4,0 Mb é consistente com o genoma de referência da cepa N16961 de *Vibrio cholerae*, que possui um tamanho de genoma de cerca de 4,0 Megabases e um conteúdo de GC de 47,5% (ver `Heidelberg et al 2000`_). Como uma "regra geral" bastante aproximada, consideraríamos que um tamanho de montagem entre cerca de 3,3 e 5,3 Megabases e um conteúdo de GC entre cerca de 41,3% e 48,6% são razoáveis ​​para um genoma de *Vibrio cholerae*.
-
-4.0 Mb ၏ H22 ၏ စုဝေးမှုအရွယ်အစားသည် Vibrio cholerae strain N16961 အတွက်ရည်ညွှန်းဂျီနိုမ်အရွယ်အစားနှင့် အလွန်နီးစပ်ပါသည်။
-N16961 တွင် 4.0 Megabases ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ခန့် (`Heidelberg et al 2000`_ ကိုကြည့်ပါ)။ 
-အကြမ်းဖျင်းလမ်းညွှန်ချက်အနေဖြင့် Vibrio cholerae ဂျီနိုမ်သည် 3.3 မှ 5.3 Megabase ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-နောက်ထပ်ကြမ်းတမ်းသောလမ်းညွှန်ချက်မှာ Vibrio cholerae genome သည် 41.3% မှ 48.6% GC ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-
-اندازه مجموعه H22 معادل ۴.۰ مگابایت با ژنوم مرجع برای سویه ویبریو کلرا N16961 سازگار است که اندازه ژنوم آن حدود ۴.۰ مگاباز و محتوای GC آن ۴۷.۵٪ است (به `Heidelberg et al 2000`_ مراجعه کنید).
-به عنوان یک "قاعده سرانگشتی" بسیار تقریبی، ما در نظر می‌گیریم که اندازه مجموعه ژنوم بین حدود ۳.۳ تا ۵.۳ مگاباز و محتوای GC بین حدود ۴۱.۳ تا ۴۸.۶ درصد برای ژنوم ویبریو کلرا منطقی است.
-
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs or less. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
-
-Normalmente, consideramos que uma montagem é de qualidade relativamente boa se ela consiste em :math:`<` 700 contigs. O genoma do isolado H22 possui 44 contigs, portanto, é de qualidade relativamente boa.
-
-၎င်းတွင် contigs 700 ထက်နည်းပါက စည်းဝေးပွဲတစ်ခုတွင် အရည်အသွေးကောင်းမွန်သည်ဟု ကျွန်ုပ်တို့ အများအားဖြင့် ယူဆပါသည်။ 
-H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြောင့် အရည်အသွေးကောင်းမွန်သည်။
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -410,23 +150,9 @@ H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြ
 Is H22 predicted to produce cholera toxin?
 ------------------------------------------
 
-É previsto que o H22 produza toxina da cólera?
-
-H22 သည် ကာလဝမ်းအဆိပ်အတောက်ကို ထုတ်လွှတ်နိုင်သည်ဟု ခန့်မှန်းထားပါသလား။
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 If you learn better by seeing rather than reading, see the `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
 
-Se você aprende melhor vendo do que lendo, veja o `video on predicting if H22 produces cholera toxin, using Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on predicting if H22 produces cholera toxin, using Vibriowatch`_ ကိုကြည့်ပါ။
-
 .. _video on predicting if H22 produces cholera toxin, using Vibriowatch: https://youtu.be/fQHf4nCZ7L8 
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
 
 Cholera is a disease characterised by acute watery diarrhoea, and the diarrhoea symptoms are mainly caused by the cholera toxin (Ctx) that is secreted
 by *V. cholerae*. Therefore, cholera toxin is considered the primary virulence factor of *V. cholerae*. Practically all isolates of the current pandemic lineage
@@ -434,27 +160,11 @@ of *V. cholerae*, the 7PET lineage, carry the genes for cholera toxin (genes *ct
 complex consisting of CtxA and CtxB subunits. However, many isolates of other
 (non-pandemic) lineages of *V. cholerae* do not carry the genes for cholera toxin, and so do not produce cholera toxin.
 
-A cólera é uma doença caracterizada por diarreia aquosa aguda, e os sintomas de diarreia são causados ​​principalmente pela toxina colérica (Ctx) secretada
-pelo *Vibrio cholerae*. Portanto, a toxina colérica é considerada o principal fator de virulência do *Vibrio cholerae*. Praticamente todos os isolados da atual linhagem pandêmica
-de *Vibrio cholerae*, a linhagem 7PET, carregam os genes da toxina colérica (genes *ctxA* e *ctxB*) e produzem a toxina colérica, que é um complexo proteico
-consistindo nas subunidades CtxA e CtxB. No entanto, muitos isolados de outras
-linhagens (não pandêmicas) de *Vibrio cholerae* não carregam os genes da toxina colérica e, portanto, não a produzem.
-
-ကာလဝမ်းရောဂါသည် စူးရှသောရေများဝမ်းပျက်ဝမ်းလျှောရောဂါ၏လက္ခဏာရပ်ဖြစ်ပြီး ဝမ်းပျက်ဝမ်းလျှောရောဂါလက္ခဏာများမှာ အဓိကအားဖြင့် ဝမ်းတွင်းအဆိပ်အတောက် (Ctx) မှထွက်ရှိသော ကာလဝမ်းအဆိပ်ကြောင့်ဖြစ်ခြင်းဖြစ်သည်။
-Vibrio cholerae အားဖြင့်။
-ထို့ကြောင့် ကာလဝမ်းအဆိပ်အတောက်ကို Vibrio cholerae ၏ အဓိက ဗိုင်းရပ်စ်ပိုးဟု ယူဆပါသည်။ 
-လက်တွေ့အားဖြင့် ကြီးမားသော ကူးစက်ရောဂါများကို ဖြစ်စေသည့် Vibrio cholerae ၏ 7PET မျိုးရိုး၏ အထီးကျန်အားလုံးသည် ကာလဝမ်းအဆိပ်သင့်ခြင်းအတွက် မျိုးဗီဇများ (မျိုးဗီဇ ctxA နှင့် ctxB) ကို သယ်ဆောင်သည်။
-ထို့ကြောင့် 7PET isolates သည် CtxA နှင့် CtxB ပါ၀င်သော Ctx toxin ကိုထုတ်လုပ်သည်။
-Vibrio cholerae ၏ 7PET မျိုးရိုးနှင့် မတူဘဲ Vibrio cholerae ၏ အခြားမျိုးကွဲများစွာ၏ အထီးကျန်များတွင် ctxA နှင့် ctxB ဗီဇများ မရှိပါ။ ထို့ကြောင့် ၎င်းတို့သည် ကာလဝမ်းအဆိပ်အတောက်ကို မထုတ်လုပ်ပါ။
-
 .. image:: HowToGetTheResult.png
   :width: 600
 
 To find out whether the H22 isolate carries the genes for cholera toxin, and so is predicted to produce cholera toxin, we can look at the "Virulence" section
 of the genome report page for H22:
-
-Para descobrir se o isolado H22 carrega os genes da toxina da cólera e, portanto, prevê-se que produza a toxina da cólera, podemos consultar a seção "Virulência"
-da página do relatório do genoma para H22:
 
 .. image:: Picture121.png
   :width: 550
@@ -464,8 +174,6 @@ da página do relatório do genoma para H22:
 
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
-Você pode ver que há uma marca de seleção ao lado de "ctxA" e "ctxB", então prevê-se que H22 carregue os genes da toxina da cólera.
-
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
@@ -473,9 +181,6 @@ Because the H22 genome is predicted to carry the *ctxA* and *ctxB* genes, we can
 This agrees with evidence in the paper of `Rubin et al 2022`_, who reported phenotypic data suggesting that H22 is toxigenic, i.e. that produces cholera toxin.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
-
-Como se prevê que o genoma H22 carregue os genes *ctxA* e *ctxB*, podemos prever que ele produz a toxina da cólera.
-Isso concorda com as evidências do artigo de `Rubin et al 2022`_, que relataram dados fenotípicos sugerindo que o H22 é toxigênico, ou seja, produz a toxina da cólera.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
