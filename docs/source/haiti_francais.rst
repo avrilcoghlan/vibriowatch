@@ -10,7 +10,7 @@ Cette étude de cas a été sélectionnée car elle illustre la persistance du c
 * `L'épidémie en Haïti en 2022`_.
 * `Le génome H22`_.
 * `Trouver le génome H22 dans Vibriowatch`_.
-* `Qualité d'assemblage du génome H22`_.
+* `La qualité de l'assemblage du génome de l'isolat H22`_.
 * `Est-il prévu que H22 produise de la toxine cholérique?`_
 * `Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?`_
 * `Est-il prévu que H22 contienne des plasmides?`_
@@ -84,12 +84,12 @@ La page du rapport du génome présente les métadonnées compilées manuellemen
 .. image:: HorizontalDivider.png
   :width: 1200
 
-Qualité d'assemblage du génome H22
-----------------------------------
+La qualité de l'assemblage du génome de l'isolat H22
+----------------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
+.. _comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
 .. image:: HowToGetTheResult.png
   :width: 600
