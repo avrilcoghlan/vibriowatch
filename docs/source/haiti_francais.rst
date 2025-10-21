@@ -161,7 +161,7 @@ Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens, nous p
 
 Il est prédit que H22 ne possède pas de gènes ou de mutations conférant une résistance à la doxcycline ou à l'azithromycine.
 Cependant, il est prévu que H22 ait un niveau intermédiaire de résistance à la ciprofloxacine, car il porte deux mutations:
-*gyrA_S83I* et *parC_S85L* (provoquant respectivement une substitution de S en I en position 83 de la protéine GyrA et une substitution de S en L en position 85 de la protéine ParC). Il est également prédit que H22 a une résistance au triméthoprime (car il porte le gène *dfrA1*) et au sulfaméthoxazole (car il porte le gène *sul2*).
+*gyrA_S83I* et *parC_S85L* (provoquant respectivement une substitution de S à I en position 83 de la protéine GyrA et une substitution de S à L en position 85 de la protéine ParC). Il est également prédit que H22 a une résistance au triméthoprime (car il porte le gène *dfrA1*) et au sulfaméthoxazole (car il porte le gène *sul2*).
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
