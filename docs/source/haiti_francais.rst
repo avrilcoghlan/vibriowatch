@@ -99,7 +99,7 @@ Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérif
 .. image:: Picture116.png
   :width: 550
 
-On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
+On constate que l'assemblage de l'isolat H22 présente une taille d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
