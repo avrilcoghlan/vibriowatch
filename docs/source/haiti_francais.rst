@@ -94,21 +94,21 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `comment anal
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour V. cholerae. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas du rapport génomique pour H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:
+Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour *V. cholerae*. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas de la page du rapport sur le génome de l'isolat H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:
 
 .. image:: Picture116.png
   :width: 550
 
-On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
+On constate que l'assemblage du génome de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir `Heidelberg et al 2000`_ ). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.
+La taille de l'assemblage du génome de l'isolat H22, qui est de 4,0 Mb, est cohérente avec le génome de référence de la souche N16961 de *Vibrio cholerae*, dont la taille du génome est d'environ 4,0 mégabases et dont la teneur en GC est de 47,5 % (voir `Heidelberg et al 2000`_ ). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de *Vibrio cholerae*.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.
+On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs ou moins. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -456,4 +456,6 @@ Contact
 -------
 
 Je vous serais reconnaissant de bien vouloir m'envoyer (Avril Coghlan) des corrections ou des suggestions d'amélioration à mon adresse e-mail alc@sanger.ac.uk
+
+
 
