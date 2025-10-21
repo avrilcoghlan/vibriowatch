@@ -15,13 +15,13 @@ Case study - Haiti 2022
 * `Finding the H22 genome in Vibriowatch`_.
 * `Assembly quality of the H22 genome`_.
 * `Is H22 predicted to produce cholera toxin?`_
-* `Is H22 predicted to have antimicrobial resistance? (Est-il prévu que l’isolat H22 présente une résistance aux antimicrobiens?)`_
-* `Is H22 predicted to have plasmids? (Est-il prévu que H22 contienne des plasmides?)`_
-* `What is the predicted serogroup of the H22 isolate? (Quel est le sérogroupe prédit de l’isolat H22?)`_
-* `Does H22 belong to the pandemic lineage of Vibrio cholerae? (Le H22 appartient-il à la lignée pandémique de Vibrio cholerae?)`_.
-* `What are the closest relatives of H22 among published Vibrio cholerae genomes? (Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?)`_.
-* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome? (Que pouvons-nous dire sur les origines de l’épidémie d’Haïti de 2022, sur la base du génome de l’isolat H22?)`_
-* `Reflections on the Haiti 2022 case study (Réflexions sur l'étude de cas Haïti 2022)`_
+* `Is H22 predicted to have antimicrobial resistance?`_
+* `Is H22 predicted to have plasmids?`_
+* `What is the predicted serogroup of the H22 isolate?`_
+* `Does H22 belong to the pandemic lineage of Vibrio cholerae?`_.
+* `What are the closest relatives of H22 among published Vibrio cholerae genomes?`_.
+* `What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?`_
+* `Reflections on the Haiti 2022 case study`_
 
 .. image:: HorizontalDivider.png
   :width: 1200
