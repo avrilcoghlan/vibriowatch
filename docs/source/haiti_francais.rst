@@ -179,16 +179,16 @@ Ceci concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rap
 Est-il prévu que H22 contienne des plasmides?
 ---------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo comment prédire les plasmides dans H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la prédiction des plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/bPF2w3QDWfk 
+.. _vidéo sur comment prédire les plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/bPF2w3QDWfk 
 
-Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez Vibrio cholerae, mais de tels grands plasmides sont relativement rares.
+Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez *Vibrio cholerae*, mais de tels grands plasmides sont relativement rares chez *V. cholerae*.
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 est censé contenir un plasmide, nous pouvons consulter la section Plasmid Inc Types de la page du rapport sur le génome de H22:
+Pour savoir si H22 contient probablement un grand plasmide, nous pouvons consulter la section "Plasmid" de la page du rapport sur H22:
 
 .. image:: Picture123.png
   :width: 350
