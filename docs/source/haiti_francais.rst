@@ -261,8 +261,7 @@ Une deuxième approche pour déterminer si votre isolat appartient à la lignée
 .. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
-ST69 est l'un des types de séquences (ST) fréquemment observés pour la lignée pandémique actuelle (7PET) de *Vibrio cholerae*. Un autre ST parfois observé pour la lignée 
-pandémique actuelle de *V. cholerae* (7PET) est ST515. Si un isolat est ST69 ou ST515, il appartient très probablement à la lignée pandémique (7PET). Cela suggère que H22 appartient à la lignée 7PET. D'après les résultats PopPUNK, nous avons constaté que H22 appartient au cluster PopPUNK VC1; cela correspond à la lignée pandémique actuelle (lignée 7PET) (voir `le tableau de correspondance entre les clusters PopPUNK et les lignées connues`_). Ainsi, à l'instar des résultats MLST, les résultats PopPUNK suggèrent que l'isolat H22 appartient à la lignée pandémique actuelle (7PET).
+ST69 est l'un des types de séquences (ST) fréquemment observés pour la lignée pandémique actuelle (7PET) de *Vibrio cholerae*. Un autre ST parfois observé pour 7PET est ST515. Si un isolat est ST69 ou ST515, il appartient très probablement à la lignée pandémique (7PET). Cela suggère que H22 appartient à la lignée 7PET. D'après les résultats PopPUNK, nous avons constaté que H22 appartient au cluster PopPUNK VC1; cela correspond à la lignée pandémique actuelle (lignée 7PET) (voir `le tableau de correspondance entre les clusters PopPUNK et les lignées connues`_). Ainsi, à l'instar des résultats MLST, les résultats PopPUNK suggèrent que l'isolat H22 appartient à la lignée pandémique actuelle (7PET).
 
 .. _le tableau de correspondance entre les clusters PopPUNK et les lignées connues: https://vibriowatch.readthedocs.io/en/latest/mlst.html#what-is-poppunk
 
