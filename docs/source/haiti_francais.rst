@@ -154,7 +154,7 @@ Le traitement principal du choléra est la réhydratation, mais des antimicrobie
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens (RAM), nous pouvons consulter la section RAM de la page du rapport sur H22:
+Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens, nous pouvons consulter la section "Resistance" de la page du rapport sur H22:
 
 .. image:: Picture122.png
   :width: 550
