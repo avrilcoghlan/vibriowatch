@@ -731,7 +731,7 @@ If you learn better by seeing rather than reading, see the `video on predicting 
 
 ------------
 
-Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare.
+Antimicrobial resistance genes can be carried on large plasmids in *Vibrio cholerae*, but such large plasmids are relatively rare in *V. cholerae*.
 
 *Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez Vibrio cholerae, mais de tels grands plasmides sont relativement rares.*
 
