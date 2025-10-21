@@ -91,7 +91,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur c
 
 .. _vidéo sur comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour *V. cholerae*. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas de la page du rapport sur le génome de l'isolat H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:
@@ -101,7 +101,7 @@ Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérif
 
 On constate que l'assemblage de l'isolat H22 présente une taille d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 La taille de l'assemblage du génome de l'isolat H22, qui est de 4,0 Mb, est cohérente avec le génome de référence de la souche N16961 de *Vibrio cholerae*, dont la taille du génome est d'environ 4,0 mégabases et dont la teneur en GC est de 47,5 % (voir `Heidelberg et al 2000`_ ). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de *Vibrio cholerae*.
@@ -122,7 +122,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo comme
 
 Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par *V. cholerae*. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de *V. cholerae*. Presque tous les isolats de la lignée pandémique actuelle de *V. cholerae*, la lignée 7PET, portent les gènes de la toxine cholérique (gènes *ctxA* et *ctxB*) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de *V. cholerae* ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport sur H22:
@@ -132,7 +132,7 @@ Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est don
 
 Vous pouvez voir qu'il y a une coche à côté de *ctxA* et *ctxB*, donc il est prévu que H22 porte les gènes de la toxine cholérique.
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 Étant donné que le H22 contient les gènes *ctxA* et *ctxB*, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.
@@ -151,7 +151,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur c
 
 Le traitement principal du choléra est la réhydratation, mais des antimicrobiens sont parfois administrés aux patients les plus vulnérables, tels que les femmes enceintes, les très jeunes enfants et les patients séropositifs. L'OMS recommande l'azithromycine, la doxycycline et la ciprofloxacine pour traiter le choléra. Par conséquent, toute résistance à ces antimicrobiens recommandés serait préoccupante.
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Pour savoir si l'isolat H22 présente une résistance aux antimicrobiens, nous pouvons consulter la section "Resistance" de la page du rapport sur H22:
@@ -163,7 +163,7 @@ Il est prédit que H22 ne possède pas de gènes ou de mutations conférant une 
 Cependant, il est prévu que H22 ait un niveau intermédiaire de résistance à la ciprofloxacine, car il porte deux mutations:
 *gyrA_S83I* et *parC_S85L* (provoquant respectivement un remplacement de S par I en position 83 de la protéine GyrA et un remplacement de S par L en position 85 de la protéine ParC). Il est également prédit que H22 a une résistance au triméthoprime (car il porte le gène *dfrA1*) et au sulfaméthoxazole (car il porte le gène *sul2*).
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 Sur la base des résultats ci-dessus, nous prédisons que H22 aura un niveau intermédiaire de résistance à la ciprofloxacine et qu’il sera résistant au triméthoprime et au sulfaméthoxazole.
@@ -185,7 +185,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur c
 
 Les gènes de résistance aux antimicrobiens peuvent être transportés par de grands plasmides chez *Vibrio cholerae*, mais de tels grands plasmides sont relativement rares chez *V. cholerae*.
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Pour savoir si H22 contient probablement un grand plasmide, nous pouvons consulter la section "Plasmid" de la page du rapport sur H22:
@@ -195,7 +195,7 @@ Pour savoir si H22 contient probablement un grand plasmide, nous pouvons consult
 
 Nous voyons qu’il n’y a pas de plasmides prédits dans H22.
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 Vibriowatch ne prédit aucun plasmide dans l'isolat H22. Notez que la prédiction des plasmides par Vibriowatch peut manquer de précision pour les petits plasmides. De plus, si la qualité de l'assemblage est médiocre, il est possible que Vibriowatch ne prédise pas certains plasmides. Pour H22, d'après les résultats de Vibriowatch, nous prédisons l'absence de grands plasmides.
@@ -206,30 +206,31 @@ Vibriowatch ne prédit aucun plasmide dans l'isolat H22. Notez que la prédictio
 Quel est le sérogroupe prédit de l’isolat H22?
 ----------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur comment prédire le sérogroupe de l'isolat H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur la prédiction du sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/cGTRULEIKQE 
+.. _vidéo sur comment prédire le sérogroupe de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/cGTRULEIKQE 
 
-La lignée pandémique actuelle (lignée 7PET) de V. cholerae possède le sérogroupe O1 (ou occasionnellement, pour certains isolats, le sérogroupe O139).
+La lignée pandémique actuelle (lignée 7PET) de *V. cholerae* possède le sérogroupe O1 (ou occasionnellement, pour certains isolats, le sérogroupe O139).
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
-Pour connaître le sérogroupe prévu pour H22, nous pouvons regarder en haut de la page du rapport pour H22:
+Pour trouver le sérogroupe prédit de l'isolat H22, nous pouvons regarder en haut de la page du rapport sur H22:
 
 .. image:: Picture115.png
   :width: 600
 
 Sous Génotypes, vous pouvez voir que le sérogroupe prédit est O1.
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 D’après ce qui précède, nous voyons que le sérogroupe prédit de l’isolat H22 est O1. Cela concorde avec les preuves phénotypiques de l'article de `Rubin et al 2022`_, qui ont rapporté, sur la base de résultats de laboratoire, que H22 a le sérogroupe O1.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
-Notez que le fait que H22 soit du sérogroupe O1 ne signifie pas qu'il appartient définitivement à la lignée 7PET, car certains isolats de V. cholerae d'autres lignées (non pandémiques) possèdent également le sérogroupe O1.
+Notez que le fait que H22 soit du sérogroupe O1 ne signifie pas que nous pouvons être sûrs à 100 % qu'il appartient à la lignée 7PET, 
+car certains isolats de *V. cholerae* d'autres lignées (non pandémiques) possèdent également le sérogroupe O1.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -244,7 +245,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur l
 La pandémie actuelle (septième pandémie) de choléra a débuté dans les années 1960 et a été causée par la lignée pandémique actuelle de Vibrio cholerae, connue sous le nom de lignée 7PET.
 La lignée 7PET est hautement infectieuse et virulente, et provoque des flambées épidémiques massives.
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Un moyen rapide de déterminer si un isolat appartient vraisemblablement à la lignée 7PET consiste à consulter les résultats du MLST (typage de séquences multilocus) de l'isolat dans Vibriowatch. Les résultats du MLST pour l'isolat sont affichés en haut de la page du rapport génomique de l'isolat dans Vibriowatch. Voici les résultats du MLST pour l'isolat H22 en haut de sa page Web (voir sous la rubrique MLST):
@@ -256,7 +257,7 @@ Nous pouvons voir que l'isolat H22 est classé comme type de séquence MLST ST69
 
 Une deuxième approche pour déterminer si votre isolat appartient à la lignée pandémique (lignée 7PET) consiste à examiner le cluster PopPUNK de votre isolat. PopPUNK est un outil logiciel de classification des isolats bactériens en lignées. En haut de la page du rapport génomique Vibriowatch pour l'isolat H22 (voir ci-dessus), les informations PopPUNK sont visibles sous la rubrique Lineage. Vous pouvez constater que l'isolat H22 appartient à la lignée PopPUNK 1 (également appelée VC1).
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 ST69 est l'un des types de séquences (ST) fréquemment observés pour la lignée pandémique actuelle (7PET) de Vibrio cholerae. Un autre type de séquence parfois observé pour la lignée 
@@ -276,7 +277,7 @@ Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur l
 
 Vibriowatch comprend un large ensemble de > 6 000 génomes V. cholerae publiés, vous pouvez donc rechercher les parents les plus proches d'un nouvel isolat parmi ces génomes publiés.
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Pour trouver les parents les plus proches de H22 parmi les génomes de V. cholerae publiés, consultez la section Core Genome Clustering de la page du rapport sur le génome H22, qui fournit le résultat d'une analyse cgMLST (analyse MLST des régions ancestrales partagées du génome de Vibrio cholerae):
@@ -336,7 +337,7 @@ Cliquez ensuite sur le X dans le coin du menu pour le fermer. Vous verrez alors 
 Sur la chronologie, vous pouvez voir un carré à l'extrémité droite, au-dessus de 2022; il s'agit de l'isolat H22, collecté en 2022.
 Vous pouvez également voir des carrés au-dessus des années 2013, 2014, 2015 et 2017, indiquant que les plus proches parents de H22 dans la base de données Vibriowatch sont des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont d'autres génomes publiés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.
@@ -357,7 +358,7 @@ Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez `la vidéo 1 
 
 .. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/OYBq9Ac6e7c 
 
-.. image:: HowToGetTheResult.png
+.. image:: HowToGetTheResult_francais.png
   :width: 600
 
 Pour créer un arbre phylogénétique avec Vibriowatch, vous devez d'abord vous connecter au site web de Pathogenwatch. Pour cela, cliquez sur les trois barres violettes en haut à gauche du site web de `Pathogenwatch`_, puis sur Sign In dans le menu qui apparaît.
@@ -412,7 +413,7 @@ Pour créer un graphique attrayant mettant en évidence les isolats collectés e
 .. image:: Picture140.png
   :width: 900
 
-.. image:: HowToInterpretTheResult.png
+.. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
 Cet arbre montre que l'isolat H22 (indiqué par un nœud bleu) est étroitement lié aux isolats collectés en Haïti en 2014 (nœuds jaunes), 2015 (nœuds violets) et 2017 (nœuds rouges).
