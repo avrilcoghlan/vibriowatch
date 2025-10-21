@@ -169,9 +169,6 @@ of the genome report page for H22:
 .. image:: Picture121.png
   :width: 550
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
 You can see that there is a tick next to "ctxA" and "ctxB" so H22 is predicted to carry the cholera toxin genes.
 
 .. image:: HowToInterpretTheResult.png
