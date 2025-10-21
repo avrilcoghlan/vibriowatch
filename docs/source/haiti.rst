@@ -507,7 +507,7 @@ N16961 တွင် 4.0 Megabases ခန့်ရှိပြီး GC ပါဝ
 .. image:: HorizontalDividerThin.png
   :width: 1200
 
-We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
+We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs or less. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
 
 *On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
 
