@@ -125,7 +125,7 @@ Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, don
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport du génome H22:
+Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport sur le génome de l'isolat H22:
 
 .. image:: Picture121.png
   :width: 550
