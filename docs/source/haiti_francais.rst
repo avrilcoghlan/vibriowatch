@@ -87,9 +87,9 @@ La page du rapport du génome présente les métadonnées compilées manuellemen
 La qualité de l'assemblage du génome de l'isolat H22
 ----------------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch`_.
 
-.. _comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
+.. _vidéo sur comment analyser la qualité de l'assemblage du génome de l'isolat H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
 .. image:: HowToGetTheResult.png
   :width: 600
@@ -116,26 +116,26 @@ On considère généralement qu'un assemblage est de relativement bonne qualité
 Est-il prévu que H22 produise de la toxine cholérique?
 ------------------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo comment prédire si l'isolat H22 produit de la toxine cholérique, en utilisant Vibriowatch`_. 
 
-.. _vidéo sur la prédiction si H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
+.. _vidéo comment prédire si l'isolat H22 produit de la toxine cholérique, en utilisant Vibriowatch: https://youtu.be/LoiBAPyUzQo 
 
-Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par V. cholerae. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de V. cholerae. Presque tous les isolats de la lignée pandémique actuelle de V. cholerae, la lignée 7PET, portent les gènes de la toxine cholérique (gènes ctxA et ctxB) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de V. cholerae ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.
+Le choléra est une maladie caractérisée par une diarrhée aqueuse aiguë, dont les symptômes sont principalement causés par la toxine cholérique (Ctx) sécrétée par *V. cholerae*. Par conséquent, la toxine cholérique est considérée comme le principal facteur de virulence de *V. cholerae*. Presque tous les isolats de la lignée pandémique actuelle de *V. cholerae*, la lignée 7PET, portent les gènes de la toxine cholérique (gènes *ctxA* et *ctxB*) et produisent de la toxine cholérique, un complexe protéique composé des sous-unités CtxA et CtxB. Cependant, de nombreux isolats d'autres lignées (non pandémiques) de *V. cholerae* ne portent pas les gènes de la toxine cholérique et ne produisent donc pas de toxine cholérique.
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport génomique de H22:
+Pour savoir si l'isolat H22 porte les gènes de la toxine cholérique et est donc susceptible de produire de la toxine cholérique, nous pouvons consulter la section Virulence de la page du rapport du génome H22:
 
 .. image:: Picture121.png
   :width: 550
 
-Vous pouvez voir qu'il y a une coche à côté de ctxA et ctxB, donc il est prévu que H22 porte les gènes de la toxine cholérique.
+Vous pouvez voir qu'il y a une coche à côté de *ctxA* et *ctxB*, donc il est prévu que H22 porte les gènes de la toxine cholérique.
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-Étant donné que le génome H22 devrait contenir les gènes ctxA et ctxB, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.
+Étant donné que le H22 contient les gènes *ctxA* et *ctxB*, on peut prédire qu'il produit la toxine cholérique. Cela concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rapporté des données phénotypiques suggérant que H22 est toxigène, c'est-à-dire qu'il produit la toxine cholérique.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
