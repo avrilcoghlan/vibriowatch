@@ -179,7 +179,7 @@ Ceci concorde avec les données de l'article de `Rubin et al 2022`_, qui ont rap
 Est-il prévu que H22 contienne des plasmides?
 ---------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo comment prédire les plasmides dans H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur comment prédire les plasmides dans H22, en utilisant Vibriowatch`_.
 
 .. _vidéo sur comment prédire les plasmides dans H22, en utilisant Vibriowatch: https://youtu.be/bPF2w3QDWfk 
 
