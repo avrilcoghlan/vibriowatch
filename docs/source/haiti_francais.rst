@@ -271,30 +271,31 @@ ST69 est l'un des types de séquences (ST) fréquemment observés pour la ligné
 Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?
 ----------------------------------------------------------------------------------------
 
-Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch`_.
+Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la `vidéo sur comment identifier les plus proches parents de H22, en utilisant Vibriowatch`_.
 
-.. _vidéo sur l'identification des plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/08PCqdvbhWE 
+.. _vidéo sur comment identifier les plus proches parents de H22, en utilisant Vibriowatch: https://youtu.be/08PCqdvbhWE 
 
-Vibriowatch comprend un large ensemble de > 6 000 génomes V. cholerae publiés, vous pouvez donc rechercher les parents les plus proches d'un nouvel isolat parmi ces génomes publiés.
+Vibriowatch comprend un large ensemble de > 6 000 génomes *V. cholerae* publiés, vous pouvez donc rechercher les parents les plus proches d'un nouvel isolat parmi ces génomes publiés.
 
 .. image:: HowToGetTheResult_francais.png
   :width: 600
 
-Pour trouver les parents les plus proches de H22 parmi les génomes de V. cholerae publiés, consultez la section Core Genome Clustering de la page du rapport sur le génome H22, qui fournit le résultat d'une analyse cgMLST (analyse MLST des régions ancestrales partagées du génome de Vibrio cholerae):
+Pour trouver les parents les plus proches de H22 parmi les génomes de *V. cholerae* publiés, consultez la section "Core Genome Clustering" de la page du rapport sur H22, qui fournit le résultat d'une analyse cgMLST (analyse MLST des régions ancestrales partagées du génome de *Vibrio cholerae*):
 
 .. image:: Picture124.png
   :width: 600
 
-Vous pouvez observer un réseau de nœuds représentant les isolats séquencés. H22 est représenté par un nœud violet (étiqueté H22), tandis que les autres isolats étroitement apparentés sont représentés par des nœuds gris. Les arêtes (lignes) du réseau illustrent les relations entre les isolats apparentés. La longueur d'une arête entre deux isolats (deux nœuds) représente le nombre de différences génétiques entre eux. Les isolats les plus proches de H22 dans le réseau présentent moins de différences génétiques dans leur ADN et sont donc supposés être plus étroitement apparentés à H22 sur le plan évolutif.
+Vous pouvez observer un réseau de nœuds représentant les isolats séquencés. H22 est représenté par un nœud violet (étiqueté "H22"), tandis que les autres isolats étroitement apparentés sont représentés par des nœuds gris. Les arêtes (lignes) du réseau illustrent les relations entre les isolats apparentés. La longueur d'une arête entre deux isolats (deux nœuds) représente le nombre de différences génétiques entre eux. Les isolats les plus proches de H22 dans le réseau présentent moins de différences génétiques dans leur ADN et sont donc supposés être plus étroitement apparentés à H22 sur le plan évolutif.
 
-Vous pouvez voir qu'en haut du réseau, il est indiqué Groupe de 1 326 à un Seuil de 10. Il s'agit donc de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions génomiques ancestrales communes (les régions du génome partagées par presque tous les isolats de V. cholerae).
+Vous pouvez voir qu'en haut du réseau, il est dit "Groupe de 1 326 à un Seuil de 10". 
+Le réseau est donc constitué de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions ancestrales partagées du génome de *Vibrio cholerae* (les régions du génome partagées par presque tous les isolats de *V. cholerae*).
 
-Pour examiner le réseau de plus près, cliquez sur le gros bouton violet VIEW CLUSTER. Vous accéderez alors à une nouvelle vue: le réseau en haut à gauche, une carte des lieux de collecte des isolats en haut à droite et une chronologie de la collecte des isolats en bas.
+Pour examiner le réseau de plus près, cliquez sur le gros bouton violet "VIEW CLUSTER". Vous accéderez alors à une nouvelle vue: le réseau en haut à gauche, une carte des lieux où les isolats ont été collectés en haut à droite, et une chronologie des dates auxquelles les isolats ont été collectés en bas.
 
 .. image:: Picture125.png
   :width: 800
 
-Vous pouvez à nouveau constater que le nœud violet représentant H22 (étiqueté H22) se trouve dans la partie supérieure du réseau. Pour sélectionner cette partie, dans le panneau supérieur gauche contenant le réseau, cliquez sur le bouton Contrôles en haut à droite:
+Vous pouvez à nouveau constater que le nœud violet représentant H22 (étiqueté "H22") se trouve dans la partie supérieure du réseau. Pour sélectionner cette partie, dans le panneau supérieur gauche contenant le réseau, cliquez sur le bouton Contrôles en haut à droite:
 
 .. image:: Picture126.png
   :width: 50
@@ -314,7 +315,7 @@ Dessinez ensuite une forme autour de H22 et de ses isolats les plus proches, en 
 .. image:: Picture129.png
   :width: 800
 
-Vous constaterez que seuls H22 et ses isolats les plus proches (situés à l'intérieur de la forme que vous avez dessinée) sont désormais affichés dans le panneau Réseau en haut à gauche. La carte en haut à droite ne présente plus qu'un seul point. En déplaçant la souris sur le panneau Carte et en utilisant la molette pour dézoomer, vous constaterez que ce point se trouve en Haïti. Les parents les plus proches de H22 ont donc tous été collectés en Haïti:
+Vous constaterez que seuls H22 et ses isolats les plus proches (situés à l'intérieur de la forme que vous avez dessinée) sont désormais affichés dans le panneau Réseau en haut à gauche. La carte en haut à droite ne présente plus qu'un seul point. En déplaçant la souris sur le panneau Carte et en utilisant la molette de souris d'ordinateur pour dézoomer, vous constaterez que ce point se trouve en Haïti. Les parents les plus proches de H22 ont donc tous été collectés en Haïti:
 
 .. image:: Picture130.png
   :width: 800
@@ -324,12 +325,12 @@ Pour savoir quand ces proches parents ont été collectés, il faut examiner leu
 .. image:: Picture126.png
   :width: 50
 
-Changez maintenant Day en Year dans le menu qui apparaît.
+Changez maintenant "Day" en "Year" dans le menu qui apparaît.
 
 .. image:: Picture131.png
   :width: 350
 
-Cliquez ensuite sur le X dans le coin du menu pour le fermer. Vous verrez alors la chronologie indiquant les années de collecte des isolats les plus proches:
+Cliquez ensuite sur le "X" dans le coin du menu pour le fermer. Vous verrez alors la chronologie indiquant les années de collecte des isolats les plus étroitement liés à H22:
 
 .. image:: Picture132.png
   :width: 900
@@ -340,7 +341,7 @@ Vous pouvez également voir des carrés au-dessus des années 2013, 2014, 2015 e
 .. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
-Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont d'autres génomes publiés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.
+Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches parents de l'isolat H22 parmi les plus de 6 000 génomes publiés dans Vibriowatch sont les génomes d'autres isolats collectés en Haïti, à savoir des isolats collectés en Haïti en 2013, 2014, 2015 et 2017.
 
 .. image:: HorizontalDivider.png
   :width: 1200
