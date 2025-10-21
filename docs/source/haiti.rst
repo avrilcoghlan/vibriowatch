@@ -1412,7 +1412,7 @@ However, there is no evidence of cholera in either Haiti or nearby countries bet
 know in which country (or countries) of the region that particular strain of *Vibrio cholerae* persisted during that time. One possibility is that it persisted 
 in the human population, but that there were no reported cases because cases were asymptomatic or mild, or were in regions with limited
 health infrastructure. Another possibility was that particular strain of *V. cholerae* persisted in the environment during the
-period, or in both the human population and the environment (e.g. due to sewage contamination of the environment and ingestion
+period (but note that long-term survival of 7PET in the environment over months or years is still unproven and debated by scientists), or in both the human population and the environment (e.g. due to sewage contamination of the environment and ingestion
 of contaminated water by humans), but again, as there are no human or environmental samples from Haiti available for the period from 2019 to October
 2022, we are lacking sufficient data to investigate this possibility.
 
