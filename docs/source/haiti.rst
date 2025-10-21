@@ -102,7 +102,7 @@ O surto do Haiti em 2022
 .. image:: HorizontalDividerThin.png
   :width: 1200
 
-You may already know that in January 2010 there was a catastrophic earthquake in Haiti, an island in the Caribbean.
+You may already know that in January 2010 there was a catastrophic earthquake in Haiti, a country that forms part of the Caribbean island named Hispaniola.
 Later that year, in October 2010, a huge cholera outbreak began in Haiti, that lasted up until 2019, and included
 more than 820,000 cholera cases and nearly 10,000 deaths from cholera. This outbreak was found to have been caused
 by the current pandemic lineage of *Vibrio cholerae* (known as the 7PET lineage), and evidence suggests that it
