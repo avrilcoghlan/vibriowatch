@@ -287,7 +287,7 @@ Pour trouver les parents les plus proches de H22 parmi les génomes de *V. chole
 
 Vous pouvez observer un réseau de nœuds représentant les isolats séquencés. H22 est représenté par un nœud violet (étiqueté "H22"), tandis que les autres isolats étroitement apparentés sont représentés par des nœuds gris. Les arêtes (lignes) du réseau illustrent les relations entre les isolats apparentés. La longueur d'une arête entre deux isolats (deux nœuds) représente le nombre de différences génétiques entre eux. Les isolats les plus proches de H22 dans le réseau présentent moins de différences génétiques dans leur ADN et sont donc supposés être plus étroitement apparentés à H22 sur le plan évolutif.
 
-Vous pouvez voir qu'en haut du réseau, il est dit "Groupe de 1 326 à un Seuil de 10". 
+Vous pouvez voir qu'en haut du réseau, il est dit "Groupe de taille 1326 trouvé en utilisant un seuil de 10". 
 Le réseau est donc constitué de 1 326 isolats étroitement apparentés qui diffèrent les uns des autres par 10 mutations ou moins dans l'ADN de leurs régions ancestrales partagées du génome de *Vibrio cholerae* (les régions du génome partagées par presque tous les isolats de *V. cholerae*).
 
 Pour examiner le réseau de plus près, cliquez sur le gros bouton violet "VIEW CLUSTER". Vous accéderez alors à une nouvelle vue: le réseau en haut à gauche, une carte des lieux où les isolats ont été collectés en haut à droite, et une chronologie des dates auxquelles les isolats ont été collectés en bas.
@@ -349,39 +349,39 @@ Les résultats de l'analyse cgMLST ci-dessus indiquent que les plus proches pare
 Que pouvons-nous dire sur les origines de l’épidémie en Haïti en 2022, sur la base du génome de l’isolat H22?
 -------------------------------------------------------------------------------------------------------------
 
-Pour étudier les origines de l’épidémie d’Haïti de 2022, nous pouvons établir un arbre phylogénétique de l’isolat H22 et de ses proches parents.
+Pour étudier les origines de l’épidémie d’Haïti de 2022, nous pouvons construire un arbre phylogénétique de l’isolat H22 et de ses proches parents.
 
-Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez `la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_, `la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_ et `la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_.
+Si vous apprenez mieux en regardant plutôt qu'en lisant, regardez `la vidéo 1 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_, `la vidéo 2 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_ et `la vidéo 3 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch`_.
 
-.. _la vidéo 1 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/twubRiTEjE8 
+.. _la vidéo 1 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/twubRiTEjE8 
 
-.. _la vidéo 2 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/sh4eisl3h3g 
+.. _la vidéo 2 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/sh4eisl3h3g 
 
-.. _la vidéo 3 sur la création d'un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/OYBq9Ac6e7c 
+.. _la vidéo 3 sur comment construire un arbre phylogénétique pour l'épidémie en Haïti en 2022 à l'aide de Vibriowatch: https://youtu.be/OYBq9Ac6e7c 
 
 .. image:: HowToGetTheResult_francais.png
   :width: 600
 
-Pour créer un arbre phylogénétique avec Vibriowatch, vous devez d'abord vous connecter au site web de Pathogenwatch. Pour cela, cliquez sur les trois barres violettes en haut à gauche du site web de `Pathogenwatch`_, puis sur Sign In dans le menu qui apparaît.
+Pour créer un arbre phylogénétique avec Vibriowatch, vous devez d'abord vous connecter au site web de Pathogenwatch. Pour cela, cliquez sur les trois barres violettes en haut à gauche du site web de `Pathogenwatch`_, puis sur "Sign In" dans le menu qui apparaît.
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-Nous allons maintenant expliquer comment construire un arbre phylogénétique pour H22 et ses plus proches parents dans Vibriowatch. Comme mentionné précédemment, nous pouvons identifier les proches parents de H22 en consultant la section Core Genome Clustering de la page du rapport sur le génome de H22:
+Nous allons maintenant expliquer comment construire un arbre phylogénétique pour H22 et ses plus proches parents dans Vibriowatch. Comme mentionné précédemment, nous pouvons identifier les proches parents de H22 en consultant la section "Core Genome Clustering" de la page du rapport sur le génome de H22:
 
 .. image:: Picture124.png
   :width: 700
 
-Ce réseau présente 1326 isolats étroitement apparentés, dont H22. Pour construire un arbre phylogénétique de ces 1326 isolats, nous pouvons créer une Collection d'isolats dans Vibriowatch. Cette collection inclura un arbre phylogénétique. Pour créer une collection des 1326 isolats du réseau, cliquez sur le gros bouton violet LIST GENOMES pour lister tous les génomes. La liste de tous les génomes s'affichera; en voici quelques-uns:
+Ce réseau présente 1326 isolats étroitement apparentés, dont H22. Pour construire un arbre phylogénétique de ces 1326 isolats, nous pouvons créer une "Collection" d'isolats dans Vibriowatch. Cette collection inclura un arbre phylogénétique. Pour créer une collection des 1326 isolats du réseau, cliquez sur le gros bouton violet "LIST GENOMES" pour lister tous les génomes. La liste de des 1326 génomes s'affichera; en voici quelques-uns:
 
 .. image:: Picture133.png
   :width: 800
 
-Pour créer une collection de tous ces isolats, vérifiez d'abord que le bouton violet en haut à droite de l'écran indique 0 Selected Genomes. S'il indique X Selected Genomes et que X est différent de zéro, cliquez sur le bouton, puis sur Clear All dans le menu qui apparaît. Sélectionnez ensuite les 1 326 isolats en cochant la case Name en haut de la liste des isolats. Toutes les cases correspondant à chaque isolat devraient alors être cochées:
+Pour créer une collection de tous ces isolats, vérifiez d'abord que le bouton violet en haut à droite de l'écran indique "0 Selected Genomes". S'il indique "X Selected Genomes" et que "X" est différent de zéro, cliquez sur le bouton violet, puis sur "Clear All" dans le menu qui apparaît. Sélectionnez ensuite les 1 326 isolats en cochant la case "Name" en haut de la liste des isolats. Toutes les cases correspondant à chaque isolat devraient alors être cochées:
 
 .. image:: Picture134.png
   :width: 800
 
-Cliquez maintenant sur le bouton violet 1326 Selected Genomes en haut à droite de la page web. Vous pouvez maintenant cliquer sur ce bouton pour créer une collection (voir `Comment créer une collection d'isolats dans Vibriowatch`_ pour plus de détails).
+Cliquez maintenant sur le bouton violet "1326 Selected Genomes" en haut à droite de la page web. Vous pouvez maintenant cliquer sur ce bouton pour créer une collection (voir `Comment créer une collection d'isolats dans Vibriowatch`_ pour plus de détails).
 
 .. _Comment créer une collection d'isolats dans Vibriowatch: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-make-a-collection-of-isolates-in-vibriowatch
 
@@ -390,26 +390,26 @@ Ensuite, vous verrez un arbre des 1326 génomes:
 .. image:: Picture135.png
   :width: 600
 
-Vous pouvez trouver l'isolat H22 dans l'arbre phylogénétique en tapant H22 dans la zone de recherche en haut de la page, où il est indiqué FILTER NAME:
+Vous pouvez trouver l'isolat H22 dans l'arbre phylogénétique en tapant "H22" dans la zone de recherche en haut de la page, où il est dit "FILTER NAME":
 
 .. image:: Picture136.png
   :width: 600
 
-Vous pouvez constater que l'isolat H22 fait partie d'un petit clade (groupe) d'isolats situés sur une branche assez longue. Si vous déplacez votre souris sur le nœud ancestral de ce clade, vous verrez le nombre 111 apparaître, indiquant qu'il y a 111 isolats dans ce petit clade (groupe).
+Vous verrez que H22 fait partie d'un petit clade (groupe) d'isolats situés sur une branche assez longue. Si vous déplacez votre souris sur le nœud ancestral de ce clade, vous verrez le nombre "111" apparaître, indiquant qu'il y a 111 isolats dans ce petit clade (groupe).
 
 .. image:: Picture137.png
   :width: 600
 
-Si vous faites un clic droit sur le nœud ancestral de ce petit clade, puis choisissez View Subtree dans le menu qui apparaît, vous n'afficherez que la partie de l'arbre correspondant à ce petit clade. Vous pouvez ensuite supprimer H22 du champ de recherche en haut pour désélectionner l'isolat H22. Vous verrez alors qu'à droite, il n'y a qu'un seul point sur la carte. Si vous utilisez la molette de votre souris pour dézoomer, vous verrez qu'il correspond à Haïti, indiquant que tous les isolats de ce petit clade proviennent d'Haïti.
+Si vous faites un clic droit sur le nœud ancestral de ce petit clade, puis choisissez "View Subtree" dans le menu qui apparaît, vous n'afficherez que la partie de l'arbre correspondant à ce petit clade. Vous pouvez ensuite supprimer "H22" du champ de recherche en haut pour désélectionner l'isolat H22. Vous verrez alors qu'à droite, il n'y a qu'un seul point sur la carte. Si vous utilisez la molette de votre souris pour dézoomer, vous verrez qu'il correspond à Haïti, indiquant que tous les isolats de ce petit clade proviennent d'Haïti.
 
 .. image:: Picture138.png
   :width: 800
 
-Pour créer un graphique attrayant mettant en évidence les isolats collectés en Haïti au cours de différentes années, le plus simple est d'utiliser Microreact (voir `Représentation graphique de l'arbre phylogénétique et des données d'une collection Vibriowatch dans Microreact`_), en téléchargeant les métadonnées et l'arbre sur votre ordinateur, puis en les téléversant dans Microreact. Cela nous donne un bel arbre comme celui-ci:
+Pour créer une image attrayante de l'arbre phylogénétique, mettant en évidence les isolats collectés en Haïti au cours de différentes années, le plus simple est d'utiliser Microreact (voir `comment créer une image attrayante d'un arbre phylogénétique produit à l'aide de Vibriowatch, en utilisant Microreact`_), en téléchargeant les métadonnées et l'arbre depuis Vibriowatch, puis en les téléversant dans Microreact. Cela nous donne un bel arbre comme celui-ci:
 
 .. _Microreact: https://microreact.org/
 
-.. _Représentation graphique de l'arbre phylogénétique et des données d'une collection Vibriowatch dans Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
+.. _comment créer une image attrayante d'un arbre phylogénétique produit à l'aide de Vibriowatch, en utilisant Microreact: https://vibriowatch.readthedocs.io/en/latest/downloads.html#plotting-the-tree-and-data-for-a-vibriowatch-collection-in-microreact
 
 .. image:: Picture140.png
   :width: 900
@@ -417,11 +417,15 @@ Pour créer un graphique attrayant mettant en évidence les isolats collectés e
 .. image:: HowToInterpretTheResult_francais.png
   :width: 600
 
-Cet arbre montre que l'isolat H22 (indiqué par un nœud bleu) est étroitement lié aux isolats collectés en Haïti en 2014 (nœuds jaunes), 2015 (nœuds violets) et 2017 (nœuds rouges).
+Cet arbre montre que l'isolat H22 (indiqué par un point bleu) est étroitement lié aux isolats collectés en Haïti en 2014 (points jaunes), 2015 (points violets) et 2017 (points rouges).
 
-Pris ensemble, ces résultats suggèrent que la bactérie V. cholerae à l'origine de l'épidémie de 2022 en Haïti était étroitement liée à celle à l'origine de l'épidémie de 2010-2019 en Haïti. Cela suggère que le même clone de V. cholerae a probablement persisté en Haïti entre 2019 et 2022, soit chez l'homme (cas asymptomatiques ou non signalés, par exemple), soit dans l'environnement (rivières ou lacs, par exemple). Cependant, une autre possibilité, que nous ne pouvons écarter (car nous ne disposons d'aucune preuve pour l'infirmer), est qu'à un moment donné, au cours de l'épidémie de 2010-2019 en Haïti, le choléra se soit propagé d'Haïti à un pays voisin des Caraïbes, où il aurait persisté sans être détecté, et qu'en 2022, il se soit à nouveau propagé en Haïti.
+Pris ensemble, ces résultats suggèrent que la bactérie *V. cholerae* à l'origine de l'épidémie de 2022 en Haïti était étroitement liée à la bactérie *V. cholerae* à l'origine de l'épidémie de 2010-2019 en Haïti. Cela suggère que le même clone de *V. cholerae* a probablement persisté en Haïti entre 2019 et 2022, soit chez l'homme (cas asymptomatiques ou non signalés, par exemple), soit dans l'environnement (rivières ou lacs, par exemple). Cependant, une autre possibilité, que nous ne pouvons écarter (car nous ne disposons d'aucune preuve pour l'infirmer), est qu'à un moment donné, au cours de l'épidémie de 2010-2019 en Haïti, le choléra se soit propagé d'Haïti à un pays voisin des Caraïbes, où il aurait persisté sans être détecté, et qu'en 2022, il se soit à nouveau propagé en Haïti.
 
-Ces résultats concordent avec l'article de `Rubin et al 2022`_, qui ont rapporté que, sur la base d'une analyse phylogénétique, H22 «appartient à une sous-clade d'isolats de V. cholerae d'Haïti apparus en 2013 lors de la précédente épidémie». Ils affirment: «Ces analyses suggèrent que la réémergence du choléra en Haïti en 2022 a été causée, au moins en partie, par un descendant de la souche V. cholerae à l'origine de l'épidémie de 2010. Cependant, aucun cas de choléra n'a été confirmé entre 2019 et 2022, malgré une surveillance continue. Plusieurs explications sont possibles à la recrudescence de cette souche. La première est que la souche toxigène V. cholerae O1 a persisté en Haïti par le biais d'infections subcliniques chez l'homme et est réapparue dans un contexte de déclin de l'immunité de la population, conjugué à une crise liée au manque d'eau potable et d'assainissement. Une autre possibilité, non exclusive, est que cette souche V. cholerae ait persisté dans des réservoirs environnementaux. Enfin, l'épidémie de 2010 en Haïti ayant finalement été transmise à d'autres pays d'Amérique latine, une troisième explication possible est que la souche actuelle aurait pu être réintroduite en Haïti depuis un pays voisin. Cependant, cette explication est moins probable que les autres, compte tenu des preuves phylogénétiques et de l'absence de cas récents de choléra dans la région.»  Vous pouvez consulter l'arbre phylogénétique produit par* `Rubin et al 2022`_ *dans la figure 1 de leur article, et constater qu'il concorde avec l'arbre obtenu avec Vibriowatch.
+Ces résultats concordent avec l'article de `Rubin et al 2022`_, qui ont rapporté que, sur la base d'une analyse phylogénétique, H22 «appartient à une sous-clade d'isolats de *V. cholerae* d'Haïti apparus en 2013 lors de la précédente épidémie». Ils affirment: «Ces analyses suggèrent que la réémergence du choléra en Haïti en 2022 a été causée, au moins en partie, par un descendant de la souche *V. cholerae* à l'origine de l'épidémie de 2010.» Ils disent aussi: «Cependant, aucun cas de choléra n'a été confirmé entre 2019 et 2022, malgré une surveillance continue.» Ils disent aussi: «Plusieurs explications sont possibles à la recrudescence de cette souche.»
+Ils disent aussi: «La première est que la souche toxigène *V. cholerae* O1 a persisté en Haïti par le biais d'infections subcliniques chez l'homme et est réapparue dans un contexte de déclin de l'immunité de la population, conjugué à une crise liée au manque d'eau potable et d'assainissement.»
+Ils disent aussi: «Une autre possibilité, non exclusive, est que cette souche *V. cholerae* ait persisté dans des réservoirs environnementaux.»
+Ils disent aussi: «Enfin, l'épidémie de 2010 en Haïti ayant finalement été transmise à d'autres pays d'Amérique latine, une troisième explication possible est que la souche actuelle aurait pu être réintroduite en Haïti depuis un pays voisin.»
+Ils disent aussi: «Cependant, cette explication est moins probable que les autres, compte tenu des preuves phylogénétiques et de l'absence de cas récents de choléra dans la région.» Vous pouvez consulter l'arbre phylogénétique produit par `Rubin et al 2022`_ dans la figure 1 de leur article, et constater qu'il concorde avec l'arbre obtenu avec Vibriowatch.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
