@@ -51,91 +51,15 @@ The Haiti 2022 outbreak
 The H22 genome
 --------------
 
-*Le génome H22*
-
-O genoma H22
-
-H22 ဂျီနိုမ်
-
 جينوم H22
-
-ژنوم ایزوله H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-Late in 2022, `Rubin et al 2022`_ published the genome of a *V. cholerae* isolate from the Haiti 2022 outbreak, which
-they named isolate 'H22'. The authors of this work were an international consortium of scientists and public health experts from the
-Laboratoire National de Santé Publique (National Public Health Laboratory) in Haiti, Zanmi Lasante (a non-government healthcare provider in Haiti),
-Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA), and the
-International Centre for Diarrheal Disease Research (Bangladesh):
-
-*Fin 2022,* `Rubin et al 2022`_ *ont publié le génome d'un isolat de V. cholerae issu de l'épidémie d'Haïti de 2022, qu'ils ont nommé isolat H22. Les auteurs de ces travaux étaient un consortium international de scientifiques et d'experts en santé publique du Laboratoire National de Santé Publique d'Haïti, de Zanmi Lasante (un prestataire de soins de santé non gouvernemental en Haïti), du Brigham and Women's Hospital (États-Unis), du Massachusetts General Hospital (États-Unis) et du Centre International de Recherche Sur Les Maladies Diarrhéiques (icddr,b, Bangladesh):*
-
-No final de 2022, `Rubin et al 2022`_ publicaram o genoma de um isolado de *V. cholerae* do surto de 2022 no Haiti, que eles denominaram isolado 'H22'. Os autores deste trabalho foram um consórcio internacional de cientistas e especialistas em saúde pública do
-Laboratório Nacional de Saúde Pública do Haiti, da Zanmi Lasante (uma instituição não governamental de saúde no Haiti), do Hospital Brigham and Women's (EUA), do Hospital Geral de Massachusetts (EUA) e do
-Centro Internacional de Pesquisa de Doenças Diarreicas (Bangladesh):
-
-2022 ခုနှစ်နှောင်းပိုင်းတွင် `Rubin et al 2022`_ သည် Haiti 2022 ဖြစ်ပွားမှုမှ Vibrio cholerae ၏ဂျီနိုပ်ကိုထုတ်ဝေခဲ့သည်။
-သီးခြား 'H22' ဟုခေါ်သည်။ 
-ဤလုပ်ငန်းကို ရေးသားသူများသည် နိုင်ငံတကာ သိပ္ပံပညာရှင်များနှင့် ပြည်သူ့ကျန်းမာရေး ကျွမ်းကျင်သူများ၏ လုပ်ငန်းစုဖြစ်သည်။
-သူတို့လုပ်ခဲ့တာ
-ဟေတီရှိ အမျိုးသားပြည်သူ့ကျန်းမာရေးဓာတ်ခွဲခန်း၊ Zanmi Lasante (ဟေတီရှိ အစိုးရမဟုတ်သော ကျန်းမာရေးစောင့်ရှောက်မှုပေးသူ)၊
-Brigham and Women's Hospital (USA), Massachusetts General Hospital (USA) နှင့်
-နိုင်ငံတကာ ဝမ်းပျက်ဝမ်းလျှောရောဂါ သုတေသနစင်တာ (ဘင်္ဂလားဒေ့ရှ်)။
 
 في أواخر عام ٢٠٢٢، نشر روبن وآخرون (٢٠٢٢) جينوم عينة معزولة من ضمة الكوليرا من تفشي وباء الكوليرا في هايتي عام ٢٠٢٢، والتي أطلقوا عليها اسم العينة H22. شارك في إعداد هذا العمل اتحاد دولي من العلماء وخبراء الصحة العامة من المختبر الوطني للصحة العامة في هايتي، وزانمي لاسانتي في هايتي، ومستشفى بريغهام والنساء في أمريكا، ومستشفى ماساتشوستس العام في أمريكا، والمركز الدولي لأبحاث أمراض الإسهال في بنغلاديش.
 انظر `Rubin et al 2022`_.
-
-در اواخر سال ۲۰۲۲، روبین و همکارانش ژنوم یک جدایه ویبریو کلرا از شیوع بیماری هائیتی در سال ۲۰۲۲ را منتشر کردند که آن را جدایه «H22» نامیدند.
-نویسندگان این اثر، کنسرسیومی بین‌المللی از دانشمندان و متخصصان بهداشت عمومی از آزمایشگاه ملی بهداشت عمومی در هائیتی، زانمی لاسانته (یک ارائه‌دهنده خدمات درمانی غیردولتی در هائیتی)، بیمارستان بریگهام و زنان (ایالات متحده آمریکا)، بیمارستان عمومی ماساچوست (ایالات متحده آمریکا) و مرکز بین‌المللی تحقیقات بیماری‌های اسهالی (بنگلادش) بودند:
-به `Rubin et al 2022`_ مراجعه کنید.
 
 .. _Rubin et al 2022: https://pubmed.ncbi.nlm.nih.gov/36449726/
 
 .. image:: Picture172.png
   :width: 800
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-In this worked example, I'm going to show you how to analyse the H22 genome to answer some key questions relevant
-to public health, and answer questions about the origins of the Haiti 2022 outbreak:
-
-#. Is H22 predicted to produce cholera toxin?
-#. Is H22 predicted to have antimicrobial resistance?
-#. Is H22 predicted to have plasmids?
-#. Does H22 belong to the pandemic lineage of Vibrio cholerae?
-#. What are the closest relatives of H22 among published Vibrio cholerae genomes? 
-#. What can we say about the origins of the Haiti 2022 outbreak, based on the H22 genome?
-
-*Dans cet exemple pratique, je vais vous montrer comment analyser le génome de H22 afin de répondre à certaines questions clés de santé publique et aux questions sur les origines de l'épidémie d'Haïti de 2022:*
-
-#. *H22 est-il susceptible de produire la toxine cholérique?*
-#. *H22 est-il susceptible de présenter une résistance aux antimicrobiens?*
-#. *H22 est-il susceptible de contenir des plasmides?*
-#. *H22 appartient-il à la lignée pandémique de Vibrio cholerae?*
-#. *Quels sont les plus proches parents de H22 parmi les génomes de Vibrio cholerae publiés?*
-#. *Que pouvons-nous dire des origines de l'épidémie d'Haïti de 2022, d'après le génome de H22?*
-
-Neste exemplo prático, mostrarei como analisar o genoma H22 para responder a algumas perguntas importantes
-relevantes para a saúde pública e responder a perguntas sobre as origens do surto do Haiti em 2022:
-
-#. É previsto que o H22 produza toxina da cólera?
-#. É previsto que o H22 tenha resistência antimicrobiana?
-#. É previsto que H22 tenha plasmídeos?
-#. O H22 pertence à linhagem pandêmica do Vibrio cholerae?
-#. Quais são os parentes mais próximos do H22 entre os genomas publicados do Vibrio cholerae?
-#. O que podemos dizer sobre as origens do surto do Haiti em 2022, com base no genoma H22?
-
-ဤအလုပ်နမူနာတွင်၊ ပြည်သူ့ကျန်းမာရေးနှင့်သက်ဆိုင်သည့် အဓိကမေးခွန်းအချို့ကိုဖြေဆိုရန်နှင့် ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်အကြောင်းမေးခွန်းများကိုဖြေဆိုရန် H22 ဂျီနိုမ်ကို မည်သို့ခွဲခြမ်းစိတ်ဖြာရမည်ကို ကျွန်ုပ်ပြသပါမည်။
-
-#. H22 သည် ကာလဝမ်းအဆိပ်အတောက်ဖြစ်စေရန် ခန့်မှန်းထားပါသလား။
-#. H22 သည် ပဋိဇီဝဆေးခံနိုင်ရည်ရှိမည်ဟု ခန့်မှန်းထားပါသလား။
-#. H22 ဂျီနိုမ်ကို အခြေခံ၍ ၎င်းတွင် plasmids ရှိမရှိ ခန့်မှန်းနိုင်ပါသလား။
-#. H22 သည် Vibrio cholerae ၏ ကူးစက်ရောဂါမျိုးရိုးနှင့် သက်ဆိုင်ပါသလား။
-#. ထုတ်ပြန်ထားတဲ့ Vibrio cholerae genomes တွေထဲမှာ H22 ရဲ့ အနီးစပ်ဆုံး ဆွေမျိုးတွေက ဘာတွေလဲ။
-#. H22 ဂျီနိုမ်ကိုအခြေခံ၍ ဟေတီ 2022 ဖြစ်ပွားမှု၏ဇစ်မြစ်နှင့်ပတ်သက်၍ ကျွန်ုပ်တို့ဘာပြောနိုင်သနည်း။
 
 في هذا المثال العملي، سأوضح لك كيفية تحليل جينوم H22 للإجابة على بعض الأسئلة الرئيسية المتعلقة بالصحة العامة، والإجابة على أسئلة حول أصول تفشي المرض في هايتي عام 2022:
 
@@ -146,36 +70,7 @@ relevantes para a saúde pública e responder a perguntas sobre as origens do su
 #. ما هي أقرب سلالات ضمة الكوليرا الجينومية المنشورة لعزلة H22؟
 #. ماذا يُمكننا أن نقول عن أصول تفشي وباء هايتي عام 2022، بناءً على جينوم H22؟؟
 
-در این مثال کاربردی، به شما نشان خواهم داد که چگونه ژنوم H22 را تجزیه و تحلیل کنید تا به برخی از سوالات کلیدی مربوط به سلامت عمومی پاسخ دهید و به سوالاتی در مورد ریشه‌های شیوع هائیتی در سال 2022 پاسخ دهید:
-
-#. آیا پیش‌بینی می‌شود که H22 سم وبا تولید کند؟
-#. آیا پیش‌بینی می‌شود که H22 مقاومت ضدمیکروبی داشته باشد؟
-#. آیا پیش‌بینی می‌شود که H22 دارای پلاسمید باشد؟
-#. آیا H22 به دودمان همه‌گیر ویبریو کلرا تعلق دارد؟
-#. نزدیکترین خویشاوندان H22 در میان ژنوم‌های منتشر شده ویبریو کلرا کدامند؟
-#. بر اساس ژنوم H22، چه چیزی می‌توانیم در مورد ریشه‌های شیوع هائیتی ۲۰۲۲ بگوییم؟
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-Let's analyse the H22 genome in Vibriowatch to answer some of these questions. The H22
-genome is amongst the approximately 6000 genomes that we have already added to Vibriowatch as 'public' genomes that
-everyone can see. 
-
-*Analysons le génome H22 dans Vibriowatch pour répondre à ces questions. Le génome H22 fait partie des quelque 6 000 génomes que nous avons déjà ajoutés à Vibriowatch en tant que génomes accessibles à tous.*
-
-Vamos analisar o genoma H22 no Vibriowatch para responder a algumas dessas perguntas.
-O genoma do H22 está entre os aproximadamente 6.000 genomas que já adicionamos ao Vibriowatch, que são genomas "públicos" que
-todos podem ver.
-
-ဤမေးခွန်းအချို့ကိုဖြေဆိုရန် Vibriowatch ရှိ H22 ဂျီနိုမ်ကို ခွဲခြမ်းစိတ်ဖြာကြည့်ကြပါစို့။ 
-H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ Vibriowatch သို့ ထည့်သွင်းထားပြီးဖြစ်သည့် ခန့်မှန်းခြေအားဖြင့် 6000 ဂျီနိုမ်များထဲမှဖြစ်ပြီး 'အများပြည်သူ' ဂျီနိုမ်များဖြစ်သည့်
-လူတိုင်းမြင်နိုင်သည်။
-
 دعونا نحلل جينوم H22 في Vibriowatch للإجابة على بعض هذه الأسئلة. يُعد جينوم H22 من بين حوالي 6000 جينوم أضفناها بالفعل إلى Vibriowatch كجينومات عامة يُمكن للجميع الاطلاع عليها.
-
-بیایید ژنوم H22 را در Vibriowatch تجزیه و تحلیل کنیم تا به برخی از این سؤالات پاسخ دهیم.
-ژنوم H22 یکی از حدود ۶۰۰۰ ژنومی است که قبلاً به Vibriowatch اضافه کرده‌ایم، که ژنوم‌های «عمومی» هستند و همه می‌توانند آنها را ببینند.
 
 .. image:: HorizontalDivider.png
   :width: 1200
@@ -183,76 +78,20 @@ H22 ၏ ဂျီနိုမ်သည် ကျွန်ုပ်တို့ V
 Finding the H22 genome in Vibriowatch 
 -------------------------------------
 
-Trouver le génome H22 dans Vibriowatch
-
-Encontrando o genoma H22 no Vibriowatch
-
-Vibriowatch ရှိ H22 ဂျီနိုမ်အတွက် အစီရင်ခံစာစာမျက်နှာ၏တည်နေရာကို ရှာဖွေခြင်း။
-
 كيفية العثور على جينوم H22 في Vibriowatch
-
-یافتن ژنوم H22 در Vibriowatch
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-If you learn better by seeing rather than reading, see the `video on finding H22's report page in Vibriowatch`_.
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `video on finding H22's report page in Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on finding H22's report page in Vibriowatch`_ ကိုကြည့်ပါ။
 
 إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on finding H22's report page in Vibriowatch`_).
 
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on finding H22's report page in Vibriowatch`_ مراجعه کنید.
-
 .. _video on finding H22's report page in Vibriowatch: https://youtu.be/7k79hfyTW4Q 
-
-.. _vidéo sur la recherche de la page de rapport de H22 dans Vibriowatch: https://youtu.be/HsRtQGxhV4k 
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-First, let's go to the H22 genome in Vibriowatch; click on this link to go to `H22's genome report page`_ in Vibriowatch (or see 
-`How to search for an isolate in Vibriowatch and see its report page`_ to find out how to search for H22's report page yourself).
-
-*Tout d'abord, allons au génome H22 dans Vibriowatch; cliquez sur ce lien pour accéder à* `la page de rapport du génome H22`_ *dans Vibriowatch (ou consultez* `Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport`_ *pour savoir comment rechercher vous-même la page de rapport H22).*
-
-Primeiro, vamos ao genoma H22 no Vibriowatch; clique neste link para ir para `H22's genome report page`_ no Vibriowatch (ou veja
-`How to search for an isolate in Vibriowatch and see its report page`_ para descobrir como encontrar a localização da página do relatório do H22).
-
-ဦးစွာ Vibriowatch ရှိ H22 ဂျီနိုမ်သို့ သွားကြပါစို့။ Vibriowatch အတွင်း `H22's genome report page`_ သို့သွားရန် ဤလင့်ခ်ကို နှိပ်ပါ (သို့မဟုတ် ကြည့်ရှုပါ။ 
-`How to search for an isolate in Vibriowatch and see its report page`_ H22 ၏ အစီရင်ခံစာ စာမျက်နှာ၏ တည်နေရာကို သင်ကိုယ်တိုင် ရှာဖွေနည်းကို ရှာဖွေရန်)။
 
 أولاً، لننتقل إلى جينوم H22 في Vibriowatch بالنقر على هذا الرابط (`H22's genome report page`_).
 أو تعلّم كيفية البحث عن صفحة تقرير H22 بنفسك بالنقر على هذا الرابط (`How to search for an isolate in Vibriowatch and see its report page`_).
 
-ابتدا، بیایید به ژنوم H22 در Vibriowatch برویم؛ برای رفتن به `H22's genome report page`_ در Vibriowatch روی این لینک کلیک کنید (یا برای یافتن محل صفحه گزارش H22، به `How to search for an isolate in Vibriowatch and see its report page`_ مراجعه کنید).
-
 .. _H22's genome report page: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
-
-.. _la page de rapport du génome H22: https://pathogen.watch/genomes/all?genusId=662&searchText=H22
 
 .. _How to search for an isolate in Vibriowatch and see its report page: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
 
-.. _Comment rechercher un isolat dans Vibriowatch et voir sa page de rapport: https://vibriowatch.readthedocs.io/en/latest/navigating.html#how-to-search-for-an-isolate-in-vibriowatch-and-see-its-report-page
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-The report page shows the curated metadata for the isolate, as well as bioinformatics analyses of the isolate. This shows the top of the report page for H22:
-
-*La page du rapport présente les métadonnées organisées pour l'isolat, ainsi que ses analyses bioinformatiques. Voici le haut de la page du rapport pour H22:*
-
-A página do relatório mostra os metadados coletados para o isolado, bem como as análises bioinformáticas do isolado. Isso mostra o topo da página do relatório para H22:
-
-အစီရင်ခံစာစာမျက်နှာတွင် အထီးကျန်အတွက် စုဆောင်းထားသော မက်တာဒေတာအပြင် အထီးကျန်၏ ဂျီနိုမ်၏ တွက်ချက်မှုဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာမှုများကို ပြသသည်။ ၎င်းသည် H22 အတွက် အစီရင်ခံစာ၏ ထိပ်ပိုင်းကို ပြသသည်-
-
 تعرض صفحة التقرير البيانات الوصفية المُعدّة بعناية للعزلة، بالإضافة إلى تحليلات المعلوماتية الحيوية لها. يظهر هذا أعلى صفحة تقرير H22:
-
-صفحه گزارش، فراداده‌های جمع‌آوری‌شده برای ایزوله و همچنین تجزیه و تحلیل‌های بیوانفورماتیکی ایزوله را نشان می‌دهد. این تصویر، بالای صفحه گزارش مربوط به H22 را نشان می‌دهد:
 
 .. image:: Picture115.png
   :width: 600
@@ -263,119 +102,33 @@ A página do relatório mostra os metadados coletados para o isolado, bem como a
 Assembly quality of the H22 genome
 ----------------------------------
 
-Qualité d'assemblage du génome H22
-
-Qualidade de montagem do genoma H22
-
-H22 ဂျီနိုမ် စည်းဝေးပွဲ၏ အရည်အသွေး
-
 جودة تجميع جينوم H22
-
-کیفیت مونتاژ H22
-
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-If you learn better by seeing rather than reading, see the `video on investigating H22's assembly quality, using Vibriowatch`_.
-
-*Si vous apprenez mieux en voyant plutôt qu'en lisant, regardez la* `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
-
-Se você aprende melhor vendo do que lendo, veja o `vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch`_.
-
-စာဖတ်ခြင်းထက် ဗီဒီယိုကို ကြည့်ခြင်းဖြင့် ပိုကောင်းအောင် လေ့လာပါက `video on investigating H22's assembly quality, using Vibriowatch`_ ကိုကြည့်ပါ။
 
 إذا كنت تتعلم بشكل أفضل من خلال الرؤية بدلاً من القراءة، شاهد الفيديو (`video on investigating H22's assembly quality, using Vibriowatch`_).
 
-اگر با دیدن بهتر از خواندن یاد می‌گیرید، به `video on investigating H22's assembly quality, using Vibriowatch`_ مراجعه کنید.
-
 .. _video on investigating H22's assembly quality, using Vibriowatch: https://youtu.be/SevDN1pLyqo 
-
-.. _vidéo sur l'étude de la qualité d'assemblage du H22, en utilisant Vibriowatch: https://youtu.be/3SHlwEmF794 
 
 .. image:: HowToGetTheResult.png
   :width: 600
 
-Let's have a quick look at the assembly statistics for the H22 genome assembly, to check that the assembly looks
-reasonably good quality and has the expected GC content for *V. cholerae*. To look at the assembly statistics, scroll
-to the bottom of the genome report page for H22. You should see a section with the heading "Assembly stats", which
-looks like this:
-
-*Examinons rapidement les statistiques d'assemblage du génome H22 afin de vérifier que l'assemblage est de bonne qualité et qu'il présente la teneur en GC attendue pour V. cholerae. Pour consulter les statistiques d'assemblage, faites défiler la page Web jusqu'en bas du rapport génomique pour H22. Vous devriez voir une section intitulée Statistiques d'assemblage, qui ressemble à ceci:*
-
-Vamos dar uma olhada rápida nas estatísticas de montagem do genoma H22 para verificar se a montagem parece
-de qualidade razoavelmente boa e possui o conteúdo de GC esperado para *Vibrio. cholerae*. Para ver as estatísticas de montagem, role
-até o final da página do relatório do genoma H22. Você deverá ver uma seção com o título "Estatísticas de montagem",
-que se parece com isto:
-
-စည်းဝေးပွဲသည် အရည်အသွေးကောင်းမွန်ကြောင်း စစ်ဆေးရန်နှင့် စည်းဝေးပွဲ၌ Vibrio cholerae အတွက် မျှော်လင့်ထားသည့် GC ပါဝင်မှုရှိမရှိကိုလည်း စစ်ဆေးရန် H22 ဂျီနိုမို တပ်ဆင်ခြင်းအတွက် စည်းဝေးပွဲစာရင်းဇယားကို အမြန်ကြည့်ရှုကြပါစို့။ 
-ဂျီနိုမ်စည်းဝေးပွဲ၏ အရည်အသွေးဆိုင်ရာ အချက်အလက်ကို ကြည့်ရှုရန် H22 အတွက် အစီရင်ခံစာ စာမျက်နှာ၏ အောက်ခြေသို့ သွားပါ။ 
-"Assembly stats" ဟူသော ခေါင်းစဉ်ဖြင့် ကဏ္ဍတစ်ခုကို သင်တွေ့ရပါမည်။
-
 لنلقِ نظرة سريعة على إحصائيات تجميع جينوم H22، للتأكد من أن التجميع يبدو بجودة جيدة نسبيًا، ويحتوي على محتوى GC المتوقع لضمة الكوليرا. للاطلاع على إحصائيات التجميع، انتقل إلى أسفل صفحة تقرير جينوم H22. سترى قسمًا بعنوان "إحصائيات التجميع"، والذي يبدو كالتالي:
-
-بیایید نگاهی سریع به آمار مونتاژ ژنوم H22 بیندازیم تا بررسی کنیم که آیا مونتاژ از کیفیت نسبتاً خوبی برخوردار است و محتوای GC مورد انتظار برای ویبریو کلرا را دارد یا خیر.
-برای مشاهده آمار مونتاژ، به پایین صفحه گزارش ژنوم H22 بروید.
-شما باید بخشی با عنوان "آمار مونتاژ" را ببینید که به این شکل است:
 
 .. image:: Picture116.png
   :width: 550
 
-We can see that the assembly for the H22 isolate has a genome size of about 4.0 Megabases (Mb), and GC content of 47.5%. Another commonly used measure of assembly quality is the number of contigs. We see here that the assembly for the H22 isolate has 44 contigs.
-
-*On constate que l'assemblage de l'isolat H22 présente une taille de génome d'environ 4,0 mégabases (Mb) et une teneur en GC de 47,5 %. Une autre mesure courante de la qualité de l'assemblage est le nombre de contigs. On constate ici que l'assemblage de l'isolat H22 comporte 44 contigs.*
-
-Podemos observar que a montagem do isolado H22 tem um tamanho de genoma de cerca de 4,0 Megabases (Mb) e um conteúdo de GC de 47,5%. Outra medida comumente utilizada para avaliar a qualidade da montagem é o número de contigs. Vemos aqui que a montagem do isolado H22 possui 44 contigs.
-
-H22 isolate အတွက် စည်းဝေးပွဲသည် 4.0 Megabases (Mb) ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ရှိကြောင်း တွေ့ရှိနိုင်ပါသည်။ 
-တပ်ဆင်အရည်အသွေး၏ နောက်ထပ်အသုံးများသည့်အတိုင်းအတာမှာ contigs အရေအတွက်ဖြစ်သည်။ 
-H22 isolate အတွက် စည်းဝေးပွဲတွင် contigs 44 ခုရှိသည်ကို ဤနေရာတွင် ကျွန်ုပ်တို့မြင်ရသည်။
-
 يتضح من خلال هذا البحث أن حجم جينوم عزلة H22 يبلغ حوالي 4.0 ميجابايت (Mb)، وأن نسبة التكتل (GC) فيه تبلغ 47.5%. ومن المقاييس الشائعة الأخرى لجودة التجميع عدد "الكونتيج". ونلاحظ هنا أن تجميع عزلة H22 يحتوي على 44 "كونتيج".
-
-می‌توانیم ببینیم که مجموعه مربوط به ایزوله H22 دارای اندازه ژنوم حدود ۴.۰ مگاباز (Mb) و محتوای GC برابر با ۴۷.۵٪ است.
-یکی دیگر از معیارهای رایج برای کیفیت مجموعه، تعداد کانتیگ‌ها است.
-در اینجا می‌بینیم که مجموعه ژنوم مربوط به ایزوله H22 دارای ۴۴ کانتیگ است.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. image:: HowToInterpretTheResult.png
   :width: 600
 
-The assembly size of H22 of 4.0 Mb is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see `Heidelberg et al 2000`_). As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. 
-
-*La taille d'assemblage de H22, soit 4,0 Mo, est cohérente avec le génome de référence de la souche N16961 de Vibrio cholerae, dont la taille du génome est d'environ 4,0 mégabases et la teneur en GC est de 47,5 % (voir* `Heidelberg et al 2000`_ *). Une taille d'assemblage comprise entre 3,3 et 5,3 mégabases et une teneur en GC comprise entre 41,3 % et 48,6 % sont considérées comme raisonnables pour un génome de Vibrio cholerae.*
-
-O tamanho de montagem de H22 de 4,0 Mb é consistente com o genoma de referência da cepa N16961 de *Vibrio cholerae*, que possui um tamanho de genoma de cerca de 4,0 Megabases e um conteúdo de GC de 47,5% (ver `Heidelberg et al 2000`_). Como uma "regra geral" bastante aproximada, consideraríamos que um tamanho de montagem entre cerca de 3,3 e 5,3 Megabases e um conteúdo de GC entre cerca de 41,3% e 48,6% são razoáveis ​​para um genoma de *Vibrio cholerae*.
-
-4.0 Mb ၏ H22 ၏ စုဝေးမှုအရွယ်အစားသည် Vibrio cholerae strain N16961 အတွက်ရည်ညွှန်းဂျီနိုမ်အရွယ်အစားနှင့် အလွန်နီးစပ်ပါသည်။
-N16961 တွင် 4.0 Megabases ခန့်ရှိပြီး GC ပါဝင်မှု 47.5% ခန့် (`Heidelberg et al 2000`_ ကိုကြည့်ပါ)။ 
-အကြမ်းဖျင်းလမ်းညွှန်ချက်အနေဖြင့် Vibrio cholerae ဂျီနိုမ်သည် 3.3 မှ 5.3 Megabase ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-နောက်ထပ်ကြမ်းတမ်းသောလမ်းညွှန်ချက်မှာ Vibrio cholerae genome သည် 41.3% မှ 48.6% GC ခန့်ရှိမည်ဟု ကျွန်ုပ်တို့ မျှော်လင့်ပါသည်။
-
 يتوافق حجم تجميع H22، البالغ 4.0 ميجا بايت، مع الجينوم المرجعي لسلالة ضمة الكوليرا N16961، التي يبلغ حجم جينومها حوالي 4.0 ميجا قاعدة، ومحتوى GC بنسبة 47.5% (انظر `Heidelberg et al 2000`_).
 كقاعدة عامة، نعتبر أن حجم تجميع يتراوح بين 3.3 و5.3 ميجا قاعدة، ومحتوى GC يتراوح بين 41.3% و48.6%، هو حجم معقول لجينوم ضمة الكوليرا.
 
-اندازه مجموعه H22 معادل ۴.۰ مگابایت با ژنوم مرجع برای سویه ویبریو کلرا N16961 سازگار است که اندازه ژنوم آن حدود ۴.۰ مگاباز و محتوای GC آن ۴۷.۵٪ است (به `Heidelberg et al 2000`_ مراجعه کنید).
-به عنوان یک "قاعده سرانگشتی" بسیار تقریبی، ما در نظر می‌گیریم که اندازه مجموعه ژنوم بین حدود ۳.۳ تا ۵.۳ مگاباز و محتوای GC بین حدود ۴۱.۳ تا ۴۸.۶ درصد برای ژنوم ویبریو کلرا منطقی است.
-
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
-.. image:: HorizontalDividerThin.png
-  :width: 1200
-
-We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs or less. The genome for the H22 isolate has 44 contigs, so is relatively good quality. 
-
-*On considère généralement qu'un assemblage est de relativement bonne qualité s'il est composé de 700 contigs. Le génome de l'isolat H22 comporte 44 contigs, ce qui le rend de relativement bonne qualité.*
-
-Normalmente, consideramos que uma montagem é de qualidade relativamente boa se ela consiste em :math:`<` 700 contigs. O genoma do isolado H22 possui 44 contigs, portanto, é de qualidade relativamente boa.
-
-၎င်းတွင် contigs 700 ထက်နည်းပါက စည်းဝေးပွဲတစ်ခုတွင် အရည်အသွေးကောင်းမွန်သည်ဟု ကျွန်ုပ်တို့ အများအားဖြင့် ယူဆပါသည်။ 
-H22 isolate အတွက် genome တွင် 44 contigs ပါသောကြောင့် အရည်အသွေးကောင်းမွန်သည်။
-
 عادةً ما نعتبر التجميع ذا جودة جيدة نسبيًا إذا كان يتكون من أقل من 700 وحدة متجاورة. يحتوي جينوم عزلة H22 على 44 وحدة متجاورة، لذا فهو ذو جودة جيدة نسبيًا.
-
-ما معمولاً در نظر می‌گیریم که یک مجموعه ژنومی اگر از کمتر از ۷۰۰ کانتیگ تشکیل شده باشد، از کیفیت نسبتاً خوبی برخوردار است.
-مجموعه ژنومی برای جدایه H22 دارای ۴۴ کانتیگ است، بنابراین کیفیت نسبتاً خوبی دارد.
 
 .. image:: HorizontalDivider.png
   :width: 1200
