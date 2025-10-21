@@ -26,7 +26,7 @@ Cette étude de cas a été sélectionnée car elle illustre la persistance du c
 L'épidémie en Haïti en 2022
 ---------------------------
 
-Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, une île des Caraïbes.
+Vous savez peut-être déjà qu'en janvier 2010, un tremblement de terre catastrophique a frappé Haïti, un pays qui fait partie de l'île des Caraïbes nommée Hispaniola.
 Plus tard la même année, en octobre 2010, une importante épidémie de choléra a éclaté en Haïti, qui a duré jusqu'en 2019 et a fait plus de 820 000 cas et près de 10 000 morts. Cette épidémie a été attribuée à la lignée pandémique actuelle de *Vibrio cholerae* et les données scientifiques suggèrent qu'elle a probablement été transmise du Népal à Haïti en 2010 (`Orata et al 2014`_).
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
